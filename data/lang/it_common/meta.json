@@ -1,0 +1,20 @@
+{
+  "schema": {
+    "name": "jp-lang-pack-meta",
+    "version": "1.0"
+  },
+  "lang": "it",
+  "scope": "common_words_partial",
+  "coverage": {
+    "translated_common_words": 150,
+    "target_common_words": 30103
+  },
+  "notes": [
+    "Italian translations are produced incrementally in ranked batches.",
+    "If a word has no Italian translation yet, the app should fall back to English.",
+    "This pack contains manual translations up to the Top 150 common words (by JMdict priority tags)."
+  ],
+  "files": [
+    "lang/it_words_1000000_1220670.json"
+  ]
+}

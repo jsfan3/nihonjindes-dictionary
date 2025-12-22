@@ -1,0 +1,20 @@
+{
+  "schema": {
+    "name": "jp-lookup-manifest",
+    "version": "1.0"
+  },
+  "source": "data/seed/core/words_*.json",
+  "counts": {
+    "word_entries_scanned": 214530,
+    "surface_keys_total": 454190,
+    "reading_keys_total": 231616,
+    "surface_nrm_kana_keys": 307106,
+    "reading_nrm_keys": 221033,
+    "common_word_ids": 30103
+  },
+  "notes": [
+    "All keys are exact strings; values are arrays of word IDs (JMdict ent_seq).",
+    "surface_nrm_kana and reading_nrm normalize katakana to hiragana for kana-friendly search.",
+    "These JSON files are pretty-printed for human inspection as requested."
+  ]
+}

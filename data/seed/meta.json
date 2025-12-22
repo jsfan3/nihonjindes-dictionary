@@ -1,0 +1,17 @@
+{
+  "schema": {
+    "name": "jp-seed-db",
+    "version": "1.0"
+  },
+  "counts": {
+    "kanji": 13108,
+    "words": 214530,
+    "kana_entries": 211
+  },
+  "notes": [
+    "Keys are English by design.",
+    "Words are chunked into multiple JSON files for easier inspection and incremental loading on mobile.",
+    "Italian glosses are not present in JMdict; this build ships EN word glosses and multiple-language kanji meanings (EN/ES/FR/PT) from KANJIDIC2.",
+    "To produce full Italian word glosses, an additional JP-IT bilingual dictionary source is required (e.g., EDRDG JITALIAN/ITADICT)."
+  ]
+}

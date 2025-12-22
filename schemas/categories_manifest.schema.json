@@ -1,0 +1,58 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Categories manifest (top common words)",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "schema",
+    "categories",
+    "files"
+  ],
+  "properties": {
+    "schema": {
+      "type": "object",
+      "required": [
+        "name",
+        "version"
+      ],
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        }
+      }
+    },
+    "scope": {
+      "type": "object"
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "items_dir": {
+      "type": "string"
+    },
+    "lang_dir": {
+      "type": "string"
+    },
+    "word_to_category_file": {
+      "type": "string"
+    },
+    "files": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "item_file_pattern": {
+      "type": "string"
+    },
+    "lang_file_pattern": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema": {
+    "name": "names-manifest",
+    "version": "1.0"
+  },
+  "meta": "data/names/meta.json",
+  "chunk_format": {
+    "core": "data/names/core/names_<start_id>.jsonl.gz",
+    "lang_en": "data/names/lang/en/names_en_<start_id>.jsonl.gz"
+  },
+  "entry_schema": {
+    "core": {
+      "id": "int",
+      "primary": {
+        "written": "str|null",
+        "reading": "str|null"
+      },
+      "forms": {
+        "kanji": "list[str]",
+        "kana": "list[str]"
+      },
+      "types": "list[str]"
+    },
+    "lang_en": {
+      "id": "int",
+      "translations": "list[{types:list[str], gloss:list[str]}]"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Names pack meta (chunked JSONL.GZ)",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "schema",
+    "chunks"
+  ],
+  "properties": {
+    "schema": {
+      "type": "object",
+      "required": [
+        "name",
+        "version"
+      ],
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        }
+      }
+    },
+    "source": {
+      "type": "string"
+    },
+    "format": {
+      "type": "object",
+      "required": [
+        "core",
+        "lang_en",
+        "chunk_size"
+      ],
+      "properties": {
+        "core": {
+          "type": "string"
+        },
+        "lang_en": {
+          "type": "string"
+        },
+        "chunk_size": {
+          "type": "integer"
+        }
+      },
+      "additionalProperties": true
+    },
+    "counts": {
+      "type": "object"
+    },
+    "chunks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "start_id",
+          "end_id",
+          "core_file",
+          "lang_en_file"
+        ],
+        "properties": {
+          "start_id": {
+            "type": "integer"
+          },
+          "end_id": {
+            "type": "integer"
+          },
+          "core_file": {
+            "type": "string"
+          },
+          "lang_en_file": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": true
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schema": {
+    "name": "jp-categories-lang",
+    "version": "1.0"
+  },
+  "lang": "en",
+  "categories": {
+    "grammar_particles": {
+      "title": "Particles & basic grammar",
+      "description": "Particles, auxiliary forms, and other high-frequency grammar items."
+    },
+    "questions": {
+      "title": "Question words",
+      "description": "Question words and interrogative expressions."
+    },
+    "pronouns": {
+      "title": "Pronouns & people",
+      "description": "Personal pronouns and common people-references."
+    },
+    "greetings": {
+      "title": "Greetings & polite phrases",
+      "description": "Greetings and high-frequency polite expressions."
+    },
+    "numbers": {
+      "title": "Numbers & counters",
+      "description": "Numbers, numeric concepts, and counting-related words."
+    },
+    "time": {
+      "title": "Time & calendar",
+      "description": "Time, calendar, and temporal expressions."
+    },
+    "family": {
+      "title": "Family",
+      "description": "Family members and kinship terms."
+    },
+    "food": {
+      "title": "Food & drink",
+      "description": "Food, drinks, eating, and taste-related words."
+    },
+    "travel": {
+      "title": "Travel & transport",
+      "description": "Transport, movement, and travel-related words."
+    },
+    "home": {
+      "title": "Home & daily life",
+      "description": "Household and daily-life words."
+    },
+    "money": {
+      "title": "Shopping & money",
+      "description": "Money, prices, shopping, and transactions."
+    },
+    "school": {
+      "title": "School & work",
+      "description": "School, study, work, and organization-related words."
+    },
+    "body": {
+      "title": "Body & health",
+      "description": "Body parts, health, and medical-related words."
+    },
+    "nature": {
+      "title": "Nature & weather",
+      "description": "Nature, geography, and weather-related words."
+    },
+    "colors": {
+      "title": "Colors",
+      "description": "Color words and common color-related terms."
+    },
+    "emotions": {
+      "title": "Emotions & opinions",
+      "description": "Feelings, preferences, and opinions."
+    },
+    "katakana": {
+      "title": "Katakana loanwords",
+      "description": "Common katakana terms (loanwords, proper terms)."
+    },
+    "adjectives": {
+      "title": "Common adjectives",
+      "description": "High-frequency descriptive adjectives."
+    },
+    "verbs": {
+      "title": "Common verbs",
+      "description": "High-frequency verbs and action words."
+    },
+    "adverbs_connectors": {
+      "title": "Adverbs & connectors",
+      "description": "Adverbs, connectors, and discourse markers."
+    },
+    "misc": {
+      "title": "Miscellaneous",
+      "description": "Remaining common words not assigned elsewhere."
+    }
+  }
+}

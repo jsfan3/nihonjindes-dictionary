@@ -1,0 +1,56 @@
+{
+  "schema": {
+    "name": "nihonjindes-db-manifest",
+    "version": "1.0"
+  },
+  "components": {
+    "seed": {
+      "path": "data/seed/",
+      "meta": "data/seed/meta.json"
+    },
+    "lookup": {
+      "path": "data/lookup/",
+      "manifest": "data/lookup/index/manifest.json"
+    },
+    "search": {
+      "path": "data/search/",
+      "manifest": "data/search/search/manifest.json"
+    },
+    "names": {
+      "path": "data/names/",
+      "manifest": "data/names/manifest.json"
+    },
+    "categories": {
+      "path": "data/categories/",
+      "manifest": "data/categories/manifest.json"
+    },
+    "lang": {
+      "it_common": {
+        "path": "data/lang/it_common/",
+        "meta": "data/lang/it_common/meta.json"
+      }
+    }
+  },
+  "glossary": {
+    "surface": "The written form as it appears (kanji/kana/latin). Example: 東京, する.",
+    "reading": "The reading in kana (pronunciation). Example: とうきょう, する."
+  },
+  "notes": [
+    "Keys are English-only by design.",
+    "Large datasets may be stored as JSONL.GZ chunk files (see the names manifest).",
+    "JSON files may be stored as .json or .json.gz; consumers should support both."
+  ],
+  "conventions": {
+    "keys": {
+      "surface": "Written form as it appears (kanji/kana/latin).",
+      "reading": "Kana reading (usually hiragana); may be absent for entries without reading.",
+      "surface_norm": "Normalized surface used for search-as-you-type indexing.",
+      "reading_norm": "Normalized reading used for search-as-you-type indexing."
+    },
+    "ids": {
+      "word_id": "JMdict entry id (ent_seq).",
+      "name_id": "JMnedict entry id (ent_seq).",
+      "kanji_char": "A single kanji character."
+    }
+  }
+}

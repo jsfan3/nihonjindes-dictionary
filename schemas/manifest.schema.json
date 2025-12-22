@@ -1,0 +1,135 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Nihonjindes global manifest",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "schema",
+    "components"
+  ],
+  "properties": {
+    "schema": {
+      "type": "object",
+      "required": [
+        "name",
+        "version"
+      ],
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": true
+    },
+    "components": {
+      "type": "object",
+      "required": [
+        "seed",
+        "lookup",
+        "search",
+        "names",
+        "categories",
+        "lang"
+      ],
+      "properties": {
+        "seed": {
+          "type": "object",
+          "required": [
+            "path",
+            "meta"
+          ],
+          "properties": {
+            "path": {
+              "type": "string"
+            },
+            "meta": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": true
+        },
+        "lookup": {
+          "type": "object",
+          "required": [
+            "path",
+            "manifest"
+          ],
+          "properties": {
+            "path": {
+              "type": "string"
+            },
+            "manifest": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": true
+        },
+        "search": {
+          "type": "object",
+          "required": [
+            "path",
+            "manifest"
+          ],
+          "properties": {
+            "path": {
+              "type": "string"
+            },
+            "manifest": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": true
+        },
+        "names": {
+          "type": "object",
+          "required": [
+            "path",
+            "manifest"
+          ],
+          "properties": {
+            "path": {
+              "type": "string"
+            },
+            "manifest": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": true
+        },
+        "categories": {
+          "type": "object",
+          "required": [
+            "path",
+            "manifest"
+          ],
+          "properties": {
+            "path": {
+              "type": "string"
+            },
+            "manifest": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": true
+        },
+        "lang": {
+          "type": "object",
+          "additionalProperties": true
+        }
+      },
+      "additionalProperties": true
+    },
+    "glossary": {
+      "type": "object"
+    },
+    "notes": {
+      "type": "array"
+    },
+    "conventions": {
+      "type": "object"
+    }
+  }
+}

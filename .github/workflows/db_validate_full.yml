@@ -1,0 +1,22 @@
+name: DB validation (full)
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  validate_full:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install jsonschema
+      - name: Validate DB (full)
+        run: |
+          python tools/validate_db.py --repo-root . --mode full
+          python tools/validate_schemas.py --repo-root . --mode full
+          python tools/validate_relations.py --repo-root . --mode full

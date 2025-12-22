@@ -1,0 +1,37 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Category items (word id lists)",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "schema",
+    "category_id",
+    "word_ids"
+  ],
+  "properties": {
+    "schema": {
+      "type": "object",
+      "required": [
+        "name",
+        "version"
+      ],
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        }
+      }
+    },
+    "category_id": {
+      "type": "string"
+    },
+    "word_ids": {
+      "type": "array",
+      "items": {
+        "type": "integer"
+      }
+    }
+  }
+}

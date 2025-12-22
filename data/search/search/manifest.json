@@ -1,0 +1,47 @@
+{
+  "schema": {
+    "name": "search-manifest",
+    "version": "1.0"
+  },
+  "index_format": "prefix_index",
+  "normalization": "NFKC + case-folding + ASCII→fullwidth for latin; precomputed keys stored in *_keys.json",
+  "domains": {
+    "words": {
+      "surface": [
+        "words_surface_norm_hiragana",
+        "words_surface_norm_katakana",
+        "words_surface_norm_kanji",
+        "words_surface_norm_latin",
+        "words_surface_norm_other"
+      ],
+      "reading": [
+        "words_reading_norm_hiragana",
+        "words_reading_norm_katakana",
+        "words_reading_norm_other"
+      ]
+    },
+    "names": {
+      "surface": [
+        "names_surface_norm_hiragana",
+        "names_surface_norm_katakana",
+        "names_surface_norm_kanji",
+        "names_surface_norm_latin",
+        "names_surface_norm_other"
+      ],
+      "reading": [
+        "names_reading_norm_hiragana",
+        "names_reading_norm_katakana",
+        "names_reading_norm_kanji",
+        "names_reading_norm_latin",
+        "names_reading_norm_other"
+      ]
+    }
+  },
+  "file_convention": {
+    "index_file": "<base>.json",
+    "keys_file": "<base>_keys.json",
+    "payload": {
+      "map": "dict[str, list[int]]"
+    }
+  }
+}

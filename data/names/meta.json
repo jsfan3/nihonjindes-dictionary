@@ -1,0 +1,88 @@
+{
+  "schema": {
+    "name": "jp-names",
+    "version": "1.0"
+  },
+  "source": "JMnedict (EDRDG)",
+  "format": {
+    "core": "JSONL.GZ",
+    "lang_en": "JSONL.GZ",
+    "chunk_size": 80000
+  },
+  "counts": {
+    "names": 743124,
+    "chunks": 10
+  },
+  "chunks": [
+    {
+      "start_id": 5000000,
+      "end_id": 5080529,
+      "count": 80000,
+      "core_file": "core/names_5000000.jsonl.gz",
+      "lang_en_file": "lang/en/names_en_5000000.jsonl.gz"
+    },
+    {
+      "start_id": 5080530,
+      "end_id": 5160853,
+      "count": 80000,
+      "core_file": "core/names_5080530.jsonl.gz",
+      "lang_en_file": "lang/en/names_en_5080530.jsonl.gz"
+    },
+    {
+      "start_id": 5160854,
+      "end_id": 5241123,
+      "count": 80000,
+      "core_file": "core/names_5160854.jsonl.gz",
+      "lang_en_file": "lang/en/names_en_5160854.jsonl.gz"
+    },
+    {
+      "start_id": 5241124,
+      "end_id": 5321373,
+      "count": 80000,
+      "core_file": "core/names_5241124.jsonl.gz",
+      "lang_en_file": "lang/en/names_en_5241124.jsonl.gz"
+    },
+    {
+      "start_id": 5321374,
+      "end_id": 5401568,
+      "count": 80000,
+      "core_file": "core/names_5321374.jsonl.gz",
+      "lang_en_file": "lang/en/names_en_5321374.jsonl.gz"
+    },
+    {
+      "start_id": 5401569,
+      "end_id": 5481849,
+      "count": 80000,
+      "core_file": "core/names_5401569.jsonl.gz",
+      "lang_en_file": "lang/en/names_en_5401569.jsonl.gz"
+    },
+    {
+      "start_id": 5481850,
+      "end_id": 5562222,
+      "count": 80000,
+      "core_file": "core/names_5481850.jsonl.gz",
+      "lang_en_file": "lang/en/names_en_5481850.jsonl.gz"
+    },
+    {
+      "start_id": 5562223,
+      "end_id": 5642563,
+      "count": 80000,
+      "core_file": "core/names_5562223.jsonl.gz",
+      "lang_en_file": "lang/en/names_en_5562223.jsonl.gz"
+    },
+    {
+      "start_id": 5642564,
+      "end_id": 5722805,
+      "count": 80000,
+      "core_file": "core/names_5642564.jsonl.gz",
+      "lang_en_file": "lang/en/names_en_5642564.jsonl.gz"
+    },
+    {
+      "start_id": 5722806,
+      "end_id": 9999990,
+      "count": 23124,
+      "core_file": "core/names_5722806.jsonl.gz",
+      "lang_en_file": "lang/en/names_en_5722806.jsonl.gz"
+    }
+  ]
+}

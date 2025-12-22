@@ -1,0 +1,93 @@
+{
+  "schema": {
+    "name": "jp-categories-lang",
+    "version": "1.0"
+  },
+  "lang": "it",
+  "categories": {
+    "grammar_particles": {
+      "title": "Particelle e grammatica di base",
+      "description": "Particelle, forme ausiliarie e altri elementi grammaticali ad alta frequenza."
+    },
+    "questions": {
+      "title": "Parole interrogative",
+      "description": "Interrogativi e forme interrogative."
+    },
+    "pronouns": {
+      "title": "Pronomi e persone",
+      "description": "Pronomi personali e riferimenti comuni alle persone."
+    },
+    "greetings": {
+      "title": "Saluti e frasi di cortesia",
+      "description": "Saluti e frasi di cortesia ad alta frequenza."
+    },
+    "numbers": {
+      "title": "Numeri e contatori",
+      "description": "Numeri, concetti numerici e termini legati al conteggio."
+    },
+    "time": {
+      "title": "Tempo e calendario",
+      "description": "Tempo, calendario ed espressioni temporali."
+    },
+    "family": {
+      "title": "Famiglia",
+      "description": "Membri della famiglia e termini di parentela."
+    },
+    "food": {
+      "title": "Cibo e bevande",
+      "description": "Cibo, bevande, mangiare e termini legati al gusto."
+    },
+    "travel": {
+      "title": "Viaggi e trasporti",
+      "description": "Trasporti, movimento e viaggio."
+    },
+    "home": {
+      "title": "Casa e vita quotidiana",
+      "description": "Casa, oggetti domestici e vita quotidiana."
+    },
+    "money": {
+      "title": "Acquisti e denaro",
+      "description": "Denaro, prezzi, acquisti e transazioni."
+    },
+    "school": {
+      "title": "Scuola e lavoro",
+      "description": "Scuola, studio, lavoro e organizzazioni."
+    },
+    "body": {
+      "title": "Corpo e salute",
+      "description": "Parti del corpo, salute e ambito medico."
+    },
+    "nature": {
+      "title": "Natura e meteo",
+      "description": "Natura, geografia e meteo."
+    },
+    "colors": {
+      "title": "Colori",
+      "description": "Colori e termini comuni legati ai colori."
+    },
+    "emotions": {
+      "title": "Emozioni e opinioni",
+      "description": "Sentimenti, preferenze e opinioni."
+    },
+    "katakana": {
+      "title": "Prestiti in katakana",
+      "description": "Termini comuni in katakana (prestiti, termini propri)."
+    },
+    "adjectives": {
+      "title": "Aggettivi comuni",
+      "description": "Aggettivi descrittivi ad alta frequenza."
+    },
+    "verbs": {
+      "title": "Verbi comuni",
+      "description": "Verbi e azioni ad alta frequenza."
+    },
+    "adverbs_connectors": {
+      "title": "Avverbi e connettivi",
+      "description": "Avverbi, connettivi e marcatori discorsivi."
+    },
+    "misc": {
+      "title": "Varie",
+      "description": "Parole comuni rimanenti non assegnate altrove."
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": {
+    "name": "jp-categories",
+    "version": "1.0"
+  },
+  "scope": {
+    "definition": "Top 2000 JMdict 'common' words (as ordered in data/search/common_word_ids.json).",
+    "common_top_n": 2000
+  },
+  "categories": [
+    "grammar_particles",
+    "questions",
+    "pronouns",
+    "greetings",
+    "numbers",
+    "time",
+    "family",
+    "food",
+    "travel",
+    "home",
+    "money",
+    "school",
+    "body",
+    "nature",
+    "colors",
+    "emotions",
+    "katakana",
+    "adjectives",
+    "verbs",
+    "adverbs_connectors",
+    "misc"
+  ],
+  "items_dir": "items",
+  "lang_dir": "lang",
+  "word_to_category_file": "word_to_category.json",
+  "files": {
+    "word_to_category": "word_to_category.json.gz",
+    "order": "order.json.gz",
+    "items_dir": "items",
+    "lang_dir": "lang"
+  },
+  "item_file_pattern": "items/{category_id}.json.gz",
+  "lang_file_pattern": "lang/{lang}.json"
+}

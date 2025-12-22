@@ -1,0 +1,78 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Search manifest (search-as-you-type indices)",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "schema",
+    "domains",
+    "file_convention"
+  ],
+  "properties": {
+    "schema": {
+      "type": "object",
+      "required": [
+        "name",
+        "version"
+      ],
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        }
+      }
+    },
+    "index_format": {
+      "type": "string"
+    },
+    "normalization": {
+      "type": "string"
+    },
+    "domains": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": [
+          "surface",
+          "reading"
+        ],
+        "properties": {
+          "surface": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "reading": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "file_convention": {
+      "type": "object",
+      "required": [
+        "index_file",
+        "keys_file"
+      ],
+      "properties": {
+        "index_file": {
+          "type": "string"
+        },
+        "keys_file": {
+          "type": "string"
+        },
+        "payload": {
+          "type": "object"
+        }
+      },
+      "additionalProperties": true
+    }
+  }
+}
