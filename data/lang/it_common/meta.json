@@ -12,7 +12,7 @@
   "notes": [
     "Italian translations are produced incrementally in ranked batches.",
     "If a word has no Italian translation yet, the app should fall back to English.",
-    "This pack contains manual translations up to the Top 150 common words (by JMdict priority tags)."
+    "This pack will contain manual translations up to the top 30103 common words (by JMdict priority tags)."
   ],
   "files": [
     "lang/it_words_1000000_1220670.json"
