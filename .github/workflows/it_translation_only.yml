@@ -1,0 +1,49 @@
+name: Italian translations only
+
+on:
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Enforce PR touches only Italian translation files
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          BASE_SHA="${{ github.event.pull_request.base.sha }}"
+          HEAD_SHA="${{ github.event.pull_request.head.sha }}"
+
+          echo "Base: $BASE_SHA"
+          echo "Head: $HEAD_SHA"
+
+          mapfile -t CHANGED < <(git diff --name-only "$BASE_SHA" "$HEAD_SHA" | sed '/^\s*$/d' || true)
+
+          if [ "${#CHANGED[@]}" -eq 0 ]; then
+            echo "No changed files detected."
+            exit 0
+          fi
+
+          echo "Changed files:"
+          printf ' - %s\n' "${CHANGED[@]}"
+
+          # Consenti SOLO file di traduzione italiana.
+          # Adegua i pattern in base alla tua convenzione effettiva.
+          ALLOW_RE='^(data/.*/lang/it[^/]*\.json)$'
+
+          # (fase A) Per ora non vieto esplicitamente i .json.gz: lo gestiamo sotto come opzione (fase B).
+          FAIL=0
+          for f in "${CHANGED[@]}"; do
+            if [[ ! "$f" =~ $ALLOW_RE ]]; then
+              echo "::error file=$f::This repository currently accepts changes only to Italian translation JSON files (data/**/lang/it*.json)."
+              FAIL=1
+            fi
+          done
+
+          exit $FAIL
