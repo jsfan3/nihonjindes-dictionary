@@ -2,7 +2,7 @@
 
 by [Francesco Galgani](https://www.informatica-libera.net/)
 
-**Work in progress** — You can follow the commits.
+**Work in progress** — *You can follow the commits*.
 
 ## What this repository provides
 
