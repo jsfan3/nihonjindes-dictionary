@@ -6,7 +6,7 @@
   "lang": "it",
   "scope": "common_words_partial",
   "coverage": {
-    "translated_common_words": 450,
+    "translated_common_words": 2950,
     "target_common_words": 30103
   },
   "notes": [
@@ -15,6 +15,19 @@
     "This pack will contain manual translations up to the top 30103 common words (by JMdict priority tags)."
   ],
   "files": [
-    "lang/it_words_1000000_1220670.json"
+    "lang/it_words_1000220_1175030.json",
+    "lang/it_words_1175140_1188410.json",
+    "lang/it_words_1188420_1199250.json",
+    "lang/it_words_1199270_1205830.json",
+    "lang/it_words_1205870_1214190.json",
+    "lang/it_words_1041430_1047020.json",
+    "lang/it_words_1047030_1053320.json",
+    "lang/it_words_1053350_1060700.json",
+    "lang/it_words_1060710_1066950.json",
+    "lang/it_words_1249550_1253070.json",
+    "lang/it_words_1253100_1260320.json",
+    "lang/it_words_1260330_1269620.json",
+    "lang/it_words_1269640_1278580.json",
+    "lang/it_words_1278590_1285070.json"
   ]
 }

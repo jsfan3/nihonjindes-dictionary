@@ -1,0 +1,3743 @@
+{
+  "schema": {
+    "name": "jp-words-lang",
+    "version": "1.0"
+  },
+  "lang": "it",
+  "range": {
+    "start_id": 1269640,
+    "end_id": 1278580
+  },
+  "coverage": {
+    "translated_word_ids_in_file": 200,
+    "translated_common_rank_range": {
+      "start_rank": 2551,
+      "end_rank": 2750
+    },
+    "common_word_ids_total": 30103
+  },
+  "entries": [
+    {
+      "id": 1269640,
+      "senses": [
+        {
+          "id": "w1269640-s1",
+          "gloss": [
+            "rivolto all'indietro",
+            "all'indietro"
+          ],
+          "short_gloss": "rivolto all'indietro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1269640-s2",
+          "gloss": [
+            "retrospettivo",
+            "retrogrado",
+            "reazionario",
+            "orientato al passato",
+            "negativo"
+          ],
+          "short_gloss": "retrospettivo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1269690,
+      "senses": [
+        {
+          "id": "w1269690-s1",
+          "gloss": [
+            "risoluzione (di una questione)",
+            "sistemazione",
+            "chiusura (di faccende)",
+            "gestione delle conseguenze"
+          ],
+          "short_gloss": "risoluzione (di una questione)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1269690-s2",
+          "gloss": [
+            "pulizia finale",
+            "riordino (a fine lavoro)"
+          ],
+          "short_gloss": "pulizia finale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1269720,
+      "senses": [
+        {
+          "id": "w1269720-s1",
+          "gloss": [
+            "il secondo",
+            "quest'ultimo"
+          ],
+          "short_gloss": "il secondo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1269720-s2",
+          "gloss": [
+            "successore",
+            "discendente"
+          ],
+          "short_gloss": "successore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1269730,
+      "senses": [
+        {
+          "id": "w1269730-s1",
+          "gloss": [
+            "perdere l'iniziativa",
+            "essere anticipato"
+          ],
+          "short_gloss": "perdere l'iniziativa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1269730-s2",
+          "gloss": [
+            "muovere per secondo",
+            "giocatore che muove per secondo"
+          ],
+          "short_gloss": "muovere per secondo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1269730-s3",
+          "gloss": [
+            "gote",
+            "mossa che non richiede una risposta immediata"
+          ],
+          "short_gloss": "gote",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1269730-s4",
+          "gloss": [
+            "retroguardia"
+          ],
+          "short_gloss": "retroguardia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1269810,
+      "senses": [
+        {
+          "id": "w1269810-s1",
+          "gloss": [
+            "posterità",
+            "generazioni future",
+            "vita futura"
+          ],
+          "short_gloss": "posterità",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1269870,
+      "senses": [
+        {
+          "id": "w1269870-s1",
+          "gloss": [
+            "successivo",
+            "seguente",
+            "in coda",
+            "prossimo"
+          ],
+          "short_gloss": "successivo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1269880,
+      "senses": [
+        {
+          "id": "w1269880-s1",
+          "gloss": [
+            "ritirata",
+            "arretramento",
+            "movimento all'indietro",
+            "inversione",
+            "retromarcia (di un veicolo)",
+            "regressione",
+            "retrazione"
+          ],
+          "short_gloss": "ritirata",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1269880-s2",
+          "gloss": [
+            "recessione",
+            "declino"
+          ],
+          "short_gloss": "recessione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1269880-s3",
+          "gloss": [
+            "tasto backspace"
+          ],
+          "short_gloss": "tasto backspace",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1269980,
+      "senses": [
+        {
+          "id": "w1269980-s1",
+          "gloss": [
+            "in futuro",
+            "un altro giorno",
+            "più tardi"
+          ],
+          "short_gloss": "in futuro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1269990,
+      "senses": [
+        {
+          "id": "w1269990-s1",
+          "gloss": [
+            "successore"
+          ],
+          "short_gloss": "successore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1270010,
+      "senses": [
+        {
+          "id": "w1270010-s1",
+          "gloss": [
+            "junior",
+            "giovani",
+            "studente più giovane"
+          ],
+          "short_gloss": "junior",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1270020,
+      "senses": [
+        {
+          "id": "w1270020-s1",
+          "gloss": [
+            "partenza tardiva",
+            "inizio in ritardo"
+          ],
+          "short_gloss": "partenza tardiva",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1270040,
+      "senses": [
+        {
+          "id": "w1270040-s1",
+          "gloss": [
+            "seconda metà",
+            "metà finale"
+          ],
+          "short_gloss": "seconda metà",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1270060,
+      "senses": [
+        {
+          "id": "w1270060-s1",
+          "gloss": [
+            "poppa"
+          ],
+          "short_gloss": "poppa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1270100,
+      "senses": [
+        {
+          "id": "w1270100-s1",
+          "gloss": [
+            "dietro",
+            "retro",
+            "alle spalle"
+          ],
+          "short_gloss": "dietro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1270230,
+      "senses": [
+        {
+          "id": "w1270230-s1",
+          "gloss": [
+            "giardino imperiale"
+          ],
+          "short_gloss": "giardino imperiale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1270410,
+      "senses": [
+        {
+          "id": "w1270410-s1",
+          "gloss": [
+            "palazzo imperiale (spec. Palazzo imperiale di Kyoto)",
+            "residenza imperiale",
+            "residenza di uno shogun, ministro, ecc."
+          ],
+          "short_gloss": "palazzo imperiale (spec. Palazzo imperiale di Kyoto)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1270410-s2",
+          "gloss": [
+            "imperatore",
+            "ex imperatore",
+            "imperatrice",
+            "principe imperiale",
+            "shogun",
+            "ministro"
+          ],
+          "short_gloss": "imperatore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1270580,
+      "senses": [
+        {
+          "id": "w1270580-s1",
+          "gloss": [
+            "strenna di Capodanno (di solito denaro dato ai bambini da parenti e visitatori)"
+          ],
+          "short_gloss": "strenna di Capodanno (di solito denaro dato ai bambini da parenti e visitatori)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1270870,
+      "senses": [
+        {
+          "id": "w1270870-s1",
+          "gloss": [
+            "go (gioco da tavolo)"
+          ],
+          "short_gloss": "go (gioco da tavolo)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1270910,
+      "senses": [
+        {
+          "id": "w1270910-s1",
+          "gloss": [
+            "parola",
+            "termine"
+          ],
+          "short_gloss": "parola",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1270910-s2",
+          "gloss": [
+            "lingua"
+          ],
+          "short_gloss": "lingua",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1270910-s3",
+          "gloss": [
+            "discorso"
+          ],
+          "short_gloss": "discorso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1270920,
+      "senses": [
+        {
+          "id": "w1270920-s1",
+          "gloss": [
+            "parlare",
+            "raccontare",
+            "recitare",
+            "giurare",
+            "cospirare con"
+          ],
+          "short_gloss": "parlare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1270930,
+      "senses": [
+        {
+          "id": "w1270930-s1",
+          "gloss": [
+            "chiacchierata",
+            "recital"
+          ],
+          "short_gloss": "chiacchierata",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1270930-s2",
+          "gloss": [
+            "narrazione"
+          ],
+          "short_gloss": "narrazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1270930-s3",
+          "gloss": [
+            "argomento"
+          ],
+          "short_gloss": "argomento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1270950,
+      "senses": [
+        {
+          "id": "w1270950-s1",
+          "gloss": [
+            "modo di recitare",
+            "modo di raccontare"
+          ],
+          "short_gloss": "modo di recitare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1270990,
+      "senses": [
+        {
+          "id": "w1270990-s1",
+          "gloss": [
+            "parlare di",
+            "dire",
+            "raccontare",
+            "narrare"
+          ],
+          "short_gloss": "parlare di",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1270990-s2",
+          "gloss": [
+            "recitare",
+            "cantilenare"
+          ],
+          "short_gloss": "recitare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1270990-s3",
+          "gloss": [
+            "indicare",
+            "mostrare"
+          ],
+          "short_gloss": "indicare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1271010,
+      "senses": [
+        {
+          "id": "w1271010-s1",
+          "gloss": [
+            "studio delle lingue straniere"
+          ],
+          "short_gloss": "studio delle lingue straniere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1271010-s2",
+          "gloss": [
+            "linguistica"
+          ],
+          "short_gloss": "linguistica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1271040,
+      "senses": [
+        {
+          "id": "w1271040-s1",
+          "gloss": [
+            "tono",
+            "modo di parlare"
+          ],
+          "short_gloss": "tono",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1271090,
+      "senses": [
+        {
+          "id": "w1271090-s1",
+          "gloss": [
+            "origine di una parola",
+            "derivazione di una parola",
+            "etimologia"
+          ],
+          "short_gloss": "origine di una parola",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1271290,
+      "senses": [
+        {
+          "id": "w1271290-s1",
+          "gloss": [
+            "errore",
+            "sbaglio",
+            "svista",
+            "bug"
+          ],
+          "short_gloss": "errore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1271310,
+      "senses": [
+        {
+          "id": "w1271310-s1",
+          "gloss": [
+            "fraintendimento"
+          ],
+          "short_gloss": "fraintendimento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1271320,
+      "senses": [
+        {
+          "id": "w1271320-s1",
+          "gloss": [
+            "errore di misura",
+            "errore di calcolo"
+          ],
+          "short_gloss": "errore di misura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1271340,
+      "senses": [
+        {
+          "id": "w1271340-s1",
+          "gloss": [
+            "calcolo errato",
+            "miscalcolo"
+          ],
+          "short_gloss": "calcolo errato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1271430,
+      "senses": [
+        {
+          "id": "w1271430-s1",
+          "gloss": [
+            "riconoscimento errato",
+            "scambiare (x per y)"
+          ],
+          "short_gloss": "riconoscimento errato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1271510,
+      "senses": [
+        {
+          "id": "w1271510-s1",
+          "gloss": [
+            "guardia",
+            "convoglio",
+            "scorta"
+          ],
+          "short_gloss": "guardia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1271530,
+      "senses": [
+        {
+          "id": "w1271530-s1",
+          "gloss": [
+            "argine fluviale"
+          ],
+          "short_gloss": "argine fluviale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1271540,
+      "senses": [
+        {
+          "id": "w1271540-s1",
+          "gloss": [
+            "difesa della costituzione"
+          ],
+          "short_gloss": "difesa della costituzione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1271570,
+      "senses": [
+        {
+          "id": "w1271570-s1",
+          "gloss": [
+            "scorta (p.es. sotto guardia)",
+            "convoglio"
+          ],
+          "short_gloss": "scorta (p.es. sotto guardia)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1271660,
+      "senses": [
+        {
+          "id": "w1271660-s1",
+          "gloss": [
+            "mescolare",
+            "combinare",
+            "includere"
+          ],
+          "short_gloss": "mescolare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1271660-s2",
+          "gloss": [
+            "scambiare (parole, fuoco, ecc.)"
+          ],
+          "short_gloss": "scambiare (parole, fuoco, ecc.)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1271660-s3",
+          "gloss": [
+            "incrociare (spade, ecc.)",
+            "unire"
+          ],
+          "short_gloss": "incrociare (spade, ecc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1271710,
+      "senses": [
+        {
+          "id": "w1271710-s1",
+          "gloss": [
+            "commercio",
+            "scambio"
+          ],
+          "short_gloss": "commercio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1271750,
+      "senses": [
+        {
+          "id": "w1271750-s1",
+          "gloss": [
+            "scambio",
+            "intercambio",
+            "alternanza",
+            "reciprocità",
+            "baratto",
+            "sostituzione",
+            "rimpiazzo",
+            "compensazione (di assegni)"
+          ],
+          "short_gloss": "scambio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1271920,
+      "senses": [
+        {
+          "id": "w1271920-s1",
+          "gloss": [
+            "orchestra sinfonica"
+          ],
+          "short_gloss": "orchestra sinfonica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1271930,
+      "senses": [
+        {
+          "id": "w1271930-s1",
+          "gloss": [
+            "sinfonia"
+          ],
+          "short_gloss": "sinfonia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1271940,
+      "senses": [
+        {
+          "id": "w1271940-s1",
+          "gloss": [
+            "alterno",
+            "alternato"
+          ],
+          "short_gloss": "alterno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1271990,
+      "senses": [
+        {
+          "id": "w1271990-s1",
+          "gloss": [
+            "compagnia",
+            "amicizia",
+            "associazione",
+            "società",
+            "conoscenza"
+          ],
+          "short_gloss": "compagnia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1271990-s2",
+          "gloss": [
+            "relazione romantica",
+            "frequentazione"
+          ],
+          "short_gloss": "relazione romantica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1272080,
+      "senses": [
+        {
+          "id": "w1272080-s1",
+          "gloss": [
+            "spese di rappresentanza"
+          ],
+          "short_gloss": "spese di rappresentanza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1272110,
+      "senses": [
+        {
+          "id": "w1272110-s1",
+          "gloss": [
+            "negoziati",
+            "contrattazione",
+            "discussioni",
+            "colloqui"
+          ],
+          "short_gloss": "negoziati",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1272110-s2",
+          "gloss": [
+            "connessione",
+            "relazione",
+            "rapporti",
+            "trattative"
+          ],
+          "short_gloss": "connessione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1272170,
+      "senses": [
+        {
+          "id": "w1272170-s1",
+          "gloss": [
+            "telecomunicazioni",
+            "corrispondenza"
+          ],
+          "short_gloss": "telecomunicazioni",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1272190,
+      "senses": [
+        {
+          "id": "w1272190-s1",
+          "gloss": [
+            "guerra",
+            "battaglia",
+            "ostilità"
+          ],
+          "short_gloss": "guerra",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1272280,
+      "senses": [
+        {
+          "id": "w1272280-s1",
+          "gloss": [
+            "traffico",
+            "trasporto"
+          ],
+          "short_gloss": "traffico",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1272280-s2",
+          "gloss": [
+            "comunicazione",
+            "scambio (di idee, ecc.)"
+          ],
+          "short_gloss": "comunicazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1272280-s3",
+          "gloss": [
+            "rapporti"
+          ],
+          "short_gloss": "rapporti",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1272320,
+      "senses": [
+        {
+          "id": "w1272320-s1",
+          "gloss": [
+            "mezzi di trasporto",
+            "trasporto",
+            "infrastrutture di trasporto",
+            "sistema di trasporto",
+            "sistema di transito"
+          ],
+          "short_gloss": "mezzi di trasporto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1272350,
+      "senses": [
+        {
+          "id": "w1272350-s1",
+          "gloss": [
+            "incidente stradale"
+          ],
+          "short_gloss": "incidente stradale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1272410,
+      "senses": [
+        {
+          "id": "w1272410-s1",
+          "gloss": [
+            "spese di viaggio",
+            "costo del biglietto"
+          ],
+          "short_gloss": "spese di viaggio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1272430,
+      "senses": [
+        {
+          "id": "w1272430-s1",
+          "gloss": [
+            "rete di trasporto",
+            "rete dei trasporti",
+            "rete del traffico"
+          ],
+          "short_gloss": "rete di trasporto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1272500,
+      "senses": [
+        {
+          "id": "w1272500-s1",
+          "gloss": [
+            "posto di polizia (koban)",
+            "piccolo posto di polizia di quartiere"
+          ],
+          "short_gloss": "posto di polizia (koban)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1272500-s2",
+          "gloss": [
+            "alternanza"
+          ],
+          "short_gloss": "alternanza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1272500-s3",
+          "gloss": [
+            "alternato (corrente, stress, ecc.)"
+          ],
+          "short_gloss": "alternato (corrente, stress, ecc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1272520,
+      "senses": [
+        {
+          "id": "w1272520-s1",
+          "gloss": [
+            "consegna",
+            "emissione",
+            "passaggio di mano",
+            "concessione"
+          ],
+          "short_gloss": "consegna",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1272550,
+      "senses": [
+        {
+          "id": "w1272550-s1",
+          "gloss": [
+            "amico",
+            "compagno",
+            "conoscente"
+          ],
+          "short_gloss": "amico",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1272550-s2",
+          "gloss": [
+            "amicizia",
+            "compagnia"
+          ],
+          "short_gloss": "amicizia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1272580,
+      "senses": [
+        {
+          "id": "w1272580-s1",
+          "gloss": [
+            "scambio (culturale, ecc.)",
+            "interazione",
+            "mescolanza",
+            "incontro"
+          ],
+          "short_gloss": "scambio (culturale, ecc.)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1272580-s2",
+          "gloss": [
+            "corrente alternata",
+            "CA"
+          ],
+          "short_gloss": "corrente alternata",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1272730,
+      "senses": [
+        {
+          "id": "w1272730-s1",
+          "gloss": [
+            "candidato",
+            "contendente",
+            "prospetto",
+            "scelta",
+            "elenco"
+          ],
+          "short_gloss": "candidato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1272730-s2",
+          "gloss": [
+            "candidatura",
+            "nomina"
+          ],
+          "short_gloss": "candidatura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1272780,
+      "senses": [
+        {
+          "id": "w1272780-s1",
+          "gloss": [
+            "luce"
+          ],
+          "short_gloss": "luce",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1272780-s2",
+          "gloss": [
+            "illuminazione",
+            "raggio",
+            "fascio",
+            "bagliore",
+            "luminosità"
+          ],
+          "short_gloss": "illuminazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1272780-s3",
+          "gloss": [
+            "felicità",
+            "speranza"
+          ],
+          "short_gloss": "felicità",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1272780-s4",
+          "gloss": [
+            "influenza",
+            "potere"
+          ],
+          "short_gloss": "influenza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1272780-s5",
+          "gloss": [
+            "vista",
+            "visione"
+          ],
+          "short_gloss": "vista",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1272780-s6",
+          "gloss": [
+            "fibra ottica"
+          ],
+          "short_gloss": "fibra ottica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1272870,
+      "senses": [
+        {
+          "id": "w1272870-s1",
+          "gloss": [
+            "onore",
+            "gloria",
+            "privilegio"
+          ],
+          "short_gloss": "onore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1272900,
+      "senses": [
+        {
+          "id": "w1272900-s1",
+          "gloss": [
+            "ottica"
+          ],
+          "short_gloss": "ottica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1272950,
+      "senses": [
+        {
+          "id": "w1272950-s1",
+          "gloss": [
+            "scena",
+            "spettacolo",
+            "vista",
+            "panorama"
+          ],
+          "short_gloss": "scena",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273030,
+      "senses": [
+        {
+          "id": "w1273030-s1",
+          "gloss": [
+            "raggio",
+            "fascio di luce"
+          ],
+          "short_gloss": "raggio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273050,
+      "senses": [
+        {
+          "id": "w1273050-s1",
+          "gloss": [
+            "brillantezza",
+            "lucidatura",
+            "lustro",
+            "finitura lucida"
+          ],
+          "short_gloss": "brillantezza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273150,
+      "senses": [
+        {
+          "id": "w1273150-s1",
+          "gloss": [
+            "luce intensa"
+          ],
+          "short_gloss": "luce intensa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1273150-s2",
+          "gloss": [
+            "speranza",
+            "futuro luminoso"
+          ],
+          "short_gloss": "speranza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1273150-s3",
+          "gloss": [
+            "luce emanata da un Buddha o bodhisattva, simbolo di saggezza e compassione"
+          ],
+          "short_gloss": "luce emanata da un Buddha o bodhisattva, simbolo di saggezza e compassione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273180,
+      "senses": [
+        {
+          "id": "w1273180-s1",
+          "gloss": [
+            "ordine pubblico",
+            "sicurezza pubblica",
+            "pace e ordine"
+          ],
+          "short_gloss": "ordine pubblico",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1273180-s2",
+          "gloss": [
+            "polizia di sicurezza"
+          ],
+          "short_gloss": "polizia di sicurezza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273210,
+      "senses": [
+        {
+          "id": "w1273210-s1",
+          "gloss": [
+            "gestione pubblica"
+          ],
+          "short_gloss": "gestione pubblica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273220,
+      "senses": [
+        {
+          "id": "w1273220-s1",
+          "gloss": [
+            "interesse pubblico",
+            "beneficio pubblico",
+            "bene comune"
+          ],
+          "short_gloss": "interesse pubblico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273250,
+      "senses": [
+        {
+          "id": "w1273250-s1",
+          "gloss": [
+            "ente di pubblica utilità",
+            "ente benefico"
+          ],
+          "short_gloss": "ente di pubblica utilità",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1273250-s2",
+          "gloss": [
+            "persona giuridica per il bene pubblico"
+          ],
+          "short_gloss": "persona giuridica per il bene pubblico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273270,
+      "senses": [
+        {
+          "id": "w1273270-s1",
+          "gloss": [
+            "parco pubblico"
+          ],
+          "short_gloss": "parco pubblico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273280,
+      "senses": [
+        {
+          "id": "w1273280-s1",
+          "gloss": [
+            "spettacolo pubblico"
+          ],
+          "short_gloss": "spettacolo pubblico",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1273280-s2",
+          "gloss": [
+            "esposizione all'estero"
+          ],
+          "short_gloss": "esposizione all'estero",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273330,
+      "senses": [
+        {
+          "id": "w1273330-s1",
+          "gloss": [
+            "municipio",
+            "sala pubblica"
+          ],
+          "short_gloss": "municipio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273350,
+      "senses": [
+        {
+          "id": "w1273350-s1",
+          "gloss": [
+            "alto mare",
+            "acque internazionali"
+          ],
+          "short_gloss": "alto mare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273370,
+      "senses": [
+        {
+          "id": "w1273370-s1",
+          "gloss": [
+            "apertura al pubblico",
+            "messa a disposizione del pubblico",
+            "esposizione",
+            "svelamento",
+            "uscita (di un film, informazioni, ecc.)",
+            "divulgazione",
+            "pubblicazione"
+          ],
+          "short_gloss": "apertura al pubblico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273420,
+      "senses": [
+        {
+          "id": "w1273420-s1",
+          "gloss": [
+            "inquinamento",
+            "nocumento pubblico",
+            "contaminazione"
+          ],
+          "short_gloss": "inquinamento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273430,
+      "senses": [
+        {
+          "id": "w1273430-s1",
+          "gloss": [
+            "residenza ufficiale"
+          ],
+          "short_gloss": "residenza ufficiale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273510,
+      "senses": [
+        {
+          "id": "w1273510-s1",
+          "gloss": [
+            "pubblico (strutture, servizi, ecc.)",
+            "comunale"
+          ],
+          "short_gloss": "pubblico (strutture, servizi, ecc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273590,
+      "senses": [
+        {
+          "id": "w1273590-s1",
+          "gloss": [
+            "tariffa dei servizi pubblici"
+          ],
+          "short_gloss": "tariffa dei servizi pubblici",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273630,
+      "senses": [
+        {
+          "id": "w1273630-s1",
+          "gloss": [
+            "fondi pubblici"
+          ],
+          "short_gloss": "fondi pubblici",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273640,
+      "senses": [
+        {
+          "id": "w1273640-s1",
+          "gloss": [
+            "dichiarazione",
+            "professione"
+          ],
+          "short_gloss": "dichiarazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273650,
+      "senses": [
+        {
+          "id": "w1273650-s1",
+          "gloss": [
+            "ente finanziario"
+          ],
+          "short_gloss": "ente finanziario",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273700,
+      "senses": [
+        {
+          "id": "w1273700-s1",
+          "gloss": [
+            "debito pubblico",
+            "obbligazioni pubbliche",
+            "titoli di Stato"
+          ],
+          "short_gloss": "debito pubblico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273720,
+      "senses": [
+        {
+          "id": "w1273720-s1",
+          "gloss": [
+            "probabilità",
+            "verosimiglianza"
+          ],
+          "short_gloss": "probabilità",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273730,
+      "senses": [
+        {
+          "id": "w1273730-s1",
+          "gloss": [
+            "inviato",
+            "diplomatico sotto il grado di ambasciatore (es. incaricato d'affari)",
+            "ministro (di legazione)"
+          ],
+          "short_gloss": "inviato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273750,
+      "senses": [
+        {
+          "id": "w1273750-s1",
+          "gloss": [
+            "azienda (in Cina)",
+            "ditta"
+          ],
+          "short_gloss": "azienda (in Cina)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273760,
+      "senses": [
+        {
+          "id": "w1273760-s1",
+          "gloss": [
+            "giovane nobile"
+          ],
+          "short_gloss": "giovane nobile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273770,
+      "senses": [
+        {
+          "id": "w1273770-s1",
+          "gloss": [
+            "affari pubblici e privati",
+            "questioni ufficiali e personali",
+            "vita professionale e personale"
+          ],
+          "short_gloss": "affari pubblici e privati",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273810,
+      "senses": [
+        {
+          "id": "w1273810-s1",
+          "gloss": [
+            "annuncio pubblico",
+            "comunicato ufficiale",
+            "editto"
+          ],
+          "short_gloss": "annuncio pubblico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273820,
+      "senses": [
+        {
+          "id": "w1273820-s1",
+          "gloss": [
+            "ufficiale",
+            "formale"
+          ],
+          "short_gloss": "ufficiale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1273820-s2",
+          "gloss": [
+            "formula"
+          ],
+          "short_gloss": "formula",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1273820-s3",
+          "gloss": [
+            "account ufficiale (social media)"
+          ],
+          "short_gloss": "account ufficiale (social media)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273860,
+      "senses": [
+        {
+          "id": "w1273860-s1",
+          "gloss": [
+            "ente pubblico"
+          ],
+          "short_gloss": "ente pubblico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273870,
+      "senses": [
+        {
+          "id": "w1273870-s1",
+          "gloss": [
+            "obbligazioni pubbliche"
+          ],
+          "short_gloss": "obbligazioni pubbliche",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273900,
+      "senses": [
+        {
+          "id": "w1273900-s1",
+          "gloss": [
+            "il pubblico",
+            "grande pubblico"
+          ],
+          "short_gloss": "il pubblico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273920,
+      "senses": [
+        {
+          "id": "w1273920-s1",
+          "gloss": [
+            "sanità pubblica",
+            "igiene pubblica",
+            "sanificazione"
+          ],
+          "short_gloss": "sanità pubblica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1273940,
+      "senses": [
+        {
+          "id": "w1273940-s1",
+          "gloss": [
+            "telefono pubblico",
+            "telefono a gettoni"
+          ],
+          "short_gloss": "telefono pubblico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274030,
+      "senses": [
+        {
+          "id": "w1274030-s1",
+          "gloss": [
+            "annuncio pubblico",
+            "dichiarazione ufficiale",
+            "rivendicazione ufficiale"
+          ],
+          "short_gloss": "annuncio pubblico",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1274030-s2",
+          "gloss": [
+            "nominale",
+            "ufficiale",
+            "dichiarato",
+            "ascritto"
+          ],
+          "short_gloss": "nominale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1274030-s3",
+          "gloss": [
+            "nome ufficiale"
+          ],
+          "short_gloss": "nome ufficiale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274080,
+      "senses": [
+        {
+          "id": "w1274080-s1",
+          "gloss": [
+            "ufficio pubblico"
+          ],
+          "short_gloss": "ufficio pubblico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274100,
+      "senses": [
+        {
+          "id": "w1274100-s1",
+          "gloss": [
+            "carattere pubblico"
+          ],
+          "short_gloss": "carattere pubblico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274120,
+      "senses": [
+        {
+          "id": "w1274120-s1",
+          "gloss": [
+            "giustizia",
+            "equità",
+            "imparzialità"
+          ],
+          "short_gloss": "giustizia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274160,
+      "senses": [
+        {
+          "id": "w1274160-s1",
+          "gloss": [
+            "ente pubblico"
+          ],
+          "short_gloss": "ente pubblico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274180,
+      "senses": [
+        {
+          "id": "w1274180-s1",
+          "gloss": [
+            "elezione pubblica",
+            "elezione a suffragio popolare"
+          ],
+          "short_gloss": "elezione pubblica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274190,
+      "senses": [
+        {
+          "id": "w1274190-s1",
+          "gloss": [
+            "aperto",
+            "pubblico",
+            "ufficiale",
+            "palese"
+          ],
+          "short_gloss": "aperto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274240,
+      "senses": [
+        {
+          "id": "w1274240-s1",
+          "gloss": [
+            "accusa pubblica",
+            "incriminazione",
+            "accusa"
+          ],
+          "short_gloss": "accusa pubblica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274280,
+      "senses": [
+        {
+          "id": "w1274280-s1",
+          "gloss": [
+            "ente pubblico"
+          ],
+          "short_gloss": "ente pubblico",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1274280-s2",
+          "gloss": [
+            "edilizia popolare"
+          ],
+          "short_gloss": "edilizia popolare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274290,
+      "senses": [
+        {
+          "id": "w1274290-s1",
+          "gloss": [
+            "udienza pubblica"
+          ],
+          "short_gloss": "udienza pubblica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274300,
+      "senses": [
+        {
+          "id": "w1274300-s1",
+          "gloss": [
+            "ufficiale (tariffa, prezzo, ecc.)",
+            "fissato ufficialmente"
+          ],
+          "short_gloss": "ufficiale (tariffa, prezzo, ecc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274350,
+      "senses": [
+        {
+          "id": "w1274350-s1",
+          "gloss": [
+            "residenza ufficiale"
+          ],
+          "short_gloss": "residenza ufficiale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274380,
+      "senses": [
+        {
+          "id": "w1274380-s1",
+          "gloss": [
+            "pubblico",
+            "ufficiale"
+          ],
+          "short_gloss": "pubblico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274450,
+      "senses": [
+        {
+          "id": "w1274450-s1",
+          "gloss": [
+            "riconoscimento ufficiale",
+            "approvazione ufficiale",
+            "certificazione",
+            "autorizzazione"
+          ],
+          "short_gloss": "riconoscimento ufficiale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274460,
+      "senses": [
+        {
+          "id": "w1274460-s1",
+          "gloss": [
+            "revisore dei conti",
+            "commercialista abilitato"
+          ],
+          "short_gloss": "revisore dei conti",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274510,
+      "senses": [
+        {
+          "id": "w1274510-s1",
+          "gloss": [
+            "udienza pubblica",
+            "processo pubblico"
+          ],
+          "short_gloss": "udienza pubblica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274540,
+      "senses": [
+        {
+          "id": "w1274540-s1",
+          "gloss": [
+            "spesa pubblica",
+            "fondi pubblici",
+            "denaro pubblico",
+            "spesa pubblica"
+          ],
+          "short_gloss": "spesa pubblica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274550,
+      "senses": [
+        {
+          "id": "w1274550-s1",
+          "gloss": [
+            "annuncio ufficiale",
+            "proclamazione"
+          ],
+          "short_gloss": "annuncio ufficiale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274570,
+      "senses": [
+        {
+          "id": "w1274570-s1",
+          "gloss": [
+            "proclamazione ufficiale",
+            "annuncio",
+            "promulgazione (di regolamenti)"
+          ],
+          "short_gloss": "proclamazione ufficiale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274620,
+      "senses": [
+        {
+          "id": "w1274620-s1",
+          "gloss": [
+            "documento ufficiale",
+            "archivi"
+          ],
+          "short_gloss": "documento ufficiale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274630,
+      "senses": [
+        {
+          "id": "w1274630-s1",
+          "gloss": [
+            "documenti ufficiali",
+            "archivi"
+          ],
+          "short_gloss": "documenti ufficiali",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274640,
+      "senses": [
+        {
+          "id": "w1274640-s1",
+          "gloss": [
+            "equità",
+            "imparzialità",
+            "giustizia",
+            "obiettività"
+          ],
+          "short_gloss": "equità",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274680,
+      "senses": [
+        {
+          "id": "w1274680-s1",
+          "gloss": [
+            "appello pubblico (per contributi)",
+            "annuncio pubblico (di un posto)",
+            "reclutamento aperto"
+          ],
+          "short_gloss": "appello pubblico (per contributi)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1274680-s2",
+          "gloss": [
+            "offerta pubblica (di titoli)"
+          ],
+          "short_gloss": "offerta pubblica (di titoli)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274700,
+      "senses": [
+        {
+          "id": "w1274700-s1",
+          "gloss": [
+            "bollettino ufficiale",
+            "comunicato"
+          ],
+          "short_gloss": "bollettino ufficiale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274750,
+      "senses": [
+        {
+          "id": "w1274750-s1",
+          "gloss": [
+            "cittadino"
+          ],
+          "short_gloss": "cittadino",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1274750-s2",
+          "gloss": [
+            "educazione civica"
+          ],
+          "short_gloss": "educazione civica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274780,
+      "senses": [
+        {
+          "id": "w1274780-s1",
+          "gloss": [
+            "sala pubblica",
+            "centro comunitario"
+          ],
+          "short_gloss": "sala pubblica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274790,
+      "senses": [
+        {
+          "id": "w1274790-s1",
+          "gloss": [
+            "diritti civili",
+            "diritto di voto",
+            "cittadinanza"
+          ],
+          "short_gloss": "diritti civili",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274810,
+      "senses": [
+        {
+          "id": "w1274810-s1",
+          "gloss": [
+            "affari ufficiali",
+            "affari pubblici"
+          ],
+          "short_gloss": "affari ufficiali",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274820,
+      "senses": [
+        {
+          "id": "w1274820-s1",
+          "gloss": [
+            "dipendente pubblico",
+            "impiegato statale",
+            "funzionario pubblico"
+          ],
+          "short_gloss": "dipendente pubblico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274850,
+      "senses": [
+        {
+          "id": "w1274850-s1",
+          "gloss": [
+            "equità",
+            "trasparenza",
+            "imparzialità"
+          ],
+          "short_gloss": "equità",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1274850-s2",
+          "gloss": [
+            "Kōmeitō (partito politico giapponese)"
+          ],
+          "short_gloss": "Kōmeitō (partito politico giapponese)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274880,
+      "senses": [
+        {
+          "id": "w1274880-s1",
+          "gloss": [
+            "impegno pubblico",
+            "promessa pubblica",
+            "impegno elettorale",
+            "voto ufficiale"
+          ],
+          "short_gloss": "impegno pubblico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274900,
+      "senses": [
+        {
+          "id": "w1274900-s1",
+          "gloss": [
+            "proprietà pubblica"
+          ],
+          "short_gloss": "proprietà pubblica",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1274900-s2",
+          "gloss": [
+            "dominio pubblico"
+          ],
+          "short_gloss": "dominio pubblico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1274940,
+      "senses": [
+        {
+          "id": "w1274940-s1",
+          "gloss": [
+            "affari ufficiali",
+            "affari governativi",
+            "affari pubblici",
+            "doveri aziendali"
+          ],
+          "short_gloss": "affari ufficiali",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1274940-s2",
+          "gloss": [
+            "uso pubblico",
+            "uso governativo"
+          ],
+          "short_gloss": "uso pubblico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1275000,
+      "senses": [
+        {
+          "id": "w1275000-s1",
+          "gloss": [
+            "ente pubblico"
+          ],
+          "short_gloss": "ente pubblico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1275040,
+      "senses": [
+        {
+          "id": "w1275040-s1",
+          "gloss": [
+            "opinione pubblica",
+            "critica imparziale"
+          ],
+          "short_gloss": "opinione pubblica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1275070,
+      "senses": [
+        {
+          "id": "w1275070-s1",
+          "gloss": [
+            "risultato",
+            "atto meritorio",
+            "servizio distinto",
+            "contributo"
+          ],
+          "short_gloss": "risultato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1275110,
+      "senses": [
+        {
+          "id": "w1275110-s1",
+          "gloss": [
+            "atto meritorio",
+            "servizi resi"
+          ],
+          "short_gloss": "atto meritorio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1275130,
+      "senses": [
+        {
+          "id": "w1275130-s1",
+          "gloss": [
+            "effetto",
+            "efficacia",
+            "risultato"
+          ],
+          "short_gloss": "effetto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1275130-s2",
+          "gloss": [
+            "effetti (sonori, visivi, speciali)"
+          ],
+          "short_gloss": "effetti (sonori, visivi, speciali)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1275150,
+      "senses": [
+        {
+          "id": "w1275150-s1",
+          "gloss": [
+            "efficace",
+            "riuscito"
+          ],
+          "short_gloss": "efficace",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1275180,
+      "senses": [
+        {
+          "id": "w1275180-s1",
+          "gloss": [
+            "effetto",
+            "efficacia",
+            "virtù",
+            "beneficio"
+          ],
+          "short_gloss": "effetto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1275200,
+      "senses": [
+        {
+          "id": "w1275200-s1",
+          "gloss": [
+            "uso",
+            "utilità",
+            "effetto",
+            "beneficio"
+          ],
+          "short_gloss": "uso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1275210,
+      "senses": [
+        {
+          "id": "w1275210-s1",
+          "gloss": [
+            "efficienza"
+          ],
+          "short_gloss": "efficienza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1275240,
+      "senses": [
+        {
+          "id": "w1275240-s1",
+          "gloss": [
+            "efficiente"
+          ],
+          "short_gloss": "efficiente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1275250,
+      "senses": [
+        {
+          "id": "w1275250-s1",
+          "gloss": [
+            "effetto",
+            "efficacia",
+            "validità",
+            "potenza"
+          ],
+          "short_gloss": "effetto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1275340,
+      "senses": [
+        {
+          "id": "w1275340-s1",
+          "gloss": [
+            "spessore"
+          ],
+          "short_gloss": "spessore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1275490,
+      "senses": [
+        {
+          "id": "w1275490-s1",
+          "gloss": [
+            "assistenza sociale",
+            "welfare pubblico",
+            "benessere sociale"
+          ],
+          "short_gloss": "assistenza sociale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1275490-s2",
+          "gloss": [
+            "(ex) Ministero della Salute e del Welfare"
+          ],
+          "short_gloss": "(ex) Ministero della Salute e del Welfare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1275500,
+      "senses": [
+        {
+          "id": "w1275500-s1",
+          "gloss": [
+            "(ex) Ministero della Salute e del Welfare"
+          ],
+          "short_gloss": "(ex) Ministero della Salute e del Welfare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1275520,
+      "senses": [
+        {
+          "id": "w1275520-s1",
+          "gloss": [
+            "pensione assistenziale"
+          ],
+          "short_gloss": "pensione assistenziale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1275540,
+      "senses": [
+        {
+          "id": "w1275540-s1",
+          "gloss": [
+            "Ministro del Welfare"
+          ],
+          "short_gloss": "Ministro del Welfare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1275600,
+      "senses": [
+        {
+          "id": "w1275600-s1",
+          "gloss": [
+            "spessore"
+          ],
+          "short_gloss": "spessore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1275600-s2",
+          "gloss": [
+            "profondità"
+          ],
+          "short_gloss": "profondità",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1275600-s3",
+          "gloss": [
+            "spessore",
+            "muro di pietre compatte"
+          ],
+          "short_gloss": "spessore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1275640,
+      "senses": [
+        {
+          "id": "w1275640-s1",
+          "gloss": [
+            "bocca"
+          ],
+          "short_gloss": "bocca",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1275640-s2",
+          "gloss": [
+            "apertura",
+            "foro",
+            "fessura",
+            "orifizio"
+          ],
+          "short_gloss": "apertura",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1275640-s3",
+          "gloss": [
+            "imboccatura (di bottiglia)",
+            "beccuccio",
+            "ugello",
+            "bocchino"
+          ],
+          "short_gloss": "imboccatura (di bottiglia)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1275640-s4",
+          "gloss": [
+            "porta",
+            "ingresso",
+            "uscita"
+          ],
+          "short_gloss": "porta",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1275640-s5",
+          "gloss": [
+            "parlare",
+            "discorso",
+            "chiacchiere"
+          ],
+          "short_gloss": "parlare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1275640-s6",
+          "gloss": [
+            "gusto",
+            "palato"
+          ],
+          "short_gloss": "gusto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1275640-s7",
+          "gloss": [
+            "bocca (da sfamare)"
+          ],
+          "short_gloss": "bocca (da sfamare)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1275640-s8",
+          "gloss": [
+            "posto vacante",
+            "posizione disponibile"
+          ],
+          "short_gloss": "posto vacante",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1275640-s9",
+          "gloss": [
+            "invito",
+            "convocazione"
+          ],
+          "short_gloss": "invito",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1275640-s10",
+          "gloss": [
+            "tipo",
+            "genere",
+            "specie"
+          ],
+          "short_gloss": "tipo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1275640-s11",
+          "gloss": [
+            "apertura",
+            "inizio"
+          ],
+          "short_gloss": "apertura",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1275640-s12",
+          "gloss": [
+            "contatore per bocconi, quote (di denaro) e fornelli"
+          ],
+          "short_gloss": "contatore per bocconi, quote (di denaro) e fornelli",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1275640-s13",
+          "gloss": [
+            "contatore per spade, lame, ecc."
+          ],
+          "short_gloss": "contatore per spade, lame, ecc.",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1275780,
+      "senses": [
+        {
+          "id": "w1275780-s1",
+          "gloss": [
+            "passaparola"
+          ],
+          "short_gloss": "passaparola",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1275780-s2",
+          "gloss": [
+            "recensioni online",
+            "commenti online"
+          ],
+          "short_gloss": "recensioni online",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1275860,
+      "senses": [
+        {
+          "id": "w1275860-s1",
+          "gloss": [
+            "fusibile",
+            "fiamma pilota"
+          ],
+          "short_gloss": "fusibile",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1275860-s2",
+          "gloss": [
+            "causa",
+            "origine",
+            "innesco"
+          ],
+          "short_gloss": "causa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1276030,
+      "senses": [
+        {
+          "id": "w1276030-s1",
+          "gloss": [
+            "apertura",
+            "alesaggio",
+            "calibro"
+          ],
+          "short_gloss": "apertura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1276110,
+      "senses": [
+        {
+          "id": "w1276110-s1",
+          "gloss": [
+            "rossetto"
+          ],
+          "short_gloss": "rossetto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1276150,
+      "senses": [
+        {
+          "id": "w1276150-s1",
+          "gloss": [
+            "conto (bancario)"
+          ],
+          "short_gloss": "conto (bancario)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1276220,
+      "senses": [
+        {
+          "id": "w1276220-s1",
+          "gloss": [
+            "scusa",
+            "pretesto"
+          ],
+          "short_gloss": "scusa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1276370,
+      "senses": [
+        {
+          "id": "w1276370-s1",
+          "gloss": [
+            "messaggio vocale",
+            "discorso",
+            "dichiarazione"
+          ],
+          "short_gloss": "messaggio vocale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1276370-s2",
+          "gloss": [
+            "prologo all'inizio di uno spettacolo kabuki"
+          ],
+          "short_gloss": "prologo all'inizio di uno spettacolo kabuki",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1276420,
+      "senses": [
+        {
+          "id": "w1276420-s1",
+          "gloss": [
+            "modo di parlare"
+          ],
+          "short_gloss": "modo di parlare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1276420-s2",
+          "gloss": [
+            "accenno",
+            "allusione"
+          ],
+          "short_gloss": "accenno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1276500,
+      "senses": [
+        {
+          "id": "w1276500-s1",
+          "gloss": [
+            "belle parole",
+            "pura retorica",
+            "dichiarazioni"
+          ],
+          "short_gloss": "belle parole",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1276500-s2",
+          "gloss": [
+            "labbra",
+            "bocca",
+            "muso",
+            "proboscide"
+          ],
+          "short_gloss": "labbra",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1276610,
+      "senses": [
+        {
+          "id": "w1276610-s1",
+          "gloss": [
+            "tono (di voce)",
+            "modo di parlare"
+          ],
+          "short_gloss": "tono (di voce)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1276710,
+      "senses": [
+        {
+          "id": "w1276710-s1",
+          "gloss": [
+            "orale",
+            "verbale",
+            "parlato"
+          ],
+          "short_gloss": "orale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1276890,
+      "senses": [
+        {
+          "id": "w1276890-s1",
+          "gloss": [
+            "frase preferita",
+            "frase fatta",
+            "tormentone"
+          ],
+          "short_gloss": "frase preferita",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1276890-s2",
+          "gloss": [
+            "modo di parlare"
+          ],
+          "short_gloss": "modo di parlare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1276980,
+      "senses": [
+        {
+          "id": "w1276980-s1",
+          "gloss": [
+            "mediazione",
+            "buoni uffici",
+            "intervento",
+            "mediatore",
+            "intermediario"
+          ],
+          "short_gloss": "mediazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1276980-s2",
+          "gloss": [
+            "persona influente"
+          ],
+          "short_gloss": "persona influente",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1276980-s3",
+          "gloss": [
+            "eloquenza",
+            "persona eloquente"
+          ],
+          "short_gloss": "eloquenza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1276980-s4",
+          "gloss": [
+            "modo di parlare"
+          ],
+          "short_gloss": "modo di parlare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1277000,
+      "senses": [
+        {
+          "id": "w1277000-s1",
+          "gloss": [
+            "lite",
+            "discussione",
+            "battibecco",
+            "disputa verbale"
+          ],
+          "short_gloss": "lite",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1277040,
+      "senses": [
+        {
+          "id": "w1277040-s1",
+          "gloss": [
+            "direzione",
+            "orientamento",
+            "aspetto",
+            "esposizione"
+          ],
+          "short_gloss": "direzione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1277040-s2",
+          "gloss": [
+            "adatto a",
+            "idoneo per",
+            "progettato per"
+          ],
+          "short_gloss": "adatto a",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1277040-s3",
+          "gloss": [
+            "tendenza",
+            "inclinazione"
+          ],
+          "short_gloss": "tendenza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1277040-s4",
+          "gloss": [
+            "natura (di una richiesta o desiderio)"
+          ],
+          "short_gloss": "natura (di una richiesta o desiderio)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1277040-s5",
+          "gloss": [
+            "persona"
+          ],
+          "short_gloss": "persona",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1277140,
+      "senses": [
+        {
+          "id": "w1277140-s1",
+          "gloss": [
+            "lato opposto",
+            "altra parte"
+          ],
+          "short_gloss": "lato opposto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1277140-s2",
+          "gloss": [
+            "laggiù",
+            "davanti",
+            "oltre",
+            "in lontananza",
+            "lontano"
+          ],
+          "short_gloss": "laggiù",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1277140-s3",
+          "gloss": [
+            "destinazione",
+            "laggiù (all'estero)"
+          ],
+          "short_gloss": "destinazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1277140-s4",
+          "gloss": [
+            "l'altra parte"
+          ],
+          "short_gloss": "l'altra parte",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1277140-s5",
+          "gloss": [
+            "da ora",
+            "prossimo",
+            "in arrivo",
+            "da ... in poi"
+          ],
+          "short_gloss": "da ora",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1277250,
+      "senses": [
+        {
+          "id": "w1277250-s1",
+          "gloss": [
+            "elevazione",
+            "aumento",
+            "miglioramento",
+            "avanzamento",
+            "progresso"
+          ],
+          "short_gloss": "elevazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1277490,
+      "senses": [
+        {
+          "id": "w1277490-s1",
+          "gloss": [
+            "piacevole",
+            "simpatico",
+            "desiderabile"
+          ],
+          "short_gloss": "piacevole",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1277500,
+      "senses": [
+        {
+          "id": "w1277500-s1",
+          "gloss": [
+            "gusto",
+            "preferenza",
+            "affezione"
+          ],
+          "short_gloss": "gusto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1277500-s2",
+          "gloss": [
+            "desiderio",
+            "scelta",
+            "preferenza"
+          ],
+          "short_gloss": "desiderio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1277520,
+      "senses": [
+        {
+          "id": "w1277520-s1",
+          "gloss": [
+            "piacere",
+            "preferire"
+          ],
+          "short_gloss": "piacere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1277530,
+      "senses": [
+        {
+          "id": "w1277530-s1",
+          "gloss": [
+            "gentilezza",
+            "favore",
+            "cordialità"
+          ],
+          "short_gloss": "gentilezza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1277530-s2",
+          "gloss": [
+            "benevolenza",
+            "affetto",
+            "simpatia",
+            "amore"
+          ],
+          "short_gloss": "benevolenza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1277570,
+      "senses": [
+        {
+          "id": "w1277570-s1",
+          "gloss": [
+            "buona impressione",
+            "buona volontà"
+          ],
+          "short_gloss": "buona impressione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1277590,
+      "senses": [
+        {
+          "id": "w1277590-s1",
+          "gloss": [
+            "curiosità",
+            "inquisitività"
+          ],
+          "short_gloss": "curiosità",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1277600,
+      "senses": [
+        {
+          "id": "w1277600-s1",
+          "gloss": [
+            "buona occasione",
+            "opportunità"
+          ],
+          "short_gloss": "buona occasione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1277620,
+      "senses": [
+        {
+          "id": "w1277620-s1",
+          "gloss": [
+            "condizioni economiche prosperose",
+            "condizioni favorevoli",
+            "boom economico",
+            "affari fiorenti",
+            "mercato vivace"
+          ],
+          "short_gloss": "condizioni economiche prosperose",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1277730,
+      "senses": [
+        {
+          "id": "w1277730-s1",
+          "gloss": [
+            "favorevole",
+            "promettente",
+            "soddisfacente",
+            "in buona forma"
+          ],
+          "short_gloss": "favorevole",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1277750,
+      "senses": [
+        {
+          "id": "w1277750-s1",
+          "gloss": [
+            "miglioramento",
+            "cambiamento in meglio"
+          ],
+          "short_gloss": "miglioramento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1277770,
+      "senses": [
+        {
+          "id": "w1277770-s1",
+          "gloss": [
+            "buon lancio (nel baseball)"
+          ],
+          "short_gloss": "buon lancio (nel baseball)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1277780,
+      "senses": [
+        {
+          "id": "w1277780-s1",
+          "gloss": [
+            "buona accoglienza",
+            "buona reputazione",
+            "popolarità"
+          ],
+          "short_gloss": "buona accoglienza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1277790,
+      "senses": [
+        {
+          "id": "w1277790-s1",
+          "gloss": [
+            "piatto preferito",
+            "cibo preferito"
+          ],
+          "short_gloss": "piatto preferito",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1277880,
+      "senses": [
+        {
+          "id": "w1277880-s1",
+          "gloss": [
+            "pietà filiale"
+          ],
+          "short_gloss": "pietà filiale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1277880-s2",
+          "gloss": [
+            "devozione (verso qualcuno)"
+          ],
+          "short_gloss": "devozione (verso qualcuno)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1277980,
+      "senses": [
+        {
+          "id": "w1277980-s1",
+          "gloss": [
+            "operaio di fabbrica"
+          ],
+          "short_gloss": "operaio di fabbrica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278000,
+      "senses": [
+        {
+          "id": "w1278000-s1",
+          "gloss": [
+            "corso di ingegneria"
+          ],
+          "short_gloss": "corso di ingegneria",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278010,
+      "senses": [
+        {
+          "id": "w1278010-s1",
+          "gloss": [
+            "ingegneria"
+          ],
+          "short_gloss": "ingegneria",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278040,
+      "senses": [
+        {
+          "id": "w1278040-s1",
+          "gloss": [
+            "industria manifatturiera"
+          ],
+          "short_gloss": "industria manifatturiera",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278090,
+      "senses": [
+        {
+          "id": "w1278090-s1",
+          "gloss": [
+            "arti industriali",
+            "artigianato"
+          ],
+          "short_gloss": "arti industriali",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278100,
+      "senses": [
+        {
+          "id": "w1278100-s1",
+          "gloss": [
+            "lavoro artigianale"
+          ],
+          "short_gloss": "lavoro artigianale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1278100-s2",
+          "gloss": [
+            "lavoro",
+            "costruzione",
+            "produzione"
+          ],
+          "short_gloss": "lavoro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1278100-s3",
+          "gloss": [
+            "manovra"
+          ],
+          "short_gloss": "manovra",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278110,
+      "senses": [
+        {
+          "id": "w1278110-s1",
+          "gloss": [
+            "macchina utensile"
+          ],
+          "short_gloss": "macchina utensile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278130,
+      "senses": [
+        {
+          "id": "w1278130-s1",
+          "gloss": [
+            "lavori di costruzione"
+          ],
+          "short_gloss": "lavori di costruzione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278200,
+      "senses": [
+        {
+          "id": "w1278200-s1",
+          "gloss": [
+            "processo",
+            "operazione",
+            "fase del processo",
+            "avanzamento dei lavori"
+          ],
+          "short_gloss": "processo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278210,
+      "senses": [
+        {
+          "id": "w1278210-s1",
+          "gloss": [
+            "costo di costruzione"
+          ],
+          "short_gloss": "costo di costruzione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278220,
+      "senses": [
+        {
+          "id": "w1278220-s1",
+          "gloss": [
+            "ideare",
+            "concepire",
+            "inventare",
+            "trovare",
+            "elaborare"
+          ],
+          "short_gloss": "ideare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1278220-s2",
+          "gloss": [
+            "congegno",
+            "progetto",
+            "idea",
+            "piano",
+            "invenzione"
+          ],
+          "short_gloss": "congegno",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1278220-s3",
+          "gloss": [
+            "dedizione al miglioramento spirituale (spec. tramite meditazione Zen)"
+          ],
+          "short_gloss": "dedizione al miglioramento spirituale (spec. tramite meditazione Zen)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278240,
+      "senses": [
+        {
+          "id": "w1278240-s1",
+          "gloss": [
+            "geniere militare",
+            "ingegneria militare"
+          ],
+          "short_gloss": "geniere militare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278250,
+      "senses": [
+        {
+          "id": "w1278250-s1",
+          "gloss": [
+            "metodo di costruzione"
+          ],
+          "short_gloss": "metodo di costruzione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278260,
+      "senses": [
+        {
+          "id": "w1278260-s1",
+          "gloss": [
+            "officina",
+            "studio",
+            "atelier"
+          ],
+          "short_gloss": "officina",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278270,
+      "senses": [
+        {
+          "id": "w1278270-s1",
+          "gloss": [
+            "ingegneria",
+            "opere di ingegneria"
+          ],
+          "short_gloss": "ingegneria",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278290,
+      "senses": [
+        {
+          "id": "w1278290-s1",
+          "gloss": [
+            "abile",
+            "adroitto",
+            "destro",
+            "magistrale",
+            "scaltro",
+            "ingegnoso",
+            "astuto"
+          ],
+          "short_gloss": "abile",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1278290-s2",
+          "gloss": [
+            "artigianato",
+            "maestria",
+            "abilità",
+            "destrezza",
+            "progettazione"
+          ],
+          "short_gloss": "artigianato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1278290-s3",
+          "gloss": [
+            "intrigo",
+            "macchinazione",
+            "artificio",
+            "trucco"
+          ],
+          "short_gloss": "intrigo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278340,
+      "senses": [
+        {
+          "id": "w1278340-s1",
+          "gloss": [
+            "ingegnoso",
+            "abile",
+            "intelligente",
+            "destro",
+            "sofisticato"
+          ],
+          "short_gloss": "ingegnoso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278380,
+      "senses": [
+        {
+          "id": "w1278380-s1",
+          "gloss": [
+            "felicità",
+            "beatitudine",
+            "fortuna"
+          ],
+          "short_gloss": "felicità",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1278380-s2",
+          "gloss": [
+            "fortunatamente"
+          ],
+          "short_gloss": "fortunatamente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278400,
+      "senses": [
+        {
+          "id": "w1278400-s1",
+          "gloss": [
+            "felicità",
+            "benessere",
+            "gioia",
+            "welfare",
+            "beatitudine"
+          ],
+          "short_gloss": "felicità",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278410,
+      "senses": [
+        {
+          "id": "w1278410-s1",
+          "gloss": [
+            "spazioso",
+            "vasto",
+            "ampio"
+          ],
+          "short_gloss": "spazioso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278430,
+      "senses": [
+        {
+          "id": "w1278430-s1",
+          "gloss": [
+            "estensione",
+            "ampiezza",
+            "distesa",
+            "esteso"
+          ],
+          "short_gloss": "estensione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278440,
+      "senses": [
+        {
+          "id": "w1278440-s1",
+          "gloss": [
+            "area",
+            "estensione",
+            "dimensioni",
+            "dimensione"
+          ],
+          "short_gloss": "area",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1278440-s2",
+          "gloss": [
+            "larghezza",
+            "ampiezza"
+          ],
+          "short_gloss": "larghezza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278450,
+      "senses": [
+        {
+          "id": "w1278450-s1",
+          "gloss": [
+            "diffondersi",
+            "propagarsi"
+          ],
+          "short_gloss": "diffondersi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278470,
+      "senses": [
+        {
+          "id": "w1278470-s1",
+          "gloss": [
+            "ampia area"
+          ],
+          "short_gloss": "ampia area",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1278470-s2",
+          "gloss": [
+            "vista ampia (di una mappa)",
+            "vista zoomata all'indietro"
+          ],
+          "short_gloss": "vista ampia (di una mappa)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278510,
+      "senses": [
+        {
+          "id": "w1278510-s1",
+          "gloss": [
+            "pubblicità",
+            "annuncio"
+          ],
+          "short_gloss": "pubblicità",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1278510-s2",
+          "gloss": [
+            "annuncio",
+            "avviso"
+          ],
+          "short_gloss": "annuncio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1278580,
+      "senses": [
+        {
+          "id": "w1278580-s1",
+          "gloss": [
+            "Guangzhou (Cina)",
+            "Canton"
+          ],
+          "short_gloss": "Guangzhou (Cina)",
+          "source": "manual_translation"
+        }
+      ]
+    }
+  ]
+}
