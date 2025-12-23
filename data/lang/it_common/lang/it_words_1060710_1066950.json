@@ -1,0 +1,3303 @@
+{
+  "schema": {
+    "name": "jp-words-lang",
+    "version": "1.0"
+  },
+  "lang": "it",
+  "range": {
+    "start_id": 1060710,
+    "end_id": 1066950
+  },
+  "coverage": {
+    "translated_word_ids_in_file": 200,
+    "translated_common_rank_range": {
+      "start_rank": 1851,
+      "end_rank": 2050
+    },
+    "common_word_ids_total": 30103
+  },
+  "entries": [
+    {
+      "id": 1060710,
+      "senses": [
+        {
+          "id": "w1060710-s1",
+          "gloss": [
+            "city air terminal"
+          ],
+          "short_gloss": "city air terminal",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060770,
+      "senses": [
+        {
+          "id": "w1060770-s1",
+          "gloss": [
+            "cedro (agrume)"
+          ],
+          "short_gloss": "cedro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1060770-s2",
+          "gloss": [
+            "limonata gassata"
+          ],
+          "short_gloss": "limonata gassata",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060780,
+      "senses": [
+        {
+          "id": "w1060780-s1",
+          "gloss": [
+            "Sydney"
+          ],
+          "short_gloss": "Sydney",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060820,
+      "senses": [
+        {
+          "id": "w1060820-s1",
+          "gloss": [
+            "cannella"
+          ],
+          "short_gloss": "cannella",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060830,
+      "senses": [
+        {
+          "id": "w1060830-s1",
+          "gloss": [
+            "copione",
+            "sceneggiatura"
+          ],
+          "short_gloss": "sceneggiatura",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1060830-s2",
+          "gloss": [
+            "scenario"
+          ],
+          "short_gloss": "scenario",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060840,
+      "senses": [
+        {
+          "id": "w1060840-s1",
+          "gloss": [
+            "sceneggiatore"
+          ],
+          "short_gloss": "sceneggiatore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060860,
+      "senses": [
+        {
+          "id": "w1060860-s1",
+          "gloss": [
+            "senior"
+          ],
+          "short_gloss": "senior",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060870,
+      "senses": [
+        {
+          "id": "w1060870-s1",
+          "gloss": [
+            "cinico"
+          ],
+          "short_gloss": "cinico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060950,
+      "senses": [
+        {
+          "id": "w1060950-s1",
+          "gloss": [
+            "cinema"
+          ],
+          "short_gloss": "cinema",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061000,
+      "senses": [
+        {
+          "id": "w1061000-s1",
+          "gloss": [
+            "sinonimo"
+          ],
+          "short_gloss": "sinonimo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1061000-s2",
+          "gloss": [
+            "sinonimo"
+          ],
+          "short_gloss": "sinonimo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061020,
+      "senses": [
+        {
+          "id": "w1061020-s1",
+          "gloss": [
+            "severo",
+            "rigido"
+          ],
+          "short_gloss": "severo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061030,
+      "senses": [
+        {
+          "id": "w1061030-s1",
+          "gloss": [
+            "civico"
+          ],
+          "short_gloss": "civico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061060,
+      "senses": [
+        {
+          "id": "w1061060-s1",
+          "gloss": [
+            "controllo civile"
+          ],
+          "short_gloss": "controllo civile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061090,
+      "senses": [
+        {
+          "id": "w1061090-s1",
+          "gloss": [
+            "chiffon"
+          ],
+          "short_gloss": "chiffon",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061100,
+      "senses": [
+        {
+          "id": "w1061100-s1",
+          "gloss": [
+            "spostamento",
+            "shift"
+          ],
+          "short_gloss": "spostamento",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1061100-s2",
+          "gloss": [
+            "turno"
+          ],
+          "short_gloss": "turno",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1061100-s3",
+          "gloss": [
+            "cambio (marce)"
+          ],
+          "short_gloss": "cambio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061180,
+      "senses": [
+        {
+          "id": "w1061180-s1",
+          "gloss": [
+            "Siberia"
+          ],
+          "short_gloss": "Siberia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1061180-s2",
+          "gloss": [
+            "torta siberiana"
+          ],
+          "short_gloss": "torta siberiana",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061200,
+      "senses": [
+        {
+          "id": "w1061200-s1",
+          "gloss": [
+            "chemise"
+          ],
+          "short_gloss": "chemise",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061210,
+      "senses": [
+        {
+          "id": "w1061210-s1",
+          "gloss": [
+            "simulazione"
+          ],
+          "short_gloss": "simulazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1061210-s2",
+          "gloss": [
+            "simulazione (fallo)"
+          ],
+          "short_gloss": "simulazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061230,
+      "senses": [
+        {
+          "id": "w1061230-s1",
+          "gloss": [
+            "simulatore"
+          ],
+          "short_gloss": "simulatore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061260,
+      "senses": [
+        {
+          "id": "w1061260-s1",
+          "gloss": [
+            "pelle di squalo"
+          ],
+          "short_gloss": "pelle di squalo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061280,
+      "senses": [
+        {
+          "id": "w1061280-s1",
+          "gloss": [
+            "affilato",
+            "nitido"
+          ],
+          "short_gloss": "affilato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1061280-s2",
+          "gloss": [
+            "diesis"
+          ],
+          "short_gloss": "diesis",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1061280-s3",
+          "gloss": [
+            "cancelletto"
+          ],
+          "short_gloss": "cancelletto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1061280-s4",
+          "gloss": [
+            "portamine"
+          ],
+          "short_gloss": "portamine",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061300,
+      "senses": [
+        {
+          "id": "w1061300-s1",
+          "gloss": [
+            "portamine"
+          ],
+          "short_gloss": "portamine",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061310,
+      "senses": [
+        {
+          "id": "w1061310-s1",
+          "gloss": [
+            "sorbetto"
+          ],
+          "short_gloss": "sorbetto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061330,
+      "senses": [
+        {
+          "id": "w1061330-s1",
+          "gloss": [
+            "sciamano"
+          ],
+          "short_gloss": "sciamano",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061340,
+      "senses": [
+        {
+          "id": "w1061340-s1",
+          "gloss": [
+            "arricciatura"
+          ],
+          "short_gloss": "arricciatura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061370,
+      "senses": [
+        {
+          "id": "w1061370-s1",
+          "gloss": [
+            "timido"
+          ],
+          "short_gloss": "timido",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061440,
+      "senses": [
+        {
+          "id": "w1061440-s1",
+          "gloss": [
+            "otturatore"
+          ],
+          "short_gloss": "otturatore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1061440-s2",
+          "gloss": [
+            "persiana"
+          ],
+          "short_gloss": "persiana",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061470,
+      "senses": [
+        {
+          "id": "w1061470-s1",
+          "gloss": [
+            "shutout"
+          ],
+          "short_gloss": "shutout",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1061470-s2",
+          "gloss": [
+            "shutout"
+          ],
+          "short_gloss": "shutout",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061510,
+      "senses": [
+        {
+          "id": "w1061510-s1",
+          "gloss": [
+            "cappello"
+          ],
+          "short_gloss": "cappello",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061520,
+      "senses": [
+        {
+          "id": "w1061520-s1",
+          "gloss": [
+            "canottiera"
+          ],
+          "short_gloss": "canottiera",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1061520-s2",
+          "gloss": [
+            "camicia"
+          ],
+          "short_gloss": "camicia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061540,
+      "senses": [
+        {
+          "id": "w1061540-s1",
+          "gloss": [
+            "castello"
+          ],
+          "short_gloss": "castello",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061570,
+      "senses": [
+        {
+          "id": "w1061570-s1",
+          "gloss": [
+            "volano"
+          ],
+          "short_gloss": "volano",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1061570-s2",
+          "gloss": [
+            "servizio navetta"
+          ],
+          "short_gloss": "servizio navetta",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1061570-s3",
+          "gloss": [
+            "navetta (tessitura)"
+          ],
+          "short_gloss": "navetta",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1061570-s4",
+          "gloss": [
+            "navetta spaziale"
+          ],
+          "short_gloss": "navetta spaziale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061590,
+      "senses": [
+        {
+          "id": "w1061590-s1",
+          "gloss": [
+            "navetta"
+          ],
+          "short_gloss": "navetta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061610,
+      "senses": [
+        {
+          "id": "w1061610-s1",
+          "gloss": [
+            "ombra"
+          ],
+          "short_gloss": "ombra",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061700,
+      "senses": [
+        {
+          "id": "w1061700-s1",
+          "gloss": [
+            "albero (meccanica)",
+            "asse"
+          ],
+          "short_gloss": "albero",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1061700-s2",
+          "gloss": [
+            "shaft (mazza da golf)"
+          ],
+          "short_gloss": "shaft",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1061700-s3",
+          "gloss": [
+            "pozzo di miniera"
+          ],
+          "short_gloss": "pozzo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061710,
+      "senses": [
+        {
+          "id": "w1061710-s1",
+          "gloss": [
+            "pala"
+          ],
+          "short_gloss": "pala",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061740,
+      "senses": [
+        {
+          "id": "w1061740-s1",
+          "gloss": [
+            "bolla di sapone"
+          ],
+          "short_gloss": "bolla di sapone",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061770,
+      "senses": [
+        {
+          "id": "w1061770-s1",
+          "gloss": [
+            "affascinante"
+          ],
+          "short_gloss": "affascinante",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061820,
+      "senses": [
+        {
+          "id": "w1061820-s1",
+          "gloss": [
+            "doccia"
+          ],
+          "short_gloss": "doccia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061830,
+      "senses": [
+        {
+          "id": "w1061830-s1",
+          "gloss": [
+            "bellissimo"
+          ],
+          "short_gloss": "bellissimo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061890,
+      "senses": [
+        {
+          "id": "w1061890-s1",
+          "gloss": [
+            "Chantilly"
+          ],
+          "short_gloss": "Chantilly",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061900,
+      "senses": [
+        {
+          "id": "w1061900-s1",
+          "gloss": [
+            "lampadario"
+          ],
+          "short_gloss": "lampadario",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061910,
+      "senses": [
+        {
+          "id": "w1061910-s1",
+          "gloss": [
+            "champagne"
+          ],
+          "short_gloss": "champagne",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061930,
+      "senses": [
+        {
+          "id": "w1061930-s1",
+          "gloss": [
+            "shampoo"
+          ],
+          "short_gloss": "shampoo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061950,
+      "senses": [
+        {
+          "id": "w1061950-s1",
+          "gloss": [
+            "bignè"
+          ],
+          "short_gloss": "bignè",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061970,
+      "senses": [
+        {
+          "id": "w1061970-s1",
+          "gloss": [
+            "scarpe"
+          ],
+          "short_gloss": "scarpe",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1061990,
+      "senses": [
+        {
+          "id": "w1061990-s1",
+          "gloss": [
+            "tiro"
+          ],
+          "short_gloss": "tiro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1061990-s2",
+          "gloss": [
+            "shuuto"
+          ],
+          "short_gloss": "shuuto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1061990-s3",
+          "gloss": [
+            "germoglio"
+          ],
+          "short_gloss": "germoglio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062000,
+      "senses": [
+        {
+          "id": "w1062000-s1",
+          "gloss": [
+            "Schubert"
+          ],
+          "short_gloss": "Schubert",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062010,
+      "senses": [
+        {
+          "id": "w1062010-s1",
+          "gloss": [
+            "surreale"
+          ],
+          "short_gloss": "surreale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1062010-s2",
+          "gloss": [
+            "surrealismo"
+          ],
+          "short_gloss": "surrealismo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062020,
+      "senses": [
+        {
+          "id": "w1062020-s1",
+          "gloss": [
+            "surrealismo"
+          ],
+          "short_gloss": "surrealismo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062040,
+      "senses": [
+        {
+          "id": "w1062040-s1",
+          "gloss": [
+            "zucchero"
+          ],
+          "short_gloss": "zucchero",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1062040-s2",
+          "gloss": [
+            "schizofrenia"
+          ],
+          "short_gloss": "schizofrenia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062110,
+      "senses": [
+        {
+          "id": "w1062110-s1",
+          "gloss": [
+            "liquore"
+          ],
+          "short_gloss": "liquore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062140,
+      "senses": [
+        {
+          "id": "w1062140-s1",
+          "gloss": [
+            "canto corale"
+          ],
+          "short_gloss": "canto corale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1062140-s2",
+          "gloss": [
+            "coro (manifestazione)"
+          ],
+          "short_gloss": "coro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062170,
+      "senses": [
+        {
+          "id": "w1062170-s1",
+          "gloss": [
+            "camera Schmidt"
+          ],
+          "short_gloss": "camera Schmidt",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062230,
+      "senses": [
+        {
+          "id": "w1062230-s1",
+          "gloss": [
+            "trita-documenti"
+          ],
+          "short_gloss": "trita-documenti",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062240,
+      "senses": [
+        {
+          "id": "w1062240-s1",
+          "gloss": [
+            "spettacolo"
+          ],
+          "short_gloss": "spettacolo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1062240-s2",
+          "gloss": [
+            "fiera",
+            "expo"
+          ],
+          "short_gloss": "fiera",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1062240-s3",
+          "gloss": [
+            "programma TV"
+          ],
+          "short_gloss": "programma TV",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062250,
+      "senses": [
+        {
+          "id": "w1062250-s1",
+          "gloss": [
+            "vetrina"
+          ],
+          "short_gloss": "vetrina",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062270,
+      "senses": [
+        {
+          "id": "w1062270-s1",
+          "gloss": [
+            "vetrina espositiva"
+          ],
+          "short_gloss": "vetrina",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062290,
+      "senses": [
+        {
+          "id": "w1062290-s1",
+          "gloss": [
+            "pantaloncini"
+          ],
+          "short_gloss": "pantaloncini",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1062290-s2",
+          "gloss": [
+            "mutandine"
+          ],
+          "short_gloss": "mutandine",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062300,
+      "senses": [
+        {
+          "id": "w1062300-s1",
+          "gloss": [
+            "corto"
+          ],
+          "short_gloss": "corto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1062300-s2",
+          "gloss": [
+            "shortstop"
+          ],
+          "short_gloss": "shortstop",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1062300-s3",
+          "gloss": [
+            "cortocircuito"
+          ],
+          "short_gloss": "cortocircuito",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1062300-s4",
+          "gloss": [
+            "capelli corti"
+          ],
+          "short_gloss": "capelli corti",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1062300-s5",
+          "gloss": [
+            "vendita allo scoperto"
+          ],
+          "short_gloss": "vendita allo scoperto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062330,
+      "senses": [
+        {
+          "id": "w1062330-s1",
+          "gloss": [
+            "scorciatoia"
+          ],
+          "short_gloss": "scorciatoia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1062330-s2",
+          "gloss": [
+            "taglio corto"
+          ],
+          "short_gloss": "taglio corto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1062330-s3",
+          "gloss": [
+            "scorciatoia (tastiera)"
+          ],
+          "short_gloss": "scorciatoia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062400,
+      "senses": [
+        {
+          "id": "w1062400-s1",
+          "gloss": [
+            "degenza breve"
+          ],
+          "short_gloss": "degenza breve",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062460,
+      "senses": [
+        {
+          "id": "w1062460-s1",
+          "gloss": [
+            "pantaloncini"
+          ],
+          "short_gloss": "pantaloncini",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062580,
+      "senses": [
+        {
+          "id": "w1062580-s1",
+          "gloss": [
+            "scialle"
+          ],
+          "short_gloss": "scialle",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062590,
+      "senses": [
+        {
+          "id": "w1062590-s1",
+          "gloss": [
+            "showroom"
+          ],
+          "short_gloss": "showroom",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062650,
+      "senses": [
+        {
+          "id": "w1062650-s1",
+          "gloss": [
+            "scioccante"
+          ],
+          "short_gloss": "scioccante",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062660,
+      "senses": [
+        {
+          "id": "w1062660-s1",
+          "gloss": [
+            "shock emotivo"
+          ],
+          "short_gloss": "shock",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1062660-s2",
+          "gloss": [
+            "shock fisico"
+          ],
+          "short_gloss": "shock",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1062660-s3",
+          "gloss": [
+            "crisi"
+          ],
+          "short_gloss": "crisi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1062660-s4",
+          "gloss": [
+            "shock (circolatorio)"
+          ],
+          "short_gloss": "shock",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062690,
+      "senses": [
+        {
+          "id": "w1062690-s1",
+          "gloss": [
+            "tiro"
+          ],
+          "short_gloss": "tiro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1062690-s2",
+          "gloss": [
+            "colpo"
+          ],
+          "short_gloss": "colpo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1062690-s3",
+          "gloss": [
+            "tiro (basket)"
+          ],
+          "short_gloss": "tiro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1062690-s4",
+          "gloss": [
+            "colpo di pistola"
+          ],
+          "short_gloss": "colpo di pistola",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1062690-s5",
+          "gloss": [
+            "shot (alcolico)"
+          ],
+          "short_gloss": "shot",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062760,
+      "senses": [
+        {
+          "id": "w1062760-s1",
+          "gloss": [
+            "shopping"
+          ],
+          "short_gloss": "shopping",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062770,
+      "senses": [
+        {
+          "id": "w1062770-s1",
+          "gloss": [
+            "carrello della spesa"
+          ],
+          "short_gloss": "carrello della spesa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062810,
+      "senses": [
+        {
+          "id": "w1062810-s1",
+          "gloss": [
+            "centro commerciale"
+          ],
+          "short_gloss": "centro commerciale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062820,
+      "senses": [
+        {
+          "id": "w1062820-s1",
+          "gloss": [
+            "negozio"
+          ],
+          "short_gloss": "negozio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062830,
+      "senses": [
+        {
+          "id": "w1062830-s1",
+          "gloss": [
+            "Chopin"
+          ],
+          "short_gloss": "Chopin",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062870,
+      "senses": [
+        {
+          "id": "w1062870-s1",
+          "gloss": [
+            "borsa a spalla"
+          ],
+          "short_gloss": "borsa a spalla",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062910,
+      "senses": [
+        {
+          "id": "w1062910-s1",
+          "gloss": [
+            "serie"
+          ],
+          "short_gloss": "serie",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062920,
+      "senses": [
+        {
+          "id": "w1062920-s1",
+          "gloss": [
+            "Siria"
+          ],
+          "short_gloss": "Siria",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062930,
+      "senses": [
+        {
+          "id": "w1062930-s1",
+          "gloss": [
+            "serio"
+          ],
+          "short_gloss": "serio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1062960,
+      "senses": [
+        {
+          "id": "w1062960-s1",
+          "gloss": [
+            "seriale"
+          ],
+          "short_gloss": "seriale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063000,
+      "senses": [
+        {
+          "id": "w1063000-s1",
+          "gloss": [
+            "Sirio"
+          ],
+          "short_gloss": "Sirio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063030,
+      "senses": [
+        {
+          "id": "w1063030-s1",
+          "gloss": [
+            "silicone"
+          ],
+          "short_gloss": "silicone",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063040,
+      "senses": [
+        {
+          "id": "w1063040-s1",
+          "gloss": [
+            "silicio"
+          ],
+          "short_gloss": "silicio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1063040-s2",
+          "gloss": [
+            "silicone"
+          ],
+          "short_gloss": "silicone",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063090,
+      "senses": [
+        {
+          "id": "w1063090-s1",
+          "gloss": [
+            "siringa"
+          ],
+          "short_gloss": "siringa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063100,
+      "senses": [
+        {
+          "id": "w1063100-s1",
+          "gloss": [
+            "cilindro"
+          ],
+          "short_gloss": "cilindro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063120,
+      "senses": [
+        {
+          "id": "w1063120-s1",
+          "gloss": [
+            "silhouettist"
+          ],
+          "short_gloss": "silhouettist",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063130,
+      "senses": [
+        {
+          "id": "w1063130-s1",
+          "gloss": [
+            "silhouette"
+          ],
+          "short_gloss": "silhouette",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063150,
+      "senses": [
+        {
+          "id": "w1063150-s1",
+          "gloss": [
+            "seta"
+          ],
+          "short_gloss": "seta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063180,
+      "senses": [
+        {
+          "id": "w1063180-s1",
+          "gloss": [
+            "Via della Seta"
+          ],
+          "short_gloss": "Via della Seta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063200,
+      "senses": [
+        {
+          "id": "w1063200-s1",
+          "gloss": [
+            "argento"
+          ],
+          "short_gloss": "argento",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1063200-s2",
+          "gloss": [
+            "pensionato"
+          ],
+          "short_gloss": "pensionato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063350,
+      "senses": [
+        {
+          "id": "w1063350-s1",
+          "gloss": [
+            "sciroppo"
+          ],
+          "short_gloss": "sciroppo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063370,
+      "senses": [
+        {
+          "id": "w1063370-s1",
+          "gloss": [
+            "magro",
+            "sottile"
+          ],
+          "short_gloss": "magro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1063370-s2",
+          "gloss": [
+            "stinco"
+          ],
+          "short_gloss": "stinco",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1063370-s3",
+          "gloss": [
+            "sin-"
+          ],
+          "short_gloss": "sin-",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063380,
+      "senses": [
+        {
+          "id": "w1063380-s1",
+          "gloss": [
+            "sinker"
+          ],
+          "short_gloss": "sinker",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063390,
+      "senses": [
+        {
+          "id": "w1063390-s1",
+          "gloss": [
+            "cantante"
+          ],
+          "short_gloss": "cantante",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063400,
+      "senses": [
+        {
+          "id": "w1063400-s1",
+          "gloss": [
+            "cantautore"
+          ],
+          "short_gloss": "cantautore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063410,
+      "senses": [
+        {
+          "id": "w1063410-s1",
+          "gloss": [
+            "Singapore"
+          ],
+          "short_gloss": "Singapore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063430,
+      "senses": [
+        {
+          "id": "w1063430-s1",
+          "gloss": [
+            "lavandino"
+          ],
+          "short_gloss": "lavandino",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063450,
+      "senses": [
+        {
+          "id": "w1063450-s1",
+          "gloss": [
+            "think tank"
+          ],
+          "short_gloss": "think tank",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063470,
+      "senses": [
+        {
+          "id": "w1063470-s1",
+          "gloss": [
+            "sincronizzazione"
+          ],
+          "short_gloss": "sincronizzazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1063470-s2",
+          "gloss": [
+            "nuoto sincronizzato"
+          ],
+          "short_gloss": "nuoto sincronizzato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063490,
+      "senses": [
+        {
+          "id": "w1063490-s1",
+          "gloss": [
+            "sincronizzazione"
+          ],
+          "short_gloss": "sincronizzazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063530,
+      "senses": [
+        {
+          "id": "w1063530-s1",
+          "gloss": [
+            "singolo"
+          ],
+          "short_gloss": "singolo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1063530-s2",
+          "gloss": [
+            "camera singola"
+          ],
+          "short_gloss": "camera singola",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1063530-s3",
+          "gloss": [
+            "monopetto"
+          ],
+          "short_gloss": "monopetto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1063530-s4",
+          "gloss": [
+            "polsino semplice"
+          ],
+          "short_gloss": "polsino semplice",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1063530-s5",
+          "gloss": [
+            "larghezza singola"
+          ],
+          "short_gloss": "larghezza singola",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1063530-s6",
+          "gloss": [
+            "singolare"
+          ],
+          "short_gloss": "singolare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1063530-s7",
+          "gloss": [
+            "singolo"
+          ],
+          "short_gloss": "singolo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1063530-s8",
+          "gloss": [
+            "handicap singolo"
+          ],
+          "short_gloss": "handicap singolo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063550,
+      "senses": [
+        {
+          "id": "w1063550-s1",
+          "gloss": [
+            "singolare"
+          ],
+          "short_gloss": "singolare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1063550-s2",
+          "gloss": [
+            "single"
+          ],
+          "short_gloss": "single",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1063550-s3",
+          "gloss": [
+            "singles"
+          ],
+          "short_gloss": "singles",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063630,
+      "senses": [
+        {
+          "id": "w1063630-s1",
+          "gloss": [
+            "sindacato"
+          ],
+          "short_gloss": "sindacato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063660,
+      "senses": [
+        {
+          "id": "w1063660-s1",
+          "gloss": [
+            "sintetizzatore"
+          ],
+          "short_gloss": "sintetizzatore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063750,
+      "senses": [
+        {
+          "id": "w1063750-s1",
+          "gloss": [
+            "sindrome"
+          ],
+          "short_gloss": "sindrome",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063760,
+      "senses": [
+        {
+          "id": "w1063760-s1",
+          "gloss": [
+            "diluente"
+          ],
+          "short_gloss": "diluente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063780,
+      "senses": [
+        {
+          "id": "w1063780-s1",
+          "gloss": [
+            "simpatizzante"
+          ],
+          "short_gloss": "simpatizzante",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063820,
+      "senses": [
+        {
+          "id": "w1063820-s1",
+          "gloss": [
+            "sinfonia"
+          ],
+          "short_gloss": "sinfonia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063870,
+      "senses": [
+        {
+          "id": "w1063870-s1",
+          "gloss": [
+            "semplice"
+          ],
+          "short_gloss": "semplice",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063890,
+      "senses": [
+        {
+          "id": "w1063890-s1",
+          "gloss": [
+            "simbolista"
+          ],
+          "short_gloss": "simbolista",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063910,
+      "senses": [
+        {
+          "id": "w1063910-s1",
+          "gloss": [
+            "simbolico"
+          ],
+          "short_gloss": "simbolico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063940,
+      "senses": [
+        {
+          "id": "w1063940-s1",
+          "gloss": [
+            "simbolo"
+          ],
+          "short_gloss": "simbolo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063970,
+      "senses": [
+        {
+          "id": "w1063970-s1",
+          "gloss": [
+            "simposio"
+          ],
+          "short_gloss": "simposio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1063980,
+      "senses": [
+        {
+          "id": "w1063980-s1",
+          "gloss": [
+            "simposio"
+          ],
+          "short_gloss": "simposio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064050,
+      "senses": [
+        {
+          "id": "w1064050-s1",
+          "gloss": [
+            "jeans"
+          ],
+          "short_gloss": "jeans",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064070,
+      "senses": [
+        {
+          "id": "w1064070-s1",
+          "gloss": [
+            "jeep"
+          ],
+          "short_gloss": "jeep",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064100,
+      "senses": [
+        {
+          "id": "w1064100-s1",
+          "gloss": [
+            "gene"
+          ],
+          "short_gloss": "gene",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064120,
+      "senses": [
+        {
+          "id": "w1064120-s1",
+          "gloss": [
+            "jeans"
+          ],
+          "short_gloss": "jeans",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1064120-s2",
+          "gloss": [
+            "denim"
+          ],
+          "short_gloss": "denim",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064170,
+      "senses": [
+        {
+          "id": "w1064170-s1",
+          "gloss": [
+            "gesto"
+          ],
+          "short_gloss": "gesto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1064170-s2",
+          "gloss": [
+            "gioco delle mimiche"
+          ],
+          "short_gloss": "mimica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064180,
+      "senses": [
+        {
+          "id": "w1064180-s1",
+          "gloss": [
+            "jet"
+          ],
+          "short_gloss": "jet",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064200,
+      "senses": [
+        {
+          "id": "w1064200-s1",
+          "gloss": [
+            "montagna russa"
+          ],
+          "short_gloss": "montagna russa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064250,
+      "senses": [
+        {
+          "id": "w1064250-s1",
+          "gloss": [
+            "aereo a reazione"
+          ],
+          "short_gloss": "aereo a reazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064360,
+      "senses": [
+        {
+          "id": "w1064360-s1",
+          "gloss": [
+            "generazione"
+          ],
+          "short_gloss": "generazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064410,
+      "senses": [
+        {
+          "id": "w1064410-s1",
+          "gloss": [
+            "genocidio"
+          ],
+          "short_gloss": "genocidio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064440,
+      "senses": [
+        {
+          "id": "w1064440-s1",
+          "gloss": [
+            "gelosia"
+          ],
+          "short_gloss": "gelosia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064450,
+      "senses": [
+        {
+          "id": "w1064450-s1",
+          "gloss": [
+            "gerontocrazia"
+          ],
+          "short_gloss": "gerontocrazia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064480,
+      "senses": [
+        {
+          "id": "w1064480-s1",
+          "gloss": [
+            "genere"
+          ],
+          "short_gloss": "genere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1064480-s2",
+          "gloss": [
+            "genere"
+          ],
+          "short_gloss": "genere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064600,
+      "senses": [
+        {
+          "id": "w1064600-s1",
+          "gloss": [
+            "zigzag"
+          ],
+          "short_gloss": "zigzag",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064620,
+      "senses": [
+        {
+          "id": "w1064620-s1",
+          "gloss": [
+            "puzzle"
+          ],
+          "short_gloss": "puzzle",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064650,
+      "senses": [
+        {
+          "id": "w1064650-s1",
+          "gloss": [
+            "JIS"
+          ],
+          "short_gloss": "JIS",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064680,
+      "senses": [
+        {
+          "id": "w1064680-s1",
+          "gloss": [
+            "distrofia"
+          ],
+          "short_gloss": "distrofia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064770,
+      "senses": [
+        {
+          "id": "w1064770-s1",
+          "gloss": [
+            "jihad"
+          ],
+          "short_gloss": "jihad",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064790,
+      "senses": [
+        {
+          "id": "w1064790-s1",
+          "gloss": [
+            "Zipangu"
+          ],
+          "short_gloss": "Zipangu",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064840,
+      "senses": [
+        {
+          "id": "w1064840-s1",
+          "gloss": [
+            "jib"
+          ],
+          "short_gloss": "jib",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064850,
+      "senses": [
+        {
+          "id": "w1064850-s1",
+          "gloss": [
+            "gitano"
+          ],
+          "short_gloss": "gitano",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064880,
+      "senses": [
+        {
+          "id": "w1064880-s1",
+          "gloss": [
+            "palestra"
+          ],
+          "short_gloss": "palestra",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064920,
+      "senses": [
+        {
+          "id": "w1064920-s1",
+          "gloss": [
+            "thermos"
+          ],
+          "short_gloss": "thermos",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1064920-s2",
+          "gloss": [
+            "vaso"
+          ],
+          "short_gloss": "vaso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064940,
+      "senses": [
+        {
+          "id": "w1064940-s1",
+          "gloss": [
+            "clean and jerk"
+          ],
+          "short_gloss": "clean and jerk",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064960,
+      "senses": [
+        {
+          "id": "w1064960-s1",
+          "gloss": [
+            "jersey (tessuto)"
+          ],
+          "short_gloss": "jersey",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1064960-s2",
+          "gloss": [
+            "maglia sportiva"
+          ],
+          "short_gloss": "maglia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1064960-s3",
+          "gloss": [
+            "tuta"
+          ],
+          "short_gloss": "tuta",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1064960-s4",
+          "gloss": [
+            "Jersey (bovini)"
+          ],
+          "short_gloss": "Jersey",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064980,
+      "senses": [
+        {
+          "id": "w1064980-s1",
+          "gloss": [
+            "giornalista"
+          ],
+          "short_gloss": "giornalista",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1064990,
+      "senses": [
+        {
+          "id": "w1064990-s1",
+          "gloss": [
+            "giornalismo"
+          ],
+          "short_gloss": "giornalismo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065000,
+      "senses": [
+        {
+          "id": "w1065000-s1",
+          "gloss": [
+            "diario",
+            "registro"
+          ],
+          "short_gloss": "diario",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065040,
+      "senses": [
+        {
+          "id": "w1065040-s1",
+          "gloss": [
+            "gigante"
+          ],
+          "short_gloss": "gigante",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065090,
+      "senses": [
+        {
+          "id": "w1065090-s1",
+          "gloss": [
+            "giroscopio"
+          ],
+          "short_gloss": "giroscopio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065120,
+      "senses": [
+        {
+          "id": "w1065120-s1",
+          "gloss": [
+            "Giacarta"
+          ],
+          "short_gloss": "Giacarta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065130,
+      "senses": [
+        {
+          "id": "w1065130-s1",
+          "gloss": [
+            "giaguaro"
+          ],
+          "short_gloss": "giaguaro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065170,
+      "senses": [
+        {
+          "id": "w1065170-s1",
+          "gloss": [
+            "giacca"
+          ],
+          "short_gloss": "giacca",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1065170-s2",
+          "gloss": [
+            "copertina"
+          ],
+          "short_gloss": "copertina",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1065170-s3",
+          "gloss": [
+            "custodia"
+          ],
+          "short_gloss": "custodia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065200,
+      "senses": [
+        {
+          "id": "w1065200-s1",
+          "gloss": [
+            "JAS"
+          ],
+          "short_gloss": "JAS",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065240,
+      "senses": [
+        {
+          "id": "w1065240-s1",
+          "gloss": [
+            "giusto",
+            "preciso"
+          ],
+          "short_gloss": "giusto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065270,
+      "senses": [
+        {
+          "id": "w1065270-s1",
+          "gloss": [
+            "gelsomino"
+          ],
+          "short_gloss": "gelsomino",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065290,
+      "senses": [
+        {
+          "id": "w1065290-s1",
+          "gloss": [
+            "jazz"
+          ],
+          "short_gloss": "jazz",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065370,
+      "senses": [
+        {
+          "id": "w1065370-s1",
+          "gloss": [
+            "jazzista"
+          ],
+          "short_gloss": "jazzista",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065400,
+      "senses": [
+        {
+          "id": "w1065400-s1",
+          "gloss": [
+            "cric"
+          ],
+          "short_gloss": "cric",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065410,
+      "senses": [
+        {
+          "id": "w1065410-s1",
+          "gloss": [
+            "fante"
+          ],
+          "short_gloss": "fante",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1065410-s2",
+          "gloss": [
+            "jack (presa)"
+          ],
+          "short_gloss": "jack",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1065410-s3",
+          "gloss": [
+            "dirottamento"
+          ],
+          "short_gloss": "dirottamento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065450,
+      "senses": [
+        {
+          "id": "w1065450-s1",
+          "gloss": [
+            "giudice"
+          ],
+          "short_gloss": "giudice",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1065450-s2",
+          "gloss": [
+            "giudizio",
+            "decisione"
+          ],
+          "short_gloss": "giudizio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1065450-s3",
+          "gloss": [
+            "giudizio"
+          ],
+          "short_gloss": "giudizio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065490,
+      "senses": [
+        {
+          "id": "w1065490-s1",
+          "gloss": [
+            "giapponese"
+          ],
+          "short_gloss": "giapponese",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065560,
+      "senses": [
+        {
+          "id": "w1065560-s1",
+          "gloss": [
+            "Giappone"
+          ],
+          "short_gloss": "Giappone",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065570,
+      "senses": [
+        {
+          "id": "w1065570-s1",
+          "gloss": [
+            "Japan Cup"
+          ],
+          "short_gloss": "Japan Cup",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065630,
+      "senses": [
+        {
+          "id": "w1065630-s1",
+          "gloss": [
+            "jab"
+          ],
+          "short_gloss": "jab",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065640,
+      "senses": [
+        {
+          "id": "w1065640-s1",
+          "gloss": [
+            "camelia"
+          ],
+          "short_gloss": "camelia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065660,
+      "senses": [
+        {
+          "id": "w1065660-s1",
+          "gloss": [
+            "Giamaica"
+          ],
+          "short_gloss": "Giamaica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065680,
+      "senses": [
+        {
+          "id": "w1065680-s1",
+          "gloss": [
+            "marmellata"
+          ],
+          "short_gloss": "marmellata",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065720,
+      "senses": [
+        {
+          "id": "w1065720-s1",
+          "gloss": [
+            "tossicodipendente"
+          ],
+          "short_gloss": "tossicodipendente",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1065720-s2",
+          "gloss": [
+            "fanatico"
+          ],
+          "short_gloss": "fanatico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065760,
+      "senses": [
+        {
+          "id": "w1065760-s1",
+          "gloss": [
+            "giunzione"
+          ],
+          "short_gloss": "giunzione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065790,
+      "senses": [
+        {
+          "id": "w1065790-s1",
+          "gloss": [
+            "giungla"
+          ],
+          "short_gloss": "giungla",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1065790-s2",
+          "gloss": [
+            "jungle music"
+          ],
+          "short_gloss": "jungle music",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065840,
+      "senses": [
+        {
+          "id": "w1065840-s1",
+          "gloss": [
+            "giacca corta"
+          ],
+          "short_gloss": "giacca corta",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1065840-s2",
+          "gloss": [
+            "saltatore"
+          ],
+          "short_gloss": "saltatore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1065840-s3",
+          "gloss": [
+            "jumper wire"
+          ],
+          "short_gloss": "jumper wire",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065860,
+      "senses": [
+        {
+          "id": "w1065860-s1",
+          "gloss": [
+            "salto"
+          ],
+          "short_gloss": "salto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1065860-s2",
+          "gloss": [
+            "salto"
+          ],
+          "short_gloss": "salto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1065860-s3",
+          "gloss": [
+            "salto (link)"
+          ],
+          "short_gloss": "salto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1065860-s4",
+          "gloss": [
+            "balzo"
+          ],
+          "short_gloss": "balzo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065880,
+      "senses": [
+        {
+          "id": "w1065880-s1",
+          "gloss": [
+            "jumbo"
+          ],
+          "short_gloss": "jumbo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1065880-s2",
+          "gloss": [
+            "jumbo jet"
+          ],
+          "short_gloss": "jumbo jet",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065920,
+      "senses": [
+        {
+          "id": "w1065920-s1",
+          "gloss": [
+            "genere"
+          ],
+          "short_gloss": "genere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065930,
+      "senses": [
+        {
+          "id": "w1065930-s1",
+          "gloss": [
+            "jukebox"
+          ],
+          "short_gloss": "jukebox",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065950,
+      "senses": [
+        {
+          "id": "w1065950-s1",
+          "gloss": [
+            "succo"
+          ],
+          "short_gloss": "succo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1065950-s2",
+          "gloss": [
+            "bibita"
+          ],
+          "short_gloss": "bibita",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065960,
+      "senses": [
+        {
+          "id": "w1065960-s1",
+          "gloss": [
+            "joule"
+          ],
+          "short_gloss": "joule",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065970,
+      "senses": [
+        {
+          "id": "w1065970-s1",
+          "gloss": [
+            "sposa di giugno"
+          ],
+          "short_gloss": "sposa di giugno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1065980,
+      "senses": [
+        {
+          "id": "w1065980-s1",
+          "gloss": [
+            "gioielli"
+          ],
+          "short_gloss": "gioielli",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066030,
+      "senses": [
+        {
+          "id": "w1066030-s1",
+          "gloss": [
+            "junior"
+          ],
+          "short_gloss": "junior",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066140,
+      "senses": [
+        {
+          "id": "w1066140-s1",
+          "gloss": [
+            "Ginevra"
+          ],
+          "short_gloss": "Ginevra",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066150,
+      "senses": [
+        {
+          "id": "w1066150-s1",
+          "gloss": [
+            "giubileo"
+          ],
+          "short_gloss": "giubileo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066160,
+      "senses": [
+        {
+          "id": "w1066160-s1",
+          "gloss": [
+            "Giove (dio)"
+          ],
+          "short_gloss": "Giove",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1066160-s2",
+          "gloss": [
+            "Giove"
+          ],
+          "short_gloss": "Giove",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066170,
+      "senses": [
+        {
+          "id": "w1066170-s1",
+          "gloss": [
+            "duraluminio"
+          ],
+          "short_gloss": "duraluminio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066190,
+      "senses": [
+        {
+          "id": "w1066190-s1",
+          "gloss": [
+            "giuria"
+          ],
+          "short_gloss": "giuria",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066220,
+      "senses": [
+        {
+          "id": "w1066220-s1",
+          "gloss": [
+            "jolly"
+          ],
+          "short_gloss": "jolly",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1066220-s2",
+          "gloss": [
+            "buffone"
+          ],
+          "short_gloss": "buffone",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066230,
+      "senses": [
+        {
+          "id": "w1066230-s1",
+          "gloss": [
+            "barzelletta"
+          ],
+          "short_gloss": "barzelletta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066290,
+      "senses": [
+        {
+          "id": "w1066290-s1",
+          "gloss": [
+            "gioia"
+          ],
+          "short_gloss": "gioia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066320,
+      "senses": [
+        {
+          "id": "w1066320-s1",
+          "gloss": [
+            "giunto"
+          ],
+          "short_gloss": "giunto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066360,
+      "senses": [
+        {
+          "id": "w1066360-s1",
+          "gloss": [
+            "jogging"
+          ],
+          "short_gloss": "jogging",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066390,
+      "senses": [
+        {
+          "id": "w1066390-s1",
+          "gloss": [
+            "boccale di birra"
+          ],
+          "short_gloss": "boccale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066510,
+      "senses": [
+        {
+          "id": "w1066510-s1",
+          "gloss": [
+            "giraffa"
+          ],
+          "short_gloss": "giraffa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066560,
+      "senses": [
+        {
+          "id": "w1066560-s1",
+          "gloss": [
+            "dilemma"
+          ],
+          "short_gloss": "dilemma",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066570,
+      "senses": [
+        {
+          "id": "w1066570-s1",
+          "gloss": [
+            "a poco a poco"
+          ],
+          "short_gloss": "a poco a poco",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1066570-s2",
+          "gloss": [
+            "che permea lentamente"
+          ],
+          "short_gloss": "che permea lentamente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066580,
+      "senses": [
+        {
+          "id": "w1066580-s1",
+          "gloss": [
+            "gin"
+          ],
+          "short_gloss": "gin",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066590,
+      "senses": [
+        {
+          "id": "w1066590-s1",
+          "gloss": [
+            "jingisukan"
+          ],
+          "short_gloss": "jingisukan",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1066590-s2",
+          "gloss": [
+            "griglia jingisukan"
+          ],
+          "short_gloss": "griglia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066600,
+      "senses": [
+        {
+          "id": "w1066600-s1",
+          "gloss": [
+            "jettatura"
+          ],
+          "short_gloss": "jettatura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066660,
+      "senses": [
+        {
+          "id": "w1066660-s1",
+          "gloss": [
+            "Zimbabwe"
+          ],
+          "short_gloss": "Zimbabwe",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066680,
+      "senses": [
+        {
+          "id": "w1066680-s1",
+          "gloss": [
+            "abito"
+          ],
+          "short_gloss": "abito",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1066680-s2",
+          "gloss": [
+            "seme"
+          ],
+          "short_gloss": "seme",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066690,
+      "senses": [
+        {
+          "id": "w1066690-s1",
+          "gloss": [
+            "valigia"
+          ],
+          "short_gloss": "valigia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066710,
+      "senses": [
+        {
+          "id": "w1066710-s1",
+          "gloss": [
+            "supermercato"
+          ],
+          "short_gloss": "supermercato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1066710-s2",
+          "gloss": [
+            "sottotitoli"
+          ],
+          "short_gloss": "sottotitoli",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1066710-s3",
+          "gloss": [
+            "supereterodina"
+          ],
+          "short_gloss": "supereterodina",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1066710-s4",
+          "gloss": [
+            "super"
+          ],
+          "short_gloss": "super",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066810,
+      "senses": [
+        {
+          "id": "w1066810-s1",
+          "gloss": [
+            "superstar"
+          ],
+          "short_gloss": "superstar",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066860,
+      "senses": [
+        {
+          "id": "w1066860-s1",
+          "gloss": [
+            "catena di supermercati"
+          ],
+          "short_gloss": "catena di supermercati",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066900,
+      "senses": [
+        {
+          "id": "w1066900-s1",
+          "gloss": [
+            "supervisore"
+          ],
+          "short_gloss": "supervisore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066920,
+      "senses": [
+        {
+          "id": "w1066920-s1",
+          "gloss": [
+            "Super Bowl"
+          ],
+          "short_gloss": "Super Bowl",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066930,
+      "senses": [
+        {
+          "id": "w1066930-s1",
+          "gloss": [
+            "supermercato"
+          ],
+          "short_gloss": "supermercato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1066950,
+      "senses": [
+        {
+          "id": "w1066950-s1",
+          "gloss": [
+            "superuomo"
+          ],
+          "short_gloss": "superuomo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1066950-s2",
+          "gloss": [
+            "Superman"
+          ],
+          "short_gloss": "Superman",
+          "source": "manual_translation"
+        }
+      ]
+    }
+  ]
+}
