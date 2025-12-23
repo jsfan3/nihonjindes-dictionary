@@ -6,7 +6,7 @@
   "lang": "it",
   "scope": "common_words_partial",
   "coverage": {
-    "translated_common_words": 2350,
+    "translated_common_words": 2550,
     "target_common_words": 30103
   },
   "notes": [
@@ -25,6 +25,7 @@
     "lang/it_words_1053350_1060700.json",
     "lang/it_words_1060710_1066950.json",
     "lang/it_words_1249550_1253070.json",
-    "lang/it_words_1253100_1260320.json"
+    "lang/it_words_1253100_1260320.json",
+    "lang/it_words_1260330_1269620.json"
   ]
 }
