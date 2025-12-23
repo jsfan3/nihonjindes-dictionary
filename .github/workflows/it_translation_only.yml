@@ -15,7 +15,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Enforce PR touches only it_words + meta (no .gz, pretty JSON, meta updated)
+      - name: Enforce PR touches only it_words_<something>.json + meta (no deletions, no .gz, pretty JSON, meta updated)
         shell: bash
         run: |
           set -euo pipefail
@@ -26,34 +26,27 @@ jobs:
           echo "Base: $BASE_SHA"
           echo "Head: $HEAD_SHA"
 
-          mapfile -t CHANGED_STATUS < <(git diff --name-status "$BASE_SHA" "$HEAD_SHA" | sed '/^\s*$/d' || true)
-
-          if [ "${#CHANGED_STATUS[@]}" -eq 0 ]; then
-            echo "No changed files detected."
-            exit 0
-          fi
-
-          echo "Changed files (name-status):"
-          printf ' - %s\n' "${CHANGED_STATUS[@]}"
-
           ITCOMMON_META="data/lang/it_common/meta.json"
+
+          # Regole:
+          # - Consenti SOLO:
+          #     * data/lang/it_common/meta.json
+          #     * data/lang/it_common/lang/it_words_<qualcosa>.json   (NOT it_words.json)
+          # - Vietate SEMPRE le cancellazioni
+          # - Vietati SEMPRE file compressi (.json.gz / .jsonl.gz)
+          # - JSON deve essere pretty-printed
+          ALLOWED_RE='^data/lang/it_common/(meta\.json|lang/it_words_[^/]+\.json)$'
+          IT_WORDS_RE='^data/lang/it_common/lang/it_words_[^/]+\.json$'
+          FORBIDDEN_COMPRESSED_RE='^data/lang/it_common/lang/it_words_[^/]+\.jsonl?\.gz$'
 
           is_allowed() {
             local f="$1"
-            case "$f" in
-              data/lang/it_common/meta.json) return 0 ;;
-              data/lang/it_common/it_words_*.json) return 0 ;;
-              *) return 1 ;;
-            esac
+            [[ "$f" =~ $ALLOWED_RE ]]
           }
 
           is_forbidden_compressed() {
             local f="$1"
-            case "$f" in
-              data/lang/it_common/it_words_*.json.gz) return 0 ;;
-              data/lang/it_common/it_words_*.jsonl.gz) return 0 ;;
-              *) return 1 ;;
-            esac
+            [[ "$f" =~ $FORBIDDEN_COMPRESSED_RE ]]
           }
 
           check_pretty_json() {
@@ -74,30 +67,38 @@ jobs:
           FAIL=0
           NEEDS_META=0
           META_TOUCHED=0
+          CHANGED_COUNT=0
+          declare -a CHANGED_PRETTY=()
 
-          # Hard rule: the repo must not contain tracked compressed italian translation files
-          FOUND_COMPRESSED="$(git ls-files -- 'data/lang/it_common/it_words_*.json.gz' 'data/lang/it_common/it_words_*.jsonl.gz' || true)"
+          # Hard rule: nessun file compresso tracciato nel repo (sotto it_common/lang)
+          FOUND_COMPRESSED="$(
+            git ls-files -z -- 'data/lang/it_common/lang/' \
+              | tr '\0' '\n' \
+              | grep -E "$FORBIDDEN_COMPRESSED_RE" \
+              || true
+          )"
           if [ -n "$FOUND_COMPRESSED" ]; then
             echo "::error::Compressed Italian translation files are forbidden. Remove these tracked files:"
             echo "$FOUND_COMPRESSED"
             FAIL=1
           fi
 
-          for line in "${CHANGED_STATUS[@]}"; do
-            status="$(echo "$line" | awk '{print $1}')"
+          # name-status robusto (null-delimited)
+          while IFS= read -r -d '' status; do
+            if [[ "$status" =~ ^R|^C ]]; then
+              IFS= read -r -d '' old_path
+              IFS= read -r -d '' new_path
 
-            # Handle rename/copy (Rxxx/Cxxx old new)
-            if [[ "$status" =~ ^R ]] || [[ "$status" =~ ^C ]]; then
-              old_path="$(echo "$line" | awk '{print $2}')"
-              new_path="$(echo "$line" | awk '{print $3}')"
+              CHANGED_COUNT=$((CHANGED_COUNT + 1))
+              CHANGED_PRETTY+=("$status $old_path -> $new_path")
 
-              # "nient'altro": both sides must be allowed
+              # In questo workflow, una rename/copy è consentita solo se entrambe le path sono consentite
               if ! is_allowed "$old_path"; then
-                echo "::error file=$old_path::Only these files may be changed: data/lang/it_common/it_words_*.json and data/lang/it_common/meta.json."
+                echo "::error file=$old_path::Only these files may be changed: data/lang/it_common/lang/it_words_<something>.json and data/lang/it_common/meta.json."
                 FAIL=1
               fi
               if ! is_allowed "$new_path"; then
-                echo "::error file=$new_path::Only these files may be changed: data/lang/it_common/it_words_*.json and data/lang/it_common/meta.json."
+                echo "::error file=$new_path::Only these files may be changed: data/lang/it_common/lang/it_words_<something>.json and data/lang/it_common/meta.json."
                 FAIL=1
               fi
 
@@ -113,43 +114,60 @@ jobs:
               if [[ "$new_path" == "$ITCOMMON_META" ]]; then
                 META_TOUCHED=1
               fi
-              case "$new_path" in
-                data/lang/it_common/it_words_*.json) NEEDS_META=1 ;;
-              esac
+              if [[ "$new_path" =~ $IT_WORDS_RE ]]; then
+                NEEDS_META=1
+              fi
 
-              continue
+            else
+              IFS= read -r -d '' path
+
+              CHANGED_COUNT=$((CHANGED_COUNT + 1))
+              CHANGED_PRETTY+=("$status $path")
+
+              # Cancellazioni sempre vietate
+              if [[ "$status" == "D" ]]; then
+                echo "::error file=$path::Deletions are forbidden in this workflow."
+                FAIL=1
+                continue
+              fi
+
+              if ! is_allowed "$path"; then
+                echo "::error file=$path::Only these files may be changed: data/lang/it_common/lang/it_words_<something>.json and data/lang/it_common/meta.json."
+                FAIL=1
+                continue
+              fi
+
+              if is_forbidden_compressed "$path"; then
+                echo "::error file=$path::Compressed Italian translation files (.json.gz/.jsonl.gz) are forbidden."
+                FAIL=1
+              fi
+
+              # Pretty print check per file presenti in HEAD (A/M ecc.)
+              if [[ "$path" == *.json ]]; then
+                check_pretty_json "$path"
+              fi
+
+              if [[ "$path" == "$ITCOMMON_META" ]]; then
+                META_TOUCHED=1
+              fi
+              if [[ "$path" =~ $IT_WORDS_RE ]]; then
+                NEEDS_META=1
+              fi
             fi
+          done < <(git diff --name-status -z "$BASE_SHA" "$HEAD_SHA" || true)
 
-            # Normal A/M/D/etc
-            path="$(echo "$line" | awk '{print $2}')"
+          if [ "$CHANGED_COUNT" -eq 0 ]; then
+            echo "No changed files detected."
+            exit 0
+          fi
 
-            if ! is_allowed "$path"; then
-              echo "::error file=$path::Only these files may be changed: data/lang/it_common/it_words_*.json and data/lang/it_common/meta.json."
-              FAIL=1
-              continue
-            fi
+          echo "Changed files (name-status):"
+          printf ' - %s\n' "${CHANGED_PRETTY[@]}"
 
-            if is_forbidden_compressed "$path"; then
-              echo "::error file=$path::Compressed Italian translation files (.json.gz/.jsonl.gz) are forbidden."
-              FAIL=1
-            fi
-
-            # Pretty print check only if file exists in HEAD (not deletions)
-            if [ "$status" != "D" ] && [[ "$path" == *.json ]]; then
-              check_pretty_json "$path"
-            fi
-
-            if [[ "$path" == "$ITCOMMON_META" ]]; then
-              META_TOUCHED=1
-            fi
-            case "$path" in
-              data/lang/it_common/it_words_*.json) NEEDS_META=1 ;;
-            esac
-          done
-
-          # If any it_words_* touched (including deletions/renames), require meta.json touched too
+          # Se viene toccato qualsiasi it_words_<something>.json (A/M/R/C),
+          # allora meta.json deve essere toccato nello stesso PR.
           if [ "$NEEDS_META" -eq 1 ] && [ "$META_TOUCHED" -eq 0 ]; then
-            echo "::error file=$ITCOMMON_META::Any change to it_words_*.json requires updating meta.json in the same PR."
+            echo "::error file=$ITCOMMON_META::Any change to data/lang/it_common/lang/it_words_<something>.json requires updating meta.json in the same PR."
             FAIL=1
           fi
 
