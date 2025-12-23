@@ -1,0 +1,3193 @@
+{
+  "schema": {
+    "name": "jp-words-lang",
+    "version": "1.0"
+  },
+  "lang": "it",
+  "range": {
+    "start_id": 1053350,
+    "end_id": 1060700
+  },
+  "coverage": {
+    "translated_word_ids_in_file": 200,
+    "translated_common_rank_range": {
+      "start_rank": 1651,
+      "end_rank": 1850
+    },
+    "common_word_ids_total": 30103
+  },
+  "entries": [
+    {
+      "id": 1053350,
+      "senses": [
+        {
+          "id": "w1053350-s1",
+          "gloss": [
+            "computer"
+          ],
+          "short_gloss": "computer",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1053650,
+      "senses": [
+        {
+          "id": "w1053650-s1",
+          "gloss": [
+            "configurazione"
+          ],
+          "short_gloss": "configurazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1053650-s2",
+          "gloss": [
+            "configurazione"
+          ],
+          "short_gloss": "configurazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1053730,
+      "senses": [
+        {
+          "id": "w1053730-s1",
+          "gloss": [
+            "con brio"
+          ],
+          "short_gloss": "con brio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1053800,
+      "senses": [
+        {
+          "id": "w1053800-s1",
+          "gloss": [
+            "complesso",
+            "complesso di inferiorità"
+          ],
+          "short_gloss": "complesso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1053800-s2",
+          "gloss": [
+            "complesso (edifici)"
+          ],
+          "short_gloss": "complesso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1053810,
+      "senses": [
+        {
+          "id": "w1053810-s1",
+          "gloss": [
+            "compressore"
+          ],
+          "short_gloss": "compressore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1053850,
+      "senses": [
+        {
+          "id": "w1053850-s1",
+          "gloss": [
+            "convenzione"
+          ],
+          "short_gloss": "convenzione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1053860,
+      "senses": [
+        {
+          "id": "w1053860-s1",
+          "gloss": [
+            "centro congressi"
+          ],
+          "short_gloss": "centro congressi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1053890,
+      "senses": [
+        {
+          "id": "w1053890-s1",
+          "gloss": [
+            "competizione"
+          ],
+          "short_gloss": "competizione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1053900,
+      "senses": [
+        {
+          "id": "w1053900-s1",
+          "gloss": [
+            "competizione"
+          ],
+          "short_gloss": "competizione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1053920,
+      "senses": [
+        {
+          "id": "w1053920-s1",
+          "gloss": [
+            "convoglio"
+          ],
+          "short_gloss": "convoglio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1053930,
+      "senses": [
+        {
+          "id": "w1053930-s1",
+          "gloss": [
+            "componente",
+            "stereo component"
+          ],
+          "short_gloss": "componente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054010,
+      "senses": [
+        {
+          "id": "w1054010-s1",
+          "gloss": [
+            "compost"
+          ],
+          "short_gloss": "compost",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054020,
+      "senses": [
+        {
+          "id": "w1054020-s1",
+          "gloss": [
+            "virgola"
+          ],
+          "short_gloss": "virgola",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054020-s2",
+          "gloss": [
+            "punto decimale"
+          ],
+          "short_gloss": "punto decimale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054100,
+      "senses": [
+        {
+          "id": "w1054100-s1",
+          "gloss": [
+            "go-kart"
+          ],
+          "short_gloss": "go-kart",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054110,
+      "senses": [
+        {
+          "id": "w1054110-s1",
+          "gloss": [
+            "occhialoni"
+          ],
+          "short_gloss": "occhialoni",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054140,
+      "senses": [
+        {
+          "id": "w1054140-s1",
+          "gloss": [
+            "semaforo verde",
+            "via libera"
+          ],
+          "short_gloss": "via libera",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054150,
+      "senses": [
+        {
+          "id": "w1054150-s1",
+          "gloss": [
+            "lussuoso",
+            "sfarzoso"
+          ],
+          "short_gloss": "lussuoso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054170,
+      "senses": [
+        {
+          "id": "w1054170-s1",
+          "gloss": [
+            "fantasma"
+          ],
+          "short_gloss": "fantasma",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054170-s2",
+          "gloss": [
+            "ghosting (TV)"
+          ],
+          "short_gloss": "ghosting",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054170-s3",
+          "gloss": [
+            "bagliore fantasma"
+          ],
+          "short_gloss": "bagliore fantasma",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054170-s4",
+          "gloss": [
+            "immagine fantasma"
+          ],
+          "short_gloss": "immagine fantasma",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054180,
+      "senses": [
+        {
+          "id": "w1054180-s1",
+          "gloss": [
+            "città fantasma"
+          ],
+          "short_gloss": "città fantasma",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054230,
+      "senses": [
+        {
+          "id": "w1054230-s1",
+          "gloss": [
+            "gol",
+            "canestro"
+          ],
+          "short_gloss": "gol",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054230-s2",
+          "gloss": [
+            "traguardo",
+            "linea d'arrivo"
+          ],
+          "short_gloss": "traguardo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054230-s3",
+          "gloss": [
+            "arrivo"
+          ],
+          "short_gloss": "arrivo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054230-s4",
+          "gloss": [
+            "obiettivo"
+          ],
+          "short_gloss": "obiettivo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054240,
+      "senses": [
+        {
+          "id": "w1054240-s1",
+          "gloss": [
+            "traguardo",
+            "arrivo"
+          ],
+          "short_gloss": "traguardo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054240-s2",
+          "gloss": [
+            "matrimonio"
+          ],
+          "short_gloss": "matrimonio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054250,
+      "senses": [
+        {
+          "id": "w1054250-s1",
+          "gloss": [
+            "portiere"
+          ],
+          "short_gloss": "portiere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054280,
+      "senses": [
+        {
+          "id": "w1054280-s1",
+          "gloss": [
+            "dorato"
+          ],
+          "short_gloss": "dorato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054290,
+      "senses": [
+        {
+          "id": "w1054290-s1",
+          "gloss": [
+            "prima serata"
+          ],
+          "short_gloss": "prima serata",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054300,
+      "senses": [
+        {
+          "id": "w1054300-s1",
+          "gloss": [
+            "Golden Week"
+          ],
+          "short_gloss": "Golden Week",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054320,
+      "senses": [
+        {
+          "id": "w1054320-s1",
+          "gloss": [
+            "prima serata",
+            "fascia di punta"
+          ],
+          "short_gloss": "prima serata",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054340,
+      "senses": [
+        {
+          "id": "w1054340-s1",
+          "gloss": [
+            "oro"
+          ],
+          "short_gloss": "oro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054390,
+      "senses": [
+        {
+          "id": "w1054390-s1",
+          "gloss": [
+            "linea di porta"
+          ],
+          "short_gloss": "linea di porta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054400,
+      "senses": [
+        {
+          "id": "w1054400-s1",
+          "gloss": [
+            "scarafaggio"
+          ],
+          "short_gloss": "scarafaggio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054410,
+      "senses": [
+        {
+          "id": "w1054410-s1",
+          "gloss": [
+            "gotico"
+          ],
+          "short_gloss": "gotico",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054410-s2",
+          "gloss": [
+            "sans serif",
+            "gothic"
+          ],
+          "short_gloss": "sans serif",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054420,
+      "senses": [
+        {
+          "id": "w1054420-s1",
+          "gloss": [
+            "pettegolezzo"
+          ],
+          "short_gloss": "pettegolezzo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054470,
+      "senses": [
+        {
+          "id": "w1054470-s1",
+          "gloss": [
+            "Vangelo"
+          ],
+          "short_gloss": "Vangelo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054470-s2",
+          "gloss": [
+            "i Vangeli"
+          ],
+          "short_gloss": "i Vangeli",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054470-s3",
+          "gloss": [
+            "gospel"
+          ],
+          "short_gloss": "gospel",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054510,
+      "senses": [
+        {
+          "id": "w1054510-s1",
+          "gloss": [
+            "padrino"
+          ],
+          "short_gloss": "padrino",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054570,
+      "senses": [
+        {
+          "id": "w1054570-s1",
+          "gloss": [
+            "gomma"
+          ],
+          "short_gloss": "gomma",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054570-s2",
+          "gloss": [
+            "gomma da cancellare"
+          ],
+          "short_gloss": "gomma",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054570-s3",
+          "gloss": [
+            "preservativo"
+          ],
+          "short_gloss": "preservativo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054600,
+      "senses": [
+        {
+          "id": "w1054600-s1",
+          "gloss": [
+            "gorilla"
+          ],
+          "short_gloss": "gorilla",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054610,
+      "senses": [
+        {
+          "id": "w1054610-s1",
+          "gloss": [
+            "gola",
+            "canyon"
+          ],
+          "short_gloss": "gola",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054620,
+      "senses": [
+        {
+          "id": "w1054620-s1",
+          "gloss": [
+            "golf"
+          ],
+          "short_gloss": "golf",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054630,
+      "senses": [
+        {
+          "id": "w1054630-s1",
+          "gloss": [
+            "golfista"
+          ],
+          "short_gloss": "golfista",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054710,
+      "senses": [
+        {
+          "id": "w1054710-s1",
+          "gloss": [
+            "palla a terra"
+          ],
+          "short_gloss": "palla a terra",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054730,
+      "senses": [
+        {
+          "id": "w1054730-s1",
+          "gloss": [
+            "gong"
+          ],
+          "short_gloss": "gong",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054730-s2",
+          "gloss": [
+            "suono del gong"
+          ],
+          "short_gloss": "gong",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054740,
+      "senses": [
+        {
+          "id": "w1054740-s1",
+          "gloss": [
+            "gondola"
+          ],
+          "short_gloss": "gondola",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054740-s2",
+          "gloss": [
+            "cabina",
+            "cestello"
+          ],
+          "short_gloss": "cabina",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054740-s3",
+          "gloss": [
+            "scaffale espositivo"
+          ],
+          "short_gloss": "scaffale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054750,
+      "senses": [
+        {
+          "id": "w1054750-s1",
+          "gloss": [
+            "circo"
+          ],
+          "short_gloss": "circo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054780,
+      "senses": [
+        {
+          "id": "w1054780-s1",
+          "gloss": [
+            "circuito"
+          ],
+          "short_gloss": "circuito",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054780-s2",
+          "gloss": [
+            "circuito",
+            "pista"
+          ],
+          "short_gloss": "circuito",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054780-s3",
+          "gloss": [
+            "circuito"
+          ],
+          "short_gloss": "circuito",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054850,
+      "senses": [
+        {
+          "id": "w1054850-s1",
+          "gloss": [
+            "circolo",
+            "club"
+          ],
+          "short_gloss": "circolo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054850-s2",
+          "gloss": [
+            "cerchio"
+          ],
+          "short_gloss": "cerchio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054890,
+      "senses": [
+        {
+          "id": "w1054890-s1",
+          "gloss": [
+            "ricerca"
+          ],
+          "short_gloss": "ricerca",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054920,
+      "senses": [
+        {
+          "id": "w1054920-s1",
+          "gloss": [
+            "riflettore"
+          ],
+          "short_gloss": "riflettore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054950,
+      "senses": [
+        {
+          "id": "w1054950-s1",
+          "gloss": [
+            "terzo"
+          ],
+          "short_gloss": "terzo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054950-s2",
+          "gloss": [
+            "terza base",
+            "terza base-man"
+          ],
+          "short_gloss": "terza base",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054950-s3",
+          "gloss": [
+            "terza marcia"
+          ],
+          "short_gloss": "terza marcia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1054970,
+      "senses": [
+        {
+          "id": "w1054970-s1",
+          "gloss": [
+            "server"
+          ],
+          "short_gloss": "server",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054970-s2",
+          "gloss": [
+            "paletta per torta"
+          ],
+          "short_gloss": "paletta per torta",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054970-s3",
+          "gloss": [
+            "dispenser d'acqua"
+          ],
+          "short_gloss": "dispenser",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1054970-s4",
+          "gloss": [
+            "battitore"
+          ],
+          "short_gloss": "battitore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1055000,
+      "senses": [
+        {
+          "id": "w1055000-s1",
+          "gloss": [
+            "servizio",
+            "assistenza"
+          ],
+          "short_gloss": "servizio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1055000-s2",
+          "gloss": [
+            "sconto",
+            "articolo scontato"
+          ],
+          "short_gloss": "sconto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1055000-s3",
+          "gloss": [
+            "omaggio"
+          ],
+          "short_gloss": "omaggio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1055000-s4",
+          "gloss": [
+            "servizio",
+            "utilità"
+          ],
+          "short_gloss": "servizio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1055000-s5",
+          "gloss": [
+            "assistenza post-vendita"
+          ],
+          "short_gloss": "assistenza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1055000-s6",
+          "gloss": [
+            "servizio",
+            "battuta"
+          ],
+          "short_gloss": "servizio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1055010,
+      "senses": [
+        {
+          "id": "w1055010-s1",
+          "gloss": [
+            "ace",
+            "servizio vincente"
+          ],
+          "short_gloss": "ace",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1055020,
+      "senses": [
+        {
+          "id": "w1055020-s1",
+          "gloss": [
+            "area di servizio"
+          ],
+          "short_gloss": "area di servizio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1055080,
+      "senses": [
+        {
+          "id": "w1055080-s1",
+          "gloss": [
+            "surfista"
+          ],
+          "short_gloss": "surfista",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1055090,
+      "senses": [
+        {
+          "id": "w1055090-s1",
+          "gloss": [
+            "surfing"
+          ],
+          "short_gloss": "surfing",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1055170,
+      "senses": [
+        {
+          "id": "w1055170-s1",
+          "gloss": [
+            "servire"
+          ],
+          "short_gloss": "servire",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1055170-s2",
+          "gloss": [
+            "servizio"
+          ],
+          "short_gloss": "servizio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1055220,
+      "senses": [
+        {
+          "id": "w1055220-s1",
+          "gloss": [
+            "sorveglianza"
+          ],
+          "short_gloss": "sorveglianza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1055330,
+      "senses": [
+        {
+          "id": "w1055330-s1",
+          "gloss": [
+            "salmone"
+          ],
+          "short_gloss": "salmone",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1055360,
+      "senses": [
+        {
+          "id": "w1055360-s1",
+          "gloss": [
+            "controfiletto"
+          ],
+          "short_gloss": "controfiletto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1055410,
+      "senses": [
+        {
+          "id": "w1055410-s1",
+          "gloss": [
+            "scienza"
+          ],
+          "short_gloss": "scienza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1055500,
+      "senses": [
+        {
+          "id": "w1055500-s1",
+          "gloss": [
+            "ciclismo"
+          ],
+          "short_gloss": "ciclismo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1055520,
+      "senses": [
+        {
+          "id": "w1055520-s1",
+          "gloss": [
+            "ciclo"
+          ],
+          "short_gloss": "ciclo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1055630,
+      "senses": [
+        {
+          "id": "w1055630-s1",
+          "gloss": [
+            "ciclone"
+          ],
+          "short_gloss": "ciclone",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1055780,
+      "senses": [
+        {
+          "id": "w1055780-s1",
+          "gloss": [
+            "taglia"
+          ],
+          "short_gloss": "taglia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1055810,
+      "senses": [
+        {
+          "id": "w1055810-s1",
+          "gloss": [
+            "sito"
+          ],
+          "short_gloss": "sito",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1055810-s2",
+          "gloss": [
+            "sito web"
+          ],
+          "short_gloss": "sito web",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1055840,
+      "senses": [
+        {
+          "id": "w1055840-s1",
+          "gloss": [
+            "lato"
+          ],
+          "short_gloss": "lato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1055870,
+      "senses": [
+        {
+          "id": "w1055870-s1",
+          "gloss": [
+            "sidecar"
+          ],
+          "short_gloss": "sidecar",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1055920,
+      "senses": [
+        {
+          "id": "w1055920-s1",
+          "gloss": [
+            "secondo lavoro"
+          ],
+          "short_gloss": "secondo lavoro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056150,
+      "senses": [
+        {
+          "id": "w1056150-s1",
+          "gloss": [
+            "sirena"
+          ],
+          "short_gloss": "sirena",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056180,
+      "senses": [
+        {
+          "id": "w1056180-s1",
+          "gloss": [
+            "silenzioso"
+          ],
+          "short_gloss": "silenzioso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1056180-s2",
+          "gloss": [
+            "film muto"
+          ],
+          "short_gloss": "film muto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1056180-s3",
+          "gloss": [
+            "lettera muta"
+          ],
+          "short_gloss": "lettera muta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056210,
+      "senses": [
+        {
+          "id": "w1056210-s1",
+          "gloss": [
+            "silo"
+          ],
+          "short_gloss": "silo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056230,
+      "senses": [
+        {
+          "id": "w1056230-s1",
+          "gloss": [
+            "autografo",
+            "firma"
+          ],
+          "short_gloss": "autografo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1056230-s2",
+          "gloss": [
+            "segno",
+            "segnale"
+          ],
+          "short_gloss": "segno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056310,
+      "senses": [
+        {
+          "id": "w1056310-s1",
+          "gloss": [
+            "Arabia Saudita"
+          ],
+          "short_gloss": "Arabia Saudita",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056320,
+      "senses": [
+        {
+          "id": "w1056320-s1",
+          "gloss": [
+            "Arabia Saudita"
+          ],
+          "short_gloss": "Arabia Saudita",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056330,
+      "senses": [
+        {
+          "id": "w1056330-s1",
+          "gloss": [
+            "Carolina del Sud"
+          ],
+          "short_gloss": "Carolina del Sud",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056350,
+      "senses": [
+        {
+          "id": "w1056350-s1",
+          "gloss": [
+            "mancino"
+          ],
+          "short_gloss": "mancino",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056360,
+      "senses": [
+        {
+          "id": "w1056360-s1",
+          "gloss": [
+            "sauna"
+          ],
+          "short_gloss": "sauna",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056370,
+      "senses": [
+        {
+          "id": "w1056370-s1",
+          "gloss": [
+            "suono"
+          ],
+          "short_gloss": "suono",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056470,
+      "senses": [
+        {
+          "id": "w1056470-s1",
+          "gloss": [
+            "successo"
+          ],
+          "short_gloss": "successo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056490,
+      "senses": [
+        {
+          "id": "w1056490-s1",
+          "gloss": [
+            "sassofono"
+          ],
+          "short_gloss": "sassofono",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056530,
+      "senses": [
+        {
+          "id": "w1056530-s1",
+          "gloss": [
+            "Croce del Sud"
+          ],
+          "short_gloss": "Croce del Sud",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056580,
+      "senses": [
+        {
+          "id": "w1056580-s1",
+          "gloss": [
+            "sospensione (auto)"
+          ],
+          "short_gloss": "sospensione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1056580-s2",
+          "gloss": [
+            "sospensione (miscela)"
+          ],
+          "short_gloss": "sospensione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056590,
+      "senses": [
+        {
+          "id": "w1056590-s1",
+          "gloss": [
+            "suspense"
+          ],
+          "short_gloss": "suspense",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056670,
+      "senses": [
+        {
+          "id": "w1056670-s1",
+          "gloss": [
+            "Saturno (dio)"
+          ],
+          "short_gloss": "Saturno",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1056670-s2",
+          "gloss": [
+            "Saturno"
+          ],
+          "short_gloss": "Saturno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056700,
+      "senses": [
+        {
+          "id": "w1056700-s1",
+          "gloss": [
+            "calcio"
+          ],
+          "short_gloss": "calcio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056740,
+      "senses": [
+        {
+          "id": "w1056740-s1",
+          "gloss": [
+            "sassofono"
+          ],
+          "short_gloss": "sassofono",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056760,
+      "senses": [
+        {
+          "id": "w1056760-s1",
+          "gloss": [
+            "telaio scorrevole"
+          ],
+          "short_gloss": "telaio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056800,
+      "senses": [
+        {
+          "id": "w1056800-s1",
+          "gloss": [
+            "satellite"
+          ],
+          "short_gloss": "satellite",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056850,
+      "senses": [
+        {
+          "id": "w1056850-s1",
+          "gloss": [
+            "raso"
+          ],
+          "short_gloss": "raso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056860,
+      "senses": [
+        {
+          "id": "w1056860-s1",
+          "gloss": [
+            "sadico"
+          ],
+          "short_gloss": "sadico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056890,
+      "senses": [
+        {
+          "id": "w1056890-s1",
+          "gloss": [
+            "sadico"
+          ],
+          "short_gloss": "sadico",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1056890-s2",
+          "gloss": [
+            "sadismo"
+          ],
+          "short_gloss": "sadismo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056920,
+      "senses": [
+        {
+          "id": "w1056920-s1",
+          "gloss": [
+            "sella"
+          ],
+          "short_gloss": "sella",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056930,
+      "senses": [
+        {
+          "id": "w1056930-s1",
+          "gloss": [
+            "sudden death"
+          ],
+          "short_gloss": "sudden death",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1056930-s2",
+          "gloss": [
+            "golden goal"
+          ],
+          "short_gloss": "golden goal",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056950,
+      "senses": [
+        {
+          "id": "w1056950-s1",
+          "gloss": [
+            "sanitario"
+          ],
+          "short_gloss": "sanitario",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1056950-s2",
+          "gloss": [
+            "lavanderia",
+            "locale di servizio"
+          ],
+          "short_gloss": "lavanderia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056970,
+      "senses": [
+        {
+          "id": "w1056970-s1",
+          "gloss": [
+            "Sahara"
+          ],
+          "short_gloss": "Sahara",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056980,
+      "senses": [
+        {
+          "id": "w1056980-s1",
+          "gloss": [
+            "deserto del Sahara"
+          ],
+          "short_gloss": "Sahara",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1056990,
+      "senses": [
+        {
+          "id": "w1056990-s1",
+          "gloss": [
+            "sopravvivenza"
+          ],
+          "short_gloss": "sopravvivenza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057070,
+      "senses": [
+        {
+          "id": "w1057070-s1",
+          "gloss": [
+            "savana"
+          ],
+          "short_gloss": "savana",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057080,
+      "senses": [
+        {
+          "id": "w1057080-s1",
+          "gloss": [
+            "cena"
+          ],
+          "short_gloss": "cena",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057110,
+      "senses": [
+        {
+          "id": "w1057110-s1",
+          "gloss": [
+            "zaffiro"
+          ],
+          "short_gloss": "zaffiro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057120,
+      "senses": [
+        {
+          "id": "w1057120-s1",
+          "gloss": [
+            "safari"
+          ],
+          "short_gloss": "safari",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057150,
+      "senses": [
+        {
+          "id": "w1057150-s1",
+          "gloss": [
+            "rally safari"
+          ],
+          "short_gloss": "rally safari",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057190,
+      "senses": [
+        {
+          "id": "w1057190-s1",
+          "gloss": [
+            "riserva",
+            "sostituto"
+          ],
+          "short_gloss": "riserva",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1057190-s2",
+          "gloss": [
+            "sub-"
+          ],
+          "short_gloss": "sub-",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057300,
+      "senses": [
+        {
+          "id": "w1057300-s1",
+          "gloss": [
+            "sottotitolo"
+          ],
+          "short_gloss": "sottotitolo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057440,
+      "senses": [
+        {
+          "id": "w1057440-s1",
+          "gloss": [
+            "sottomarino"
+          ],
+          "short_gloss": "sottomarino",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057540,
+      "senses": [
+        {
+          "id": "w1057540-s1",
+          "gloss": [
+            "fornitura"
+          ],
+          "short_gloss": "fornitura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057550,
+      "senses": [
+        {
+          "id": "w1057550-s1",
+          "gloss": [
+            "fornitore"
+          ],
+          "short_gloss": "fornitore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057580,
+      "senses": [
+        {
+          "id": "w1057580-s1",
+          "gloss": [
+            "fare il forci",
+            "marinare la scuola"
+          ],
+          "short_gloss": "marinare la scuola",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057620,
+      "senses": [
+        {
+          "id": "w1057620-s1",
+          "gloss": [
+            "sospensorio",
+            "supporto"
+          ],
+          "short_gloss": "sospensorio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1057620-s2",
+          "gloss": [
+            "tifoso",
+            "sostenitore"
+          ],
+          "short_gloss": "tifoso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057630,
+      "senses": [
+        {
+          "id": "w1057630-s1",
+          "gloss": [
+            "supporto"
+          ],
+          "short_gloss": "supporto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057650,
+      "senses": [
+        {
+          "id": "w1057650-s1",
+          "gloss": [
+            "estate"
+          ],
+          "short_gloss": "estate",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057680,
+      "senses": [
+        {
+          "id": "w1057680-s1",
+          "gloss": [
+            "scuola estiva"
+          ],
+          "short_gloss": "scuola estiva",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057740,
+      "senses": [
+        {
+          "id": "w1057740-s1",
+          "gloss": [
+            "riassumere",
+            "sintetizzare"
+          ],
+          "short_gloss": "riassumere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057790,
+      "senses": [
+        {
+          "id": "w1057790-s1",
+          "gloss": [
+            "vertice"
+          ],
+          "short_gloss": "vertice",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057840,
+      "senses": [
+        {
+          "id": "w1057840-s1",
+          "gloss": [
+            "surround"
+          ],
+          "short_gloss": "surround",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057850,
+      "senses": [
+        {
+          "id": "w1057850-s1",
+          "gloss": [
+            "insalata"
+          ],
+          "short_gloss": "insalata",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057930,
+      "senses": [
+        {
+          "id": "w1057930-s1",
+          "gloss": [
+            "purosangue"
+          ],
+          "short_gloss": "purosangue",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1057930-s2",
+          "gloss": [
+            "nobile",
+            "sangue blu"
+          ],
+          "short_gloss": "nobile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057950,
+      "senses": [
+        {
+          "id": "w1057950-s1",
+          "gloss": [
+            "salario"
+          ],
+          "short_gloss": "salario",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057960,
+      "senses": [
+        {
+          "id": "w1057960-s1",
+          "gloss": [
+            "impiegato",
+            "salaryman"
+          ],
+          "short_gloss": "impiegato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1057980,
+      "senses": [
+        {
+          "id": "w1057980-s1",
+          "gloss": [
+            "sari"
+          ],
+          "short_gloss": "sari",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058020,
+      "senses": [
+        {
+          "id": "w1058020-s1",
+          "gloss": [
+            "sarin"
+          ],
+          "short_gloss": "sarin",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058030,
+      "senses": [
+        {
+          "id": "w1058030-s1",
+          "gloss": [
+            "saloon"
+          ],
+          "short_gloss": "saloon",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058060,
+      "senses": [
+        {
+          "id": "w1058060-s1",
+          "gloss": [
+            "salsa (danza)"
+          ],
+          "short_gloss": "salsa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1058060-s2",
+          "gloss": [
+            "salsa"
+          ],
+          "short_gloss": "salsa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058080,
+      "senses": [
+        {
+          "id": "w1058080-s1",
+          "gloss": [
+            "Salvarsan"
+          ],
+          "short_gloss": "Salvarsan",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058160,
+      "senses": [
+        {
+          "id": "w1058160-s1",
+          "gloss": [
+            "salone",
+            "saloon"
+          ],
+          "short_gloss": "salone",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058250,
+      "senses": [
+        {
+          "id": "w1058250-s1",
+          "gloss": [
+            "grazie"
+          ],
+          "short_gloss": "grazie",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058270,
+      "senses": [
+        {
+          "id": "w1058270-s1",
+          "gloss": [
+            "Giorno del Ringraziamento"
+          ],
+          "short_gloss": "Ringraziamento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058290,
+      "senses": [
+        {
+          "id": "w1058290-s1",
+          "gloss": [
+            "santuario"
+          ],
+          "short_gloss": "santuario",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1058290-s2",
+          "gloss": [
+            "fazione Sanctuary"
+          ],
+          "short_gloss": "fazione Sanctuary",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058300,
+      "senses": [
+        {
+          "id": "w1058300-s1",
+          "gloss": [
+            "occhiali da sole"
+          ],
+          "short_gloss": "occhiali da sole",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058340,
+      "senses": [
+        {
+          "id": "w1058340-s1",
+          "gloss": [
+            "sole"
+          ],
+          "short_gloss": "sole",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058380,
+      "senses": [
+        {
+          "id": "w1058380-s1",
+          "gloss": [
+            "sanscrito"
+          ],
+          "short_gloss": "sanscrito",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058420,
+      "senses": [
+        {
+          "id": "w1058420-s1",
+          "gloss": [
+            "Babbo Natale"
+          ],
+          "short_gloss": "Babbo Natale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058430,
+      "senses": [
+        {
+          "id": "w1058430-s1",
+          "gloss": [
+            "Santa Fe"
+          ],
+          "short_gloss": "Santa Fe",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058470,
+      "senses": [
+        {
+          "id": "w1058470-s1",
+          "gloss": [
+            "thunderbird"
+          ],
+          "short_gloss": "thunderbird",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058480,
+      "senses": [
+        {
+          "id": "w1058480-s1",
+          "gloss": [
+            "sandalo"
+          ],
+          "short_gloss": "sandalo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058490,
+      "senses": [
+        {
+          "id": "w1058490-s1",
+          "gloss": [
+            "cintura"
+          ],
+          "short_gloss": "cintura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058500,
+      "senses": [
+        {
+          "id": "w1058500-s1",
+          "gloss": [
+            "coppa gelato"
+          ],
+          "short_gloss": "coppa gelato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058510,
+      "senses": [
+        {
+          "id": "w1058510-s1",
+          "gloss": [
+            "San Diego"
+          ],
+          "short_gloss": "San Diego",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058540,
+      "senses": [
+        {
+          "id": "w1058540-s1",
+          "gloss": [
+            "colonna sonora"
+          ],
+          "short_gloss": "colonna sonora",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058580,
+      "senses": [
+        {
+          "id": "w1058580-s1",
+          "gloss": [
+            "panino"
+          ],
+          "short_gloss": "panino",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058650,
+      "senses": [
+        {
+          "id": "w1058650-s1",
+          "gloss": [
+            "carta vetrata"
+          ],
+          "short_gloss": "carta vetrata",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058660,
+      "senses": [
+        {
+          "id": "w1058660-s1",
+          "gloss": [
+            "San Jose"
+          ],
+          "short_gloss": "San Jose",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058670,
+      "senses": [
+        {
+          "id": "w1058670-s1",
+          "gloss": [
+            "samba"
+          ],
+          "short_gloss": "samba",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058710,
+      "senses": [
+        {
+          "id": "w1058710-s1",
+          "gloss": [
+            "sanforizzato"
+          ],
+          "short_gloss": "sanforizzato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058720,
+      "senses": [
+        {
+          "id": "w1058720-s1",
+          "gloss": [
+            "San Francisco"
+          ],
+          "short_gloss": "San Francisco",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058730,
+      "senses": [
+        {
+          "id": "w1058730-s1",
+          "gloss": [
+            "campionatore"
+          ],
+          "short_gloss": "campionatore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1058730-s2",
+          "gloss": [
+            "platino finto"
+          ],
+          "short_gloss": "platino finto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058740,
+      "senses": [
+        {
+          "id": "w1058740-s1",
+          "gloss": [
+            "campionamento"
+          ],
+          "short_gloss": "campionamento",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1058740-s2",
+          "gloss": [
+            "campionamento"
+          ],
+          "short_gloss": "campionamento",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1058740-s3",
+          "gloss": [
+            "distribuzione di campioni"
+          ],
+          "short_gloss": "distribuzione di campioni",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058760,
+      "senses": [
+        {
+          "id": "w1058760-s1",
+          "gloss": [
+            "campione",
+            "esempio"
+          ],
+          "short_gloss": "campione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1058760-s2",
+          "gloss": [
+            "modello espositivo"
+          ],
+          "short_gloss": "modello",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058800,
+      "senses": [
+        {
+          "id": "w1058800-s1",
+          "gloss": [
+            "autodifesa"
+          ],
+          "short_gloss": "autodifesa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1058860,
+      "senses": [
+        {
+          "id": "w1058860-s1",
+          "gloss": [
+            "tettuccio apribile"
+          ],
+          "short_gloss": "tettuccio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059040,
+      "senses": [
+        {
+          "id": "w1059040-s1",
+          "gloss": [
+            "gambero di fiume"
+          ],
+          "short_gloss": "gambero",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059050,
+      "senses": [
+        {
+          "id": "w1059050-s1",
+          "gloss": [
+            "Zambia"
+          ],
+          "short_gloss": "Zambia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059070,
+      "senses": [
+        {
+          "id": "w1059070-s1",
+          "gloss": [
+            "sciita"
+          ],
+          "short_gloss": "sciita",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059100,
+      "senses": [
+        {
+          "id": "w1059100-s1",
+          "gloss": [
+            "spot pubblicitario"
+          ],
+          "short_gloss": "spot",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1059100-s2",
+          "gloss": [
+            "gestione della costruzione"
+          ],
+          "short_gloss": "gestione costruzione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1059100-s3",
+          "gloss": [
+            "produttore su commissione"
+          ],
+          "short_gloss": "produttore su commissione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1059100-s4",
+          "gloss": [
+            "gestione clienti"
+          ],
+          "short_gloss": "gestione clienti",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1059100-s5",
+          "gloss": [
+            "corte marziale"
+          ],
+          "short_gloss": "corte marziale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059110,
+      "senses": [
+        {
+          "id": "w1059110-s1",
+          "gloss": [
+            "cercare"
+          ],
+          "short_gloss": "cercare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059140,
+      "senses": [
+        {
+          "id": "w1059140-s1",
+          "gloss": [
+            "segreto"
+          ],
+          "short_gloss": "segreto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059150,
+      "senses": [
+        {
+          "id": "w1059150-s1",
+          "gloss": [
+            "servizio segreto"
+          ],
+          "short_gloss": "servizio segreto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1059150-s2",
+          "gloss": [
+            "Secret Service"
+          ],
+          "short_gloss": "Secret Service",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059290,
+      "senses": [
+        {
+          "id": "w1059290-s1",
+          "gloss": [
+            "condimento"
+          ],
+          "short_gloss": "condimento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059300,
+      "senses": [
+        {
+          "id": "w1059300-s1",
+          "gloss": [
+            "stagione (campionato)"
+          ],
+          "short_gloss": "stagione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1059300-s2",
+          "gloss": [
+            "stagione"
+          ],
+          "short_gloss": "stagione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1059300-s3",
+          "gloss": [
+            "stagione (TV)"
+          ],
+          "short_gloss": "stagione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1059300-s4",
+          "gloss": [
+            "stagione (periodo)"
+          ],
+          "short_gloss": "stagione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059320,
+      "senses": [
+        {
+          "id": "w1059320-s1",
+          "gloss": [
+            "fuori stagione"
+          ],
+          "short_gloss": "fuori stagione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059360,
+      "senses": [
+        {
+          "id": "w1059360-s1",
+          "gloss": [
+            "partita altalenante"
+          ],
+          "short_gloss": "partita altalenante",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059400,
+      "senses": [
+        {
+          "id": "w1059400-s1",
+          "gloss": [
+            "lenzuolo"
+          ],
+          "short_gloss": "lenzuolo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059450,
+      "senses": [
+        {
+          "id": "w1059450-s1",
+          "gloss": [
+            "sedile"
+          ],
+          "short_gloss": "sedile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059520,
+      "senses": [
+        {
+          "id": "w1059520-s1",
+          "gloss": [
+            "cintura di sicurezza"
+          ],
+          "short_gloss": "cintura di sicurezza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059530,
+      "senses": [
+        {
+          "id": "w1059530-s1",
+          "gloss": [
+            "seme"
+          ],
+          "short_gloss": "seme",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059590,
+      "senses": [
+        {
+          "id": "w1059590-s1",
+          "gloss": [
+            "frutti di mare"
+          ],
+          "short_gloss": "frutti di mare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059610,
+      "senses": [
+        {
+          "id": "w1059610-s1",
+          "gloss": [
+            "senza cuciture"
+          ],
+          "short_gloss": "senza cuciture",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1059610-s2",
+          "gloss": [
+            "calze senza cuciture"
+          ],
+          "short_gloss": "calze",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059640,
+      "senses": [
+        {
+          "id": "w1059640-s1",
+          "gloss": [
+            "soffitto"
+          ],
+          "short_gloss": "soffitto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059670,
+      "senses": [
+        {
+          "id": "w1059670-s1",
+          "gloss": [
+            "sigillo"
+          ],
+          "short_gloss": "sigillo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1059670-s2",
+          "gloss": [
+            "adesivo"
+          ],
+          "short_gloss": "adesivo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059680,
+      "senses": [
+        {
+          "id": "w1059680-s1",
+          "gloss": [
+            "scudo"
+          ],
+          "short_gloss": "scudo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059720,
+      "senses": [
+        {
+          "id": "w1059720-s1",
+          "gloss": [
+            "scena",
+            "vista"
+          ],
+          "short_gloss": "scena",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1059720-s2",
+          "gloss": [
+            "scenario"
+          ],
+          "short_gloss": "scenario",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059740,
+      "senses": [
+        {
+          "id": "w1059740-s1",
+          "gloss": [
+            "teatro"
+          ],
+          "short_gloss": "teatro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059750,
+      "senses": [
+        {
+          "id": "w1059750-s1",
+          "gloss": [
+            "Seattle"
+          ],
+          "short_gloss": "Seattle",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059760,
+      "senses": [
+        {
+          "id": "w1059760-s1",
+          "gloss": [
+            "ciano"
+          ],
+          "short_gloss": "ciano",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059790,
+      "senses": [
+        {
+          "id": "w1059790-s1",
+          "gloss": [
+            "shaker"
+          ],
+          "short_gloss": "shaker",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059800,
+      "senses": [
+        {
+          "id": "w1059800-s1",
+          "gloss": [
+            "agitare"
+          ],
+          "short_gloss": "agitare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1059800-s2",
+          "gloss": [
+            "milkshake",
+            "frullato"
+          ],
+          "short_gloss": "milkshake",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059850,
+      "senses": [
+        {
+          "id": "w1059850-s1",
+          "gloss": [
+            "rasoio elettrico"
+          ],
+          "short_gloss": "rasoio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059930,
+      "senses": [
+        {
+          "id": "w1059930-s1",
+          "gloss": [
+            "condivisione"
+          ],
+          "short_gloss": "condivisione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1059930-s2",
+          "gloss": [
+            "quota di mercato"
+          ],
+          "short_gloss": "quota di mercato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059960,
+      "senses": [
+        {
+          "id": "w1059960-s1",
+          "gloss": [
+            "condivisione"
+          ],
+          "short_gloss": "condivisione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059970,
+      "senses": [
+        {
+          "id": "w1059970-s1",
+          "gloss": [
+            "mettersi in forma"
+          ],
+          "short_gloss": "mettersi in forma",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1059980,
+      "senses": [
+        {
+          "id": "w1059980-s1",
+          "gloss": [
+            "pastore tedesco"
+          ],
+          "short_gloss": "pastore tedesco",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1059980-s2",
+          "gloss": [
+            "pastore"
+          ],
+          "short_gloss": "pastore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060000,
+      "senses": [
+        {
+          "id": "w1060000-s1",
+          "gloss": [
+            "chef"
+          ],
+          "short_gloss": "chef",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060010,
+      "senses": [
+        {
+          "id": "w1060010-s1",
+          "gloss": [
+            "sherry"
+          ],
+          "short_gloss": "sherry",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060040,
+      "senses": [
+        {
+          "id": "w1060040-s1",
+          "gloss": [
+            "guscio",
+            "shell"
+          ],
+          "short_gloss": "guscio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060060,
+      "senses": [
+        {
+          "id": "w1060060-s1",
+          "gloss": [
+            "rifugio",
+            "shelter"
+          ],
+          "short_gloss": "rifugio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060070,
+      "senses": [
+        {
+          "id": "w1060070-s1",
+          "gloss": [
+            "sherpa"
+          ],
+          "short_gloss": "sherpa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060080,
+      "senses": [
+        {
+          "id": "w1060080-s1",
+          "gloss": [
+            "siesta"
+          ],
+          "short_gloss": "siesta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060100,
+      "senses": [
+        {
+          "id": "w1060100-s1",
+          "gloss": [
+            "sionista"
+          ],
+          "short_gloss": "sionista",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060110,
+      "senses": [
+        {
+          "id": "w1060110-s1",
+          "gloss": [
+            "sionismo"
+          ],
+          "short_gloss": "sionismo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060130,
+      "senses": [
+        {
+          "id": "w1060130-s1",
+          "gloss": [
+            "Chicago"
+          ],
+          "short_gloss": "Chicago",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060160,
+      "senses": [
+        {
+          "id": "w1060160-s1",
+          "gloss": [
+            "ciclamino"
+          ],
+          "short_gloss": "ciclamino",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060180,
+      "senses": [
+        {
+          "id": "w1060180-s1",
+          "gloss": [
+            "segnale"
+          ],
+          "short_gloss": "segnale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060270,
+      "senses": [
+        {
+          "id": "w1060270-s1",
+          "gloss": [
+            "sorella"
+          ],
+          "short_gloss": "sorella",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1060270-s2",
+          "gloss": [
+            "suora"
+          ],
+          "short_gloss": "suora",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1060270-s3",
+          "gloss": [
+            "sorella (partner)"
+          ],
+          "short_gloss": "sorella",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060300,
+      "senses": [
+        {
+          "id": "w1060300-s1",
+          "gloss": [
+            "sistema"
+          ],
+          "short_gloss": "sistema",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060410,
+      "senses": [
+        {
+          "id": "w1060410-s1",
+          "gloss": [
+            "sistemi"
+          ],
+          "short_gloss": "sistemi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060560,
+      "senses": [
+        {
+          "id": "w1060560-s1",
+          "gloss": [
+            "thesaurus"
+          ],
+          "short_gloss": "thesaurus",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060590,
+      "senses": [
+        {
+          "id": "w1060590-s1",
+          "gloss": [
+            "stufato",
+            "crema stew"
+          ],
+          "short_gloss": "stufato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060600,
+      "senses": [
+        {
+          "id": "w1060600-s1",
+          "gloss": [
+            "situazione"
+          ],
+          "short_gloss": "situazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060610,
+      "senses": [
+        {
+          "id": "w1060610-s1",
+          "gloss": [
+            "chic"
+          ],
+          "short_gloss": "chic",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060620,
+      "senses": [
+        {
+          "id": "w1060620-s1",
+          "gloss": [
+            "sei nove"
+          ],
+          "short_gloss": "sei nove",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1060620-s2",
+          "gloss": [
+            "sessantanove"
+          ],
+          "short_gloss": "sessantanove",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060660,
+      "senses": [
+        {
+          "id": "w1060660-s1",
+          "gloss": [
+            "nave"
+          ],
+          "short_gloss": "nave",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1060700,
+      "senses": [
+        {
+          "id": "w1060700-s1",
+          "gloss": [
+            "città"
+          ],
+          "short_gloss": "città",
+          "source": "manual_translation"
+        }
+      ]
+    }
+  ]
+}
