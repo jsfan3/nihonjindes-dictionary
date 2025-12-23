@@ -281,7 +281,19 @@ def load_word_lang_chunk(repo: str, lang: str, range_start: int, range_end: int)
     if lang == "en":
         p = resolve_json_variant(root/f"data/seed/lang/en_words_{range_start}_{range_end}.json") or (root/f"data/seed/lang/en_words_{range_start}_{range_end}.json")
     elif lang == "it":
-        p = resolve_json_variant(root/f"data/lang/it_common/lang/it_words_{range_start}_{range_end}.json") or (root/f"data/lang/it_common/lang/it_words_{range_start}_{range_end}.json")
+        meta_path = root / "data/lang/it_common/meta.json"
+        if not meta_path.exists():
+            return {}
+        meta = load_json_any(meta_path)
+        entries: Dict[int, dict] = {}
+        for rel_path in meta.get("files", []):
+            file_path = resolve_json_variant(root / "data/lang/it_common" / rel_path) or (root / "data/lang/it_common" / rel_path)
+            if not file_path.exists():
+                continue
+            obj = load_json_any(file_path)
+            for entry in obj.get("entries", []):
+                entries[int(entry["id"])] = entry
+        return entries
     else:
         raise ValueError("Unsupported lang")
     if not p.exists():
