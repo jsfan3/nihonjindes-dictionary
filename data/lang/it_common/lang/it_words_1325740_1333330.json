@@ -1,0 +1,3980 @@
+{
+  "schema": {
+    "name": "jp-words-lang",
+    "version": "1.0"
+  },
+  "lang": "it",
+  "range": {
+    "start_id": 1325740,
+    "end_id": 1333330
+  },
+  "coverage": {
+    "translated_word_ids_in_file": 200,
+    "translated_common_rank_range": {
+      "start_rank": 3951,
+      "end_rank": 4150
+    },
+    "common_word_ids_total": 30103
+  },
+  "entries": [
+    {
+      "id": 1325740,
+      "senses": [
+        {
+          "id": "w1325740-s1",
+          "gloss": [
+            "capo",
+            "responsabile"
+          ],
+          "short_gloss": "capo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1325740-s2",
+          "gloss": [
+            "presidente",
+            "governatore",
+            "chairman"
+          ],
+          "short_gloss": "presidente",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1325740-s3",
+          "gloss": [
+            "primo della classe",
+            "miglior studente"
+          ],
+          "short_gloss": "primo della classe",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1325740-s4",
+          "gloss": [
+            "primo leggio",
+            "prima parte (orchestra)"
+          ],
+          "short_gloss": "primo leggio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1325790,
+      "senses": [
+        {
+          "id": "w1325790-s1",
+          "gloss": [
+            "sostegno alla guerra",
+            "interventismo"
+          ],
+          "short_gloss": "sostegno alla guerra",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1325840,
+      "senses": [
+        {
+          "id": "w1325840-s1",
+          "gloss": [
+            "componente principale",
+            "nucleo"
+          ],
+          "short_gloss": "componente principale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1325840-s2",
+          "gloss": [
+            "soggetto"
+          ],
+          "short_gloss": "soggetto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1325860,
+      "senses": [
+        {
+          "id": "w1325860-s1",
+          "gloss": [
+            "autonomo",
+            "responsabile",
+            "attivo",
+            "proattivo"
+          ],
+          "short_gloss": "autonomo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1325860-s2",
+          "gloss": [
+            "soggettivo"
+          ],
+          "short_gloss": "soggettivo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1325870,
+      "senses": [
+        {
+          "id": "w1325870-s1",
+          "gloss": [
+            "tema",
+            "argomento",
+            "motivo"
+          ],
+          "short_gloss": "tema",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1325910,
+      "senses": [
+        {
+          "id": "w1325910-s1",
+          "gloss": [
+            "affermazione",
+            "rivendicazione",
+            "asserzione",
+            "sostegno",
+            "enfasi",
+            "tesi"
+          ],
+          "short_gloss": "affermazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1325980,
+      "senses": [
+        {
+          "id": "w1325980-s1",
+          "gloss": [
+            "leadership",
+            "iniziativa",
+            "guida"
+          ],
+          "short_gloss": "leadership",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1325990,
+      "senses": [
+        {
+          "id": "w1325990-s1",
+          "gloss": [
+            "egemonia",
+            "leadership",
+            "iniziativa"
+          ],
+          "short_gloss": "egemonia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1326040,
+      "senses": [
+        {
+          "id": "w1326040-s1",
+          "gloss": [
+            "responsabile",
+            "capo",
+            "manager",
+            "dirigente"
+          ],
+          "short_gloss": "responsabile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1326110,
+      "senses": [
+        {
+          "id": "w1326110-s1",
+          "gloss": [
+            "reato principale",
+            "autore principale"
+          ],
+          "short_gloss": "autore principale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1326140,
+      "senses": [
+        {
+          "id": "w1326140-s1",
+          "gloss": [
+            "caporedattore"
+          ],
+          "short_gloss": "caporedattore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1326160,
+      "senses": [
+        {
+          "id": "w1326160-s1",
+          "gloss": [
+            "casalinga",
+            "padrona di casa"
+          ],
+          "short_gloss": "casalinga",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1326220,
+      "senses": [
+        {
+          "id": "w1326220-s1",
+          "gloss": [
+            "batteria principale",
+            "armamento principale"
+          ],
+          "short_gloss": "batteria principale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1326290,
+      "senses": [
+        {
+          "id": "w1326290-s1",
+          "gloss": [
+            "protagonista",
+            "attore principale",
+            "attrice principale"
+          ],
+          "short_gloss": "protagonista",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1326320,
+      "senses": [
+        {
+          "id": "w1326320-s1",
+          "gloss": [
+            "principale",
+            "maggiore",
+            "primario"
+          ],
+          "short_gloss": "principale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1326410,
+      "senses": [
+        {
+          "id": "w1326410-s1",
+          "gloss": [
+            "corrente principale",
+            "mainstream"
+          ],
+          "short_gloss": "corrente principale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326410-s2",
+          "gloss": [
+            "corso principale (di un fiume)",
+            "alveo principale"
+          ],
+          "short_gloss": "corso principale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1326430,
+      "senses": [
+        {
+          "id": "w1326430-s1",
+          "gloss": [
+            "forza principale",
+            "obiettivo principale"
+          ],
+          "short_gloss": "forza principale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1326550,
+      "senses": [
+        {
+          "id": "w1326550-s1",
+          "gloss": [
+            "circondare",
+            "assediare",
+            "stringersi attorno"
+          ],
+          "short_gloss": "circondare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1326720,
+      "senses": [
+        {
+          "id": "w1326720-s1",
+          "gloss": [
+            "prendere dentro",
+            "introdurre",
+            "adottare"
+          ],
+          "short_gloss": "prendere dentro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326720-s2",
+          "gloss": [
+            "catturare (un'immagine)",
+            "importare"
+          ],
+          "short_gloss": "catturare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326720-s3",
+          "gloss": [
+            "ingraziarsi",
+            "accaparrarsi il favore"
+          ],
+          "short_gloss": "ingraziarsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326720-s4",
+          "gloss": [
+            "truffare",
+            "imbrogliare",
+            "appropriarsi indebitamente"
+          ],
+          "short_gloss": "truffare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326720-s5",
+          "gloss": [
+            "essere occupato",
+            "essere in confusione",
+            "avere problemi"
+          ],
+          "short_gloss": "essere occupato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1326740,
+      "senses": [
+        {
+          "id": "w1326740-s1",
+          "gloss": [
+            "lasciare indietro"
+          ],
+          "short_gloss": "lasciare indietro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1326790,
+      "senses": [
+        {
+          "id": "w1326790-s1",
+          "gloss": [
+            "annullare",
+            "cancellare",
+            "revocare",
+            "ritirare"
+          ],
+          "short_gloss": "annullare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1326980,
+      "senses": [
+        {
+          "id": "w1326980-s1",
+          "gloss": [
+            "prendere",
+            "afferrare",
+            "cogliere",
+            "tenere"
+          ],
+          "short_gloss": "prendere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326980-s2",
+          "gloss": [
+            "passare",
+            "consegnare"
+          ],
+          "short_gloss": "consegnare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326980-s3",
+          "gloss": [
+            "ottenere",
+            "acquisire",
+            "ricevere",
+            "guadagnare",
+            "prendere (una vacanza)"
+          ],
+          "short_gloss": "ottenere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326980-s4",
+          "gloss": [
+            "adottare (un metodo)",
+            "scegliere"
+          ],
+          "short_gloss": "adottare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326980-s5",
+          "gloss": [
+            "rimuovere",
+            "togliere"
+          ],
+          "short_gloss": "rimuovere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326980-s6",
+          "gloss": [
+            "portare via",
+            "rubare"
+          ],
+          "short_gloss": "rubare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326980-s7",
+          "gloss": [
+            "mangiare",
+            "assumere (vitamine)"
+          ],
+          "short_gloss": "mangiare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326980-s8",
+          "gloss": [
+            "cogliere (fiori)",
+            "raccogliere",
+            "pescare",
+            "raccogliere un raccolto"
+          ],
+          "short_gloss": "raccogliere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326980-s9",
+          "gloss": [
+            "occupare (tempo, spazio)",
+            "richiedere"
+          ],
+          "short_gloss": "occupare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326980-s10",
+          "gloss": [
+            "riservare",
+            "mettere da parte",
+            "conservare"
+          ],
+          "short_gloss": "riservare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326980-s11",
+          "gloss": [
+            "interpretare",
+            "capire",
+            "afferrare (il senso)"
+          ],
+          "short_gloss": "interpretare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326980-s12",
+          "gloss": [
+            "registrare",
+            "annotare"
+          ],
+          "short_gloss": "registrare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326980-s13",
+          "gloss": [
+            "abbonarsi",
+            "comprare (un giornale)"
+          ],
+          "short_gloss": "abbonarsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326980-s14",
+          "gloss": [
+            "ordinare",
+            "farsi consegnare"
+          ],
+          "short_gloss": "ordinare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326980-s15",
+          "gloss": [
+            "riscuotere (tasse)",
+            "addebitare"
+          ],
+          "short_gloss": "riscuotere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326980-s16",
+          "gloss": [
+            "prendere in moglie",
+            "prendere un apprendista",
+            "adottare",
+            "accettare"
+          ],
+          "short_gloss": "prendere in moglie",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326980-s17",
+          "gloss": [
+            "prendere il controllo",
+            "prendere il timone"
+          ],
+          "short_gloss": "prendere il controllo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1326980-s18",
+          "gloss": [
+            "competere (sumo, carte)",
+            "giocare"
+          ],
+          "short_gloss": "competere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327020,
+      "senses": [
+        {
+          "id": "w1327020-s1",
+          "gloss": [
+            "raccolta di materiali",
+            "copertura giornalistica",
+            "intervista"
+          ],
+          "short_gloss": "raccolta di materiali",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327060,
+      "senses": [
+        {
+          "id": "w1327060-s1",
+          "gloss": [
+            "consiglio di amministrazione"
+          ],
+          "short_gloss": "consiglio di amministrazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327060-s2",
+          "gloss": [
+            "riunione del consiglio di amministrazione"
+          ],
+          "short_gloss": "riunione del cda",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327070,
+      "senses": [
+        {
+          "id": "w1327070-s1",
+          "gloss": [
+            "ottenimento",
+            "acquisizione",
+            "conseguimento"
+          ],
+          "short_gloss": "ottenimento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327090,
+      "senses": [
+        {
+          "id": "w1327090-s1",
+          "gloss": [
+            "fare da babysitter",
+            "babysitter"
+          ],
+          "short_gloss": "babysitter",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327090-s2",
+          "gloss": [
+            "protezione",
+            "custodia"
+          ],
+          "short_gloss": "protezione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327100,
+      "senses": [
+        {
+          "id": "w1327100-s1",
+          "gloss": [
+            "protezione",
+            "difesa"
+          ],
+          "short_gloss": "protezione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327100-s2",
+          "gloss": [
+            "provvidenza"
+          ],
+          "short_gloss": "provvidenza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327100-s3",
+          "gloss": [
+            "amuletto",
+            "talismano"
+          ],
+          "short_gloss": "amuletto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327120,
+      "senses": [
+        {
+          "id": "w1327120-s1",
+          "gloss": [
+            "proteggere",
+            "difendere",
+            "guardare"
+          ],
+          "short_gloss": "proteggere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327120-s2",
+          "gloss": [
+            "mantenere (una promessa)",
+            "osservare (regole)",
+            "rispettare"
+          ],
+          "short_gloss": "mantenere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327180,
+      "senses": [
+        {
+          "id": "w1327180-s1",
+          "gloss": [
+            "difesa"
+          ],
+          "short_gloss": "difesa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327180-s2",
+          "gloss": [
+            "gioco difensivo (baseball)"
+          ],
+          "short_gloss": "gioco difensivo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327190,
+      "senses": [
+        {
+          "id": "w1327190-s1",
+          "gloss": [
+            "mano",
+            "braccio"
+          ],
+          "short_gloss": "mano",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327190-s2",
+          "gloss": [
+            "zampa anteriore"
+          ],
+          "short_gloss": "zampa anteriore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327190-s3",
+          "gloss": [
+            "manico"
+          ],
+          "short_gloss": "manico",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327190-s4",
+          "gloss": [
+            "manodopera",
+            "operaio",
+            "aiutante"
+          ],
+          "short_gloss": "manodopera",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327190-s5",
+          "gloss": [
+            "fatica",
+            "cura",
+            "sforzo"
+          ],
+          "short_gloss": "sforzo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327190-s6",
+          "gloss": [
+            "mezzo",
+            "modo",
+            "mossa",
+            "tecnica"
+          ],
+          "short_gloss": "mezzo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327190-s7",
+          "gloss": [
+            "calligrafia"
+          ],
+          "short_gloss": "calligrafia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327190-s8",
+          "gloss": [
+            "tipo",
+            "genere"
+          ],
+          "short_gloss": "tipo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327190-s9",
+          "gloss": [
+            "proprie mani",
+            "possesso"
+          ],
+          "short_gloss": "possesso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327190-s10",
+          "gloss": [
+            "capacità di far fronte"
+          ],
+          "short_gloss": "capacità di far fronte",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327190-s11",
+          "gloss": [
+            "mano (carte)"
+          ],
+          "short_gloss": "mano",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327190-s12",
+          "gloss": [
+            "direzione"
+          ],
+          "short_gloss": "direzione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327190-s13",
+          "gloss": [
+            "mossa (go, shogi)"
+          ],
+          "short_gloss": "mossa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327390,
+      "senses": [
+        {
+          "id": "w1327390-s1",
+          "gloss": [
+            "gestire",
+            "occuparsi di",
+            "trattare"
+          ],
+          "short_gloss": "gestire",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327390-s2",
+          "gloss": [
+            "allevare",
+            "prendersi cura di"
+          ],
+          "short_gloss": "prendersi cura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327410,
+      "senses": [
+        {
+          "id": "w1327410-s1",
+          "gloss": [
+            "tempo e fatica",
+            "lavoro"
+          ],
+          "short_gloss": "tempo e fatica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327430,
+      "senses": [
+        {
+          "id": "w1327430-s1",
+          "gloss": [
+            "nota",
+            "promemoria",
+            "appunto"
+          ],
+          "short_gloss": "nota",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327430-s2",
+          "gloss": [
+            "memorie",
+            "resoconto personale"
+          ],
+          "short_gloss": "memorie",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327460,
+      "senses": [
+        {
+          "id": "w1327460-s1",
+          "gloss": [
+            "difficile",
+            "tosto",
+            "formidabile",
+            "ostinato"
+          ],
+          "short_gloss": "difficile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327520,
+      "senses": [
+        {
+          "id": "w1327520-s1",
+          "gloss": [
+            "cambiale",
+            "pagherò",
+            "effetto"
+          ],
+          "short_gloss": "cambiale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327520-s2",
+          "gloss": [
+            "impronta della mano"
+          ],
+          "short_gloss": "impronta della mano",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327520-s3",
+          "gloss": [
+            "impronta firmata"
+          ],
+          "short_gloss": "impronta firmata",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327530,
+      "senses": [
+        {
+          "id": "w1327530-s1",
+          "gloss": [
+            "semplice",
+            "facile",
+            "informale",
+            "economico"
+          ],
+          "short_gloss": "semplice",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327550,
+      "senses": [
+        {
+          "id": "w1327550-s1",
+          "gloss": [
+            "solido",
+            "sicuro",
+            "affidabile"
+          ],
+          "short_gloss": "solido",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327550-s2",
+          "gloss": [
+            "costante",
+            "fermo"
+          ],
+          "short_gloss": "costante",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327560,
+      "senses": [
+        {
+          "id": "w1327560-s1",
+          "gloss": [
+            "a portata di mano",
+            "vicino"
+          ],
+          "short_gloss": "a portata di mano",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327560-s2",
+          "gloss": [
+            "modo di muovere le braccia",
+            "abilità manuale"
+          ],
+          "short_gloss": "abilità manuale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327560-s3",
+          "gloss": [
+            "contanti a disposizione",
+            "denaro in tasca"
+          ],
+          "short_gloss": "contanti a disposizione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327560-s4",
+          "gloss": [
+            "impugnatura",
+            "manico"
+          ],
+          "short_gloss": "impugnatura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327590,
+      "senses": [
+        {
+          "id": "w1327590-s1",
+          "gloss": [
+            "modus operandi",
+            "tecnica criminale",
+            "trucco"
+          ],
+          "short_gloss": "modus operandi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327660,
+      "senses": [
+        {
+          "id": "w1327660-s1",
+          "gloss": [
+            "comodo",
+            "pratico"
+          ],
+          "short_gloss": "comodo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327660-s2",
+          "gloss": [
+            "adeguato",
+            "moderato"
+          ],
+          "short_gloss": "adeguato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327690,
+      "senses": [
+        {
+          "id": "w1327690-s1",
+          "gloss": [
+            "abilità",
+            "destrezza"
+          ],
+          "short_gloss": "abilità",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327690-s2",
+          "gloss": [
+            "esecuzione",
+            "realizzazione"
+          ],
+          "short_gloss": "esecuzione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327700,
+      "senses": [
+        {
+          "id": "w1327700-s1",
+          "gloss": [
+            "inizio",
+            "partenza"
+          ],
+          "short_gloss": "inizio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327720,
+      "senses": [
+        {
+          "id": "w1327720-s1",
+          "gloss": [
+            "lettera",
+            "biglietto"
+          ],
+          "short_gloss": "lettera",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327730,
+      "senses": [
+        {
+          "id": "w1327730-s1",
+          "gloss": [
+            "in mano",
+            "a disposizione",
+            "in stock"
+          ],
+          "short_gloss": "a disposizione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327730-s2",
+          "gloss": [
+            "portatile",
+            "da tenere in mano"
+          ],
+          "short_gloss": "portatile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327770,
+      "senses": [
+        {
+          "id": "w1327770-s1",
+          "gloss": [
+            "polso"
+          ],
+          "short_gloss": "polso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327790,
+      "senses": [
+        {
+          "id": "w1327790-s1",
+          "gloss": [
+            "chirurgia",
+            "operazione",
+            "intervento"
+          ],
+          "short_gloss": "chirurgia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327790-s2",
+          "gloss": [
+            "abilità manuale",
+            "gioco di prestigio"
+          ],
+          "short_gloss": "abilità manuale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327810,
+      "senses": [
+        {
+          "id": "w1327810-s1",
+          "gloss": [
+            "procedura",
+            "sequenza",
+            "protocollo"
+          ],
+          "short_gloss": "procedura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327830,
+      "senses": [
+        {
+          "id": "w1327830-s1",
+          "gloss": [
+            "scrittura a mano"
+          ],
+          "short_gloss": "scrittura a mano",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327830-s2",
+          "gloss": [
+            "scritto a mano",
+            "disegnato a mano",
+            "dipinto a mano"
+          ],
+          "short_gloss": "scritto a mano",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327840,
+      "senses": [
+        {
+          "id": "w1327840-s1",
+          "gloss": [
+            "aiuto",
+            "assistenza"
+          ],
+          "short_gloss": "aiuto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327900,
+      "senses": [
+        {
+          "id": "w1327900-s1",
+          "gloss": [
+            "manette"
+          ],
+          "short_gloss": "manette",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1327900-s2",
+          "gloss": [
+            "reclusione in catene (punizione Edo)"
+          ],
+          "short_gloss": "reclusione in catene",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327980,
+      "senses": [
+        {
+          "id": "w1327980-s1",
+          "gloss": [
+            "commissione",
+            "spesa di gestione",
+            "commissione (cancellazione)"
+          ],
+          "short_gloss": "commissione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1327990,
+      "senses": [
+        {
+          "id": "w1327990-s1",
+          "gloss": [
+            "fatto a mano",
+            "artigianale"
+          ],
+          "short_gloss": "fatto a mano",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328030,
+      "senses": [
+        {
+          "id": "w1328030-s1",
+          "gloss": [
+            "davanti a sé",
+            "nelle vicinanze"
+          ],
+          "short_gloss": "davanti a sé",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328030-s2",
+          "gloss": [
+            "poco prima di (un luogo)",
+            "da questo lato di"
+          ],
+          "short_gloss": "da questo lato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328030-s3",
+          "gloss": [
+            "propria posizione",
+            "faccia",
+            "onore"
+          ],
+          "short_gloss": "faccia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328030-s4",
+          "gloss": [
+            "abilità",
+            "destrezza",
+            "ingegno"
+          ],
+          "short_gloss": "abilità",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328030-s5",
+          "gloss": [
+            "procedura del tè"
+          ],
+          "short_gloss": "cerimonia del tè",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328030-s6",
+          "gloss": [
+            "io"
+          ],
+          "short_gloss": "io",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328030-s7",
+          "gloss": [
+            "tu"
+          ],
+          "short_gloss": "tu",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328080,
+      "senses": [
+        {
+          "id": "w1328080-s1",
+          "gloss": [
+            "mani e piedi",
+            "arti"
+          ],
+          "short_gloss": "arti",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328080-s2",
+          "gloss": [
+            "persona ai propri ordini",
+            "braccio destro"
+          ],
+          "short_gloss": "braccio destro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328090,
+      "senses": [
+        {
+          "id": "w1328090-s1",
+          "gloss": [
+            "guanto",
+            "mozzetta",
+            "manopola"
+          ],
+          "short_gloss": "guanto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328100,
+      "senses": [
+        {
+          "id": "w1328100-s1",
+          "gloss": [
+            "brancolare",
+            "andare a tentoni"
+          ],
+          "short_gloss": "brancolare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328110,
+      "senses": [
+        {
+          "id": "w1328110-s1",
+          "gloss": [
+            "mezzo",
+            "modo",
+            "misura"
+          ],
+          "short_gloss": "mezzo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328140,
+      "senses": [
+        {
+          "id": "w1328140-s1",
+          "gloss": [
+            "ritocco",
+            "piccola correzione",
+            "aggiustamento",
+            "modifica"
+          ],
+          "short_gloss": "ritocco",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328150,
+      "senses": [
+        {
+          "id": "w1328150-s1",
+          "gloss": [
+            "grave",
+            "duro"
+          ],
+          "short_gloss": "grave",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328160,
+      "senses": [
+        {
+          "id": "w1328160-s1",
+          "gloss": [
+            "borsa a mano",
+            "borsetta"
+          ],
+          "short_gloss": "borsa a mano",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328170,
+      "senses": [
+        {
+          "id": "w1328170-s1",
+          "gloss": [
+            "aiutante",
+            "assistente"
+          ],
+          "short_gloss": "aiutante",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328170-s2",
+          "gloss": [
+            "aiuto",
+            "assistenza"
+          ],
+          "short_gloss": "aiuto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328210,
+      "senses": [
+        {
+          "id": "w1328210-s1",
+          "gloss": [
+            "consegnare a mano",
+            "passare"
+          ],
+          "short_gloss": "consegnare a mano",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328240,
+      "senses": [
+        {
+          "id": "w1328240-s1",
+          "gloss": [
+            "manuale (funzionamento)"
+          ],
+          "short_gloss": "manuale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328250,
+      "senses": [
+        {
+          "id": "w1328250-s1",
+          "gloss": [
+            "cura",
+            "manutenzione",
+            "sistemazione",
+            "toelettatura"
+          ],
+          "short_gloss": "manutenzione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328250-s2",
+          "gloss": [
+            "irruzione della polizia",
+            "retata"
+          ],
+          "short_gloss": "irruzione della polizia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328260,
+      "senses": [
+        {
+          "id": "w1328260-s1",
+          "gloss": [
+            "organizzazione",
+            "preparativi"
+          ],
+          "short_gloss": "organizzazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328260-s2",
+          "gloss": [
+            "ricerca (polizia)"
+          ],
+          "short_gloss": "ricerca della polizia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328300,
+      "senses": [
+        {
+          "id": "w1328300-s1",
+          "gloss": [
+            "saltare passaggi essenziali",
+            "risparmiare sulla qualità"
+          ],
+          "short_gloss": "saltare passaggi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328300-s2",
+          "gloss": [
+            "negligenza intenzionale"
+          ],
+          "short_gloss": "negligenza intenzionale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328300-s3",
+          "gloss": [
+            "tenuki (mossa non di risposta)"
+          ],
+          "short_gloss": "tenuki",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328380,
+      "senses": [
+        {
+          "id": "w1328380-s1",
+          "gloss": [
+            "tecnica",
+            "metodo"
+          ],
+          "short_gloss": "tecnica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328390,
+      "senses": [
+        {
+          "id": "w1328390-s1",
+          "gloss": [
+            "modello",
+            "buon esempio",
+            "esempio da imitare"
+          ],
+          "short_gloss": "modello",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328390-s2",
+          "gloss": [
+            "modello di calligrafia o disegno",
+            "copiario"
+          ],
+          "short_gloss": "modello di calligrafia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328410,
+      "senses": [
+        {
+          "id": "w1328410-s1",
+          "gloss": [
+            "mezzo",
+            "metodo"
+          ],
+          "short_gloss": "mezzo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328440,
+      "senses": [
+        {
+          "id": "w1328440-s1",
+          "gloss": [
+            "lingua dei segni"
+          ],
+          "short_gloss": "lingua dei segni",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328450,
+      "senses": [
+        {
+          "id": "w1328450-s1",
+          "gloss": [
+            "abilità",
+            "capacità",
+            "talento"
+          ],
+          "short_gloss": "abilità",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328470,
+      "senses": [
+        {
+          "id": "w1328470-s1",
+          "gloss": [
+            "rosso vermiglio",
+            "cinabro",
+            "scarlatto"
+          ],
+          "short_gloss": "rosso vermiglio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328680,
+      "senses": [
+        {
+          "id": "w1328680-s1",
+          "gloss": [
+            "servizi distinti",
+            "meriti"
+          ],
+          "short_gloss": "servizi distinti",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328710,
+      "senses": [
+        {
+          "id": "w1328710-s1",
+          "gloss": [
+            "caccia"
+          ],
+          "short_gloss": "caccia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328710-s2",
+          "gloss": [
+            "raccolta (funghi, molluschi, frutti)",
+            "ammirare (foglie autunnali)"
+          ],
+          "short_gloss": "raccolta",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328710-s3",
+          "gloss": [
+            "caccia all'uomo",
+            "persecuzione",
+            "caccia alle streghe"
+          ],
+          "short_gloss": "caccia all'uomo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328760,
+      "senses": [
+        {
+          "id": "w1328760-s1",
+          "gloss": [
+            "caccia",
+            "attività venatoria"
+          ],
+          "short_gloss": "caccia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328830,
+      "senses": [
+        {
+          "id": "w1328830-s1",
+          "gloss": [
+            "seme",
+            "nocciolo"
+          ],
+          "short_gloss": "seme",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328870,
+      "senses": [
+        {
+          "id": "w1328870-s1",
+          "gloss": [
+            "classificazione",
+            "assortimento"
+          ],
+          "short_gloss": "classificazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328880,
+      "senses": [
+        {
+          "id": "w1328880-s1",
+          "gloss": [
+            "voce",
+            "categoria",
+            "evento (gara)"
+          ],
+          "short_gloss": "voce",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328890,
+      "senses": [
+        {
+          "id": "w1328890-s1",
+          "gloss": [
+            "varietà",
+            "tipo",
+            "categoria"
+          ],
+          "short_gloss": "varietà",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328890-s2",
+          "gloss": [
+            "contatore per tipi/specie"
+          ],
+          "short_gloss": "contatore per tipi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328960,
+      "senses": [
+        {
+          "id": "w1328960-s1",
+          "gloss": [
+            "significato",
+            "senso",
+            "tenore"
+          ],
+          "short_gloss": "senso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328960-s2",
+          "gloss": [
+            "effetto",
+            "influenza"
+          ],
+          "short_gloss": "effetto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328960-s3",
+          "gloss": [
+            "aspetto",
+            "apparenza"
+          ],
+          "short_gloss": "aspetto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328960-s4",
+          "gloss": [
+            "grazia",
+            "fascino",
+            "eleganza"
+          ],
+          "short_gloss": "fascino",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328970,
+      "senses": [
+        {
+          "id": "w1328970-s1",
+          "gloss": [
+            "idea",
+            "piano",
+            "progetto"
+          ],
+          "short_gloss": "idea",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328970-s2",
+          "gloss": [
+            "gusto",
+            "preferenza"
+          ],
+          "short_gloss": "gusto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1328990,
+      "senses": [
+        {
+          "id": "w1328990-s1",
+          "gloss": [
+            "significato",
+            "punto",
+            "senso"
+          ],
+          "short_gloss": "significato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1328990-s2",
+          "gloss": [
+            "obiettivo",
+            "intento",
+            "scopo"
+          ],
+          "short_gloss": "obiettivo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1329000,
+      "senses": [
+        {
+          "id": "w1329000-s1",
+          "gloss": [
+            "curiosità",
+            "strano"
+          ],
+          "short_gloss": "curiosità",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1329010,
+      "senses": [
+        {
+          "id": "w1329010-s1",
+          "gloss": [
+            "tenera età"
+          ],
+          "short_gloss": "tenera età",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "senses": [
+        {
+          "id": "w1329040-s1",
+          "gloss": [
+            "enoteca",
+            "negozio di liquori",
+            "bottle shop"
+          ],
+          "short_gloss": "enoteca",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1329040-s2",
+          "gloss": [
+            "rivenditore di sake",
+            "produttore di sake"
+          ],
+          "short_gloss": "rivenditore di sake",
+          "source": "manual_translation"
+        }
+      ],
+      "id": 1329040
+    },
+    {
+      "senses": [
+        {
+          "id": "w1329110-s1",
+          "gloss": [
+            "bar",
+            "osteria",
+            "taverna"
+          ],
+          "short_gloss": "bar",
+          "source": "manual_translation"
+        }
+      ],
+      "id": 1329110
+    },
+    {
+      "senses": [
+        {
+          "id": "w1329140-s1",
+          "gloss": [
+            "produzione di sake",
+            "distillazione (es. whisky)"
+          ],
+          "short_gloss": "produzione di sake",
+          "source": "manual_translation"
+        }
+      ],
+      "id": 1329140
+    },
+    {
+      "id": 1329190,
+      "senses": [
+        {
+          "id": "w1329190-s1",
+          "gloss": [
+            "abbracciare (una fede)",
+            "convertirsi"
+          ],
+          "short_gloss": "convertirsi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "senses": [
+        {
+          "id": "w1329300-s1",
+          "gloss": [
+            "primo ministro",
+            "cancelliere",
+            "premier"
+          ],
+          "short_gloss": "primo ministro",
+          "source": "manual_translation"
+        }
+      ],
+      "id": 1329300
+    },
+    {
+      "senses": [
+        {
+          "id": "w1329320-s1",
+          "gloss": [
+            "capo",
+            "responsabile"
+          ],
+          "short_gloss": "capo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1329320-s2",
+          "gloss": [
+            "sceicco",
+            "emiro"
+          ],
+          "short_gloss": "sceicco",
+          "source": "manual_translation"
+        }
+      ],
+      "id": 1329320
+    },
+    {
+      "id": 1329340,
+      "senses": [
+        {
+          "id": "w1329340-s1",
+          "gloss": [
+            "clero",
+            "ecclesiastici"
+          ],
+          "short_gloss": "clero",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "senses": [
+        {
+          "id": "w1329350-s1",
+          "gloss": [
+            "area metropolitana di Tokyo"
+          ],
+          "short_gloss": "area metropolitana di Tokyo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1329350-s2",
+          "gloss": [
+            "area metropolitana della capitale"
+          ],
+          "short_gloss": "area metropolitana della capitale",
+          "source": "manual_translation"
+        }
+      ],
+      "id": 1329350
+    },
+    {
+      "senses": [
+        {
+          "id": "w1329360-s1",
+          "gloss": [
+            "capo",
+            "leader",
+            "vertice"
+          ],
+          "short_gloss": "capo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1329360-s2",
+          "gloss": [
+            "parte importante"
+          ],
+          "short_gloss": "parte importante",
+          "source": "manual_translation"
+        }
+      ],
+      "id": 1329360
+    },
+    {
+      "senses": [
+        {
+          "id": "w1329380-s1",
+          "gloss": [
+            "capo",
+            "leader",
+            "primo ministro"
+          ],
+          "short_gloss": "capo",
+          "source": "manual_translation"
+        }
+      ],
+      "id": 1329380
+    },
+    {
+      "senses": [
+        {
+          "id": "w1329420-s1",
+          "gloss": [
+            "complottare",
+            "pianificare (un crimine)"
+          ],
+          "short_gloss": "complottare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1329420-s2",
+          "gloss": [
+            "mandante",
+            "capo della cospirazione",
+            "mente (del complotto)"
+          ],
+          "short_gloss": "mandante",
+          "source": "manual_translation"
+        }
+      ],
+      "id": 1329420
+    },
+    {
+      "senses": [
+        {
+          "id": "w1329510-s1",
+          "gloss": [
+            "confucianesimo"
+          ],
+          "short_gloss": "confucianesimo",
+          "source": "manual_translation"
+        }
+      ],
+      "id": 1329510
+    },
+    {
+      "id": 1329590,
+      "senses": [
+        {
+          "id": "w1329590-s1",
+          "gloss": [
+            "diventare liquido",
+            "liquefarsi"
+          ],
+          "short_gloss": "liquefarsi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "senses": [
+        {
+          "id": "w1329600-s1",
+          "gloss": [
+            "ereditare",
+            "succedere",
+            "rilevare"
+          ],
+          "short_gloss": "ereditare",
+          "source": "manual_translation"
+        }
+      ],
+      "id": 1329600
+    },
+    {
+      "id": 1329620,
+      "senses": [
+        {
+          "id": "w1329620-s1",
+          "gloss": [
+            "vento leggero",
+            "brezza"
+          ],
+          "short_gloss": "brezza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "senses": [
+        {
+          "id": "w1329630-s1",
+          "gloss": [
+            "afferrare",
+            "parare un colpo"
+          ],
+          "short_gloss": "afferrare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1329630-s2",
+          "gloss": [
+            "accettare",
+            "prendere (un consiglio)",
+            "affrontare"
+          ],
+          "short_gloss": "accettare",
+          "source": "manual_translation"
+        }
+      ],
+      "id": 1329630
+    },
+    {
+      "senses": [
+        {
+          "id": "w1329650-s1",
+          "gloss": [
+            "ricevere",
+            "ottenere",
+            "accettare"
+          ],
+          "short_gloss": "ricevere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1329650-s2",
+          "gloss": [
+            "interpretare",
+            "capire",
+            "accogliere (parole o comportamento)"
+          ],
+          "short_gloss": "interpretare",
+          "source": "manual_translation"
+        }
+      ],
+      "id": 1329650
+    },
+    {
+      "senses": [
+        {
+          "id": "w1329660-s1",
+          "gloss": [
+            "accoglienza",
+            "accettazione",
+            "ammissione"
+          ],
+          "short_gloss": "accoglienza",
+          "source": "manual_translation"
+        }
+      ],
+      "id": 1329660
+    },
+    {
+      "id": 1329670,
+      "senses": [
+        {
+          "id": "w1329670-s1",
+          "gloss": [
+            "accettare",
+            "ricevere",
+            "acconsentire"
+          ],
+          "short_gloss": "accettare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1329720,
+      "senses": [
+        {
+          "id": "w1329720-s1",
+          "gloss": [
+            "punizione"
+          ],
+          "short_gloss": "punizione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1329740,
+      "senses": [
+        {
+          "id": "w1329740-s1",
+          "gloss": [
+            "sostenere un esame"
+          ],
+          "short_gloss": "sostenere un esame",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1329760,
+      "senses": [
+        {
+          "id": "w1329760-s1",
+          "gloss": [
+            "frequentare un corso",
+            "seguire una lezione"
+          ],
+          "short_gloss": "frequentare un corso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1329770,
+      "senses": [
+        {
+          "id": "w1329770-s1",
+          "gloss": [
+            "ricezione",
+            "ricevuta"
+          ],
+          "short_gloss": "ricezione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1329790,
+      "senses": [
+        {
+          "id": "w1329790-s1",
+          "gloss": [
+            "ricevere un premio",
+            "essere premiato"
+          ],
+          "short_gloss": "ricevere un premio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1329810,
+      "senses": [
+        {
+          "id": "w1329810-s1",
+          "gloss": [
+            "ricezione (messaggio, radio)"
+          ],
+          "short_gloss": "ricezione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1329830,
+      "senses": [
+        {
+          "id": "w1329830-s1",
+          "gloss": [
+            "ricevitore (TV, radio)"
+          ],
+          "short_gloss": "ricevitore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1329860,
+      "senses": [
+        {
+          "id": "w1329860-s1",
+          "gloss": [
+            "difensiva"
+          ],
+          "short_gloss": "difensiva",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1329860-s2",
+          "gloss": [
+            "atteggiamento passivo",
+            "passività"
+          ],
+          "short_gloss": "passività",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1329860-s3",
+          "gloss": [
+            "voce passiva"
+          ],
+          "short_gloss": "voce passiva",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1329860-s4",
+          "gloss": [
+            "ukemi (arte di cadere)"
+          ],
+          "short_gloss": "ukemi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1329880,
+      "senses": [
+        {
+          "id": "w1329880-s1",
+          "gloss": [
+            "ovulo fecondato"
+          ],
+          "short_gloss": "ovulo fecondato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1329900,
+      "senses": [
+        {
+          "id": "w1329900-s1",
+          "gloss": [
+            "ricezione televisiva"
+          ],
+          "short_gloss": "ricezione televisiva",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1329930,
+      "senses": [
+        {
+          "id": "w1329930-s1",
+          "gloss": [
+            "essere incaricato di",
+            "ricevere l'incarico di"
+          ],
+          "short_gloss": "essere incaricato di",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1329960,
+      "senses": [
+        {
+          "id": "w1329960-s1",
+          "gloss": [
+            "accettazione"
+          ],
+          "short_gloss": "accettazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1329970,
+      "senses": [
+        {
+          "id": "w1329970-s1",
+          "gloss": [
+            "ricevere un ordine",
+            "ordine ricevuto"
+          ],
+          "short_gloss": "ricevere un ordine",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330020,
+      "senses": [
+        {
+          "id": "w1330020-s1",
+          "gloss": [
+            "sofferenze",
+            "prove",
+            "agonia"
+          ],
+          "short_gloss": "sofferenze",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1330020-s2",
+          "gloss": [
+            "Passione di Cristo",
+            "crocefissione"
+          ],
+          "short_gloss": "Passione di Cristo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330050,
+      "senses": [
+        {
+          "id": "w1330050-s1",
+          "gloss": [
+            "accoglienza",
+            "ricezione"
+          ],
+          "short_gloss": "accoglienza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330070,
+      "senses": [
+        {
+          "id": "w1330070-s1",
+          "gloss": [
+            "accettazione"
+          ],
+          "short_gloss": "accettazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330080,
+      "senses": [
+        {
+          "id": "w1330080-s1",
+          "gloss": [
+            "ricezione",
+            "accettazione",
+            "ricevere"
+          ],
+          "short_gloss": "ricezione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330090,
+      "senses": [
+        {
+          "id": "w1330090-s1",
+          "gloss": [
+            "cornetta del telefono",
+            "ricevitore"
+          ],
+          "short_gloss": "cornetta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330170,
+      "senses": [
+        {
+          "id": "w1330170-s1",
+          "gloss": [
+            "congratulazioni",
+            "felicitazioni",
+            "auguri"
+          ],
+          "short_gloss": "congratulazioni",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1330170-s2",
+          "gloss": [
+            "longevità",
+            "lunga vita"
+          ],
+          "short_gloss": "longevità",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330240,
+      "senses": [
+        {
+          "id": "w1330240-s1",
+          "gloss": [
+            "durata della vita",
+            "aspettativa di vita"
+          ],
+          "short_gloss": "durata della vita",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1330240-s2",
+          "gloss": [
+            "vita utile (batteria, lampadina)"
+          ],
+          "short_gloss": "vita utile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330290,
+      "senses": [
+        {
+          "id": "w1330290-s1",
+          "gloss": [
+            "lezione",
+            "corso",
+            "insegnamento"
+          ],
+          "short_gloss": "lezione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330310,
+      "senses": [
+        {
+          "id": "w1330310-s1",
+          "gloss": [
+            "retta",
+            "tassa scolastica"
+          ],
+          "short_gloss": "retta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330330,
+      "senses": [
+        {
+          "id": "w1330330-s1",
+          "gloss": [
+            "dare e ricevere",
+            "scambio"
+          ],
+          "short_gloss": "scambio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330360,
+      "senses": [
+        {
+          "id": "w1330360-s1",
+          "gloss": [
+            "conferimento",
+            "attribuzione",
+            "assegnazione"
+          ],
+          "short_gloss": "conferimento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330370,
+      "senses": [
+        {
+          "id": "w1330370-s1",
+          "gloss": [
+            "resina",
+            "pece"
+          ],
+          "short_gloss": "resina",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330400,
+      "senses": [
+        {
+          "id": "w1330400-s1",
+          "gloss": [
+            "albero",
+            "alberi e arbusti"
+          ],
+          "short_gloss": "albero",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330410,
+      "senses": [
+        {
+          "id": "w1330410-s1",
+          "gloss": [
+            "fondazione",
+            "istituzione",
+            "stabilimento"
+          ],
+          "short_gloss": "fondazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330420,
+      "senses": [
+        {
+          "id": "w1330420-s1",
+          "gloss": [
+            "età di un albero"
+          ],
+          "short_gloss": "età di un albero",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330430,
+      "senses": [
+        {
+          "id": "w1330430-s1",
+          "gloss": [
+            "domanda e offerta"
+          ],
+          "short_gloss": "domanda e offerta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330450,
+      "senses": [
+        {
+          "id": "w1330450-s1",
+          "gloss": [
+            "domanda",
+            "richiesta"
+          ],
+          "short_gloss": "domanda",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330470,
+      "senses": [
+        {
+          "id": "w1330470-s1",
+          "gloss": [
+            "prigioniero",
+            "detenuto"
+          ],
+          "short_gloss": "prigioniero",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330490,
+      "senses": [
+        {
+          "id": "w1330490-s1",
+          "gloss": [
+            "rientrare (in una scatola, budget)",
+            "essere contenuto"
+          ],
+          "short_gloss": "rientrare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1330490-s2",
+          "gloss": [
+            "sistemarsi",
+            "essere installato"
+          ],
+          "short_gloss": "sistemarsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1330490-s3",
+          "gloss": [
+            "assumere un incarico",
+            "occupare un ruolo"
+          ],
+          "short_gloss": "assumere un incarico",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1330490-s4",
+          "gloss": [
+            "essere consegnato",
+            "essere pagato"
+          ],
+          "short_gloss": "essere pagato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1330490-s5",
+          "gloss": [
+            "risolversi",
+            "placarsi",
+            "calmarsi"
+          ],
+          "short_gloss": "risolversi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1330490-s6",
+          "gloss": [
+            "essere soddisfatto",
+            "acconsentire"
+          ],
+          "short_gloss": "essere soddisfatto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330500,
+      "senses": [
+        {
+          "id": "w1330500-s1",
+          "gloss": [
+            "profitto",
+            "ricavi",
+            "introiti"
+          ],
+          "short_gloss": "profitto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330510,
+      "senses": [
+        {
+          "id": "w1330510-s1",
+          "gloss": [
+            "raccolto",
+            "mietitura"
+          ],
+          "short_gloss": "raccolto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1330510-s2",
+          "gloss": [
+            "frutti (del lavoro)",
+            "risultato",
+            "ricavo"
+          ],
+          "short_gloss": "frutti",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1330510-s3",
+          "gloss": [
+            "bottino di pesca/caccia"
+          ],
+          "short_gloss": "bottino",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330640,
+      "senses": [
+        {
+          "id": "w1330640-s1",
+          "gloss": [
+            "entrate e uscite"
+          ],
+          "short_gloss": "entrate e uscite",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330660,
+      "senses": [
+        {
+          "id": "w1330660-s1",
+          "gloss": [
+            "mettere sotto controllo",
+            "riordinare",
+            "risolvere"
+          ],
+          "short_gloss": "mettere sotto controllo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330670,
+      "senses": [
+        {
+          "id": "w1330670-s1",
+          "gloss": [
+            "contrazione",
+            "restringimento",
+            "riduzione"
+          ],
+          "short_gloss": "contrazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330790,
+      "senses": [
+        {
+          "id": "w1330790-s1",
+          "gloss": [
+            "reddito",
+            "entrate",
+            "ricavi"
+          ],
+          "short_gloss": "reddito",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330830,
+      "senses": [
+        {
+          "id": "w1330830-s1",
+          "gloss": [
+            "stoccaggio",
+            "riporre"
+          ],
+          "short_gloss": "stoccaggio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1330830-s2",
+          "gloss": [
+            "incasso (fondi)",
+            "ricevimento"
+          ],
+          "short_gloss": "incasso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1330830-s3",
+          "gloss": [
+            "raccolta (del raccolto)"
+          ],
+          "short_gloss": "raccolta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330880,
+      "senses": [
+        {
+          "id": "w1330880-s1",
+          "gloss": [
+            "accoglienza",
+            "ospitalità",
+            "ricezione"
+          ],
+          "short_gloss": "accoglienza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1330880-s2",
+          "gloss": [
+            "detenzione",
+            "internamento"
+          ],
+          "short_gloss": "detenzione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1330880-s3",
+          "gloss": [
+            "contenimento (in un dizionario, ecc.)",
+            "inclusione"
+          ],
+          "short_gloss": "contenimento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330910,
+      "senses": [
+        {
+          "id": "w1330910-s1",
+          "gloss": [
+            "struttura di accoglienza",
+            "campo di detenzione",
+            "campo profughi"
+          ],
+          "short_gloss": "struttura di accoglienza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330950,
+      "senses": [
+        {
+          "id": "w1330950-s1",
+          "gloss": [
+            "esproprio",
+            "sequestro"
+          ],
+          "short_gloss": "esproprio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330970,
+      "senses": [
+        {
+          "id": "w1330970-s1",
+          "gloss": [
+            "resa del raccolto",
+            "quantità raccolta"
+          ],
+          "short_gloss": "resa del raccolto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330980,
+      "senses": [
+        {
+          "id": "w1330980-s1",
+          "gloss": [
+            "inserimento in un libro o verbale"
+          ],
+          "short_gloss": "inserimento",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1330980-s2",
+          "gloss": [
+            "registrazione audio/video"
+          ],
+          "short_gloss": "registrazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1330990,
+      "senses": [
+        {
+          "id": "w1330990-s1",
+          "gloss": [
+            "accettazione di una tangente"
+          ],
+          "short_gloss": "accettazione di una tangente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1331010,
+      "senses": [
+        {
+          "id": "w1331010-s1",
+          "gloss": [
+            "dintorni",
+            "circumferenza"
+          ],
+          "short_gloss": "dintorni",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1331030,
+      "senses": [
+        {
+          "id": "w1331030-s1",
+          "gloss": [
+            "dintorni",
+            "circostanze"
+          ],
+          "short_gloss": "dintorni",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1331030-s2",
+          "gloss": [
+            "circonferenza"
+          ],
+          "short_gloss": "circonferenza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1331090,
+      "senses": [
+        {
+          "id": "w1331090-s1",
+          "gloss": [
+            "ciclo",
+            "periodo"
+          ],
+          "short_gloss": "ciclo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1331210,
+      "senses": [
+        {
+          "id": "w1331210-s1",
+          "gloss": [
+            "notorio",
+            "di pubblico dominio",
+            "divulgazione"
+          ],
+          "short_gloss": "notorio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1331230,
+      "senses": [
+        {
+          "id": "w1331230-s1",
+          "gloss": [
+            "accurato",
+            "scrupoloso",
+            "meticoloso"
+          ],
+          "short_gloss": "accurato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1331240,
+      "senses": [
+        {
+          "id": "w1331240-s1",
+          "gloss": [
+            "anno intero"
+          ],
+          "short_gloss": "anno intero",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1331240-s2",
+          "gloss": [
+            "anniversario di n anni"
+          ],
+          "short_gloss": "anniversario (n-esimo)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1331260,
+      "senses": [
+        {
+          "id": "w1331260-s1",
+          "gloss": [
+            "frequenza (onde)"
+          ],
+          "short_gloss": "frequenza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1331300,
+      "senses": [
+        {
+          "id": "w1331300-s1",
+          "gloss": [
+            "periferia",
+            "dintorni",
+            "vicinanze"
+          ],
+          "short_gloss": "periferia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1331300-s2",
+          "gloss": [
+            "periferica (computer)"
+          ],
+          "short_gloss": "periferica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1331400,
+      "senses": [
+        {
+          "id": "w1331400-s1",
+          "gloss": [
+            "religione",
+            "fede"
+          ],
+          "short_gloss": "religione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1331400-s2",
+          "gloss": [
+            "attività religiosa"
+          ],
+          "short_gloss": "attività religiosa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1331490,
+      "senses": [
+        {
+          "id": "w1331490-s1",
+          "gloss": [
+            "setta",
+            "denominazione"
+          ],
+          "short_gloss": "setta",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1331490-s2",
+          "gloss": [
+            "scuola (poesia ecc.)"
+          ],
+          "short_gloss": "scuola",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1331500,
+      "senses": [
+        {
+          "id": "w1331500-s1",
+          "gloss": [
+            "denominazione religiosa",
+            "setta"
+          ],
+          "short_gloss": "denominazione religiosa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1331550,
+      "senses": [
+        {
+          "id": "w1331550-s1",
+          "gloss": [
+            "iniziare la scuola",
+            "frequenza scolastica"
+          ],
+          "short_gloss": "iniziare la scuola",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1331590,
+      "senses": [
+        {
+          "id": "w1331590-s1",
+          "gloss": [
+            "impiego",
+            "inizio lavoro"
+          ],
+          "short_gloss": "impiego",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1331650,
+      "senses": [
+        {
+          "id": "w1331650-s1",
+          "gloss": [
+            "entrare in servizio (rotta nave/aereo)"
+          ],
+          "short_gloss": "entrare in servizio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1331670,
+      "senses": [
+        {
+          "id": "w1331670-s1",
+          "gloss": [
+            "trovare lavoro",
+            "assunzione"
+          ],
+          "short_gloss": "trovare lavoro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1331740,
+      "senses": [
+        {
+          "id": "w1331740-s1",
+          "gloss": [
+            "andare a letto",
+            "coricarsi"
+          ],
+          "short_gloss": "coricarsi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1331780,
+      "senses": [
+        {
+          "id": "w1331780-s1",
+          "gloss": [
+            "assunzione della carica",
+            "insediamento"
+          ],
+          "short_gloss": "assunzione della carica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1331830,
+      "senses": [
+        {
+          "id": "w1331830-s1",
+          "gloss": [
+            "lavorare",
+            "essere occupato"
+          ],
+          "short_gloss": "lavorare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1331840,
+      "senses": [
+        {
+          "id": "w1331840-s1",
+          "gloss": [
+            "stato (USA, Australia, ecc.)",
+            "provincia"
+          ],
+          "short_gloss": "stato/provincia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1331840-s2",
+          "gloss": [
+            "continente"
+          ],
+          "short_gloss": "continente",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1331840-s3",
+          "gloss": [
+            "provincia (Giappone)"
+          ],
+          "short_gloss": "provincia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1331840-s4",
+          "gloss": [
+            "provincia (Cina antica)",
+            "prefettura"
+          ],
+          "short_gloss": "provincia antica",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1331840-s5",
+          "gloss": [
+            "caro",
+            "amato"
+          ],
+          "short_gloss": "caro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1331960,
+      "senses": [
+        {
+          "id": "w1331960-s1",
+          "gloss": [
+            "gita scolastica",
+            "viaggio di istruzione"
+          ],
+          "short_gloss": "gita scolastica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332020,
+      "senses": [
+        {
+          "id": "w1332020-s1",
+          "gloss": [
+            "laurea magistrale",
+            "master"
+          ],
+          "short_gloss": "laurea magistrale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332130,
+      "senses": [
+        {
+          "id": "w1332130-s1",
+          "gloss": [
+            "correzione",
+            "revisione",
+            "modifica",
+            "aggiornamento"
+          ],
+          "short_gloss": "correzione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332170,
+      "senses": [
+        {
+          "id": "w1332170-s1",
+          "gloss": [
+            "riparazione",
+            "rattoppo"
+          ],
+          "short_gloss": "riparazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332230,
+      "senses": [
+        {
+          "id": "w1332230-s1",
+          "gloss": [
+            "studio delle belle arti"
+          ],
+          "short_gloss": "studio delle arti",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332240,
+      "senses": [
+        {
+          "id": "w1332240-s1",
+          "gloss": [
+            "monastero",
+            "convento",
+            "abbazia"
+          ],
+          "short_gloss": "monastero",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332320,
+      "senses": [
+        {
+          "id": "w1332320-s1",
+          "gloss": [
+            "restauro",
+            "riparazione"
+          ],
+          "short_gloss": "restauro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332400,
+      "senses": [
+        {
+          "id": "w1332400-s1",
+          "gloss": [
+            "riparazione",
+            "manutenzione"
+          ],
+          "short_gloss": "riparazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332450,
+      "senses": [
+        {
+          "id": "w1332450-s1",
+          "gloss": [
+            "completamento (di un corso)"
+          ],
+          "short_gloss": "completamento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332560,
+      "senses": [
+        {
+          "id": "w1332560-s1",
+          "gloss": [
+            "oggetto trovato",
+            "cosa raccolta"
+          ],
+          "short_gloss": "oggetto trovato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1332560-s2",
+          "gloss": [
+            "fortunata scoperta",
+            "colpo di fortuna",
+            "affare"
+          ],
+          "short_gloss": "fortunata scoperta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332650,
+      "senses": [
+        {
+          "id": "w1332650-s1",
+          "gloss": [
+            "autunno"
+          ],
+          "short_gloss": "autunno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332690,
+      "senses": [
+        {
+          "id": "w1332690-s1",
+          "gloss": [
+            "inizio autunno"
+          ],
+          "short_gloss": "inizio autunno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332760,
+      "senses": [
+        {
+          "id": "w1332760-s1",
+          "gloss": [
+            "finire",
+            "terminare"
+          ],
+          "short_gloss": "finire",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1332760-s2",
+          "gloss": [
+            "laurearsi"
+          ],
+          "short_gloss": "laurearsi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332800,
+      "senses": [
+        {
+          "id": "w1332800-s1",
+          "gloss": [
+            "conclusione",
+            "fine"
+          ],
+          "short_gloss": "conclusione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1332800-s2",
+          "gloss": [
+            "fase finale di go/shogi"
+          ],
+          "short_gloss": "fase finale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332810,
+      "senses": [
+        {
+          "id": "w1332810-s1",
+          "gloss": [
+            "fine",
+            "chiusura"
+          ],
+          "short_gloss": "fine",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332820,
+      "senses": [
+        {
+          "id": "w1332820-s1",
+          "gloss": [
+            "inizio e fine"
+          ],
+          "short_gloss": "inizio e fine",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1332820-s2",
+          "gloss": [
+            "dall'inizio alla fine",
+            "per tutto il tempo"
+          ],
+          "short_gloss": "per tutto il tempo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1332820-s3",
+          "gloss": [
+            "dall'inizio alla fine",
+            "continuamente"
+          ],
+          "short_gloss": "dall'inizio alla fine",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332850,
+      "senses": [
+        {
+          "id": "w1332850-s1",
+          "gloss": [
+            "punto finale",
+            "punto"
+          ],
+          "short_gloss": "punto finale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1332850-s2",
+          "gloss": [
+            "conclusione",
+            "chiusura"
+          ],
+          "short_gloss": "conclusione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332870,
+      "senses": [
+        {
+          "id": "w1332870-s1",
+          "gloss": [
+            "per tutta la vita",
+            "a vita"
+          ],
+          "short_gloss": "per tutta la vita",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332900,
+      "senses": [
+        {
+          "id": "w1332900-s1",
+          "gloss": [
+            "fine della guerra",
+            "cessazione delle ostilità"
+          ],
+          "short_gloss": "fine della guerra",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332910,
+      "senses": [
+        {
+          "id": "w1332910-s1",
+          "gloss": [
+            "cessazione",
+            "fine"
+          ],
+          "short_gloss": "cessazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332930,
+      "senses": [
+        {
+          "id": "w1332930-s1",
+          "gloss": [
+            "prezzo di chiusura"
+          ],
+          "short_gloss": "prezzo di chiusura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332950,
+      "senses": [
+        {
+          "id": "w1332950-s1",
+          "gloss": [
+            "capolinea",
+            "ultima fermata"
+          ],
+          "short_gloss": "capolinea",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332980,
+      "senses": [
+        {
+          "id": "w1332980-s1",
+          "gloss": [
+            "tutto il giorno"
+          ],
+          "short_gloss": "tutto il giorno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1332990,
+      "senses": [
+        {
+          "id": "w1332990-s1",
+          "gloss": [
+            "finale",
+            "fase conclusiva"
+          ],
+          "short_gloss": "fase conclusiva",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1333020,
+      "senses": [
+        {
+          "id": "w1333020-s1",
+          "gloss": [
+            "fine",
+            "conclusione"
+          ],
+          "short_gloss": "fine",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1333040,
+      "senses": [
+        {
+          "id": "w1333040-s1",
+          "gloss": [
+            "fine",
+            "chiusura"
+          ],
+          "short_gloss": "fine",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1333050,
+      "senses": [
+        {
+          "id": "w1333050-s1",
+          "gloss": [
+            "morte",
+            "fine della vita"
+          ],
+          "short_gloss": "morte",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1333050-s2",
+          "gloss": [
+            "trascorrere serenamente gli ultimi anni"
+          ],
+          "short_gloss": "finali sereni",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1333090,
+      "senses": [
+        {
+          "id": "w1333090-s1",
+          "gloss": [
+            "abitudine"
+          ],
+          "short_gloss": "abitudine",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1333090-s2",
+          "gloss": [
+            "uso",
+            "costume",
+            "tradizione"
+          ],
+          "short_gloss": "costume",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1333130,
+      "senses": [
+        {
+          "id": "w1333130-s1",
+          "gloss": [
+            "abitudine"
+          ],
+          "short_gloss": "abitudine",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1333130-s2",
+          "gloss": [
+            "comportamento",
+            "indole",
+            "tratto"
+          ],
+          "short_gloss": "comportamento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1333240,
+      "senses": [
+        {
+          "id": "w1333240-s1",
+          "gloss": [
+            "grandi numeri di persone",
+            "masse"
+          ],
+          "short_gloss": "masse",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1333240-s2",
+          "gloss": [
+            "gente",
+            "compagnia",
+            "cricca"
+          ],
+          "short_gloss": "gente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1333250,
+      "senses": [
+        {
+          "id": "w1333250-s1",
+          "gloss": [
+            "Camera dei Rappresentanti (Giappone)"
+          ],
+          "short_gloss": "Camera dei Rappresentanti",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1333260,
+      "senses": [
+        {
+          "id": "w1333260-s1",
+          "gloss": [
+            "Camera dei Rappresentanti (Giappone)"
+          ],
+          "short_gloss": "Camera dei Rappresentanti",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1333330,
+      "senses": [
+        {
+          "id": "w1333330-s1",
+          "gloss": [
+            "attaccare",
+            "assalire"
+          ],
+          "short_gloss": "attaccare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1333330-s2",
+          "gloss": [
+            "succedere (a un incarico)"
+          ],
+          "short_gloss": "succedere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1333330-s3",
+          "gloss": [
+            "fare una visita improvvisa"
+          ],
+          "short_gloss": "visita improvvisa",
+          "source": "manual_translation"
+        }
+      ]
+    }
+  ]
+}
