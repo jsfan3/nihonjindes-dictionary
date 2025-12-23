@@ -1,0 +1,4214 @@
+{
+  "schema": {
+    "name": "jp-words-lang",
+    "version": "1.0"
+  },
+  "lang": "it",
+  "range": {
+    "start_id": 1175140,
+    "end_id": 1188410
+  },
+  "coverage": {
+    "translated_word_ids_in_file": 200,
+    "translated_common_rank_range": {
+      "start_rank": 451,
+      "end_rank": 650
+    },
+    "common_word_ids_total": 30103
+  },
+  "entries": [
+    {
+      "id": 1175140,
+      "senses": [
+        {
+          "id": "w1175140-s1",
+          "gloss": [
+            "stazione ferroviaria",
+            "stazione dei treni"
+          ],
+          "short_gloss": "stazione ferroviaria",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1175140-s2",
+          "gloss": [
+            "stazione di posta su una strada (Giappone premoderno)"
+          ],
+          "short_gloss": "stazione di posta su una strada (Giappone premoderno)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1175140-s3",
+          "gloss": [
+            "contatore per stazioni ferroviarie e di autobus"
+          ],
+          "short_gloss": "contatore per stazioni ferroviarie e di autobus",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1175150,
+      "senses": [
+        {
+          "id": "w1175150-s1",
+          "gloss": [
+            "addetto alla stazione",
+            "impiegato di stazione",
+            "personale di stazione"
+          ],
+          "short_gloss": "addetto alla stazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1175170,
+      "senses": [
+        {
+          "id": "w1175170-s1",
+          "gloss": [
+            "davanti alla stazione"
+          ],
+          "short_gloss": "davanti alla stazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1175200,
+      "senses": [
+        {
+          "id": "w1175200-s1",
+          "gloss": [
+            "staffetta a lunga distanza"
+          ],
+          "short_gloss": "staffetta a lunga distanza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1175200-s2",
+          "gloss": [
+            "diligenza",
+            "cavallo da posta"
+          ],
+          "short_gloss": "diligenza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1175240,
+      "senses": [
+        {
+          "id": "w1175240-s1",
+          "gloss": [
+            "bento da stazione",
+            "pranzo al sacco comprato in stazione"
+          ],
+          "short_gloss": "bento da stazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1175240-s2",
+          "gloss": [
+            "posizione sessuale in cui una persona sta in piedi sostenendo l'altra"
+          ],
+          "short_gloss": "posizione sessuale in cui una persona sta in piedi sostenendo l'altra",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1175310,
+      "senses": [
+        {
+          "id": "w1175310-s1",
+          "gloss": [
+            "attraversamento illegale della frontiera",
+            "violazione di confine",
+            "trasgressione di frontiera"
+          ],
+          "short_gloss": "attraversamento illegale della frontiera",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1175340,
+      "senses": [
+        {
+          "id": "w1175340-s1",
+          "gloss": [
+            "svernamento",
+            "ibernazione"
+          ],
+          "short_gloss": "svernamento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1175350,
+      "senses": [
+        {
+          "id": "w1175350-s1",
+          "gloss": [
+            "passaggio di fine anno",
+            "accoglienza del Capodanno",
+            "svernamento",
+            "ibernazione"
+          ],
+          "short_gloss": "passaggio di fine anno",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1175350-s2",
+          "gloss": [
+            "giocare più dei consueti 12 round in una partita"
+          ],
+          "short_gloss": "giocare più dei consueti 12 round in una partita",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1175380,
+      "senses": [
+        {
+          "id": "w1175380-s1",
+          "gloss": [
+            "consultazione",
+            "lettura",
+            "esame"
+          ],
+          "short_gloss": "consultazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1175380-s2",
+          "gloss": [
+            "navigazione web"
+          ],
+          "short_gloss": "navigazione web",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1175570,
+      "senses": [
+        {
+          "id": "w1175570-s1",
+          "gloss": [
+            "yen"
+          ],
+          "short_gloss": "yen",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1175570-s2",
+          "gloss": [
+            "cerchio"
+          ],
+          "short_gloss": "cerchio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1175620,
+      "senses": [
+        {
+          "id": "w1175620-s1",
+          "gloss": [
+            "deprezzamento dello yen",
+            "yen debole"
+          ],
+          "short_gloss": "deprezzamento dello yen",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1175790,
+      "senses": [
+        {
+          "id": "w1175790-s1",
+          "gloss": [
+            "base in yen"
+          ],
+          "short_gloss": "base in yen",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1175790-s2",
+          "gloss": [
+            "denominato in yen",
+            "basato sullo yen"
+          ],
+          "short_gloss": "denominato in yen",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1175820,
+      "senses": [
+        {
+          "id": "w1175820-s1",
+          "gloss": [
+            "apprezzamento dello yen",
+            "yen forte"
+          ],
+          "short_gloss": "apprezzamento dello yen",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1175980,
+      "senses": [
+        {
+          "id": "w1175980-s1",
+          "gloss": [
+            "tavolo rotondo"
+          ],
+          "short_gloss": "tavolo rotondo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176090,
+      "senses": [
+        {
+          "id": "w1176090-s1",
+          "gloss": [
+            "cilindro"
+          ],
+          "short_gloss": "cilindro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176120,
+      "senses": [
+        {
+          "id": "w1176120-s1",
+          "gloss": [
+            "disco",
+            "disco da lancio",
+            "vassoio"
+          ],
+          "short_gloss": "disco",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1176120-s2",
+          "gloss": [
+            "disco volante"
+          ],
+          "short_gloss": "disco volante",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1176120-s3",
+          "gloss": [
+            "supporto disco (CD, DVD, ecc.)"
+          ],
+          "short_gloss": "supporto disco (CD, DVD, ecc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176200,
+      "senses": [
+        {
+          "id": "w1176200-s1",
+          "gloss": [
+            "armonioso",
+            "pacifico",
+            "felice",
+            "amichevole",
+            "sereno",
+            "senza problemi"
+          ],
+          "short_gloss": "armonioso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176240,
+      "senses": [
+        {
+          "id": "w1176240-s1",
+          "gloss": [
+            "giardino",
+            "frutteto",
+            "parco"
+          ],
+          "short_gloss": "giardino",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1176240-s2",
+          "gloss": [
+            "luogo",
+            "mondo",
+            "ambiente"
+          ],
+          "short_gloss": "luogo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176260,
+      "senses": [
+        {
+          "id": "w1176260-s1",
+          "gloss": [
+            "orticoltura",
+            "giardinaggio"
+          ],
+          "short_gloss": "orticoltura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176270,
+      "senses": [
+        {
+          "id": "w1176270-s1",
+          "gloss": [
+            "bambino dell'asilo",
+            "alunno della scuola materna"
+          ],
+          "short_gloss": "bambino dell'asilo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176280,
+      "senses": [
+        {
+          "id": "w1176280-s1",
+          "gloss": [
+            "direttore del giardino",
+            "preside della scuola materna",
+            "direttore dell'asilo nido",
+            "direttore del parco",
+            "direttore dello zoo",
+            "responsabile di una piantagione"
+          ],
+          "short_gloss": "direttore del giardino",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176310,
+      "senses": [
+        {
+          "id": "w1176310-s1",
+          "gloss": [
+            "festa",
+            "banchetto",
+            "convivio"
+          ],
+          "short_gloss": "festa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176320,
+      "senses": [
+        {
+          "id": "w1176320-s1",
+          "gloss": [
+            "festa",
+            "banchetto",
+            "ricevimento",
+            "convivio",
+            "cena"
+          ],
+          "short_gloss": "festa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176430,
+      "senses": [
+        {
+          "id": "w1176430-s1",
+          "gloss": [
+            "rinvio",
+            "posticipo",
+            "aggiornamento"
+          ],
+          "short_gloss": "rinvio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176490,
+      "senses": [
+        {
+          "id": "w1176490-s1",
+          "gloss": [
+            "arretrati",
+            "ritardo",
+            "morosità",
+            "procrastinazione"
+          ],
+          "short_gloss": "arretrati",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176510,
+      "senses": [
+        {
+          "id": "w1176510-s1",
+          "gloss": [
+            "estensione",
+            "allungamento",
+            "prolungamento",
+            "lunghezza crescente"
+          ],
+          "short_gloss": "estensione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1176510-s2",
+          "gloss": [
+            "lunghezza totale"
+          ],
+          "short_gloss": "lunghezza totale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1176510-s3",
+          "gloss": [
+            "proroga",
+            "continuazione"
+          ],
+          "short_gloss": "proroga",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1176510-s4",
+          "gloss": [
+            "estensione (segmento)"
+          ],
+          "short_gloss": "estensione (segmento)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1176510-s5",
+          "gloss": [
+            "estensione (proprietà dello spazio)"
+          ],
+          "short_gloss": "estensione (proprietà dello spazio)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1176510-s6",
+          "gloss": [
+            "era Enchō (923-931)"
+          ],
+          "short_gloss": "era Enchō (923-931)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1176510-s7",
+          "gloss": [
+            "tempi supplementari",
+            "extra inning"
+          ],
+          "short_gloss": "tempi supplementari",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176540,
+      "senses": [
+        {
+          "id": "w1176540-s1",
+          "gloss": [
+            "prolungamento della vita",
+            "mantenimento in vita",
+            "estensione della vita",
+            "supporto vitale"
+          ],
+          "short_gloss": "prolungamento della vita",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176660,
+      "senses": [
+        {
+          "id": "w1176660-s1",
+          "gloss": [
+            "assistenza",
+            "aiuto",
+            "sostegno"
+          ],
+          "short_gloss": "assistenza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176710,
+      "senses": [
+        {
+          "id": "w1176710-s1",
+          "gloss": [
+            "lungo",
+            "accanto a",
+            "parallelo a"
+          ],
+          "short_gloss": "lungo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176720,
+      "senses": [
+        {
+          "id": "w1176720-s1",
+          "gloss": [
+            "mare costiero",
+            "acque costiere",
+            "acque litoranee"
+          ],
+          "short_gloss": "mare costiero",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1176720-s2",
+          "gloss": [
+            "costa"
+          ],
+          "short_gloss": "costa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176740,
+      "senses": [
+        {
+          "id": "w1176740-s1",
+          "gloss": [
+            "costa",
+            "litorale"
+          ],
+          "short_gloss": "costa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1176740-s2",
+          "gloss": [
+            "acque costiere",
+            "zona costiera"
+          ],
+          "short_gloss": "acque costiere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176750,
+      "senses": [
+        {
+          "id": "w1176750-s1",
+          "gloss": [
+            "zone lungo una linea ferroviaria o una grande arteria"
+          ],
+          "short_gloss": "zone lungo una linea ferroviaria o una grande arteria",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176760,
+      "senses": [
+        {
+          "id": "w1176760-s1",
+          "gloss": [
+            "lungo la strada",
+            "bordi della strada",
+            "percorso"
+          ],
+          "short_gloss": "lungo la strada",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176790,
+      "senses": [
+        {
+          "id": "w1176790-s1",
+          "gloss": [
+            "interpretare una parte",
+            "recitare un ruolo"
+          ],
+          "short_gloss": "interpretare una parte",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1176790-s2",
+          "gloss": [
+            "mettere in scena",
+            "eseguire uno spettacolo"
+          ],
+          "short_gloss": "mettere in scena",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1176790-s3",
+          "gloss": [
+            "fare una gaffe",
+            "fingere",
+            "mettersi in ridicolo"
+          ],
+          "short_gloss": "fare una gaffe",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176800,
+      "senses": [
+        {
+          "id": "w1176800-s1",
+          "gloss": [
+            "enka (ballata popolare giapponese tradizionale)",
+            "ballata popolare giapponese"
+          ],
+          "short_gloss": "enka (ballata popolare giapponese tradizionale)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1176800-s2",
+          "gloss": [
+            "trovatore"
+          ],
+          "short_gloss": "trovatore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176820,
+      "senses": [
+        {
+          "id": "w1176820-s1",
+          "gloss": [
+            "recitazione",
+            "interpretazione",
+            "performance"
+          ],
+          "short_gloss": "recitazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176850,
+      "senses": [
+        {
+          "id": "w1176850-s1",
+          "gloss": [
+            "intrattenimento",
+            "spettacolo"
+          ],
+          "short_gloss": "intrattenimento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176860,
+      "senses": [
+        {
+          "id": "w1176860-s1",
+          "gloss": [
+            "dramma",
+            "teatro",
+            "spettacolo teatrale"
+          ],
+          "short_gloss": "dramma",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176870,
+      "senses": [
+        {
+          "id": "w1176870-s1",
+          "gloss": [
+            "operazione",
+            "calcolo"
+          ],
+          "short_gloss": "operazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176930,
+      "senses": [
+        {
+          "id": "w1176930-s1",
+          "gloss": [
+            "esercitazione",
+            "esercizio",
+            "addestramento"
+          ],
+          "short_gloss": "esercitazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1176930-s2",
+          "gloss": [
+            "manovre militari"
+          ],
+          "short_gloss": "manovre militari",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1176930-s3",
+          "gloss": [
+            "seminario"
+          ],
+          "short_gloss": "seminario",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176950,
+      "senses": [
+        {
+          "id": "w1176950-s1",
+          "gloss": [
+            "regia",
+            "produzione"
+          ],
+          "short_gloss": "regia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1176950-s2",
+          "gloss": [
+            "organizzazione",
+            "allestimento",
+            "messa in scena",
+            "orchestrazione"
+          ],
+          "short_gloss": "organizzazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1176960,
+      "senses": [
+        {
+          "id": "w1176960-s1",
+          "gloss": [
+            "discorso",
+            "orazione"
+          ],
+          "short_gloss": "discorso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1177010,
+      "senses": [
+        {
+          "id": "w1177010-s1",
+          "gloss": [
+            "podio",
+            "tribuna"
+          ],
+          "short_gloss": "podio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1177040,
+      "senses": [
+        {
+          "id": "w1177040-s1",
+          "gloss": [
+            "programma",
+            "numero di spettacolo"
+          ],
+          "short_gloss": "programma",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1177070,
+      "senses": [
+        {
+          "id": "w1177070-s1",
+          "gloss": [
+            "fiamma",
+            "fuoco"
+          ],
+          "short_gloss": "fiamma",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1177070-s2",
+          "gloss": [
+            "passione",
+            "ardore"
+          ],
+          "short_gloss": "passione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1177100,
+      "senses": [
+        {
+          "id": "w1177100-s1",
+          "gloss": [
+            "infiammazione",
+            "irritazione"
+          ],
+          "short_gloss": "infiammazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1177120,
+      "senses": [
+        {
+          "id": "w1177120-s1",
+          "gloss": [
+            "incendio",
+            "distruzione da fuoco"
+          ],
+          "short_gloss": "incendio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1177120-s2",
+          "gloss": [
+            "bufera di critiche online",
+            "linciaggio online"
+          ],
+          "short_gloss": "bufera di critiche online",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1177140,
+      "senses": [
+        {
+          "id": "w1177140-s1",
+          "gloss": [
+            "caldo torrido",
+            "sole cocente"
+          ],
+          "short_gloss": "caldo torrido",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1177180,
+      "senses": [
+        {
+          "id": "w1177180-s1",
+          "gloss": [
+            "fumo",
+            "fumi"
+          ],
+          "short_gloss": "fumo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1177320,
+      "senses": [
+        {
+          "id": "w1177320-s1",
+          "gloss": [
+            "camino",
+            "ciminiera",
+            "fumaiolo",
+            "tubo della stufa"
+          ],
+          "short_gloss": "camino",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1177320-s2",
+          "gloss": [
+            "trasportare un passeggero senza accendere il tassametro"
+          ],
+          "short_gloss": "trasportare un passeggero senza accendere il tassametro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1177350,
+      "senses": [
+        {
+          "id": "w1177350-s1",
+          "gloss": [
+            "rondine"
+          ],
+          "short_gloss": "rondine",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1177350-s2",
+          "gloss": [
+            "rondine comune"
+          ],
+          "short_gloss": "rondine comune",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1177350-s3",
+          "gloss": [
+            "giovane amante di una donna più anziana"
+          ],
+          "short_gloss": "giovane amante di una donna più anziana",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1177390,
+      "senses": [
+        {
+          "id": "w1177390-s1",
+          "gloss": [
+            "scimmia",
+            "macaco giapponese"
+          ],
+          "short_gloss": "scimmia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1177390-s2",
+          "gloss": [
+            "furfante"
+          ],
+          "short_gloss": "furfante",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1177390-s3",
+          "gloss": [
+            "idiota",
+            "campagnolo"
+          ],
+          "short_gloss": "idiota",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1177390-s4",
+          "gloss": [
+            "chiavistello scorrevole"
+          ],
+          "short_gloss": "chiavistello scorrevole",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1177390-s5",
+          "gloss": [
+            "gancio di regolazione per paiolo"
+          ],
+          "short_gloss": "gancio di regolazione per paiolo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1177390-s6",
+          "gloss": [
+            "prostituta dei bagni pubblici"
+          ],
+          "short_gloss": "prostituta dei bagni pubblici",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1177500,
+      "senses": [
+        {
+          "id": "w1177500-s1",
+          "gloss": [
+            "bordo",
+            "orlo",
+            "margine",
+            "ciglio"
+          ],
+          "short_gloss": "bordo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1177540,
+      "senses": [
+        {
+          "id": "w1177540-s1",
+          "gloss": [
+            "presagio",
+            "segno di buona sorte"
+          ],
+          "short_gloss": "presagio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1177540-s2",
+          "gloss": [
+            "origine",
+            "storia",
+            "causa"
+          ],
+          "short_gloss": "origine",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1177540-s3",
+          "gloss": [
+            "origine dipendente (dottrina buddhista)"
+          ],
+          "short_gloss": "origine dipendente (dottrina buddhista)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1177680,
+      "senses": [
+        {
+          "id": "w1177680-s1",
+          "gloss": [
+            "lucentezza",
+            "lustro",
+            "brillantezza"
+          ],
+          "short_gloss": "lucentezza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1177680-s2",
+          "gloss": [
+            "morbidezza della voce",
+            "giovinezza"
+          ],
+          "short_gloss": "morbidezza della voce",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1177680-s3",
+          "gloss": [
+            "fascino",
+            "attrattiva",
+            "charme"
+          ],
+          "short_gloss": "fascino",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1177680-s4",
+          "gloss": [
+            "sensualità",
+            "erotismo"
+          ],
+          "short_gloss": "sensualità",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1177950,
+      "senses": [
+        {
+          "id": "w1177950-s1",
+          "gloss": [
+            "lontano",
+            "remoto",
+            "isolato"
+          ],
+          "short_gloss": "lontano",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1178210,
+      "senses": [
+        {
+          "id": "w1178210-s1",
+          "gloss": [
+            "spedizione militare",
+            "campagna"
+          ],
+          "short_gloss": "spedizione militare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1178210-s2",
+          "gloss": [
+            "spedizione",
+            "trasferta",
+            "tour"
+          ],
+          "short_gloss": "spedizione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1178450,
+      "senses": [
+        {
+          "id": "w1178450-s1",
+          "gloss": [
+            "riservatezza",
+            "ritegno",
+            "modestia",
+            "esitazione",
+            "trattenersi",
+            "tact"
+          ],
+          "short_gloss": "riservatezza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1178450-s2",
+          "gloss": [
+            "rifiuto",
+            "astensione"
+          ],
+          "short_gloss": "rifiuto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1178450-s3",
+          "gloss": [
+            "previdenza",
+            "lungimiranza"
+          ],
+          "short_gloss": "previdenza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1178500,
+      "senses": [
+        {
+          "id": "w1178500-s1",
+          "gloss": [
+            "piombo"
+          ],
+          "short_gloss": "piombo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1178590,
+      "senses": [
+        {
+          "id": "w1178590-s1",
+          "gloss": [
+            "matita"
+          ],
+          "short_gloss": "matita",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1178630,
+      "senses": [
+        {
+          "id": "w1178630-s1",
+          "gloss": [
+            "clorurazione",
+            "salificazione"
+          ],
+          "short_gloss": "clorurazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1178630-s2",
+          "gloss": [
+            "cloruro"
+          ],
+          "short_gloss": "cloruro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1178680,
+      "senses": [
+        {
+          "id": "w1178680-s1",
+          "gloss": [
+            "base"
+          ],
+          "short_gloss": "base",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1178750,
+      "senses": [
+        {
+          "id": "w1178750-s1",
+          "gloss": [
+            "cloro"
+          ],
+          "short_gloss": "cloro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1178790,
+      "senses": [
+        {
+          "id": "w1178790-s1",
+          "gloss": [
+            "salina",
+            "campo di evaporazione del sale"
+          ],
+          "short_gloss": "salina",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1178870,
+      "senses": [
+        {
+          "id": "w1178870-s1",
+          "gloss": [
+            "sale",
+            "contenuto di sale"
+          ],
+          "short_gloss": "sale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1179010,
+      "senses": [
+        {
+          "id": "w1179010-s1",
+          "gloss": [
+            "corruzione",
+            "tangenti",
+            "malversazione"
+          ],
+          "short_gloss": "corruzione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1179030,
+      "senses": [
+        {
+          "id": "w1179030-s1",
+          "gloss": [
+            "acque sporche",
+            "acque reflue"
+          ],
+          "short_gloss": "acque sporche",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1179040,
+      "senses": [
+        {
+          "id": "w1179040-s1",
+          "gloss": [
+            "inquinamento",
+            "contaminazione"
+          ],
+          "short_gloss": "inquinamento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1179090,
+      "senses": [
+        {
+          "id": "w1179090-s1",
+          "gloss": [
+            "inquinamento",
+            "contaminazione",
+            "corruzione",
+            "malversazione"
+          ],
+          "short_gloss": "inquinamento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1179130,
+      "senses": [
+        {
+          "id": "w1179130-s1",
+          "gloss": [
+            "cattiva fama",
+            "discredito",
+            "disgrazia",
+            "disonore",
+            "stigma",
+            "infamia"
+          ],
+          "short_gloss": "cattiva fama",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1179320,
+      "senses": [
+        {
+          "id": "w1179320-s1",
+          "gloss": [
+            "interno",
+            "parte interna",
+            "fondo",
+            "profondità",
+            "recessi",
+            "cuore",
+            "estremità"
+          ],
+          "short_gloss": "interno",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1179320-s2",
+          "gloss": [
+            "alloggi interni",
+            "stanza interna"
+          ],
+          "short_gloss": "alloggi interni",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1179320-s3",
+          "gloss": [
+            "profondità della mente",
+            "fondo del cuore",
+            "senso nascosto",
+            "misteri"
+          ],
+          "short_gloss": "profondità della mente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1179480,
+      "senses": [
+        {
+          "id": "w1179480-s1",
+          "gloss": [
+            "profondità",
+            "lunghezza"
+          ],
+          "short_gloss": "profondità",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1179500,
+      "senses": [
+        {
+          "id": "w1179500-s1",
+          "gloss": [
+            "montagna remota",
+            "recessi montani"
+          ],
+          "short_gloss": "montagna remota",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1179750,
+      "senses": [
+        {
+          "id": "w1179750-s1",
+          "gloss": [
+            "anni passati",
+            "tempi andati",
+            "il passato"
+          ],
+          "short_gloss": "anni passati",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1179760,
+      "senses": [
+        {
+          "id": "w1179760-s1",
+          "gloss": [
+            "andata e ritorno",
+            "viaggio di andata e ritorno",
+            "andirivieni"
+          ],
+          "short_gloss": "andata e ritorno",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1179760-s2",
+          "gloss": [
+            "biglietto di andata e ritorno"
+          ],
+          "short_gloss": "biglietto di andata e ritorno",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1179760-s3",
+          "gloss": [
+            "corrispondenza",
+            "scambio di lettere"
+          ],
+          "short_gloss": "corrispondenza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1179760-s4",
+          "gloss": [
+            "frequentazione",
+            "visite reciproche"
+          ],
+          "short_gloss": "frequentazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1179790,
+      "senses": [
+        {
+          "id": "w1179790-s1",
+          "gloss": [
+            "andirivieni",
+            "traffico"
+          ],
+          "short_gloss": "andirivieni",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1179790-s2",
+          "gloss": [
+            "strada"
+          ],
+          "short_gloss": "strada",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1179790-s3",
+          "gloss": [
+            "relazioni",
+            "frequentazione"
+          ],
+          "short_gloss": "relazioni",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1179790-s4",
+          "gloss": [
+            "ricorrenza"
+          ],
+          "short_gloss": "ricorrenza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1179790-s5",
+          "gloss": [
+            "corrispondenza"
+          ],
+          "short_gloss": "corrispondenza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1179810,
+      "senses": [
+        {
+          "id": "w1179810-s1",
+          "gloss": [
+            "rispondere",
+            "soddisfare",
+            "corrispondere a"
+          ],
+          "short_gloss": "rispondere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1179810-s2",
+          "gloss": [
+            "avere effetto",
+            "gravare",
+            "colpire",
+            "stancare"
+          ],
+          "short_gloss": "avere effetto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1179830,
+      "senses": [
+        {
+          "id": "w1179830-s1",
+          "gloss": [
+            "rispondere",
+            "soddisfare",
+            "accettare",
+            "aderire",
+            "fare domanda"
+          ],
+          "short_gloss": "rispondere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1179840,
+      "senses": [
+        {
+          "id": "w1179840-s1",
+          "gloss": [
+            "sostegno",
+            "aiuto",
+            "supporto",
+            "rinforzo"
+          ],
+          "short_gloss": "sostegno",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1179840-s2",
+          "gloss": [
+            "tifo",
+            "incoraggiamento"
+          ],
+          "short_gloss": "tifo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1179880,
+      "senses": [
+        {
+          "id": "w1179880-s1",
+          "gloss": [
+            "emergenza",
+            "primo soccorso"
+          ],
+          "short_gloss": "emergenza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1179910,
+      "senses": [
+        {
+          "id": "w1179910-s1",
+          "gloss": [
+            "scambio",
+            "botta e risposta"
+          ],
+          "short_gloss": "scambio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1179910-s2",
+          "gloss": [
+            "replica",
+            "risposta",
+            "reciprocità",
+            "battuta",
+            "occhio per occhio"
+          ],
+          "short_gloss": "replica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1179930,
+      "senses": [
+        {
+          "id": "w1179930-s1",
+          "gloss": [
+            "accoglienza",
+            "ricevimento",
+            "trattamento dei visitatori"
+          ],
+          "short_gloss": "accoglienza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1179980,
+      "senses": [
+        {
+          "id": "w1179980-s1",
+          "gloss": [
+            "assistenza clienti",
+            "accoglienza",
+            "gestione di persone"
+          ],
+          "short_gloss": "assistenza clienti",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1180000,
+      "senses": [
+        {
+          "id": "w1180000-s1",
+          "gloss": [
+            "risposta",
+            "replica"
+          ],
+          "short_gloss": "risposta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1180020,
+      "senses": [
+        {
+          "id": "w1180020-s1",
+          "gloss": [
+            "secondo le proprie capacità",
+            "appropriato",
+            "ragionevole"
+          ],
+          "short_gloss": "secondo le proprie capacità",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1180030,
+      "senses": [
+        {
+          "id": "w1180030-s1",
+          "gloss": [
+            "candidatura",
+            "iscrizione",
+            "partecipazione",
+            "arruolamento"
+          ],
+          "short_gloss": "candidatura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1180060,
+      "senses": [
+        {
+          "id": "w1180060-s1",
+          "gloss": [
+            "applicazione",
+            "messa in pratica"
+          ],
+          "short_gloss": "applicazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180060-s2",
+          "gloss": [
+            "applicato"
+          ],
+          "short_gloss": "applicato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1180130,
+      "senses": [
+        {
+          "id": "w1180130-s1",
+          "gloss": [
+            "spinta",
+            "spingere"
+          ],
+          "short_gloss": "spinta",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180130-s2",
+          "gloss": [
+            "peso",
+            "pressione"
+          ],
+          "short_gloss": "peso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180130-s3",
+          "gloss": [
+            "autorità",
+            "energia",
+            "audacia",
+            "insistenza"
+          ],
+          "short_gloss": "autorità",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180130-s4",
+          "gloss": [
+            "forzatamente",
+            "con forza"
+          ],
+          "short_gloss": "forzatamente",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180130-s5",
+          "gloss": [
+            "spinta (nel go)",
+            "spingere"
+          ],
+          "short_gloss": "spinta (nel go)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1180260,
+      "senses": [
+        {
+          "id": "w1180260-s1",
+          "gloss": [
+            "spingere dentro",
+            "ficcare",
+            "stipare"
+          ],
+          "short_gloss": "spingere dentro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180260-s2",
+          "gloss": [
+            "fare irruzione",
+            "scassinare"
+          ],
+          "short_gloss": "fare irruzione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1180270,
+      "senses": [
+        {
+          "id": "w1180270-s1",
+          "gloss": [
+            "imporsi",
+            "superare l'opposizione",
+            "farsi strada"
+          ],
+          "short_gloss": "imporsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180270-s2",
+          "gloss": [
+            "premere e tagliare"
+          ],
+          "short_gloss": "premere e tagliare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1180340,
+      "senses": [
+        {
+          "id": "w1180340-s1",
+          "gloss": [
+            "irrompere",
+            "forzare l'ingresso",
+            "intrufolarsi"
+          ],
+          "short_gloss": "irrompere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1180470,
+      "senses": [
+        {
+          "id": "w1180470-s1",
+          "gloss": [
+            "spingere",
+            "spingere con forza",
+            "spintonare"
+          ],
+          "short_gloss": "spingere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180470-s2",
+          "gloss": [
+            "premere",
+            "premere un pulsante",
+            "esercitare pressione"
+          ],
+          "short_gloss": "premere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180470-s3",
+          "gloss": [
+            "timbrare",
+            "apporre un sigillo"
+          ],
+          "short_gloss": "timbrare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180470-s4",
+          "gloss": [
+            "applicare (es. foglia d'oro)"
+          ],
+          "short_gloss": "applicare (es. foglia d'oro)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180470-s5",
+          "gloss": [
+            "insistere",
+            "fare pressione su qualcuno"
+          ],
+          "short_gloss": "insistere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180470-s6",
+          "gloss": [
+            "sovrastare",
+            "superare",
+            "mettere sotto pressione"
+          ],
+          "short_gloss": "sovrastare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180470-s7",
+          "gloss": [
+            "portare avanti",
+            "procedere",
+            "attenersi a"
+          ],
+          "short_gloss": "portare avanti",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180470-s8",
+          "gloss": [
+            "fare ... nonostante",
+            "sfidare",
+            "osare",
+            "mettere da parte"
+          ],
+          "short_gloss": "fare ... nonostante",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180470-s9",
+          "gloss": [
+            "accertarsi"
+          ],
+          "short_gloss": "accertarsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180470-s10",
+          "gloss": [
+            "essere in ritardo"
+          ],
+          "short_gloss": "essere in ritardo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180470-s11",
+          "gloss": [
+            "spinta (nel go)",
+            "spingere"
+          ],
+          "short_gloss": "spinta (nel go)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1180510,
+      "senses": [
+        {
+          "id": "w1180510-s1",
+          "gloss": [
+            "sequestro",
+            "confisca"
+          ],
+          "short_gloss": "sequestro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1180570,
+      "senses": [
+        {
+          "id": "w1180570-s1",
+          "gloss": [
+            "orizzontale"
+          ],
+          "short_gloss": "orizzontale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180570-s2",
+          "gloss": [
+            "laterale",
+            "larghezza",
+            "ampiezza"
+          ],
+          "short_gloss": "laterale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180570-s3",
+          "gloss": [
+            "fianco",
+            "lato"
+          ],
+          "short_gloss": "fianco",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180570-s4",
+          "gloss": [
+            "accanto",
+            "di lato",
+            "vicino a"
+          ],
+          "short_gloss": "accanto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180570-s5",
+          "gloss": [
+            "non collegato"
+          ],
+          "short_gloss": "non collegato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1180740,
+      "senses": [
+        {
+          "id": "w1180740-s1",
+          "gloss": [
+            "yokozuna (massimo grado del sumo)",
+            "campione supremo"
+          ],
+          "short_gloss": "yokozuna (massimo grado del sumo)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180740-s2",
+          "gloss": [
+            "il migliore",
+            "crema della crema"
+          ],
+          "short_gloss": "il migliore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1180750,
+      "senses": [
+        {
+          "id": "w1180750-s1",
+          "gloss": [
+            "dilagante",
+            "diffuso",
+            "prevalente"
+          ],
+          "short_gloss": "dilagante",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180750-s2",
+          "gloss": [
+            "camminare di lato",
+            "barcollare",
+            "avanzare di traverso"
+          ],
+          "short_gloss": "camminare di lato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1180870,
+      "senses": [
+        {
+          "id": "w1180870-s1",
+          "gloss": [
+            "linea orizzontale"
+          ],
+          "short_gloss": "linea orizzontale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1180900,
+      "senses": [
+        {
+          "id": "w1180900-s1",
+          "gloss": [
+            "attraversamento",
+            "taglio trasversale",
+            "intersezione"
+          ],
+          "short_gloss": "attraversamento",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180900-s2",
+          "gloss": [
+            "attraversata",
+            "traversare",
+            "volare attraverso",
+            "navigare attraverso"
+          ],
+          "short_gloss": "attraversata",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180900-s3",
+          "gloss": [
+            "sezione orizzontale",
+            "taglio orizzontale"
+          ],
+          "short_gloss": "sezione orizzontale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1180910,
+      "senses": [
+        {
+          "id": "w1180910-s1",
+          "gloss": [
+            "passaggio pedonale",
+            "strisce pedonali"
+          ],
+          "short_gloss": "passaggio pedonale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1180950,
+      "senses": [
+        {
+          "id": "w1180950-s1",
+          "gloss": [
+            "ribaltamento laterale",
+            "rovesciamento"
+          ],
+          "short_gloss": "ribaltamento laterale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1180950-s2",
+          "gloss": [
+            "tonneau"
+          ],
+          "short_gloss": "tonneau",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181060,
+      "senses": [
+        {
+          "id": "w1181060-s1",
+          "gloss": [
+            "violenza",
+            "oppressione",
+            "prepotenza",
+            "tirannia",
+            "dispotismo"
+          ],
+          "short_gloss": "violenza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181090,
+      "senses": [
+        {
+          "id": "w1181090-s1",
+          "gloss": [
+            "occhiata di sottecchi"
+          ],
+          "short_gloss": "occhiata di sottecchi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1181090-s2",
+          "gloss": [
+            "fibre corte della carta"
+          ],
+          "short_gloss": "fibre corte della carta",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1181090-s3",
+          "gloss": [
+            "radicale 'rete' in alto"
+          ],
+          "short_gloss": "radicale 'rete' in alto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181130,
+      "senses": [
+        {
+          "id": "w1181130-s1",
+          "gloss": [
+            "peculato",
+            "appropriazione indebita",
+            "usurpazione"
+          ],
+          "short_gloss": "peculato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181190,
+      "senses": [
+        {
+          "id": "w1181190-s1",
+          "gloss": [
+            "Europa"
+          ],
+          "short_gloss": "Europa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181390,
+      "senses": [
+        {
+          "id": "w1181390-s1",
+          "gloss": [
+            "colpire",
+            "picchiare",
+            "dare un pugno"
+          ],
+          "short_gloss": "colpire",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181410,
+      "senses": [
+        {
+          "id": "w1181410-s1",
+          "gloss": [
+            "colpo",
+            "percosse",
+            "botta"
+          ],
+          "short_gloss": "colpo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181420,
+      "senses": [
+        {
+          "id": "w1181420-s1",
+          "gloss": [
+            "trono",
+            "corona"
+          ],
+          "short_gloss": "trono",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181460,
+      "senses": [
+        {
+          "id": "w1181460-s1",
+          "gloss": [
+            "palazzo reale"
+          ],
+          "short_gloss": "palazzo reale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181480,
+      "senses": [
+        {
+          "id": "w1181480-s1",
+          "gloss": [
+            "regno",
+            "monarchia"
+          ],
+          "short_gloss": "regno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181490,
+      "senses": [
+        {
+          "id": "w1181490-s1",
+          "gloss": [
+            "trono"
+          ],
+          "short_gloss": "trono",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1181490-s2",
+          "gloss": [
+            "primo posto",
+            "titolo",
+            "campionato"
+          ],
+          "short_gloss": "primo posto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181500,
+      "senses": [
+        {
+          "id": "w1181500-s1",
+          "gloss": [
+            "principe"
+          ],
+          "short_gloss": "principe",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1181500-s2",
+          "gloss": [
+            "santuario Kumano subordinato"
+          ],
+          "short_gloss": "santuario Kumano subordinato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181530,
+      "senses": [
+        {
+          "id": "w1181530-s1",
+          "gloss": [
+            "famiglia reale"
+          ],
+          "short_gloss": "famiglia reale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181540,
+      "senses": [
+        {
+          "id": "w1181540-s1",
+          "gloss": [
+            "re",
+            "monarca",
+            "sovrano"
+          ],
+          "short_gloss": "re",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1181540-s2",
+          "gloss": [
+            "campione"
+          ],
+          "short_gloss": "campione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181550,
+      "senses": [
+        {
+          "id": "w1181550-s1",
+          "gloss": [
+            "scacco"
+          ],
+          "short_gloss": "scacco",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181560,
+      "senses": [
+        {
+          "id": "w1181560-s1",
+          "gloss": [
+            "principessa"
+          ],
+          "short_gloss": "principessa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181570,
+      "senses": [
+        {
+          "id": "w1181570-s1",
+          "gloss": [
+            "re (shogi)"
+          ],
+          "short_gloss": "re (shogi)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1181570-s2",
+          "gloss": [
+            "Ōshō (titolo dello shogi professionistico)"
+          ],
+          "short_gloss": "Ōshō (titolo dello shogi professionistico)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181620,
+      "senses": [
+        {
+          "id": "w1181620-s1",
+          "gloss": [
+            "nobiltà reale",
+            "famiglia reale"
+          ],
+          "short_gloss": "nobiltà reale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181630,
+      "senses": [
+        {
+          "id": "w1181630-s1",
+          "gloss": [
+            "dinastia"
+          ],
+          "short_gloss": "dinastia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181670,
+      "senses": [
+        {
+          "id": "w1181670-s1",
+          "gloss": [
+            "regina consorte",
+            "imperatrice consorte"
+          ],
+          "short_gloss": "regina consorte",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181700,
+      "senses": [
+        {
+          "id": "w1181700-s1",
+          "gloss": [
+            "re"
+          ],
+          "short_gloss": "re",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181710,
+      "senses": [
+        {
+          "id": "w1181710-s1",
+          "gloss": [
+            "reale (istituzione)"
+          ],
+          "short_gloss": "reale (istituzione)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181860,
+      "senses": [
+        {
+          "id": "w1181860-s1",
+          "gloss": [
+            "oro"
+          ],
+          "short_gloss": "oro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1181860-s2",
+          "gloss": [
+            "dorato",
+            "prospero",
+            "eccellente"
+          ],
+          "short_gloss": "dorato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1181860-s3",
+          "gloss": [
+            "denaro",
+            "contanti"
+          ],
+          "short_gloss": "denaro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1181880,
+      "senses": [
+        {
+          "id": "w1181880-s1",
+          "gloss": [
+            "età dell'oro"
+          ],
+          "short_gloss": "età dell'oro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1182500,
+      "senses": [
+        {
+          "id": "w1182500-s1",
+          "gloss": [
+            "mare aperto"
+          ],
+          "short_gloss": "mare aperto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1182500-s2",
+          "gloss": [
+            "Okinawa"
+          ],
+          "short_gloss": "Okinawa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1182580,
+      "senses": [
+        {
+          "id": "w1182580-s1",
+          "gloss": [
+            "Okinawa (città, prefettura)"
+          ],
+          "short_gloss": "Okinawa (città, prefettura)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1182610,
+      "senses": [
+        {
+          "id": "w1182610-s1",
+          "gloss": [
+            "miscanto dell'Amur"
+          ],
+          "short_gloss": "miscanto dell'Amur",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1182680,
+      "senses": [
+        {
+          "id": "w1182680-s1",
+          "gloss": [
+            "all'aperto",
+            "esterno"
+          ],
+          "short_gloss": "all'aperto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1182700,
+      "senses": [
+        {
+          "id": "w1182700-s1",
+          "gloss": [
+            "tetto"
+          ],
+          "short_gloss": "tetto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1182710,
+      "senses": [
+        {
+          "id": "w1182710-s1",
+          "gloss": [
+            "tetto",
+            "terrazza sul tetto"
+          ],
+          "short_gloss": "tetto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1182720,
+      "senses": [
+        {
+          "id": "w1182720-s1",
+          "gloss": [
+            "carretto (soprattutto di cibo)",
+            "banco",
+            "chiosco"
+          ],
+          "short_gloss": "carretto (soprattutto di cibo)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1182720-s2",
+          "gloss": [
+            "carro da festival",
+            "mikoshi",
+            "palco per danze"
+          ],
+          "short_gloss": "carro da festival",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1182720-s3",
+          "gloss": [
+            "scenografia a forma di edificio"
+          ],
+          "short_gloss": "scenografia a forma di edificio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1182720-s4",
+          "gloss": [
+            "struttura",
+            "fondamenta"
+          ],
+          "short_gloss": "struttura",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1182720-s5",
+          "gloss": [
+            "casupola"
+          ],
+          "short_gloss": "casupola",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1182730,
+      "senses": [
+        {
+          "id": "w1182730-s1",
+          "gloss": [
+            "al chiuso",
+            "interno"
+          ],
+          "short_gloss": "al chiuso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1182940,
+      "senses": [
+        {
+          "id": "w1182940-s1",
+          "gloss": [
+            "secondo",
+            "classe B",
+            "il secondo"
+          ],
+          "short_gloss": "secondo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1182940-s2",
+          "gloss": [
+            "alla moda",
+            "chic",
+            "raffinato",
+            "spiritoso",
+            "gustoso"
+          ],
+          "short_gloss": "alla moda",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1182940-s3",
+          "gloss": [
+            "strano",
+            "bizzarro"
+          ],
+          "short_gloss": "strano",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1182940-s4",
+          "gloss": [
+            "grazie",
+            "buon lavoro"
+          ],
+          "short_gloss": "grazie",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1182940-s5",
+          "gloss": [
+            "a presto",
+            "arrivederci",
+            "buonanotte"
+          ],
+          "short_gloss": "a presto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1183090,
+      "senses": [
+        {
+          "id": "w1183090-s1",
+          "gloss": [
+            "favore",
+            "obbligo",
+            "debito di gratitudine"
+          ],
+          "short_gloss": "favore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1183140,
+      "senses": [
+        {
+          "id": "w1183140-s1",
+          "gloss": [
+            "grazia",
+            "favore",
+            "benedizione",
+            "beneficio"
+          ],
+          "short_gloss": "grazia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1183160,
+      "senses": [
+        {
+          "id": "w1183160-s1",
+          "gloss": [
+            "maestro",
+            "mentore",
+            "insegnante a cui si deve gratitudine"
+          ],
+          "short_gloss": "maestro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1183180,
+      "senses": [
+        {
+          "id": "w1183180-s1",
+          "gloss": [
+            "amnistia",
+            "grazia"
+          ],
+          "short_gloss": "amnistia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1183280,
+      "senses": [
+        {
+          "id": "w1183280-s1",
+          "gloss": [
+            "ricambiare un favore",
+            "restituire una gentilezza"
+          ],
+          "short_gloss": "ricambiare un favore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1183380,
+      "senses": [
+        {
+          "id": "w1183380-s1",
+          "gloss": [
+            "gentile",
+            "mite"
+          ],
+          "short_gloss": "gentile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1183390,
+      "senses": [
+        {
+          "id": "w1183390-s1",
+          "gloss": [
+            "serra",
+            "serra riscaldata",
+            "giardino d'inverno"
+          ],
+          "short_gloss": "serra",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1183410,
+      "senses": [
+        {
+          "id": "w1183410-s1",
+          "gloss": [
+            "focolaio",
+            "terreno di coltura"
+          ],
+          "short_gloss": "focolaio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1183450,
+      "senses": [
+        {
+          "id": "w1183450-s1",
+          "gloss": [
+            "sorgente termale"
+          ],
+          "short_gloss": "sorgente termale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1183450-s2",
+          "gloss": [
+            "onsen",
+            "stazione termale"
+          ],
+          "short_gloss": "onsen",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1183460,
+      "senses": [
+        {
+          "id": "w1183460-s1",
+          "gloss": [
+            "conservazione",
+            "mantenimento"
+          ],
+          "short_gloss": "conservazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1183480,
+      "senses": [
+        {
+          "id": "w1183480-s1",
+          "gloss": [
+            "caldo",
+            "mite",
+            "temperato"
+          ],
+          "short_gloss": "caldo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1183510,
+      "senses": [
+        {
+          "id": "w1183510-s1",
+          "gloss": [
+            "temperatura"
+          ],
+          "short_gloss": "temperatura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1183590,
+      "senses": [
+        {
+          "id": "w1183590-s1",
+          "gloss": [
+            "calmo",
+            "tranquillo",
+            "mite",
+            "pacifico"
+          ],
+          "short_gloss": "calmo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1183590-s2",
+          "gloss": [
+            "moderato",
+            "ragionevole",
+            "amichevole"
+          ],
+          "short_gloss": "moderato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1183600,
+      "senses": [
+        {
+          "id": "w1183600-s1",
+          "gloss": [
+            "moderato",
+            "temperato",
+            "saggio",
+            "sobrio",
+            "non radicale"
+          ],
+          "short_gloss": "moderato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1183720,
+      "senses": [
+        {
+          "id": "w1183720-s1",
+          "gloss": [
+            "musica"
+          ],
+          "short_gloss": "musica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1183780,
+      "senses": [
+        {
+          "id": "w1183780-s1",
+          "gloss": [
+            "suono",
+            "rumore",
+            "audio",
+            "acustica",
+            "riverbero"
+          ],
+          "short_gloss": "suono",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1183860,
+      "senses": [
+        {
+          "id": "w1183860-s1",
+          "gloss": [
+            "qualità del suono",
+            "qualità timbrica"
+          ],
+          "short_gloss": "qualità del suono",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1183880,
+      "senses": [
+        {
+          "id": "w1183880-s1",
+          "gloss": [
+            "voce",
+            "parlato",
+            "suono della voce"
+          ],
+          "short_gloss": "voce",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1183880-s2",
+          "gloss": [
+            "audio (TV)"
+          ],
+          "short_gloss": "audio (TV)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1183980,
+      "senses": [
+        {
+          "id": "w1183980-s1",
+          "gloss": [
+            "guida di un coro o brindisi",
+            "inizio di un canto"
+          ],
+          "short_gloss": "guida di un coro o brindisi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1183980-s2",
+          "gloss": [
+            "canto e danza popolare (ondo)"
+          ],
+          "short_gloss": "canto e danza popolare (ondo)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1183980-s3",
+          "gloss": [
+            "capo degli strumenti a fiato (gagaku)"
+          ],
+          "short_gloss": "capo degli strumenti a fiato (gagaku)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1184160,
+      "senses": [
+        {
+          "id": "w1184160-s1",
+          "gloss": [
+            "scendere",
+            "calare",
+            "abbassarsi"
+          ],
+          "short_gloss": "scendere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184160-s2",
+          "gloss": [
+            "pendere",
+            "penzolare"
+          ],
+          "short_gloss": "pendere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184160-s3",
+          "gloss": [
+            "arretrare",
+            "ritirarsi",
+            "andare in pensione"
+          ],
+          "short_gloss": "arretrare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184160-s4",
+          "gloss": [
+            "peggiorare",
+            "declinare",
+            "essere declassato"
+          ],
+          "short_gloss": "peggiorare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184160-s5",
+          "gloss": [
+            "avvicinarsi al presente"
+          ],
+          "short_gloss": "avvicinarsi al presente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1184170,
+      "senses": [
+        {
+          "id": "w1184170-s1",
+          "gloss": [
+            "appendere",
+            "sospendere",
+            "indossare (decorazioni)"
+          ],
+          "short_gloss": "appendere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184170-s2",
+          "gloss": [
+            "abbassare",
+            "ridurre",
+            "far scendere"
+          ],
+          "short_gloss": "abbassare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184170-s3",
+          "gloss": [
+            "declassare",
+            "arretrare",
+            "tirarsi indietro"
+          ],
+          "short_gloss": "declassare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184170-s4",
+          "gloss": [
+            "sparecchiare",
+            "rimuovere (piatti/cibo)"
+          ],
+          "short_gloss": "sparecchiare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184170-s5",
+          "gloss": [
+            "continuare a giocare dopo una combinazione"
+          ],
+          "short_gloss": "continuare a giocare dopo una combinazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1184270,
+      "senses": [
+        {
+          "id": "w1184270-s1",
+          "gloss": [
+            "per favore (dammi)"
+          ],
+          "short_gloss": "per favore (dammi)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184270-s2",
+          "gloss": [
+            "per favore (fai per me)"
+          ],
+          "short_gloss": "per favore (fai per me)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1184280,
+      "senses": [
+        {
+          "id": "w1184280-s1",
+          "gloss": [
+            "dare",
+            "conferire",
+            "elargire"
+          ],
+          "short_gloss": "dare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184280-s2",
+          "gloss": [
+            "fare gentilmente",
+            "favorire"
+          ],
+          "short_gloss": "fare gentilmente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1184340,
+      "senses": [
+        {
+          "id": "w1184340-s1",
+          "gloss": [
+            "basso ventre",
+            "addome"
+          ],
+          "short_gloss": "basso ventre",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1184370,
+      "senses": [
+        {
+          "id": "w1184370-s1",
+          "gloss": [
+            "treno in discesa",
+            "treno verso il capolinea"
+          ],
+          "short_gloss": "treno in discesa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184370-s2",
+          "gloss": [
+            "discesa",
+            "pendenza in discesa"
+          ],
+          "short_gloss": "discesa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184370-s3",
+          "gloss": [
+            "direzione in discesa (lontano da Tokyo)"
+          ],
+          "short_gloss": "direzione in discesa (lontano da Tokyo)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184370-s4",
+          "gloss": [
+            "a valle",
+            "verso valle"
+          ],
+          "short_gloss": "a valle",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1184380,
+      "senses": [
+        {
+          "id": "w1184380-s1",
+          "gloss": [
+            "discesa",
+            "pendenza in discesa"
+          ],
+          "short_gloss": "discesa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184380-s2",
+          "gloss": [
+            "declino",
+            "calo",
+            "fase discendente"
+          ],
+          "short_gloss": "declino",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1184450,
+      "senses": [
+        {
+          "id": "w1184450-s1",
+          "gloss": [
+            "scendere",
+            "andare giù",
+            "discendere"
+          ],
+          "short_gloss": "scendere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184450-s2",
+          "gloss": [
+            "essere emanato"
+          ],
+          "short_gloss": "essere emanato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184450-s3",
+          "gloss": [
+            "trascorrere (tempo)"
+          ],
+          "short_gloss": "trascorrere (tempo)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184450-s4",
+          "gloss": [
+            "arrendersi",
+            "capitolare"
+          ],
+          "short_gloss": "arrendersi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184450-s5",
+          "gloss": [
+            "essere inferiore"
+          ],
+          "short_gloss": "essere inferiore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184450-s6",
+          "gloss": [
+            "avere diarrea"
+          ],
+          "short_gloss": "avere diarrea",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184450-s7",
+          "gloss": [
+            "evacuare",
+            "scaricare (dal corpo)"
+          ],
+          "short_gloss": "evacuare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184450-s8",
+          "gloss": [
+            "sminuirsi",
+            "essere umile"
+          ],
+          "short_gloss": "sminuirsi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1184480,
+      "senses": [
+        {
+          "id": "w1184480-s1",
+          "gloss": [
+            "grado inferiore",
+            "posizione subordinata",
+            "ordine inferiore"
+          ],
+          "short_gloss": "grado inferiore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1184510,
+      "senses": [
+        {
+          "id": "w1184510-s1",
+          "gloss": [
+            "camera bassa"
+          ],
+          "short_gloss": "camera bassa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1184580,
+      "senses": [
+        {
+          "id": "w1184580-s1",
+          "gloss": [
+            "fuoco basso",
+            "in calo",
+            "in declino"
+          ],
+          "short_gloss": "fuoco basso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1184680,
+      "senses": [
+        {
+          "id": "w1184680-s1",
+          "gloss": [
+            "seconda metà dell'anno (fiscale)"
+          ],
+          "short_gloss": "seconda metà dell'anno (fiscale)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1184710,
+      "senses": [
+        {
+          "id": "w1184710-s1",
+          "gloss": [
+            "grado inferiore",
+            "classe bassa",
+            "junior"
+          ],
+          "short_gloss": "grado inferiore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1184870,
+      "senses": [
+        {
+          "id": "w1184870-s1",
+          "gloss": [
+            "limite inferiore"
+          ],
+          "short_gloss": "limite inferiore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1184870-s2",
+          "gloss": [
+            "infimo"
+          ],
+          "short_gloss": "infimo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1184940,
+      "senses": [
+        {
+          "id": "w1184940-s1",
+          "gloss": [
+            "discesa",
+            "caduta",
+            "calo",
+            "declino",
+            "recessione"
+          ],
+          "short_gloss": "discesa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1185050,
+      "senses": [
+        {
+          "id": "w1185050-s1",
+          "gloss": [
+            "discesa dalla montagna"
+          ],
+          "short_gloss": "discesa dalla montagna",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1185170,
+      "senses": [
+        {
+          "id": "w1185170-s1",
+          "gloss": [
+            "scendere (da treno o bus)",
+            "scendere da un'auto"
+          ],
+          "short_gloss": "scendere (da treno o bus)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1185200,
+      "senses": [
+        {
+          "id": "w1185200-s1",
+          "gloss": [
+            "maldestro",
+            "scarso",
+            "goffo"
+          ],
+          "short_gloss": "maldestro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1185200-s2",
+          "gloss": [
+            "imprudente",
+            "poco tattico"
+          ],
+          "short_gloss": "imprudente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1185230,
+      "senses": [
+        {
+          "id": "w1185230-s1",
+          "gloss": [
+            "tiro dal basso"
+          ],
+          "short_gloss": "tiro dal basso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1185230-s2",
+          "gloss": [
+            "lancio da sotto"
+          ],
+          "short_gloss": "lancio da sotto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1185290,
+      "senses": [
+        {
+          "id": "w1185290-s1",
+          "gloss": [
+            "alloggio",
+            "pensione",
+            "vitto e alloggio"
+          ],
+          "short_gloss": "alloggio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1185290-s2",
+          "gloss": [
+            "pensione",
+            "casa in affitto",
+            "alloggio"
+          ],
+          "short_gloss": "pensione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1185330,
+      "senses": [
+        {
+          "id": "w1185330-s1",
+          "gloss": [
+            "ultima decade del mese",
+            "dal 21 alla fine del mese"
+          ],
+          "short_gloss": "ultima decade del mese",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1185510,
+      "senses": [
+        {
+          "id": "w1185510-s1",
+          "gloss": [
+            "drenaggio",
+            "fosso",
+            "canale di scolo",
+            "fognatura"
+          ],
+          "short_gloss": "drenaggio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1185510-s2",
+          "gloss": [
+            "acque reflue",
+            "acque nere"
+          ],
+          "short_gloss": "acque reflue",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1185540,
+      "senses": [
+        {
+          "id": "w1185540-s1",
+          "gloss": [
+            "fognatura",
+            "rete fognaria"
+          ],
+          "short_gloss": "fognatura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1185910,
+      "senses": [
+        {
+          "id": "w1185910-s1",
+          "gloss": [
+            "prezzo minimo"
+          ],
+          "short_gloss": "prezzo minimo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1185920,
+      "senses": [
+        {
+          "id": "w1185920-s1",
+          "gloss": [
+            "fondamenta",
+            "base"
+          ],
+          "short_gloss": "fondamenta",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1185920-s2",
+          "gloss": [
+            "predisposizione",
+            "attitudine",
+            "conoscenze di base"
+          ],
+          "short_gloss": "predisposizione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1185920-s3",
+          "gloss": [
+            "mano di fondo"
+          ],
+          "short_gloss": "mano di fondo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1185920-s4",
+          "gloss": [
+            "salsa di soia"
+          ],
+          "short_gloss": "salsa di soia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1185930,
+      "senses": [
+        {
+          "id": "w1185930-s1",
+          "gloss": [
+            "biancheria intima",
+            "intimo",
+            "lingerie"
+          ],
+          "short_gloss": "biancheria intima",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1185940,
+      "senses": [
+        {
+          "id": "w1185940-s1",
+          "gloss": [
+            "quartiere basso della città"
+          ],
+          "short_gloss": "quartiere basso della città",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1185940-s2",
+          "gloss": [
+            "Shitamachi (area orientale di Tokyo)"
+          ],
+          "short_gloss": "Shitamachi (area orientale di Tokyo)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1186260,
+      "senses": [
+        {
+          "id": "w1186260-s1",
+          "gloss": [
+            "sottoblocco",
+            "foglio sotto la carta",
+            "sottostrato"
+          ],
+          "short_gloss": "sottoblocco",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1186260-s2",
+          "gloss": [
+            "essere schiacciato sotto",
+            "essere intrappolato sotto"
+          ],
+          "short_gloss": "essere schiacciato sotto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1186260-s3",
+          "gloss": [
+            "modello",
+            "schema"
+          ],
+          "short_gloss": "modello",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1186270,
+      "senses": [
+        {
+          "id": "w1186270-s1",
+          "gloss": [
+            "parte inferiore",
+            "sottostruttura"
+          ],
+          "short_gloss": "parte inferiore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1186270-s2",
+          "gloss": [
+            "subordinato",
+            "servitore fedele"
+          ],
+          "short_gloss": "subordinato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1186380,
+      "senses": [
+        {
+          "id": "w1186380-s1",
+          "gloss": [
+            "parte inferiore",
+            "regione sottostante"
+          ],
+          "short_gloss": "parte inferiore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1186470,
+      "senses": [
+        {
+          "id": "w1186470-s1",
+          "gloss": [
+            "dimissioni da carica pubblica"
+          ],
+          "short_gloss": "dimissioni da carica pubblica",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1186470-s2",
+          "gloss": [
+            "andare all'opposizione"
+          ],
+          "short_gloss": "andare all'opposizione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1186510,
+      "senses": [
+        {
+          "id": "w1186510-s1",
+          "gloss": [
+            "deprezzamento",
+            "calo",
+            "caduta",
+            "crollo"
+          ],
+          "short_gloss": "deprezzamento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1186540,
+      "senses": [
+        {
+          "id": "w1186540-s1",
+          "gloss": [
+            "diarrea"
+          ],
+          "short_gloss": "diarrea",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1186560,
+      "senses": [
+        {
+          "id": "w1186560-s1",
+          "gloss": [
+            "a valle",
+            "basso corso del fiume"
+          ],
+          "short_gloss": "a valle",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1186560-s2",
+          "gloss": [
+            "classi inferiori"
+          ],
+          "short_gloss": "classi inferiori",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1186760,
+      "senses": [
+        {
+          "id": "w1186760-s1",
+          "gloss": [
+            "chimica"
+          ],
+          "short_gloss": "chimica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1186920,
+      "senses": [
+        {
+          "id": "w1186920-s1",
+          "gloss": [
+            "fertilizzante chimico"
+          ],
+          "short_gloss": "fertilizzante chimico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1186940,
+      "senses": [
+        {
+          "id": "w1186940-s1",
+          "gloss": [
+            "arma chimica"
+          ],
+          "short_gloss": "arma chimica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1186990,
+      "senses": [
+        {
+          "id": "w1186990-s1",
+          "gloss": [
+            "composto chimico"
+          ],
+          "short_gloss": "composto chimico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1187160,
+      "senses": [
+        {
+          "id": "w1187160-s1",
+          "gloss": [
+            "trasformazione",
+            "cambiamento"
+          ],
+          "short_gloss": "trasformazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1187210,
+      "senses": [
+        {
+          "id": "w1187210-s1",
+          "gloss": [
+            "fossile"
+          ],
+          "short_gloss": "fossile",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1187210-s2",
+          "gloss": [
+            "pietrificazione",
+            "fossilizzazione"
+          ],
+          "short_gloss": "pietrificazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1187300,
+      "senses": [
+        {
+          "id": "w1187300-s1",
+          "gloss": [
+            "supponendo",
+            "anche se",
+            "a titolo di ipotesi"
+          ],
+          "short_gloss": "supponendo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1187300-s2",
+          "gloss": [
+            "temporaneamente",
+            "provvisoriamente",
+            "per il momento"
+          ],
+          "short_gloss": "temporaneamente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1187570,
+      "senses": [
+        {
+          "id": "w1187570-s1",
+          "gloss": [
+            "provvedimento provvisorio",
+            "ingiunzione temporanea"
+          ],
+          "short_gloss": "provvedimento provvisorio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1187610,
+      "senses": [
+        {
+          "id": "w1187610-s1",
+          "gloss": [
+            "nome provvisorio"
+          ],
+          "short_gloss": "nome provvisorio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1187740,
+      "senses": [
+        {
+          "id": "w1187740-s1",
+          "gloss": [
+            "immaginazione",
+            "supposizione",
+            "virtuale",
+            "nemico potenziale"
+          ],
+          "short_gloss": "immaginazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1188220,
+      "senses": [
+        {
+          "id": "w1188220-s1",
+          "gloss": [
+            "maschera"
+          ],
+          "short_gloss": "maschera",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1188220-s2",
+          "gloss": [
+            "travestimento",
+            "parvenza",
+            "maschera"
+          ],
+          "short_gloss": "travestimento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1188270,
+      "senses": [
+        {
+          "id": "w1188270-s1",
+          "gloss": [
+            "qualcosa",
+            "qualche",
+            "qualunque"
+          ],
+          "short_gloss": "qualcosa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1188270-s2",
+          "gloss": [
+            "in qualche modo",
+            "per qualche ragione"
+          ],
+          "short_gloss": "in qualche modo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1188270-s3",
+          "gloss": [
+            "e allora?",
+            "che vuoi dire?"
+          ],
+          "short_gloss": "e allora?",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1188330,
+      "senses": [
+        {
+          "id": "w1188330-s1",
+          "gloss": [
+            "in ogni caso",
+            "comunque",
+            "come sai"
+          ],
+          "short_gloss": "in ogni caso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1188330-s2",
+          "gloss": [
+            "perché",
+            "dato che",
+            "dopotutto"
+          ],
+          "short_gloss": "perché",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1188350,
+      "senses": [
+        {
+          "id": "w1188350-s1",
+          "gloss": [
+            "un po'",
+            "in qualche modo"
+          ],
+          "short_gloss": "un po'",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1188410,
+      "senses": [
+        {
+          "id": "w1188410-s1",
+          "gloss": [
+            "che",
+            "quanto"
+          ],
+          "short_gloss": "che",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1188410-s2",
+          "gloss": [
+            "che ...!",
+            "quanto ...!"
+          ],
+          "short_gloss": "che ...!",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1188410-s3",
+          "gloss": [
+            "incredibilmente",
+            "con sorpresa",
+            "a dir poco"
+          ],
+          "short_gloss": "incredibilmente",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1188410-s4",
+          "gloss": [
+            "oh!",
+            "wow"
+          ],
+          "short_gloss": "oh!",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1188410-s5",
+          "gloss": [
+            "beh",
+            "dunque"
+          ],
+          "short_gloss": "beh",
+          "source": "manual_translation"
+        }
+      ]
+    }
+  ]
+}
