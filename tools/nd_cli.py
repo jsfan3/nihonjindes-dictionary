@@ -255,6 +255,13 @@ def parse_word_range(filename: str) -> Optional[Tuple[int,int]]:
         return None
     return int(m.group(1)), int(m.group(2))
 
+def parse_it_word_range(filename: str) -> Optional[Tuple[int, int]]:
+    # it_words_1000220_1175030.json
+    m = re.match(r"it_words_(\d+)_(\d+)\.json(\.gz)?$", filename)
+    if not m:
+        return None
+    return int(m.group(1)), int(m.group(2))
+
 @lru_cache(maxsize=1)
 def list_word_chunks(repo: str) -> List[Tuple[int,int,Path]]:
     root = Path(repo)
@@ -280,14 +287,37 @@ def load_word_lang_chunk(repo: str, lang: str, range_start: int, range_end: int)
     # English is in data/seed/lang; Italian common is in data/lang/it_common/lang
     if lang == "en":
         p = resolve_json_variant(root/f"data/seed/lang/en_words_{range_start}_{range_end}.json") or (root/f"data/seed/lang/en_words_{range_start}_{range_end}.json")
-    elif lang == "it":
-        p = resolve_json_variant(root/f"data/lang/it_common/lang/it_words_{range_start}_{range_end}.json") or (root/f"data/lang/it_common/lang/it_words_{range_start}_{range_end}.json")
-    else:
-        raise ValueError("Unsupported lang")
-    if not p.exists():
-        return {}
-    obj = load_json_any(p)
-    return {int(e["id"]): e for e in obj.get("entries", [])}
+        if not p.exists():
+            return {}
+        obj = load_json_any(p)
+        return {int(e["id"]): e for e in obj.get("entries", [])}
+    if lang == "it":
+        chunks = list_it_word_chunks(str(root))
+        entries: Dict[int, dict] = {}
+        for start_id, end_id, p in chunks:
+            if end_id < range_start or start_id > range_end:
+                continue
+            obj = load_json_any(p)
+            for e in obj.get("entries", []):
+                entries[int(e["id"])] = e
+        return entries
+    raise ValueError("Unsupported lang")
+
+@lru_cache(maxsize=1)
+def list_it_word_chunks(repo: str) -> List[Tuple[int, int, Path]]:
+    root = Path(repo)
+    meta_path = root/"data/lang/it_common/meta.json"
+    if not meta_path.exists():
+        return []
+    meta = load_json_any(meta_path)
+    chunks: List[Tuple[int, int, Path]] = []
+    for rel_path in meta.get("files", []):
+        p = root/"data/lang/it_common"/rel_path
+        r = parse_it_word_range(p.name)
+        if r:
+            chunks.append((r[0], r[1], p))
+    chunks.sort()
+    return chunks
 
 def find_word_chunk_for_id(repo: Path, wid: int) -> Optional[Tuple[int,int,Path]]:
     for a,b,p in list_word_chunks(str(repo)):
