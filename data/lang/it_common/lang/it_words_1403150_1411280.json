@@ -1,0 +1,4086 @@
+{
+  "schema": {
+    "name": "jp-words-lang",
+    "version": "1.0"
+  },
+  "lang": "it",
+  "range": {
+    "start_id": 1403160,
+    "end_id": 1411520
+  },
+  "coverage": {
+    "translated_word_ids_in_file": 200,
+    "translated_common_rank_range": {
+      "start_rank": 5751,
+      "end_rank": 5950
+    },
+    "common_word_ids_total": 30103
+  },
+  "entries": [
+    {
+      "id": 1403160,
+      "senses": [
+        {
+          "id": "w1403160-s1",
+          "gloss": [
+            "increase",
+            "rise",
+            "growth",
+            "addition",
+            "increment"
+          ],
+          "short_gloss": "increase",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403190,
+      "senses": [
+        {
+          "id": "w1403190-s1",
+          "gloss": [
+            "reinforcement",
+            "augmentation",
+            "strengthening",
+            "increase",
+            "buildup"
+          ],
+          "short_gloss": "reinforcement",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403200,
+      "senses": [
+        {
+          "id": "w1403200-s1",
+          "gloss": [
+            "increase and decrease",
+            "fluctuation"
+          ],
+          "short_gloss": "increase and decrease",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403220,
+      "senses": [
+        {
+          "id": "w1403220-s1",
+          "gloss": [
+            "increase in production",
+            "production increase"
+          ],
+          "short_gloss": "increase in production",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403230,
+      "senses": [
+        {
+          "id": "w1403230-s1",
+          "gloss": [
+            "increase of capital"
+          ],
+          "short_gloss": "increase of capital",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1403230-s2",
+          "gloss": [
+            "issue of new shares"
+          ],
+          "short_gloss": "issue of new shares",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403240,
+      "senses": [
+        {
+          "id": "w1403240-s1",
+          "gloss": [
+            "increase in yield"
+          ],
+          "short_gloss": "increase in yield",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403250,
+      "senses": [
+        {
+          "id": "w1403250-s1",
+          "gloss": [
+            "increase",
+            "multiplication",
+            "propagation",
+            "proliferation"
+          ],
+          "short_gloss": "increase",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403270,
+      "senses": [
+        {
+          "id": "w1403270-s1",
+          "gloss": [
+            "promoting",
+            "increase",
+            "advance"
+          ],
+          "short_gloss": "promoting",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403280,
+      "senses": [
+        {
+          "id": "w1403280-s1",
+          "gloss": [
+            "tax increase"
+          ],
+          "short_gloss": "tax increase",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403290,
+      "senses": [
+        {
+          "id": "w1403290-s1",
+          "gloss": [
+            "adding (equipment, facilities, etc.)",
+            "establishing more",
+            "installing more",
+            "increase",
+            "extension",
+            "expansion"
+          ],
+          "short_gloss": "adding (equipment, facilities, etc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403310,
+      "senses": [
+        {
+          "id": "w1403310-s1",
+          "gloss": [
+            "enlargement",
+            "increase"
+          ],
+          "short_gloss": "enlargement",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403400,
+      "senses": [
+        {
+          "id": "w1403400-s1",
+          "gloss": [
+            "hatred"
+          ],
+          "short_gloss": "hatred",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403460,
+      "senses": [
+        {
+          "id": "w1403460-s1",
+          "gloss": [
+            "hatred",
+            "abhorrence",
+            "loathing",
+            "detestation"
+          ],
+          "short_gloss": "hatred",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403480,
+      "senses": [
+        {
+          "id": "w1403480-s1",
+          "gloss": [
+            "internal organs",
+            "viscera"
+          ],
+          "short_gloss": "internal organs",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403510,
+      "senses": [
+        {
+          "id": "w1403510-s1",
+          "gloss": [
+            "collection of books",
+            "(personal) library"
+          ],
+          "short_gloss": "collection of books",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403520,
+      "senses": [
+        {
+          "id": "w1403520-s1",
+          "gloss": [
+            "Minister of Finance"
+          ],
+          "short_gloss": "Minister of Finance",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403550,
+      "senses": [
+        {
+          "id": "w1403550-s1",
+          "gloss": [
+            "to give (as a gift)",
+            "to present"
+          ],
+          "short_gloss": "to give (as a gift)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1403550-s2",
+          "gloss": [
+            "to confer",
+            "to bestow",
+            "to award"
+          ],
+          "short_gloss": "to confer",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403570,
+      "senses": [
+        {
+          "id": "w1403570-s1",
+          "gloss": [
+            "presentation (of a gift, prize, etc.)"
+          ],
+          "short_gloss": "presentation (of a gift, prize, etc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403580,
+      "senses": [
+        {
+          "id": "w1403580-s1",
+          "gloss": [
+            "exchange of presents"
+          ],
+          "short_gloss": "exchange of presents",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403590,
+      "senses": [
+        {
+          "id": "w1403590-s1",
+          "gloss": [
+            "donation",
+            "presentation"
+          ],
+          "short_gloss": "donation",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403610,
+      "senses": [
+        {
+          "id": "w1403610-s1",
+          "gloss": [
+            "giving a bribe",
+            "bribery"
+          ],
+          "short_gloss": "giving a bribe",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403650,
+      "senses": [
+        {
+          "id": "w1403650-s1",
+          "gloss": [
+            "molding",
+            "moulding",
+            "shaping",
+            "forming",
+            "modelling (i.e. plastic arts)",
+            "modeling"
+          ],
+          "short_gloss": "molding",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403680,
+      "senses": [
+        {
+          "id": "w1403680-s1",
+          "gloss": [
+            "coinage",
+            "invention of a new word"
+          ],
+          "short_gloss": "coinage",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1403680-s2",
+          "gloss": [
+            "coined word"
+          ],
+          "short_gloss": "coined word",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403720,
+      "senses": [
+        {
+          "id": "w1403720-s1",
+          "gloss": [
+            "shipbuilding"
+          ],
+          "short_gloss": "shipbuilding",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403780,
+      "senses": [
+        {
+          "id": "w1403780-s1",
+          "gloss": [
+            "promotion",
+            "acceleration",
+            "encouragement",
+            "facilitation",
+            "spurring on"
+          ],
+          "short_gloss": "promotion",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403830,
+      "senses": [
+        {
+          "id": "w1403830-s1",
+          "gloss": [
+            "(place) near by",
+            "(place) close by",
+            "(place) right next to",
+            "the side (of something)",
+            "beside",
+            "vicinity",
+            "proximity",
+            "neighbourhood (neighborhood)"
+          ],
+          "short_gloss": "(place) near by",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1403830-s2",
+          "gloss": [
+            "as soon as",
+            "right after"
+          ],
+          "short_gloss": "as soon as",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1403890,
+      "senses": [
+        {
+          "id": "w1403890-s1",
+          "gloss": [
+            "close aide (of a powerful person)",
+            "close associate",
+            "entourage",
+            "attendant",
+            "retainer"
+          ],
+          "short_gloss": "close aide (of a powerful person)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404040,
+      "senses": [
+        {
+          "id": "w1404040-s1",
+          "gloss": [
+            "side",
+            "flank",
+            "profile",
+            "sidelight",
+            "lateral"
+          ],
+          "short_gloss": "side",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404040-s2",
+          "gloss": [
+            "aspect",
+            "dimension"
+          ],
+          "short_gloss": "aspect",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404090,
+      "senses": [
+        {
+          "id": "w1404090-s1",
+          "gloss": [
+            "to conform to",
+            "to agree with",
+            "to be adapted to",
+            "to be based on"
+          ],
+          "short_gloss": "to conform to",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404110,
+      "senses": [
+        {
+          "id": "w1404110-s1",
+          "gloss": [
+            "accession to the throne",
+            "enthronement"
+          ],
+          "short_gloss": "accession to the throne",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404130,
+      "senses": [
+        {
+          "id": "w1404130-s1",
+          "gloss": [
+            "improvisation"
+          ],
+          "short_gloss": "improvisation",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404130-s2",
+          "gloss": [
+            "improvised",
+            "impromptu",
+            "extempore",
+            "ad-lib",
+            "off-the-cuff"
+          ],
+          "short_gloss": "improvised",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404160,
+      "senses": [
+        {
+          "id": "w1404160-s1",
+          "gloss": [
+            "immediate effect",
+            "instant effect"
+          ],
+          "short_gloss": "immediate effect",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404170,
+      "senses": [
+        {
+          "id": "w1404170-s1",
+          "gloss": [
+            "immediately",
+            "at once",
+            "instantly"
+          ],
+          "short_gloss": "immediately",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404180,
+      "senses": [
+        {
+          "id": "w1404180-s1",
+          "gloss": [
+            "immediate",
+            "right there on the spot",
+            "impromptu",
+            "instant",
+            "instantaneous"
+          ],
+          "short_gloss": "immediate",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404210,
+      "senses": [
+        {
+          "id": "w1404210-s1",
+          "gloss": [
+            "prompt",
+            "immediate",
+            "in real time"
+          ],
+          "short_gloss": "prompt",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404240,
+      "senses": [
+        {
+          "id": "w1404240-s1",
+          "gloss": [
+            "impromptu",
+            "improvised",
+            "extempore",
+            "ad-lib",
+            "off-the-cuff"
+          ],
+          "short_gloss": "impromptu",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404240-s2",
+          "gloss": [
+            "instant (e.g. ramen)"
+          ],
+          "short_gloss": "instant (e.g. ramen)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404280,
+      "senses": [
+        {
+          "id": "w1404280-s1",
+          "gloss": [
+            "(on) the same day"
+          ],
+          "short_gloss": "(on) the same day",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404300,
+      "senses": [
+        {
+          "id": "w1404300-s1",
+          "gloss": [
+            "selling on the spot"
+          ],
+          "short_gloss": "selling on the spot",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404320,
+      "senses": [
+        {
+          "id": "w1404320-s1",
+          "gloss": [
+            "breath",
+            "breathing"
+          ],
+          "short_gloss": "breath",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404320-s2",
+          "gloss": [
+            "concord",
+            "harmony",
+            "rapport"
+          ],
+          "short_gloss": "concord",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404320-s3",
+          "gloss": [
+            "steam (coming off hot food, tea, etc.)",
+            "(water) vapor",
+            "vapour"
+          ],
+          "short_gloss": "steam (coming off hot food, tea, etc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404390,
+      "senses": [
+        {
+          "id": "w1404390-s1",
+          "gloss": [
+            "son"
+          ],
+          "short_gloss": "son",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404390-s2",
+          "gloss": [
+            "penis"
+          ],
+          "short_gloss": "penis",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404410,
+      "senses": [
+        {
+          "id": "w1404410-s1",
+          "gloss": [
+            "breath"
+          ],
+          "short_gloss": "breath",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404410-s2",
+          "gloss": [
+            "sign (of something new and fresh)",
+            "breath (of spring, fresh air, etc.)",
+            "vitality"
+          ],
+          "short_gloss": "sign (of something new and fresh)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404450,
+      "senses": [
+        {
+          "id": "w1404450-s1",
+          "gloss": [
+            "bundle",
+            "bunch",
+            "sheaf"
+          ],
+          "short_gloss": "bundle",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404540,
+      "senses": [
+        {
+          "id": "w1404540-s1",
+          "gloss": [
+            "weather measurement station"
+          ],
+          "short_gloss": "weather measurement station",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404570,
+      "senses": [
+        {
+          "id": "w1404570-s1",
+          "gloss": [
+            "measurement"
+          ],
+          "short_gloss": "measurement",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404590,
+      "senses": [
+        {
+          "id": "w1404590-s1",
+          "gloss": [
+            "measurement",
+            "surveying"
+          ],
+          "short_gloss": "measurement",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404630,
+      "senses": [
+        {
+          "id": "w1404630-s1",
+          "gloss": [
+            "foot",
+            "paw",
+            "arm (of an octopus, squid, etc.)"
+          ],
+          "short_gloss": "foot",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404630-s2",
+          "gloss": [
+            "leg"
+          ],
+          "short_gloss": "leg",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404630-s3",
+          "gloss": [
+            "gait"
+          ],
+          "short_gloss": "gait",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404630-s4",
+          "gloss": [
+            "pace"
+          ],
+          "short_gloss": "pace",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404630-s5",
+          "gloss": [
+            "lower radical of a kanji"
+          ],
+          "short_gloss": "lower radical of a kanji",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404630-s6",
+          "gloss": [
+            "means of transportation",
+            "(one's) ride"
+          ],
+          "short_gloss": "means of transportation",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404630-s7",
+          "gloss": [
+            "money",
+            "coin"
+          ],
+          "short_gloss": "money",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404770,
+      "senses": [
+        {
+          "id": "w1404770-s1",
+          "gloss": [
+            "sound of footsteps"
+          ],
+          "short_gloss": "sound of footsteps",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404770-s2",
+          "gloss": [
+            "sense or sign that something is approaching"
+          ],
+          "short_gloss": "sense or sign that something is approaching",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404810,
+      "senses": [
+        {
+          "id": "w1404810-s1",
+          "gloss": [
+            "legs and loins",
+            "lower body"
+          ],
+          "short_gloss": "legs and loins",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404810-s2",
+          "gloss": [
+            "foundations",
+            "underpinnings"
+          ],
+          "short_gloss": "foundations",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404830,
+      "senses": [
+        {
+          "id": "w1404830-s1",
+          "gloss": [
+            "gait",
+            "walk",
+            "stride",
+            "pace",
+            "step",
+            "manner of walking"
+          ],
+          "short_gloss": "gait",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404830-s2",
+          "gloss": [
+            "trace (e.g. of route taken by hunted criminal)",
+            "track",
+            "trail",
+            "movements"
+          ],
+          "short_gloss": "trace (e.g. of route taken by hunted criminal)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404840,
+      "senses": [
+        {
+          "id": "w1404840-s1",
+          "gloss": [
+            "ankle"
+          ],
+          "short_gloss": "ankle",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404860,
+      "senses": [
+        {
+          "id": "w1404860-s1",
+          "gloss": [
+            "scaffold",
+            "scaffolding"
+          ],
+          "short_gloss": "scaffold",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404860-s2",
+          "gloss": [
+            "foothold",
+            "footing"
+          ],
+          "short_gloss": "foothold",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404860-s3",
+          "gloss": [
+            "foothold (e.g. in business)",
+            "foundation",
+            "base"
+          ],
+          "short_gloss": "foothold (e.g. in business)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404860-s4",
+          "gloss": [
+            "convenience for transportation",
+            "convenience of access (by road or rail)"
+          ],
+          "short_gloss": "convenience for transportation",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404880,
+      "senses": [
+        {
+          "id": "w1404880-s1",
+          "gloss": [
+            "fast (walking)",
+            "quick",
+            "brisk"
+          ],
+          "short_gloss": "fast (walking)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404880-s2",
+          "gloss": [
+            "quick (passing of time)",
+            "rapid",
+            "swift"
+          ],
+          "short_gloss": "quick (passing of time)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404930,
+      "senses": [
+        {
+          "id": "w1404930-s1",
+          "gloss": [
+            "stepping (in place)",
+            "stamping (up and down)",
+            "stomping",
+            "marking time (for a soldier)"
+          ],
+          "short_gloss": "stepping (in place)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404930-s2",
+          "gloss": [
+            "standstill",
+            "stalemate"
+          ],
+          "short_gloss": "standstill",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404950,
+      "senses": [
+        {
+          "id": "w1404950-s1",
+          "gloss": [
+            "pace",
+            "step"
+          ],
+          "short_gloss": "pace",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404975,
+      "senses": [
+        {
+          "id": "w1404975-s1",
+          "gloss": [
+            "fast",
+            "quick",
+            "rapid",
+            "swift",
+            "speedy",
+            "brisk",
+            "prompt"
+          ],
+          "short_gloss": "fast",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404975-s2",
+          "gloss": [
+            "early",
+            "soon",
+            "earlier than usual"
+          ],
+          "short_gloss": "early",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404975-s3",
+          "gloss": [
+            "premature",
+            "too soon",
+            "too early"
+          ],
+          "short_gloss": "premature",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404975-s4",
+          "gloss": [
+            "easy",
+            "simple",
+            "quick",
+            "fast"
+          ],
+          "short_gloss": "easy",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404975-s5",
+          "gloss": [
+            "as soon as ...",
+            "the moment ...",
+            "the instant ..."
+          ],
+          "short_gloss": "as soon as ...",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1404990,
+      "senses": [
+        {
+          "id": "w1404990-s1",
+          "gloss": [
+            "speed",
+            "velocity",
+            "quickness",
+            "rapidity"
+          ],
+          "short_gloss": "speed",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1404990-s2",
+          "gloss": [
+            "earliness"
+          ],
+          "short_gloss": "earliness",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1405000,
+      "senses": [
+        {
+          "id": "w1405000-s1",
+          "gloss": [
+            "quick",
+            "speedy",
+            "prompt",
+            "rapid",
+            "swift"
+          ],
+          "short_gloss": "quick",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1405050,
+      "senses": [
+        {
+          "id": "w1405050-s1",
+          "gloss": [
+            "speed",
+            "velocity",
+            "pace",
+            "rate"
+          ],
+          "short_gloss": "speed",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1405050-s2",
+          "gloss": [
+            "velocity"
+          ],
+          "short_gloss": "velocity",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1405070,
+      "senses": [
+        {
+          "id": "w1405070-s1",
+          "gloss": [
+            "news flash",
+            "prompt report",
+            "bulletin",
+            "quick announcement"
+          ],
+          "short_gloss": "news flash",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1405710,
+      "senses": [
+        {
+          "id": "w1405710-s1",
+          "gloss": [
+            "to belong to",
+            "to come under",
+            "to be affiliated with",
+            "to be subject to"
+          ],
+          "short_gloss": "to belong to",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1405770,
+      "senses": [
+        {
+          "id": "w1405770-s1",
+          "gloss": [
+            "tribe",
+            "clan",
+            "band",
+            "family"
+          ],
+          "short_gloss": "tribe",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1405770-s2",
+          "gloss": [
+            "(taxonomical) tribe"
+          ],
+          "short_gloss": "(taxonomical) tribe",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1405770-s3",
+          "gloss": [
+            "group (of the periodic table)"
+          ],
+          "short_gloss": "group (of the periodic table)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1405810,
+      "senses": [
+        {
+          "id": "w1405810-s1",
+          "gloss": [
+            "continuation",
+            "continuance",
+            "going on",
+            "resuming"
+          ],
+          "short_gloss": "continuation",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1405820,
+      "senses": [
+        {
+          "id": "w1405820-s1",
+          "gloss": [
+            "appearing one after another",
+            "cropping up one after another",
+            "occurring in succession"
+          ],
+          "short_gloss": "appearing one after another",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1405860,
+      "senses": [
+        {
+          "id": "w1405860-s1",
+          "gloss": [
+            "continuation",
+            "sequel"
+          ],
+          "short_gloss": "continuation",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1405890,
+      "senses": [
+        {
+          "id": "w1405890-s1",
+          "gloss": [
+            "graduation",
+            "completion (of a course)"
+          ],
+          "short_gloss": "graduation",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1405890-s2",
+          "gloss": [
+            "moving on (from)",
+            "outgrowing (something)"
+          ],
+          "short_gloss": "moving on (from)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1405890-s3",
+          "gloss": [
+            "leaving (a group, company, etc.)",
+            "quitting"
+          ],
+          "short_gloss": "leaving (a group, company, etc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1406150,
+      "senses": [
+        {
+          "id": "w1406150-s1",
+          "gloss": [
+            "existence",
+            "being",
+            "presence"
+          ],
+          "short_gloss": "existence",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1406190,
+      "senses": [
+        {
+          "id": "w1406190-s1",
+          "gloss": [
+            "continuance",
+            "survival",
+            "persistence",
+            "retention",
+            "duration"
+          ],
+          "short_gloss": "continuance",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1406210,
+      "senses": [
+        {
+          "id": "w1406210-s1",
+          "gloss": [
+            "to one's heart's content",
+            "as much as one likes",
+            "without reserve",
+            "freely",
+            "to the full"
+          ],
+          "short_gloss": "to one's heart's content",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1406230,
+      "senses": [
+        {
+          "id": "w1406230-s1",
+          "gloss": [
+            "grandchild"
+          ],
+          "short_gloss": "grandchild",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1406400,
+      "senses": [
+        {
+          "id": "w1406400-s1",
+          "gloss": [
+            "respect",
+            "esteem",
+            "reverence",
+            "honour",
+            "honor"
+          ],
+          "short_gloss": "respect",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1406420,
+      "senses": [
+        {
+          "id": "w1406420-s1",
+          "gloss": [
+            "dignity",
+            "majesty",
+            "sanctity"
+          ],
+          "short_gloss": "dignity",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1406460,
+      "senses": [
+        {
+          "id": "w1406460-s1",
+          "gloss": [
+            "respect",
+            "esteem",
+            "regard"
+          ],
+          "short_gloss": "respect",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1406660,
+      "senses": [
+        {
+          "id": "w1406660-s1",
+          "gloss": [
+            "loss",
+            "damage",
+            "harm",
+            "unprofitable"
+          ],
+          "short_gloss": "loss",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1406660-s2",
+          "gloss": [
+            "disadvantage",
+            "handicap",
+            "drawback",
+            "unfavorable"
+          ],
+          "short_gloss": "disadvantage",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1406700,
+      "senses": [
+        {
+          "id": "w1406700-s1",
+          "gloss": [
+            "profit and loss",
+            "advantage and disadvantage"
+          ],
+          "short_gloss": "profit and loss",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1406710,
+      "senses": [
+        {
+          "id": "w1406710-s1",
+          "gloss": [
+            "damage",
+            "injury",
+            "loss"
+          ],
+          "short_gloss": "damage",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1406740,
+      "senses": [
+        {
+          "id": "w1406740-s1",
+          "gloss": [
+            "non-life insurance",
+            "general insurance",
+            "property and casualty insurance"
+          ],
+          "short_gloss": "non-life insurance",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1406750,
+      "senses": [
+        {
+          "id": "w1406750-s1",
+          "gloss": [
+            "loss (of assets, profit, etc.)"
+          ],
+          "short_gloss": "loss (of assets, profit, etc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1406760,
+      "senses": [
+        {
+          "id": "w1406760-s1",
+          "gloss": [
+            "damage",
+            "injury"
+          ],
+          "short_gloss": "damage",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1406820,
+      "senses": [
+        {
+          "id": "w1406820-s1",
+          "gloss": [
+            "village"
+          ],
+          "short_gloss": "village",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1406830,
+      "senses": [
+        {
+          "id": "w1406830-s1",
+          "gloss": [
+            "villager"
+          ],
+          "short_gloss": "villager",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1406840,
+      "senses": [
+        {
+          "id": "w1406840-s1",
+          "gloss": [
+            "village headman",
+            "village mayor"
+          ],
+          "short_gloss": "village headman",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1406860,
+      "senses": [
+        {
+          "id": "w1406860-s1",
+          "gloss": [
+            "villager"
+          ],
+          "short_gloss": "villager",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1407050,
+      "senses": [
+        {
+          "id": "w1407050-s1",
+          "gloss": [
+            "foreign country",
+            "another country"
+          ],
+          "short_gloss": "foreign country",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1407050-s2",
+          "gloss": [
+            "another province"
+          ],
+          "short_gloss": "another province",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1407050-s3",
+          "gloss": [
+            "strange land",
+            "alien land"
+          ],
+          "short_gloss": "strange land",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1407090,
+      "senses": [
+        {
+          "id": "w1407090-s1",
+          "gloss": [
+            "murder"
+          ],
+          "short_gloss": "murder",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1407130,
+      "senses": [
+        {
+          "id": "w1407130-s1",
+          "gloss": [
+            "another company",
+            "other company"
+          ],
+          "short_gloss": "another company",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1407340,
+      "senses": [
+        {
+          "id": "w1407340-s1",
+          "gloss": [
+            "the other group"
+          ],
+          "short_gloss": "the other group",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1407370,
+      "senses": [
+        {
+          "id": "w1407370-s1",
+          "gloss": [
+            "one (esp. of two)",
+            "the other",
+            "one way",
+            "the other way",
+            "one direction",
+            "the other direction",
+            "one side",
+            "the other side",
+            "one party",
+            "the other party"
+          ],
+          "short_gloss": "one (esp. of two)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1407370-s2",
+          "gloss": [
+            "on the other hand"
+          ],
+          "short_gloss": "on the other hand",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1407520,
+      "senses": [
+        {
+          "id": "w1407520-s1",
+          "gloss": [
+            "large (amount of money)",
+            "huge",
+            "hefty",
+            "expensive"
+          ],
+          "short_gloss": "large (amount of money)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1407530,
+      "senses": [
+        {
+          "id": "w1407530-s1",
+          "gloss": [
+            "diverse",
+            "various",
+            "wide-ranging"
+          ],
+          "short_gloss": "diverse",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1407680,
+      "senses": [
+        {
+          "id": "w1407680-s1",
+          "gloss": [
+            "colourful",
+            "colorful",
+            "multicoloured",
+            "multicolored",
+            "varicoloured",
+            "varicolored"
+          ],
+          "short_gloss": "colourful",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1407680-s2",
+          "gloss": [
+            "various",
+            "varied",
+            "variegated",
+            "diverse",
+            "a variety of",
+            "all kinds of"
+          ],
+          "short_gloss": "various",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1407770,
+      "senses": [
+        {
+          "id": "w1407770-s1",
+          "gloss": [
+            "multiple",
+            "multiplex"
+          ],
+          "short_gloss": "multiple",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1407810,
+      "senses": [
+        {
+          "id": "w1407810-s1",
+          "gloss": [
+            "a little",
+            "some",
+            "somewhat",
+            "slightly",
+            "to some degree",
+            "to some extent"
+          ],
+          "short_gloss": "a little",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1407810-s2",
+          "gloss": [
+            "amount",
+            "quantity",
+            "number"
+          ],
+          "short_gloss": "amount",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1407860,
+      "senses": [
+        {
+          "id": "w1407860-s1",
+          "gloss": [
+            "large number (of)",
+            "many"
+          ],
+          "short_gloss": "large number (of)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1407860-s2",
+          "gloss": [
+            "majority"
+          ],
+          "short_gloss": "majority",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1407870,
+      "senses": [
+        {
+          "id": "w1407870-s1",
+          "gloss": [
+            "majority decision",
+            "majority vote",
+            "majority rule"
+          ],
+          "short_gloss": "majority decision",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1407900,
+      "senses": [
+        {
+          "id": "w1407900-s1",
+          "gloss": [
+            "great (quantity, amount, etc.)",
+            "huge",
+            "enormous",
+            "serious"
+          ],
+          "short_gloss": "great (quantity, amount, etc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1407940,
+      "senses": [
+        {
+          "id": "w1407940-s1",
+          "gloss": [
+            "full of troubles, difficulties"
+          ],
+          "short_gloss": "full of troubles, difficulties",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1407980,
+      "senses": [
+        {
+          "id": "w1407980-s1",
+          "gloss": [
+            "probably",
+            "likely",
+            "perhaps",
+            "maybe"
+          ],
+          "short_gloss": "probably",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1407980-s2",
+          "gloss": [
+            "a lot of",
+            "much",
+            "many",
+            "considerable",
+            "large (amount)",
+            "generous"
+          ],
+          "short_gloss": "a lot of",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408040,
+      "senses": [
+        {
+          "id": "w1408040-s1",
+          "gloss": [
+            "being very busy",
+            "busyness"
+          ],
+          "short_gloss": "being very busy",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408050,
+      "senses": [
+        {
+          "id": "w1408050-s1",
+          "gloss": [
+            "many-sided",
+            "multifaceted"
+          ],
+          "short_gloss": "many-sided",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408090,
+      "senses": [
+        {
+          "id": "w1408090-s1",
+          "gloss": [
+            "multipurpose"
+          ],
+          "short_gloss": "multipurpose",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408100,
+      "senses": [
+        {
+          "id": "w1408100-s1",
+          "gloss": [
+            "diverse",
+            "various"
+          ],
+          "short_gloss": "diverse",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408110,
+      "senses": [
+        {
+          "id": "w1408110-s1",
+          "gloss": [
+            "diversification"
+          ],
+          "short_gloss": "diversification",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408170,
+      "senses": [
+        {
+          "id": "w1408170-s1",
+          "gloss": [
+            "large quantity",
+            "large amount"
+          ],
+          "short_gloss": "large quantity",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408180,
+      "senses": [
+        {
+          "id": "w1408180-s1",
+          "gloss": [
+            "fat",
+            "thick"
+          ],
+          "short_gloss": "fat",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408180-s2",
+          "gloss": [
+            "deep (of a voice)",
+            "thick",
+            "sonorous"
+          ],
+          "short_gloss": "deep (of a voice)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408180-s3",
+          "gloss": [
+            "daring",
+            "shameless",
+            "brazen",
+            "audacious"
+          ],
+          "short_gloss": "daring",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408210,
+      "senses": [
+        {
+          "id": "w1408210-s1",
+          "gloss": [
+            "generous",
+            "magnanimous",
+            "big-hearted",
+            "broad-minded",
+            "big-bellied"
+          ],
+          "short_gloss": "generous",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408280,
+      "senses": [
+        {
+          "id": "w1408280-s1",
+          "gloss": [
+            "drum"
+          ],
+          "short_gloss": "drum",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408360,
+      "senses": [
+        {
+          "id": "w1408360-s1",
+          "gloss": [
+            "Pacific Ocean"
+          ],
+          "short_gloss": "Pacific Ocean",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408370,
+      "senses": [
+        {
+          "id": "w1408370-s1",
+          "gloss": [
+            "Sun"
+          ],
+          "short_gloss": "Sun",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408510,
+      "senses": [
+        {
+          "id": "w1408510-s1",
+          "gloss": [
+            "compromise",
+            "giving in"
+          ],
+          "short_gloss": "compromise",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408530,
+      "senses": [
+        {
+          "id": "w1408530-s1",
+          "gloss": [
+            "settlement",
+            "an agreement"
+          ],
+          "short_gloss": "settlement",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408650,
+      "senses": [
+        {
+          "id": "w1408650-s1",
+          "gloss": [
+            "driving",
+            "pounding in",
+            "shooting into",
+            "implantation",
+            "invasion"
+          ],
+          "short_gloss": "driving",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408650-s2",
+          "gloss": [
+            "falling badly in love"
+          ],
+          "short_gloss": "falling badly in love",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408650-s3",
+          "gloss": [
+            "putting (one's heart) into"
+          ],
+          "short_gloss": "putting (one's heart) into",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408650-s4",
+          "gloss": [
+            "step recording (in electronic or computer music)"
+          ],
+          "short_gloss": "step recording (in electronic or computer music)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408670,
+      "senses": [
+        {
+          "id": "w1408670-s1",
+          "gloss": [
+            "to emboss"
+          ],
+          "short_gloss": "to emboss",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408670-s2",
+          "gloss": [
+            "to print out",
+            "to print"
+          ],
+          "short_gloss": "to print out",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408670-s3",
+          "gloss": [
+            "to work out (e.g. policy)",
+            "to hammer out",
+            "to come out with",
+            "to set forth"
+          ],
+          "short_gloss": "to work out (e.g. policy)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408670-s4",
+          "gloss": [
+            "to strike (a drum indicating the end of a performance)"
+          ],
+          "short_gloss": "to strike (a drum indicating the end of a performance)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408670-s5",
+          "gloss": [
+            "to begin striking",
+            "to start beating"
+          ],
+          "short_gloss": "to begin striking",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408690,
+      "senses": [
+        {
+          "id": "w1408690-s1",
+          "gloss": [
+            "launch (of a rocket, satellite, etc.)",
+            "lift-off",
+            "shooting off (fireworks)",
+            "(fireworks) display"
+          ],
+          "short_gloss": "launch (of a rocket, satellite, etc.)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408690-s2",
+          "gloss": [
+            "end (of a project, theatrical run, etc.)",
+            "close",
+            "completion"
+          ],
+          "short_gloss": "end (of a project, theatrical run, etc.)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408690-s3",
+          "gloss": [
+            "party to celebrate the successful completion of a project (run of performances, etc.)",
+            "wrap party"
+          ],
+          "short_gloss": "party to celebrate the successful completion of a project (run of performances, etc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408720,
+      "senses": [
+        {
+          "id": "w1408720-s1",
+          "gloss": [
+            "to stop",
+            "to abort",
+            "to discontinue",
+            "to close"
+          ],
+          "short_gloss": "to stop",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408810,
+      "senses": [
+        {
+          "id": "w1408810-s1",
+          "gloss": [
+            "to hit",
+            "to strike",
+            "to knock",
+            "to beat",
+            "to punch",
+            "to slap",
+            "to tap",
+            "to bang",
+            "to clap",
+            "to pound"
+          ],
+          "short_gloss": "to hit",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408810-s2",
+          "gloss": [
+            "to strike (noon, etc.)",
+            "to sound (cymbals, etc.)",
+            "to beat (a drum, etc.)"
+          ],
+          "short_gloss": "to strike (noon, etc.)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408810-s3",
+          "gloss": [
+            "to beat (rhythmically, e.g. pulse, waves, etc.)"
+          ],
+          "short_gloss": "to beat (rhythmically, e.g. pulse, waves, etc.)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408810-s4",
+          "gloss": [
+            "to move",
+            "to impress",
+            "to touch"
+          ],
+          "short_gloss": "to move",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408810-s5",
+          "gloss": [
+            "to drive in",
+            "to hammer in",
+            "to put in",
+            "to inject",
+            "to vaccinate"
+          ],
+          "short_gloss": "to drive in",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408810-s6",
+          "gloss": [
+            "to type",
+            "to send",
+            "to transmit"
+          ],
+          "short_gloss": "to type",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408810-s7",
+          "gloss": [
+            "to insert",
+            "to write in",
+            "to mark"
+          ],
+          "short_gloss": "to insert",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408810-s8",
+          "gloss": [
+            "to make (noodles, etc.)",
+            "to prepare"
+          ],
+          "short_gloss": "to make (noodles, etc.)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408810-s9",
+          "gloss": [
+            "to till (soil)"
+          ],
+          "short_gloss": "to till (soil)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408810-s10",
+          "gloss": [
+            "to sprinkle",
+            "to throw",
+            "to cast"
+          ],
+          "short_gloss": "to sprinkle",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408810-s11",
+          "gloss": [
+            "to do",
+            "to carry out",
+            "to play",
+            "to perform",
+            "to engage in (gambling, etc.)"
+          ],
+          "short_gloss": "to do",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408810-s12",
+          "gloss": [
+            "to pay (a deposit, etc.)"
+          ],
+          "short_gloss": "to pay (a deposit, etc.)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408810-s13",
+          "gloss": [
+            "to visit (on a pilgrimage)"
+          ],
+          "short_gloss": "to visit (on a pilgrimage)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408810-s14",
+          "gloss": [
+            "to line (a coat)"
+          ],
+          "short_gloss": "to line (a coat)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408810-s15",
+          "gloss": [
+            "to bind (a criminal)"
+          ],
+          "short_gloss": "to bind (a criminal)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408810-s16",
+          "gloss": [
+            "to drop (a piece)"
+          ],
+          "short_gloss": "to drop (a piece)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408810-s17",
+          "gloss": [
+            "to play a move",
+            "to play a game"
+          ],
+          "short_gloss": "to play a move",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408850,
+      "senses": [
+        {
+          "id": "w1408850-s1",
+          "gloss": [
+            "break in the deadlock"
+          ],
+          "short_gloss": "break in the deadlock",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408870,
+      "senses": [
+        {
+          "id": "w1408870-s1",
+          "gloss": [
+            "blow",
+            "shock",
+            "strike",
+            "damage"
+          ],
+          "short_gloss": "blow",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408870-s2",
+          "gloss": [
+            "batting"
+          ],
+          "short_gloss": "batting",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408900,
+      "senses": [
+        {
+          "id": "w1408900-s1",
+          "gloss": [
+            "batter"
+          ],
+          "short_gloss": "batter",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408910,
+      "senses": [
+        {
+          "id": "w1408910-s1",
+          "gloss": [
+            "percussion",
+            "tapping",
+            "examining by percussion"
+          ],
+          "short_gloss": "percussion",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1408910-s2",
+          "gloss": [
+            "sounding out (someone's intentions)",
+            "making an approach (about)"
+          ],
+          "short_gloss": "sounding out (someone's intentions)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408920,
+      "senses": [
+        {
+          "id": "w1408920-s1",
+          "gloss": [
+            "times at bat"
+          ],
+          "short_gloss": "times at bat",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408930,
+      "senses": [
+        {
+          "id": "w1408930-s1",
+          "gloss": [
+            "batting line-up",
+            "batting order"
+          ],
+          "short_gloss": "batting line-up",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408940,
+      "senses": [
+        {
+          "id": "w1408940-s1",
+          "gloss": [
+            "overthrow",
+            "defeat",
+            "bringing down",
+            "knockdown"
+          ],
+          "short_gloss": "overthrow",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408950,
+      "senses": [
+        {
+          "id": "w1408950-s1",
+          "gloss": [
+            "breaking down",
+            "defeating",
+            "abolishing"
+          ],
+          "short_gloss": "breaking down",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408960,
+      "senses": [
+        {
+          "id": "w1408960-s1",
+          "gloss": [
+            "blow",
+            "hit (on the body)",
+            "beating"
+          ],
+          "short_gloss": "blow",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408980,
+      "senses": [
+        {
+          "id": "w1408980-s1",
+          "gloss": [
+            "batting average"
+          ],
+          "short_gloss": "batting average",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1408990,
+      "senses": [
+        {
+          "id": "w1408990-s1",
+          "gloss": [
+            "rudder",
+            "helm"
+          ],
+          "short_gloss": "rudder",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409110,
+      "senses": [
+        {
+          "id": "w1409110-s1",
+          "gloss": [
+            "no good",
+            "not serving its purpose",
+            "useless",
+            "broken"
+          ],
+          "short_gloss": "no good",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1409110-s2",
+          "gloss": [
+            "hopeless",
+            "wasted",
+            "in vain",
+            "purposeless"
+          ],
+          "short_gloss": "hopeless",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1409110-s3",
+          "gloss": [
+            "cannot",
+            "must not",
+            "not allowed"
+          ],
+          "short_gloss": "cannot",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1409110-s4",
+          "gloss": [
+            "neutral point",
+            "intersection owned by neither player at the end of a game"
+          ],
+          "short_gloss": "neutral point",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1409110-s5",
+          "gloss": [
+            "no!",
+            "stop!"
+          ],
+          "short_gloss": "no!",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409140,
+      "senses": [
+        {
+          "id": "w1409140-s1",
+          "gloss": [
+            "body"
+          ],
+          "short_gloss": "body",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1409140-s2",
+          "gloss": [
+            "torso",
+            "trunk"
+          ],
+          "short_gloss": "torso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1409140-s3",
+          "gloss": [
+            "build",
+            "physique",
+            "frame",
+            "figure"
+          ],
+          "short_gloss": "build",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1409140-s4",
+          "gloss": [
+            "health",
+            "constitution"
+          ],
+          "short_gloss": "health",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409200,
+      "senses": [
+        {
+          "id": "w1409200-s1",
+          "gloss": [
+            "physical education",
+            "PE",
+            "gym (class)"
+          ],
+          "short_gloss": "physical education",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409250,
+      "senses": [
+        {
+          "id": "w1409250-s1",
+          "gloss": [
+            "body temperature"
+          ],
+          "short_gloss": "body temperature",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409290,
+      "senses": [
+        {
+          "id": "w1409290-s1",
+          "gloss": [
+            "in vitro fertilization",
+            "in vitro fertilisation",
+            "IVF"
+          ],
+          "short_gloss": "in vitro fertilization",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409310,
+      "senses": [
+        {
+          "id": "w1409310-s1",
+          "gloss": [
+            "build",
+            "physique",
+            "frame",
+            "constitution"
+          ],
+          "short_gloss": "build",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409330,
+      "senses": [
+        {
+          "id": "w1409330-s1",
+          "gloss": [
+            "bodily sensation",
+            "sense",
+            "experience"
+          ],
+          "short_gloss": "bodily sensation",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409370,
+      "senses": [
+        {
+          "id": "w1409370-s1",
+          "gloss": [
+            "figure",
+            "body shape",
+            "build",
+            "physique",
+            "form"
+          ],
+          "short_gloss": "figure",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1409370-s2",
+          "gloss": [
+            "somatotype",
+            "biotype",
+            "habitus",
+            "(type of) physique"
+          ],
+          "short_gloss": "somatotype",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409390,
+      "senses": [
+        {
+          "id": "w1409390-s1",
+          "gloss": [
+            "system",
+            "organization",
+            "organisation",
+            "architecture"
+          ],
+          "short_gloss": "system",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409420,
+      "senses": [
+        {
+          "id": "w1409420-s1",
+          "gloss": [
+            "(practical) experience",
+            "personal experience",
+            "hands-on experience",
+            "first-hand experience"
+          ],
+          "short_gloss": "(practical) experience",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409480,
+      "senses": [
+        {
+          "id": "w1409480-s1",
+          "gloss": [
+            "(outward) appearance"
+          ],
+          "short_gloss": "(outward) appearance",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1409480-s2",
+          "gloss": [
+            "(proper) format (e.g. of an essay)",
+            "form",
+            "style"
+          ],
+          "short_gloss": "(proper) format (e.g. of an essay)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1409480-s3",
+          "gloss": [
+            "appearances",
+            "decency",
+            "show",
+            "display"
+          ],
+          "short_gloss": "appearances",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1409480-s4",
+          "gloss": [
+            "lip-service",
+            "insincere words",
+            "glib talk"
+          ],
+          "short_gloss": "lip-service",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409520,
+      "senses": [
+        {
+          "id": "w1409520-s1",
+          "gloss": [
+            "constitution (physical)",
+            "physical make-up",
+            "predisposition (to disease)",
+            "disposition",
+            "tendency"
+          ],
+          "short_gloss": "constitution (physical)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1409520-s2",
+          "gloss": [
+            "character (of a group, organization, etc.)",
+            "innate characteristics",
+            "make-up",
+            "nature",
+            "culture"
+          ],
+          "short_gloss": "character (of a group, organization, etc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409540,
+      "senses": [
+        {
+          "id": "w1409540-s1",
+          "gloss": [
+            "(body) weight"
+          ],
+          "short_gloss": "(body) weight",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409550,
+      "senses": [
+        {
+          "id": "w1409550-s1",
+          "gloss": [
+            "order",
+            "system",
+            "structure",
+            "set-up",
+            "organization",
+            "organisation"
+          ],
+          "short_gloss": "order",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409580,
+      "senses": [
+        {
+          "id": "w1409580-s1",
+          "gloss": [
+            "gymnastics",
+            "physical exercises"
+          ],
+          "short_gloss": "gymnastics",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1409580-s2",
+          "gloss": [
+            "artistic gymnastics",
+            "gymnastics competition"
+          ],
+          "short_gloss": "artistic gymnastics",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1409580-s3",
+          "gloss": [
+            "physical education (class)",
+            "PE"
+          ],
+          "short_gloss": "physical education (class)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409610,
+      "senses": [
+        {
+          "id": "w1409610-s1",
+          "gloss": [
+            "physical condition",
+            "state of health",
+            "shape"
+          ],
+          "short_gloss": "physical condition",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409620,
+      "senses": [
+        {
+          "id": "w1409620-s1",
+          "gloss": [
+            "length (of an animal)",
+            "body length"
+          ],
+          "short_gloss": "length (of an animal)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409640,
+      "senses": [
+        {
+          "id": "w1409640-s1",
+          "gloss": [
+            "interior of the body"
+          ],
+          "short_gloss": "interior of the body",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409670,
+      "senses": [
+        {
+          "id": "w1409670-s1",
+          "gloss": [
+            "corporal punishment"
+          ],
+          "short_gloss": "corporal punishment",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409760,
+      "senses": [
+        {
+          "id": "w1409760-s1",
+          "gloss": [
+            "physical strength",
+            "power",
+            "stamina",
+            "endurance",
+            "vigor",
+            "resistance to disease"
+          ],
+          "short_gloss": "physical strength",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1409760-s2",
+          "gloss": [
+            "strength (of a business, economy, etc.)"
+          ],
+          "short_gloss": "strength (of a business, economy, etc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409830,
+      "senses": [
+        {
+          "id": "w1409830-s1",
+          "gloss": [
+            "counter-proposal",
+            "counter-suggestion"
+          ],
+          "short_gloss": "counter-proposal",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409840,
+      "senses": [
+        {
+          "id": "w1409840-s1",
+          "gloss": [
+            "correspondence (to)",
+            "equivalence"
+          ],
+          "short_gloss": "correspondence (to)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1409840-s2",
+          "gloss": [
+            "suitability",
+            "coordination",
+            "matching",
+            "being appropriate (for)"
+          ],
+          "short_gloss": "suitability",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1409840-s3",
+          "gloss": [
+            "dealing with",
+            "coping with",
+            "handling",
+            "response",
+            "reception",
+            "reaction"
+          ],
+          "short_gloss": "dealing with",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1409840-s4",
+          "gloss": [
+            "compatibility (with technology, software, etc.)",
+            "capability",
+            "support (for)"
+          ],
+          "short_gloss": "compatibility (with technology, software, etc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409880,
+      "senses": [
+        {
+          "id": "w1409880-s1",
+          "gloss": [
+            "external",
+            "foreign",
+            "with foreign countries",
+            "towards foreign countries"
+          ],
+          "short_gloss": "external",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1409940,
+      "senses": [
+        {
+          "id": "w1409940-s1",
+          "gloss": [
+            "opposite shore"
+          ],
+          "short_gloss": "opposite shore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410000,
+      "senses": [
+        {
+          "id": "w1410000-s1",
+          "gloss": [
+            "confrontation",
+            "showdown"
+          ],
+          "short_gloss": "confrontation",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410010,
+      "senses": [
+        {
+          "id": "w1410010-s1",
+          "gloss": [
+            "counter-",
+            "corresponding",
+            "face",
+            "opposite"
+          ],
+          "short_gloss": "counter-",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410020,
+      "senses": [
+        {
+          "id": "w1410020-s1",
+          "gloss": [
+            "opposition",
+            "rivalry",
+            "competition",
+            "antagonism"
+          ],
+          "short_gloss": "opposition",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410050,
+      "senses": [
+        {
+          "id": "w1410050-s1",
+          "gloss": [
+            "measure",
+            "step",
+            "countermeasure",
+            "counterplan",
+            "countermove",
+            "strategy",
+            "preparation (e.g. for a test)"
+          ],
+          "short_gloss": "measure",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410070,
+      "senses": [
+        {
+          "id": "w1410070-s1",
+          "gloss": [
+            "dealing with",
+            "coping with"
+          ],
+          "short_gloss": "dealing with",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410080,
+      "senses": [
+        {
+          "id": "w1410080-s1",
+          "gloss": [
+            "contrast",
+            "antithesis",
+            "comparison"
+          ],
+          "short_gloss": "contrast",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410120,
+      "senses": [
+        {
+          "id": "w1410120-s1",
+          "gloss": [
+            "target",
+            "object (of worship, study, etc.)",
+            "subject (of taxation, etc.)",
+            "coverage"
+          ],
+          "short_gloss": "target",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410190,
+      "senses": [
+        {
+          "id": "w1410190-s1",
+          "gloss": [
+            "fighting (against)",
+            "taking on (an opponent)",
+            "facing",
+            "confronting",
+            "competing (with)",
+            "battle",
+            "fight",
+            "contest",
+            "match"
+          ],
+          "short_gloss": "fighting (against)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410230,
+      "senses": [
+        {
+          "id": "w1410230-s1",
+          "gloss": [
+            "talk",
+            "dialogue",
+            "conversation"
+          ],
+          "short_gloss": "talk",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410250,
+      "senses": [
+        {
+          "id": "w1410250-s1",
+          "gloss": [
+            "equality (esp. of status)",
+            "equal footing",
+            "equal terms"
+          ],
+          "short_gloss": "equality (esp. of status)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410260,
+      "senses": [
+        {
+          "id": "w1410260-s1",
+          "gloss": [
+            "contrast",
+            "comparison"
+          ],
+          "short_gloss": "contrast",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410270,
+      "senses": [
+        {
+          "id": "w1410270-s1",
+          "gloss": [
+            "meeting face-to-face",
+            "seeing in person"
+          ],
+          "short_gloss": "meeting face-to-face",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1410270-s2",
+          "gloss": [
+            "facing (each other)",
+            "opposing (traffic, etc.)",
+            "confronting"
+          ],
+          "short_gloss": "facing (each other)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410290,
+      "senses": [
+        {
+          "id": "w1410290-s1",
+          "gloss": [
+            "confrontation",
+            "opposition",
+            "antagonism"
+          ],
+          "short_gloss": "confrontation",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410300,
+      "senses": [
+        {
+          "id": "w1410300-s1",
+          "gloss": [
+            "dialogue",
+            "conversation",
+            "talk",
+            "discussion",
+            "communication"
+          ],
+          "short_gloss": "dialogue",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410330,
+      "senses": [
+        {
+          "id": "w1410330-s1",
+          "gloss": [
+            "standing facing each other (e.g. mountains, buildings)",
+            "standing opposite each other"
+          ],
+          "short_gloss": "standing facing each other (e.g. mountains, buildings)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1410330-s2",
+          "gloss": [
+            "confrontation",
+            "squaring off against (adversaries, armies, forces)",
+            "standing off against",
+            "holding one's own with"
+          ],
+          "short_gloss": "confrontation",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410360,
+      "senses": [
+        {
+          "id": "w1410360-s1",
+          "gloss": [
+            "endurance",
+            "persistence"
+          ],
+          "short_gloss": "endurance",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410420,
+      "senses": [
+        {
+          "id": "w1410420-s1",
+          "gloss": [
+            "band (e.g. conduction, valence)",
+            "belt (e.g. Van-Allen, asteroid, etc.)"
+          ],
+          "short_gloss": "band (e.g. conduction, valence)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410430,
+      "senses": [
+        {
+          "id": "w1410430-s1",
+          "gloss": [
+            "to wear (a sword, decoration, etc.)",
+            "to carry",
+            "to bear"
+          ],
+          "short_gloss": "to wear (a sword, decoration, etc.)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1410430-s2",
+          "gloss": [
+            "to be entrusted with (a mission)",
+            "to be charged with",
+            "to take on"
+          ],
+          "short_gloss": "to be entrusted with (a mission)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1410430-s3",
+          "gloss": [
+            "to have (a quality, property, etc.)",
+            "to have a trace of",
+            "to be tinged with"
+          ],
+          "short_gloss": "to have (a quality, property, etc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410500,
+      "senses": [
+        {
+          "id": "w1410500-s1",
+          "gloss": [
+            "to lie in wait (for)",
+            "to be on the watch (for)",
+            "to wait (for)",
+            "to watch (for)"
+          ],
+          "short_gloss": "to lie in wait (for)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410540,
+      "senses": [
+        {
+          "id": "w1410540-s1",
+          "gloss": [
+            "to await",
+            "to wait for",
+            "to expect"
+          ],
+          "short_gloss": "to await",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410580,
+      "senses": [
+        {
+          "id": "w1410580-s1",
+          "gloss": [
+            "to wait eagerly for",
+            "to look forward to"
+          ],
+          "short_gloss": "to wait eagerly for",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410590,
+      "senses": [
+        {
+          "id": "w1410590-s1",
+          "gloss": [
+            "to wait"
+          ],
+          "short_gloss": "to wait",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1410590-s2",
+          "gloss": [
+            "to await",
+            "to look forward to",
+            "to anticipate"
+          ],
+          "short_gloss": "to await",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1410590-s3",
+          "gloss": [
+            "to depend on",
+            "to need"
+          ],
+          "short_gloss": "to depend on",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410600,
+      "senses": [
+        {
+          "id": "w1410600-s1",
+          "gloss": [
+            "standing by",
+            "awaiting an opportunity",
+            "being on alert"
+          ],
+          "short_gloss": "standing by",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1410600-s2",
+          "gloss": [
+            "quarantine"
+          ],
+          "short_gloss": "quarantine",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410610,
+      "senses": [
+        {
+          "id": "w1410610-s1",
+          "gloss": [
+            "treatment",
+            "reception",
+            "service"
+          ],
+          "short_gloss": "treatment",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1410610-s2",
+          "gloss": [
+            "working conditions",
+            "salary",
+            "pay",
+            "remuneration"
+          ],
+          "short_gloss": "working conditions",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410650,
+      "senses": [
+        {
+          "id": "w1410650-s1",
+          "gloss": [
+            "waiting expectantly",
+            "waiting eagerly",
+            "looking forward to"
+          ],
+          "short_gloss": "waiting expectantly",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1410650-s2",
+          "gloss": [
+            "long-awaited"
+          ],
+          "short_gloss": "long-awaited",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410740,
+      "senses": [
+        {
+          "id": "w1410740-s1",
+          "gloss": [
+            "negligence",
+            "neglect",
+            "carelessness",
+            "procrastination"
+          ],
+          "short_gloss": "negligence",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410770,
+      "senses": [
+        {
+          "id": "w1410770-s1",
+          "gloss": [
+            "attitude",
+            "posture",
+            "preparedness",
+            "readiness"
+          ],
+          "short_gloss": "attitude",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410780,
+      "senses": [
+        {
+          "id": "w1410780-s1",
+          "gloss": [
+            "attitude",
+            "manner",
+            "behaviour",
+            "demeanour",
+            "bearing"
+          ],
+          "short_gloss": "attitude",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1410780-s2",
+          "gloss": [
+            "attitude (towards an issue, etc.)",
+            "position",
+            "stance",
+            "stand"
+          ],
+          "short_gloss": "attitude (towards an issue, etc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410830,
+      "senses": [
+        {
+          "id": "w1410830-s1",
+          "gloss": [
+            "change",
+            "alteration"
+          ],
+          "short_gloss": "change",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1410830-s2",
+          "gloss": [
+            "substitute",
+            "spare",
+            "replacement",
+            "change (e.g. of clothes)"
+          ],
+          "short_gloss": "substitute",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1410830-s3",
+          "gloss": [
+            "rate of exchange"
+          ],
+          "short_gloss": "rate of exchange",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410840,
+      "senses": [
+        {
+          "id": "w1410840-s1",
+          "gloss": [
+            "stand-in",
+            "proxy",
+            "substitute",
+            "double",
+            "ringer"
+          ],
+          "short_gloss": "stand-in",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1410840-s2",
+          "gloss": [
+            "second serving of noodles (to add to one's remaining ramen broth)"
+          ],
+          "short_gloss": "second serving of noodles (to add to one's remaining ramen broth)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410930,
+      "senses": [
+        {
+          "id": "w1410930-s1",
+          "gloss": [
+            "stay",
+            "sojourn"
+          ],
+          "short_gloss": "stay",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410940,
+      "senses": [
+        {
+          "id": "w1410940-s1",
+          "gloss": [
+            "falling behind (with a payment)",
+            "being in arrears",
+            "non-payment",
+            "default",
+            "delinquency"
+          ],
+          "short_gloss": "falling behind (with a payment)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1410980,
+      "senses": [
+        {
+          "id": "w1410980-s1",
+          "gloss": [
+            "fetus",
+            "foetus",
+            "embryo",
+            "baby in the womb",
+            "unborn baby"
+          ],
+          "short_gloss": "fetus",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1411070,
+      "senses": [
+        {
+          "id": "w1411070-s1",
+          "gloss": [
+            "bag",
+            "sack",
+            "pouch"
+          ],
+          "short_gloss": "bag",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1411070-s2",
+          "gloss": [
+            "skin of an orange (and other like fruits)"
+          ],
+          "short_gloss": "skin of an orange (and other like fruits)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1411070-s3",
+          "gloss": [
+            "dead end"
+          ],
+          "short_gloss": "dead end",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1411070-s4",
+          "gloss": [
+            "plot of land surrounded by water"
+          ],
+          "short_gloss": "plot of land surrounded by water",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1411110,
+      "senses": [
+        {
+          "id": "w1411110-s1",
+          "gloss": [
+            "loan",
+            "lending",
+            "hire",
+            "rental",
+            "lease"
+          ],
+          "short_gloss": "loan",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1411110-s2",
+          "gloss": [
+            "favor",
+            "favour",
+            "debt",
+            "obligation"
+          ],
+          "short_gloss": "favor",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1411110-s3",
+          "gloss": [
+            "creditor",
+            "method of lending",
+            "credit side"
+          ],
+          "short_gloss": "creditor",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1411150,
+      "senses": [
+        {
+          "id": "w1411150-s1",
+          "gloss": [
+            "loan"
+          ],
+          "short_gloss": "loan",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1411170,
+      "senses": [
+        {
+          "id": "w1411170-s1",
+          "gloss": [
+            "house for rent"
+          ],
+          "short_gloss": "house for rent",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1411240,
+      "senses": [
+        {
+          "id": "w1411240-s1",
+          "gloss": [
+            "loan",
+            "lending"
+          ],
+          "short_gloss": "loan",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1411250,
+      "senses": [
+        {
+          "id": "w1411250-s1",
+          "gloss": [
+            "(good) time to quit",
+            "(right) time to withdraw",
+            "time to pull out",
+            "time to retire",
+            "time to leave"
+          ],
+          "short_gloss": "(good) time to quit",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1411300,
+      "senses": [
+        {
+          "id": "w1411300-s1",
+          "gloss": [
+            "leaving hospital",
+            "discharge from hospital"
+          ],
+          "short_gloss": "leaving hospital",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1411340,
+      "senses": [
+        {
+          "id": "w1411340-s1",
+          "gloss": [
+            "dropping out of school",
+            "withdrawal from school"
+          ],
+          "short_gloss": "dropping out of school",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1411340-s2",
+          "gloss": [
+            "expulsion from school",
+            "dismissal"
+          ],
+          "short_gloss": "expulsion from school",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1411340-s3",
+          "gloss": [
+            "leaving school (university, etc.) after completing a course"
+          ],
+          "short_gloss": "leaving school (university, etc.) after completing a course",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1411350,
+      "senses": [
+        {
+          "id": "w1411350-s1",
+          "gloss": [
+            "retirement from office"
+          ],
+          "short_gloss": "retirement from office",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1411370,
+      "senses": [
+        {
+          "id": "w1411370-s1",
+          "gloss": [
+            "departure",
+            "leaving",
+            "going away",
+            "evacuation"
+          ],
+          "short_gloss": "departure",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1411370-s2",
+          "gloss": [
+            "recession"
+          ],
+          "short_gloss": "recession",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1411390,
+      "senses": [
+        {
+          "id": "w1411390-s1",
+          "gloss": [
+            "extermination",
+            "elimination",
+            "eradication",
+            "destruction",
+            "suppression",
+            "subjugation",
+            "getting rid of",
+            "stamping out",
+            "wiping out",
+            "rooting out"
+          ],
+          "short_gloss": "extermination",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1411390-s2",
+          "gloss": [
+            "renouncing worldly desires (in order to concentrate on Buddhist teachings)"
+          ],
+          "short_gloss": "renouncing worldly desires (in order to concentrate on Buddhist teachings)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1411390-s3",
+          "gloss": [
+            "curing (an illness)"
+          ],
+          "short_gloss": "curing (an illness)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1411400,
+      "senses": [
+        {
+          "id": "w1411400-s1",
+          "gloss": [
+            "resignation",
+            "leaving office"
+          ],
+          "short_gloss": "resignation",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1411400-s2",
+          "gloss": [
+            "leaving work (e.g. at the end of the day)"
+          ],
+          "short_gloss": "leaving work (e.g. at the end of the day)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1411420,
+      "senses": [
+        {
+          "id": "w1411420-s1",
+          "gloss": [
+            "retirement",
+            "resignation"
+          ],
+          "short_gloss": "retirement",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1411430,
+      "senses": [
+        {
+          "id": "w1411430-s1",
+          "gloss": [
+            "resignation",
+            "stepping down",
+            "retirement"
+          ],
+          "short_gloss": "resignation",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1411430-s2",
+          "gloss": [
+            "retreat",
+            "decamping",
+            "withdrawal"
+          ],
+          "short_gloss": "retreat",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1411440,
+      "senses": [
+        {
+          "id": "w1411440-s1",
+          "gloss": [
+            "retirement",
+            "resignation",
+            "stepping down"
+          ],
+          "short_gloss": "retirement",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1411470,
+      "senses": [
+        {
+          "id": "w1411470-s1",
+          "gloss": [
+            "arrest",
+            "apprehension",
+            "capture"
+          ],
+          "short_gloss": "arrest",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1411520,
+      "senses": [
+        {
+          "id": "w1411520-s1",
+          "gloss": [
+            "troops",
+            "group members",
+            "team members"
+          ],
+          "short_gloss": "troops",
+          "source": "manual_translation"
+        }
+      ]
+    }
+  ]
+}
