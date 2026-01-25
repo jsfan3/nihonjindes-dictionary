@@ -1,0 +1,4778 @@
+{
+  "schema": {
+    "name": "jp-words-lang",
+    "version": "1.0"
+  },
+  "lang": "it",
+  "range": {
+    "start_id": 1211260,
+    "end_id": 1245370
+  },
+  "coverage": {
+    "translated_word_ids_in_file": 200,
+    "translated_common_rank_range": {
+      "start_rank": 12844,
+      "end_rank": 13043
+    },
+    "common_word_ids_total": 30103
+  },
+  "entries": [
+    {
+      "id": 1211260,
+      "senses": [
+        {
+          "id": "w1211260-s1",
+          "gloss": [
+            "gridare",
+            "urlare",
+            "strillare",
+            "schiamazzare"
+          ],
+          "short_gloss": "gridare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1211340,
+      "senses": [
+        {
+          "id": "w1211340-s1",
+          "gloss": [
+            "intollerabile",
+            "insopportabile",
+            "inaccettabile"
+          ],
+          "short_gloss": "intollerabile",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1211340-s2",
+          "gloss": [
+            "irresistibile",
+            "straordinario",
+            "incredibile"
+          ],
+          "short_gloss": "irresistibile",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1211340-s3",
+          "gloss": [
+            "non poter fare a meno di",
+            "non riuscire a smettere di",
+            "desiderare ardentemente"
+          ],
+          "short_gloss": "non poter fare a meno di",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1211380,
+      "senses": [
+        {
+          "id": "w1211380-s1",
+          "gloss": [
+            "rumoroso",
+            "chiassoso",
+            "fragoroso"
+          ],
+          "short_gloss": "rumoroso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1211380-s2",
+          "gloss": [
+            "molto discusso",
+            "chiacchierato",
+            "controverso"
+          ],
+          "short_gloss": "molto discusso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1211380-s3",
+          "gloss": [
+            "severo",
+            "rigido"
+          ],
+          "short_gloss": "severo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1211380-s4",
+          "gloss": [
+            "pignolo",
+            "esigente",
+            "schizzinoso",
+            "criticone"
+          ],
+          "short_gloss": "pignolo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1211920,
+      "senses": [
+        {
+          "id": "w1211920-s1",
+          "gloss": [
+            "rilassarsi",
+            "sentirsi a proprio agio"
+          ],
+          "short_gloss": "rilassarsi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1212200,
+      "senses": [
+        {
+          "id": "w1212200-s1",
+          "gloss": [
+            "essere malato",
+            "soffrire di"
+          ],
+          "short_gloss": "essere malato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1212300,
+      "senses": [
+        {
+          "id": "w1212300-s1",
+          "gloss": [
+            "influenza",
+            "ispirazione"
+          ],
+          "short_gloss": "influenza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1212490,
+      "senses": [
+        {
+          "id": "w1212490-s1",
+          "gloss": [
+            "ammirazione",
+            "meraviglia",
+            "stupore"
+          ],
+          "short_gloss": "ammirazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1212650,
+      "senses": [
+        {
+          "id": "w1212650-s1",
+          "gloss": [
+            "abituare",
+            "allenare (l'orecchio)"
+          ],
+          "short_gloss": "abituare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1212650-s2",
+          "gloss": [
+            "addomesticare",
+            "domare",
+            "addestrare"
+          ],
+          "short_gloss": "addomesticare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1212670,
+      "senses": [
+        {
+          "id": "w1212670-s1",
+          "gloss": [
+            "abituarsi",
+            "prendere confidenza"
+          ],
+          "short_gloss": "abituarsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1212670-s2",
+          "gloss": [
+            "diventare abile",
+            "fare esperienza"
+          ],
+          "short_gloss": "diventare abile",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1212670-s3",
+          "gloss": [
+            "addomesticarsi"
+          ],
+          "short_gloss": "addomesticarsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1212670-s4",
+          "gloss": [
+            "abituarsi a fare"
+          ],
+          "short_gloss": "abituarsi a fare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1212730,
+      "senses": [
+        {
+          "id": "w1212730-s1",
+          "gloss": [
+            "modo di dire",
+            "frase idiomatica"
+          ],
+          "short_gloss": "modo di dire",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1212790,
+      "senses": [
+        {
+          "id": "w1212790-s1",
+          "gloss": [
+            "ventilatore di aspirazione",
+            "cappa aspirante"
+          ],
+          "short_gloss": "ventilatore di aspirazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1212850,
+      "senses": [
+        {
+          "id": "w1212850-s1",
+          "gloss": [
+            "di proposito",
+            "deliberatamente",
+            "intenzionalmente"
+          ],
+          "short_gloss": "di proposito",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1212850-s2",
+          "gloss": [
+            "non necessariamente",
+            "non particolarmente"
+          ],
+          "short_gloss": "non necessariamente",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1212850-s3",
+          "gloss": [
+            "assolutamente no"
+          ],
+          "short_gloss": "assolutamente no",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1213150,
+      "senses": [
+        {
+          "id": "w1213150-s1",
+          "gloss": [
+            "parola sino-giapponese",
+            "parola di origine cinese"
+          ],
+          "short_gloss": "parola sino-giapponese",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1213150-s2",
+          "gloss": [
+            "lingua cinese"
+          ],
+          "short_gloss": "cinese",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1213220,
+      "senses": [
+        {
+          "id": "w1213220-s1",
+          "gloss": [
+            "classici cinesi",
+            "scrittura classica cinese"
+          ],
+          "short_gloss": "classici cinesi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1213220-s2",
+          "gloss": [
+            "scrittura solo in kanji"
+          ],
+          "short_gloss": "scrittura solo in kanji",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1213260,
+      "senses": [
+        {
+          "id": "w1213260-s1",
+          "gloss": [
+            "Cina e Giappone"
+          ],
+          "short_gloss": "Cina e Giappone",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1213260-s2",
+          "gloss": [
+            "cinese e giapponese (lingue)"
+          ],
+          "short_gloss": "cinese e giapponese",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1213260-s3",
+          "gloss": [
+            "dizionario dei kanji",
+            "dizionario con definizioni giapponesi"
+          ],
+          "short_gloss": "dizionario dei kanji",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1213270,
+      "senses": [
+        {
+          "id": "w1213270-s1",
+          "gloss": [
+            "irrigazione"
+          ],
+          "short_gloss": "irrigazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1213440,
+      "senses": [
+        {
+          "id": "w1213440-s1",
+          "gloss": [
+            "fare i capricci",
+            "fare il bambino viziato",
+            "fare le moine"
+          ],
+          "short_gloss": "fare i capricci",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1213440-s2",
+          "gloss": [
+            "approfittarsi",
+            "abusare della benevolenza",
+            "contare su"
+          ],
+          "short_gloss": "approfittarsi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1213470,
+      "senses": [
+        {
+          "id": "w1213470-s1",
+          "gloss": [
+            "viziare",
+            "coccolare"
+          ],
+          "short_gloss": "viziare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1213770,
+      "senses": [
+        {
+          "id": "w1213770-s1",
+          "gloss": [
+            "prendersi cura di",
+            "assistere"
+          ],
+          "short_gloss": "prendersi cura di",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1214060,
+      "senses": [
+        {
+          "id": "w1214060-s1",
+          "gloss": [
+            "asta",
+            "palo"
+          ],
+          "short_gloss": "asta",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214060-s2",
+          "gloss": [
+            "manico (di shamisen)",
+            "shamisen"
+          ],
+          "short_gloss": "manico",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214060-s3",
+          "gloss": [
+            "traversa",
+            "bilanciere"
+          ],
+          "short_gloss": "traversa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214060-s4",
+          "gloss": [
+            "linea singola (formazione)"
+          ],
+          "short_gloss": "linea singola",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214060-s5",
+          "gloss": [
+            "pene"
+          ],
+          "short_gloss": "pene",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214060-s6",
+          "gloss": [
+            "contatore per oggetti lunghi e sottili"
+          ],
+          "short_gloss": "contatore per oggetti lunghi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1214410,
+      "senses": [
+        {
+          "id": "w1214410-s1",
+          "gloss": [
+            "allentato",
+            "largo"
+          ],
+          "short_gloss": "allentato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214410-s2",
+          "gloss": [
+            "tollerante",
+            "permissivo"
+          ],
+          "short_gloss": "tollerante",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214410-s3",
+          "gloss": [
+            "dolce (curva)",
+            "dolce (pendio)"
+          ],
+          "short_gloss": "dolce",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214410-s4",
+          "gloss": [
+            "lento",
+            "debole"
+          ],
+          "short_gloss": "lento",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214410-s5",
+          "gloss": [
+            "molle",
+            "non rigido"
+          ],
+          "short_gloss": "molle",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214410-s6",
+          "gloss": [
+            "difficile"
+          ],
+          "short_gloss": "difficile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1214430,
+      "senses": [
+        {
+          "id": "w1214430-s1",
+          "gloss": [
+            "allentarsi"
+          ],
+          "short_gloss": "allentarsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214430-s2",
+          "gloss": [
+            "rilassarsi",
+            "abbassare la guardia"
+          ],
+          "short_gloss": "rilassarsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214430-s3",
+          "gloss": [
+            "allentarsi",
+            "diventare permissivo"
+          ],
+          "short_gloss": "allentarsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214430-s4",
+          "gloss": [
+            "ammorbidirsi",
+            "sciogliersi parzialmente"
+          ],
+          "short_gloss": "ammorbidirsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214430-s5",
+          "gloss": [
+            "diminuire",
+            "rallentare"
+          ],
+          "short_gloss": "diminuire",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214430-s6",
+          "gloss": [
+            "calare leggermente (prezzo)"
+          ],
+          "short_gloss": "calare leggermente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1214440,
+      "senses": [
+        {
+          "id": "w1214440-s1",
+          "gloss": [
+            "allentare"
+          ],
+          "short_gloss": "allentare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214440-s2",
+          "gloss": [
+            "rilassare",
+            "abbassare la guardia"
+          ],
+          "short_gloss": "rilassare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214440-s3",
+          "gloss": [
+            "allentare le regole",
+            "ammorbidire"
+          ],
+          "short_gloss": "allentare le regole",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214440-s4",
+          "gloss": [
+            "rallentare",
+            "andare più piano"
+          ],
+          "short_gloss": "rallentare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214440-s5",
+          "gloss": [
+            "rendere più dolce (pendenza)"
+          ],
+          "short_gloss": "rendere più dolce",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1214770,
+      "senses": [
+        {
+          "id": "w1214770-s1",
+          "gloss": [
+            "aspetto",
+            "aria"
+          ],
+          "short_gloss": "aspetto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214770-s2",
+          "gloss": [
+            "spettacolo",
+            "vista"
+          ],
+          "short_gloss": "spettacolo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214770-s3",
+          "gloss": [
+            "meditazione di osservazione"
+          ],
+          "short_gloss": "meditazione di osservazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1214770-s4",
+          "gloss": [
+            "punto di vista su",
+            "visione di"
+          ],
+          "short_gloss": "punto di vista",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1215070,
+      "senses": [
+        {
+          "id": "w1215070-s1",
+          "gloss": [
+            "penetrare",
+            "trafiggere"
+          ],
+          "short_gloss": "penetrare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1215070-s2",
+          "gloss": [
+            "attraversare",
+            "passare attraverso"
+          ],
+          "short_gloss": "attraversare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1215070-s3",
+          "gloss": [
+            "attenersi",
+            "persistere",
+            "mantenere"
+          ],
+          "short_gloss": "attenersi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1215240,
+      "senses": [
+        {
+          "id": "w1215240-s1",
+          "gloss": [
+            "tempo",
+            "pausa"
+          ],
+          "short_gloss": "tempo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1215240-s2",
+          "gloss": [
+            "spazio"
+          ],
+          "short_gloss": "spazio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1215240-s3",
+          "gloss": [
+            "spazio",
+            "posto"
+          ],
+          "short_gloss": "spazio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1215330,
+      "senses": [
+        {
+          "id": "w1215330-s1",
+          "gloss": [
+            "sbagliare",
+            "commettere un errore"
+          ],
+          "short_gloss": "sbagliare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1215330-s2",
+          "gloss": [
+            "scambiare",
+            "confondere"
+          ],
+          "short_gloss": "scambiare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1215340,
+      "senses": [
+        {
+          "id": "w1215340-s1",
+          "gloss": [
+            "per un soffio"
+          ],
+          "short_gloss": "per un soffio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1215480,
+      "senses": [
+        {
+          "id": "w1215480-s1",
+          "gloss": [
+            "affitto di una stanza"
+          ],
+          "short_gloss": "affitto di stanza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1215500,
+      "senses": [
+        {
+          "id": "w1215500-s1",
+          "gloss": [
+            "spuntino",
+            "mangiare tra i pasti"
+          ],
+          "short_gloss": "spuntino",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1215640,
+      "senses": [
+        {
+          "id": "w1215640-s1",
+          "gloss": [
+            "stupido",
+            "sciocco",
+            "idiota"
+          ],
+          "short_gloss": "stupido",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1215640-s2",
+          "gloss": [
+            "idiota",
+            "sciocco"
+          ],
+          "short_gloss": "idiota",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1215660,
+      "senses": [
+        {
+          "id": "w1215660-s1",
+          "gloss": [
+            "relazione",
+            "rapporto"
+          ],
+          "short_gloss": "relazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1215790,
+      "senses": [
+        {
+          "id": "w1215790-s1",
+          "gloss": [
+            "riguardare",
+            "essere legato a"
+          ],
+          "short_gloss": "riguardare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1216120,
+      "senses": [
+        {
+          "id": "w1216120-s1",
+          "gloss": [
+            "cadere in (un buco)"
+          ],
+          "short_gloss": "cadere in",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216120-s2",
+          "gloss": [
+            "cadere in (caos o depressione)"
+          ],
+          "short_gloss": "cadere in",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216120-s3",
+          "gloss": [
+            "cadere in una trappola"
+          ],
+          "short_gloss": "cadere in una trappola",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216120-s4",
+          "gloss": [
+            "cadere",
+            "arrendersi"
+          ],
+          "short_gloss": "cadere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1216250,
+      "senses": [
+        {
+          "id": "w1216250-s1",
+          "gloss": [
+            "cerchio"
+          ],
+          "short_gloss": "cerchio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216250-s2",
+          "gloss": [
+            "intero",
+            "totalità"
+          ],
+          "short_gloss": "totalità",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216250-s3",
+          "gloss": [
+            "denaro"
+          ],
+          "short_gloss": "denaro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216250-s4",
+          "gloss": [
+            "recinto del castello"
+          ],
+          "short_gloss": "recinto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216250-s5",
+          "gloss": [
+            "tartaruga dal guscio molle"
+          ],
+          "short_gloss": "tartaruga dal guscio molle",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216250-s6",
+          "gloss": [
+            "suffisso -maru (nomi di navi, ecc.)"
+          ],
+          "short_gloss": "suffisso -maru",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1216270,
+      "senses": [
+        {
+          "id": "w1216270-s1",
+          "gloss": [
+            "completamente",
+            "assolutamente",
+            "per niente"
+          ],
+          "short_gloss": "completamente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1216280,
+      "senses": [
+        {
+          "id": "w1216280-s1",
+          "gloss": [
+            "del tutto",
+            "completamente"
+          ],
+          "short_gloss": "del tutto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216280-s2",
+          "gloss": [
+            "come se",
+            "proprio come"
+          ],
+          "short_gloss": "come se",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1216300,
+      "senses": [
+        {
+          "id": "w1216300-s1",
+          "gloss": [
+            "arrotolare",
+            "rendere rotondo"
+          ],
+          "short_gloss": "arrotolare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216300-s2",
+          "gloss": [
+            "raggirare",
+            "sedurre"
+          ],
+          "short_gloss": "raggirare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216300-s3",
+          "gloss": [
+            "arrotondare"
+          ],
+          "short_gloss": "arrotondare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216300-s4",
+          "gloss": [
+            "rasare la testa"
+          ],
+          "short_gloss": "rasare la testa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216300-s5",
+          "gloss": [
+            "mettere insieme"
+          ],
+          "short_gloss": "mettere insieme",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1216310,
+      "senses": [
+        {
+          "id": "w1216310-s1",
+          "gloss": [
+            "raggirare",
+            "persuadere con moine"
+          ],
+          "short_gloss": "raggirare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216310-s2",
+          "gloss": [
+            "arrotolare e mettere dentro"
+          ],
+          "short_gloss": "arrotolare e mettere dentro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1216880,
+      "senses": [
+        {
+          "id": "w1216880-s1",
+          "gloss": [
+            "contenere",
+            "includere"
+          ],
+          "short_gloss": "contenere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216880-s2",
+          "gloss": [
+            "tenere in bocca"
+          ],
+          "short_gloss": "tenere in bocca",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216880-s3",
+          "gloss": [
+            "tenere a mente",
+            "serbare rancore"
+          ],
+          "short_gloss": "tenere a mente",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216880-s4",
+          "gloss": [
+            "esprimere",
+            "implicare"
+          ],
+          "short_gloss": "esprimere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1216890,
+      "senses": [
+        {
+          "id": "w1216890-s1",
+          "gloss": [
+            "includere"
+          ],
+          "short_gloss": "includere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216890-s2",
+          "gloss": [
+            "spiegare",
+            "far capire"
+          ],
+          "short_gloss": "spiegare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216890-s3",
+          "gloss": [
+            "includere una sfumatura"
+          ],
+          "short_gloss": "includere una sfumatura",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216890-s4",
+          "gloss": [
+            "mettere in bocca"
+          ],
+          "short_gloss": "mettere in bocca",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1216890-s5",
+          "gloss": [
+            "insaporire"
+          ],
+          "short_gloss": "insaporire",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1217200,
+      "senses": [
+        {
+          "id": "w1217200-s1",
+          "gloss": [
+            "sguardo"
+          ],
+          "short_gloss": "sguardo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1217690,
+      "senses": [
+        {
+          "id": "w1217690-s1",
+          "gloss": [
+            "solido",
+            "robusto",
+            "forte"
+          ],
+          "short_gloss": "robusto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1217850,
+      "senses": [
+        {
+          "id": "w1217850-s1",
+          "gloss": [
+            "aspetto",
+            "lineamenti",
+            "volto",
+            "espressione"
+          ],
+          "short_gloss": "aspetto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1217880,
+      "senses": [
+        {
+          "id": "w1217880-s1",
+          "gloss": [
+            "aspetto",
+            "lineamenti"
+          ],
+          "short_gloss": "aspetto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1217950,
+      "senses": [
+        {
+          "id": "w1217950-s1",
+          "gloss": [
+            "desiderare",
+            "augurare",
+            "sperare"
+          ],
+          "short_gloss": "desiderare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1217950-s2",
+          "gloss": [
+            "supplicare",
+            "chiedere",
+            "implorare"
+          ],
+          "short_gloss": "supplicare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1217950-s3",
+          "gloss": [
+            "farsi fare (qualcosa)"
+          ],
+          "short_gloss": "farsi fare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1217970,
+      "senses": [
+        {
+          "id": "w1217970-s1",
+          "gloss": [
+            "ti prego",
+            "lo desidero"
+          ],
+          "short_gloss": "ti prego",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1218120,
+      "senses": [
+        {
+          "id": "w1218120-s1",
+          "gloss": [
+            "progettare",
+            "pianificare",
+            "intendere"
+          ],
+          "short_gloss": "progettare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1218120-s2",
+          "gloss": [
+            "tentare",
+            "intraprendere"
+          ],
+          "short_gloss": "tentare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1218120-s3",
+          "gloss": [
+            "mettersi in punta di piedi"
+          ],
+          "short_gloss": "mettersi in punta di piedi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1218130,
+      "senses": [
+        {
+          "id": "w1218130-s1",
+          "gloss": [
+            "complotto",
+            "trama",
+            "trucco"
+          ],
+          "short_gloss": "complotto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1218140,
+      "senses": [
+        {
+          "id": "w1218140-s1",
+          "gloss": [
+            "tramare",
+            "complottare",
+            "architettare"
+          ],
+          "short_gloss": "tramare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1218380,
+      "senses": [
+        {
+          "id": "w1218380-s1",
+          "gloss": [
+            "pericoloso",
+            "rischioso"
+          ],
+          "short_gloss": "pericoloso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1218380-s2",
+          "gloss": [
+            "in pericolo",
+            "critico",
+            "grave"
+          ],
+          "short_gloss": "in pericolo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1218380-s3",
+          "gloss": [
+            "incerto",
+            "instabile",
+            "inaffidabile"
+          ],
+          "short_gloss": "incerto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1218380-s4",
+          "gloss": [
+            "per un soffio"
+          ],
+          "short_gloss": "per un soffio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1218380-s5",
+          "gloss": [
+            "attenzione!",
+            "stai attento!"
+          ],
+          "short_gloss": "attenzione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1218680,
+      "senses": [
+        {
+          "id": "w1218680-s1",
+          "gloss": [
+            "condizioni critiche",
+            "in fin di vita"
+          ],
+          "short_gloss": "condizioni critiche",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1218910,
+      "senses": [
+        {
+          "id": "w1218910-s1",
+          "gloss": [
+            "organo"
+          ],
+          "short_gloss": "organo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1218960,
+      "senses": [
+        {
+          "id": "w1218960-s1",
+          "gloss": [
+            "abile",
+            "destro",
+            "agile"
+          ],
+          "short_gloss": "abile",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1218960-s2",
+          "gloss": [
+            "astuto",
+            "ingegnoso"
+          ],
+          "short_gloss": "astuto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1219410,
+      "senses": [
+        {
+          "id": "w1219410-s1",
+          "gloss": [
+            "numero dispari"
+          ],
+          "short_gloss": "numero dispari",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1219510,
+      "senses": [
+        {
+          "id": "w1219510-s1",
+          "gloss": [
+            "felice",
+            "contento",
+            "lieto"
+          ],
+          "short_gloss": "felice",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1219510-s2",
+          "gloss": [
+            "gioioso",
+            "piacevole"
+          ],
+          "short_gloss": "gioioso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1219580,
+      "senses": [
+        {
+          "id": "w1219580-s1",
+          "gloss": [
+            "miscuglio",
+            "miscela",
+            "accozzaglia"
+          ],
+          "short_gloss": "miscuglio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1219630,
+      "senses": [
+        {
+          "id": "w1219630-s1",
+          "gloss": [
+            "radunare",
+            "raccogliere"
+          ],
+          "short_gloss": "radunare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1219650,
+      "senses": [
+        {
+          "id": "w1219650-s1",
+          "gloss": [
+            "fare una sosta",
+            "passare di lì"
+          ],
+          "short_gloss": "fare una sosta",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1219650-s2",
+          "gloss": [
+            "fare una deviazione",
+            "fare un giro lungo"
+          ],
+          "short_gloss": "fare una deviazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1219680,
+      "senses": [
+        {
+          "id": "w1219680-s1",
+          "gloss": [
+            "avvicinarsi"
+          ],
+          "short_gloss": "avvicinarsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1219680-s2",
+          "gloss": [
+            "radunarsi",
+            "riunirsi"
+          ],
+          "short_gloss": "radunarsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1219680-s3",
+          "gloss": [
+            "passare a trovare",
+            "fare una visita"
+          ],
+          "short_gloss": "passare a trovare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1219680-s4",
+          "gloss": [
+            "invecchiare",
+            "aumentare"
+          ],
+          "short_gloss": "invecchiare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1219680-s5",
+          "gloss": [
+            "raggrinzirsi"
+          ],
+          "short_gloss": "raggrinzirsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1219680-s6",
+          "gloss": [
+            "appoggiarsi"
+          ],
+          "short_gloss": "appoggiarsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1219680-s7",
+          "gloss": [
+            "spingere tenendo la cintura"
+          ],
+          "short_gloss": "spingere tenendo la cintura",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1219680-s8",
+          "gloss": [
+            "accordarsi su un prezzo"
+          ],
+          "short_gloss": "accordarsi su un prezzo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1219680-s9",
+          "gloss": [
+            "lasciarsi influenzare",
+            "cedere"
+          ],
+          "short_gloss": "lasciarsi influenzare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1219750,
+      "senses": [
+        {
+          "id": "w1219750-s1",
+          "gloss": [
+            "parassitismo"
+          ],
+          "short_gloss": "parassitismo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1219950,
+      "senses": [
+        {
+          "id": "w1219950-s1",
+          "gloss": [
+            "alcuni",
+            "qualche"
+          ],
+          "short_gloss": "alcuni",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1219950-s2",
+          "gloss": [
+            "molti"
+          ],
+          "short_gloss": "molti",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1219950-s3",
+          "gloss": [
+            "quanti"
+          ],
+          "short_gloss": "quanti",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1219950-s4",
+          "gloss": [
+            "molto"
+          ],
+          "short_gloss": "molto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1219980,
+      "senses": [
+        {
+          "id": "w1219980-s1",
+          "gloss": [
+            "quanto"
+          ],
+          "short_gloss": "quanto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1219980-s2",
+          "gloss": [
+            "e qualcosa",
+            "più di"
+          ],
+          "short_gloss": "e qualcosa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1219980-s3",
+          "gloss": [
+            "per quanto",
+            "comunque"
+          ],
+          "short_gloss": "per quanto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1220010,
+      "senses": [
+        {
+          "id": "w1220010-s1",
+          "gloss": [
+            "geometria"
+          ],
+          "short_gloss": "geometria",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1220050,
+      "senses": [
+        {
+          "id": "w1220050-s1",
+          "gloss": [
+            "per quanti giorni"
+          ],
+          "short_gloss": "per quanti giorni",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1220050-s2",
+          "gloss": [
+            "che giorno (del mese)"
+          ],
+          "short_gloss": "che giorno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1220060,
+      "senses": [
+        {
+          "id": "w1220060-s1",
+          "gloss": [
+            "in qualche misura",
+            "un po'"
+          ],
+          "short_gloss": "in qualche misura",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1220060-s2",
+          "gloss": [
+            "parte",
+            "porzione"
+          ],
+          "short_gloss": "parte",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1220420,
+      "senses": [
+        {
+          "id": "w1220420-s1",
+          "gloss": [
+            "prefabbricato",
+            "pronto"
+          ],
+          "short_gloss": "pronto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1221240,
+      "senses": [
+        {
+          "id": "w1221240-s1",
+          "gloss": [
+            "rimandare",
+            "mandare a casa"
+          ],
+          "short_gloss": "rimandare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1221270,
+      "senses": [
+        {
+          "id": "w1221270-s1",
+          "gloss": [
+            "tornare",
+            "rientrare"
+          ],
+          "short_gloss": "tornare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1221270-s2",
+          "gloss": [
+            "andarsene (ospite)"
+          ],
+          "short_gloss": "andarsene",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1221270-s3",
+          "gloss": [
+            "arrivare a casa"
+          ],
+          "short_gloss": "arrivare a casa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1221310,
+      "senses": [
+        {
+          "id": "w1221310-s1",
+          "gloss": [
+            "ritorno alla capitale",
+            "rientro a Tokyo"
+          ],
+          "short_gloss": "ritorno alla capitale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1221740,
+      "senses": [
+        {
+          "id": "w1221740-s1",
+          "gloss": [
+            "piacere",
+            "gradire"
+          ],
+          "short_gloss": "piacere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1221770,
+      "senses": [
+        {
+          "id": "w1221770-s1",
+          "gloss": [
+            "pietoso",
+            "misero",
+            "infelice"
+          ],
+          "short_gloss": "pietoso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1221770-s2",
+          "gloss": [
+            "imperdonabile",
+            "deplorevole"
+          ],
+          "short_gloss": "imperdonabile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1221810,
+      "senses": [
+        {
+          "id": "w1221810-s1",
+          "gloss": [
+            "egoista",
+            "capriccioso"
+          ],
+          "short_gloss": "egoista",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1221810-s2",
+          "gloss": [
+            "spensierato",
+            "che fa come gli pare"
+          ],
+          "short_gloss": "spensierato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1221900,
+      "senses": [
+        {
+          "id": "w1221900-s1",
+          "gloss": [
+            "follia",
+            "pazzo"
+          ],
+          "short_gloss": "follia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1221900-s2",
+          "gloss": [
+            "fanatico",
+            "maniaco"
+          ],
+          "short_gloss": "fanatico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1222020,
+      "senses": [
+        {
+          "id": "w1222020-s1",
+          "gloss": [
+            "preoccupazione",
+            "ansia"
+          ],
+          "short_gloss": "preoccupazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1222120,
+      "senses": [
+        {
+          "id": "w1222120-s1",
+          "gloss": [
+            "riserva",
+            "timidezza",
+            "scrupolo"
+          ],
+          "short_gloss": "riserva",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1222260,
+      "senses": [
+        {
+          "id": "w1222260-s1",
+          "gloss": [
+            "darsi arie",
+            "fare lo svenevole"
+          ],
+          "short_gloss": "darsi arie",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1222260-s2",
+          "gloss": [
+            "fare finta di",
+            "atteggiarsi a"
+          ],
+          "short_gloss": "fare finta di",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1222310,
+      "senses": [
+        {
+          "id": "w1222310-s1",
+          "gloss": [
+            "affettato",
+            "compiaciuto",
+            "pomposo",
+            "snob",
+            "pretenzioso"
+          ],
+          "short_gloss": "affettato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1222360,
+      "senses": [
+        {
+          "id": "w1222360-s1",
+          "gloss": [
+            "indole",
+            "carattere"
+          ],
+          "short_gloss": "indole",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1222380,
+      "senses": [
+        {
+          "id": "w1222380-s1",
+          "gloss": [
+            "temperamento",
+            "indole",
+            "carattere"
+          ],
+          "short_gloss": "temperamento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1222400,
+      "senses": [
+        {
+          "id": "w1222400-s1",
+          "gloss": [
+            "svenimento",
+            "perdita di sensi"
+          ],
+          "short_gloss": "svenimento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1222410,
+      "senses": [
+        {
+          "id": "w1222410-s1",
+          "gloss": [
+            "generosità"
+          ],
+          "short_gloss": "generosità",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1222460,
+      "senses": [
+        {
+          "id": "w1222460-s1",
+          "gloss": [
+            "gas",
+            "vapore"
+          ],
+          "short_gloss": "gas",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1222730,
+      "senses": [
+        {
+          "id": "w1222730-s1",
+          "gloss": [
+            "piroscafo"
+          ],
+          "short_gloss": "piroscafo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1222740,
+      "senses": [
+        {
+          "id": "w1222740-s1",
+          "gloss": [
+            "fischio a vapore"
+          ],
+          "short_gloss": "fischio a vapore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1222770,
+      "senses": [
+        {
+          "id": "w1222770-s1",
+          "gloss": [
+            "pregare",
+            "dire una preghiera"
+          ],
+          "short_gloss": "pregare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1222770-s2",
+          "gloss": [
+            "augurare",
+            "sperare"
+          ],
+          "short_gloss": "augurare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1222910,
+      "senses": [
+        {
+          "id": "w1222910-s1",
+          "gloss": [
+            "era"
+          ],
+          "short_gloss": "era",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1222910-s2",
+          "gloss": [
+            "era cristiana",
+            "d.C."
+          ],
+          "short_gloss": "era cristiana",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1223530,
+      "senses": [
+        {
+          "id": "w1223530-s1",
+          "gloss": [
+            "oggetti di valore",
+            "valori"
+          ],
+          "short_gloss": "oggetti di valore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1223615,
+      "senses": [
+        {
+          "id": "w1223615-s1",
+          "gloss": [
+            "tu",
+            "lei"
+          ],
+          "short_gloss": "tu",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1223615-s2",
+          "gloss": [
+            "caro",
+            "tesoro"
+          ],
+          "short_gloss": "caro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1223640,
+      "senses": [
+        {
+          "id": "w1223640-s1",
+          "gloss": [
+            "alzarsi",
+            "levarsi",
+            "divampare"
+          ],
+          "short_gloss": "alzarsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1223640-s2",
+          "gloss": [
+            "svegliarsi",
+            "restare svegli"
+          ],
+          "short_gloss": "svegliarsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1223640-s3",
+          "gloss": [
+            "accadere",
+            "verificarsi"
+          ],
+          "short_gloss": "accadere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1223650,
+      "senses": [
+        {
+          "id": "w1223650-s1",
+          "gloss": [
+            "alzarsi",
+            "sollevarsi",
+            "mettersi seduto"
+          ],
+          "short_gloss": "alzarsi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1223950,
+      "senses": [
+        {
+          "id": "w1223950-s1",
+          "gloss": [
+            "in piedi"
+          ],
+          "short_gloss": "in piedi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1224020,
+      "senses": [
+        {
+          "id": "w1224020-s1",
+          "gloss": [
+            "brillare",
+            "scintillare"
+          ],
+          "short_gloss": "brillare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1224020-s2",
+          "gloss": [
+            "illuminarsi",
+            "raggiare"
+          ],
+          "short_gloss": "illuminarsi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1224880,
+      "senses": [
+        {
+          "id": "w1224880-s1",
+          "gloss": [
+            "va bene",
+            "d'accordo",
+            "ok"
+          ],
+          "short_gloss": "va bene",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1224890,
+      "senses": [
+        {
+          "id": "w1224890-s1",
+          "gloss": [
+            "bene",
+            "correttamente"
+          ],
+          "short_gloss": "bene",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1224890-s2",
+          "gloss": [
+            "cordiali saluti",
+            "mi raccomando"
+          ],
+          "short_gloss": "cordiali saluti",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1224890-s3",
+          "gloss": [
+            "come se",
+            "proprio come"
+          ],
+          "short_gloss": "come se",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1224890-s4",
+          "gloss": [
+            "certamente",
+            "senz'altro"
+          ],
+          "short_gloss": "certamente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1224960,
+      "senses": [
+        {
+          "id": "w1224960-s1",
+          "gloss": [
+            "gioco",
+            "divertimento",
+            "scherzo",
+            "capriccio",
+            "flirt"
+          ],
+          "short_gloss": "gioco",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1224970,
+      "senses": [
+        {
+          "id": "w1224970-s1",
+          "gloss": [
+            "giocare",
+            "scherzare",
+            "divertirsi"
+          ],
+          "short_gloss": "giocare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1224970-s2",
+          "gloss": [
+            "flirtare con"
+          ],
+          "short_gloss": "flirtare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1224970-s3",
+          "gloss": [
+            "avere eleganza",
+            "avere raffinatezza"
+          ],
+          "short_gloss": "avere eleganza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1225420,
+      "senses": [
+        {
+          "id": "w1225420-s1",
+          "gloss": [
+            "ingannare",
+            "trarre in inganno"
+          ],
+          "short_gloss": "ingannare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1225420-s2",
+          "gloss": [
+            "essere tanto ... quanto ..."
+          ],
+          "short_gloss": "essere tanto ... quanto ...",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1225940,
+      "senses": [
+        {
+          "id": "w1225940-s1",
+          "gloss": [
+            "formica"
+          ],
+          "short_gloss": "formica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1226200,
+      "senses": [
+        {
+          "id": "w1226200-s1",
+          "gloss": [
+            "attingere",
+            "versare con il mestolo"
+          ],
+          "short_gloss": "attingere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1226340,
+      "senses": [
+        {
+          "id": "w1226340-s1",
+          "gloss": [
+            "balbettare"
+          ],
+          "short_gloss": "balbettare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1226510,
+      "senses": [
+        {
+          "id": "w1226510-s1",
+          "gloss": [
+            "stipare",
+            "infilare",
+            "tappare"
+          ],
+          "short_gloss": "stipare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1226510-s2",
+          "gloss": [
+            "accorciare",
+            "avvicinare"
+          ],
+          "short_gloss": "accorciare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1226510-s3",
+          "gloss": [
+            "ridurre le spese",
+            "risparmiare"
+          ],
+          "short_gloss": "ridurre le spese",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1226510-s4",
+          "gloss": [
+            "concentrarsi intensamente"
+          ],
+          "short_gloss": "concentrarsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1226510-s5",
+          "gloss": [
+            "esaminare a fondo",
+            "rifinire"
+          ],
+          "short_gloss": "esaminare a fondo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1226510-s6",
+          "gloss": [
+            "essere di turno",
+            "essere di servizio"
+          ],
+          "short_gloss": "essere di turno",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1226510-s7",
+          "gloss": [
+            "inchiodare",
+            "dare scacco matto"
+          ],
+          "short_gloss": "dare scacco matto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1226510-s8",
+          "gloss": [
+            "tagliarsi un dito",
+            "schiacciarsi un dito"
+          ],
+          "short_gloss": "tagliarsi un dito",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1226510-s9",
+          "gloss": [
+            "fare senza sosta",
+            "continuare a fare"
+          ],
+          "short_gloss": "fare senza sosta",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1226510-s10",
+          "gloss": [
+            "fare completamente",
+            "fare a fondo"
+          ],
+          "short_gloss": "fare completamente",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1226510-s11",
+          "gloss": [
+            "mettere qualcuno in difficoltà"
+          ],
+          "short_gloss": "mettere in difficoltà",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1226610,
+      "senses": [
+        {
+          "id": "w1226610-s1",
+          "gloss": [
+            "al contrario",
+            "piuttosto",
+            "anzi"
+          ],
+          "short_gloss": "al contrario",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1226710,
+      "senses": [
+        {
+          "id": "w1226710-s1",
+          "gloss": [
+            "salotto",
+            "soggiorno"
+          ],
+          "short_gloss": "salotto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1226740,
+      "senses": [
+        {
+          "id": "w1226740-s1",
+          "gloss": [
+            "carrozza passeggeri"
+          ],
+          "short_gloss": "carrozza passeggeri",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1226830,
+      "senses": [
+        {
+          "id": "w1226830-s1",
+          "gloss": [
+            "drammatizzazione",
+            "adattamento"
+          ],
+          "short_gloss": "drammatizzazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1226830-s2",
+          "gloss": [
+            "esagerazione",
+            "abbellimento"
+          ],
+          "short_gloss": "esagerazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1226990,
+      "senses": [
+        {
+          "id": "w1226990-s1",
+          "gloss": [
+            "opporsi",
+            "disobbedire",
+            "sfidare"
+          ],
+          "short_gloss": "opporsi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1227010,
+      "senses": [
+        {
+          "id": "w1227010-s1",
+          "gloss": [
+            "avversità",
+            "situazione sfortunata"
+          ],
+          "short_gloss": "avversità",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1227110,
+      "senses": [
+        {
+          "id": "w1227110-s1",
+          "gloss": [
+            "avere le vertigini",
+            "sentire il sangue alla testa"
+          ],
+          "short_gloss": "avere le vertigini",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1227110-s2",
+          "gloss": [
+            "perdere la calma"
+          ],
+          "short_gloss": "perdere la calma",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1227110-s3",
+          "gloss": [
+            "essere ossessionato",
+            "essere infatuato"
+          ],
+          "short_gloss": "essere ossessionato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1227110-s4",
+          "gloss": [
+            "montarsi la testa"
+          ],
+          "short_gloss": "montarsi la testa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1227250,
+      "senses": [
+        {
+          "id": "w1227250-s1",
+          "gloss": [
+            "verticale",
+            "capovolta"
+          ],
+          "short_gloss": "verticale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1227250-s2",
+          "gloss": [
+            "sottosopra",
+            "al contrario"
+          ],
+          "short_gloss": "sottosopra",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1227340,
+      "senses": [
+        {
+          "id": "w1227340-s1",
+          "gloss": [
+            "da molto tempo",
+            "vecchia storia"
+          ],
+          "short_gloss": "da molto tempo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1227570,
+      "senses": [
+        {
+          "id": "w1227570-s1",
+          "gloss": [
+            "sospendere",
+            "riposare",
+            "dare tregua"
+          ],
+          "short_gloss": "sospendere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1227660,
+      "senses": [
+        {
+          "id": "w1227660-s1",
+          "gloss": [
+            "assenza temporanea da scuola"
+          ],
+          "short_gloss": "assenza temporanea",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1227760,
+      "senses": [
+        {
+          "id": "w1227760-s1",
+          "gloss": [
+            "chiusura temporanea della scuola"
+          ],
+          "short_gloss": "chiusura temporanea",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1227780,
+      "senses": [
+        {
+          "id": "w1227780-s1",
+          "gloss": [
+            "annullamento di lezione"
+          ],
+          "short_gloss": "annullamento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1228140,
+      "senses": [
+        {
+          "id": "w1228140-s1",
+          "gloss": [
+            "e",
+            "nonché"
+          ],
+          "short_gloss": "e",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1228180,
+      "senses": [
+        {
+          "id": "w1228180-s1",
+          "gloss": [
+            "esercitare",
+            "causare",
+            "avere effetto"
+          ],
+          "short_gloss": "esercitare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1228260,
+      "senses": [
+        {
+          "id": "w1228260-s1",
+          "gloss": [
+            "fumare",
+            "inalare"
+          ],
+          "short_gloss": "inalare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1228260-s2",
+          "gloss": [
+            "succhiare",
+            "sorseggiare"
+          ],
+          "short_gloss": "succhiare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1228260-s3",
+          "gloss": [
+            "assorbire"
+          ],
+          "short_gloss": "assorbire",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1228260-s4",
+          "gloss": [
+            "baciare"
+          ],
+          "short_gloss": "baciare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1228580,
+      "senses": [
+        {
+          "id": "w1228580-s1",
+          "gloss": [
+            "affrettare",
+            "sollecitare"
+          ],
+          "short_gloss": "affrettare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1228750,
+      "senses": [
+        {
+          "id": "w1228750-s1",
+          "gloss": [
+            "punto vitale",
+            "punto debole"
+          ],
+          "short_gloss": "punto vitale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1228750-s2",
+          "gloss": [
+            "punto chiave",
+            "cuore del problema"
+          ],
+          "short_gloss": "punto chiave",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1228750-s3",
+          "gloss": [
+            "inguine (bersaglio)"
+          ],
+          "short_gloss": "inguine",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1228750-s4",
+          "gloss": [
+            "punto critico"
+          ],
+          "short_gloss": "punto critico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1228950,
+      "senses": [
+        {
+          "id": "w1228950-s1",
+          "gloss": [
+            "malore improvviso"
+          ],
+          "short_gloss": "malore improvviso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1228960,
+      "senses": [
+        {
+          "id": "w1228960-s1",
+          "gloss": [
+            "cambiamento improvviso"
+          ],
+          "short_gloss": "cambiamento improvviso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1228960-s2",
+          "gloss": [
+            "incidente improvviso",
+            "emergenza"
+          ],
+          "short_gloss": "emergenza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1228990,
+      "senses": [
+        {
+          "id": "w1228990-s1",
+          "gloss": [
+            "affare urgente"
+          ],
+          "short_gloss": "affare urgente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1229350,
+      "senses": [
+        {
+          "id": "w1229350-s1",
+          "gloss": [
+            "desiderare"
+          ],
+          "short_gloss": "desiderare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1229350-s2",
+          "gloss": [
+            "richiedere",
+            "esigere"
+          ],
+          "short_gloss": "richiedere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1229350-s3",
+          "gloss": [
+            "cercare",
+            "perseguire"
+          ],
+          "short_gloss": "cercare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1229350-s4",
+          "gloss": [
+            "comprare"
+          ],
+          "short_gloss": "comprare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1229590,
+      "senses": [
+        {
+          "id": "w1229590-s1",
+          "gloss": [
+            "attingere",
+            "pompare"
+          ],
+          "short_gloss": "attingere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1229590-s2",
+          "gloss": [
+            "cogliere",
+            "intuire"
+          ],
+          "short_gloss": "intuire",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1229610,
+      "senses": [
+        {
+          "id": "w1229610-s1",
+          "gloss": [
+            "attingere"
+          ],
+          "short_gloss": "attingere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1229610-s2",
+          "gloss": [
+            "versare",
+            "brindare"
+          ],
+          "short_gloss": "versare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1229610-s3",
+          "gloss": [
+            "considerare",
+            "intuire",
+            "capire"
+          ],
+          "short_gloss": "considerare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1229610-s4",
+          "gloss": [
+            "attingere da",
+            "ereditare"
+          ],
+          "short_gloss": "ereditare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1229730,
+      "senses": [
+        {
+          "id": "w1229730-s1",
+          "gloss": [
+            "pianto",
+            "singhiozzo",
+            "lamento"
+          ],
+          "short_gloss": "pianto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1229730-s2",
+          "gloss": [
+            "voce piagnucolosa"
+          ],
+          "short_gloss": "voce piagnucolosa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1229840,
+      "senses": [
+        {
+          "id": "w1229840-s1",
+          "gloss": [
+            "piangere",
+            "versare lacrime"
+          ],
+          "short_gloss": "piangere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1229840-s2",
+          "gloss": [
+            "soffrire di"
+          ],
+          "short_gloss": "soffrire di",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1229840-s3",
+          "gloss": [
+            "sopportare",
+            "accettare malvolentieri"
+          ],
+          "short_gloss": "sopportare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1229840-s4",
+          "gloss": [
+            "sfigurare",
+            "essere indegno"
+          ],
+          "short_gloss": "sfigurare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1229840-s5",
+          "gloss": [
+            "lamentarsi"
+          ],
+          "short_gloss": "lamentarsi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1230380,
+      "senses": [
+        {
+          "id": "w1230380-s1",
+          "gloss": [
+            "vecchio",
+            "ex"
+          ],
+          "short_gloss": "vecchio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1230380-s2",
+          "gloss": [
+            "cose antiche",
+            "vecchie usanze"
+          ],
+          "short_gloss": "cose antiche",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1230380-s3",
+          "gloss": [
+            "tempi passati"
+          ],
+          "short_gloss": "tempi passati",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1230380-s4",
+          "gloss": [
+            "vecchio calendario giapponese"
+          ],
+          "short_gloss": "vecchio calendario giapponese",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1231650,
+      "senses": [
+        {
+          "id": "w1231650-s1",
+          "gloss": [
+            "andarsene",
+            "partire"
+          ],
+          "short_gloss": "andarsene",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1231650-s2",
+          "gloss": [
+            "passare",
+            "trascorrere"
+          ],
+          "short_gloss": "passare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1231650-s3",
+          "gloss": [
+            "essere lontano"
+          ],
+          "short_gloss": "essere lontano",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1231650-s4",
+          "gloss": [
+            "mandare via",
+            "ripudiare"
+          ],
+          "short_gloss": "mandare via",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1231650-s5",
+          "gloss": [
+            "fare completamente"
+          ],
+          "short_gloss": "fare completamente",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1231650-s6",
+          "gloss": [
+            "ultimo",
+            "scorso"
+          ],
+          "short_gloss": "scorso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1231890,
+      "senses": [
+        {
+          "id": "w1231890-s1",
+          "gloss": [
+            "sonnecchiare",
+            "appisolarsi"
+          ],
+          "short_gloss": "sonnecchiare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1232030,
+      "senses": [
+        {
+          "id": "w1232030-s1",
+          "gloss": [
+            "macroscopico"
+          ],
+          "short_gloss": "macroscopico",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1232030-s2",
+          "gloss": [
+            "ampio",
+            "generale"
+          ],
+          "short_gloss": "ampio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1232360,
+      "senses": [
+        {
+          "id": "w1232360-s1",
+          "gloss": [
+            "rifiutare"
+          ],
+          "short_gloss": "rifiutare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1232360-s2",
+          "gloss": [
+            "impedire",
+            "negare",
+            "bloccare"
+          ],
+          "short_gloss": "impedire",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1232390,
+      "senses": [
+        {
+          "id": "w1232390-s1",
+          "gloss": [
+            "rifiuto"
+          ],
+          "short_gloss": "rifiuto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1232810,
+      "senses": [
+        {
+          "id": "w1232810-s1",
+          "gloss": [
+            "nulla",
+            "nullità"
+          ],
+          "short_gloss": "nulla",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1232930,
+      "senses": [
+        {
+          "id": "w1232930-s1",
+          "gloss": [
+            "sega"
+          ],
+          "short_gloss": "sega",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1232970,
+      "senses": [
+        {
+          "id": "w1232970-s1",
+          "gloss": [
+            "pescare"
+          ],
+          "short_gloss": "pescare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1232970-s2",
+          "gloss": [
+            "cercare",
+            "frugare"
+          ],
+          "short_gloss": "cercare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1232970-s3",
+          "gloss": [
+            "fare una scorpacciata",
+            "fare binge"
+          ],
+          "short_gloss": "fare una scorpacciata",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1233580,
+      "senses": [
+        {
+          "id": "w1233580-s1",
+          "gloss": [
+            "offrire",
+            "sacrificare",
+            "dedicare"
+          ],
+          "short_gloss": "offrire",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1234040,
+      "senses": [
+        {
+          "id": "w1234040-s1",
+          "gloss": [
+            "competere",
+            "contendersi"
+          ],
+          "short_gloss": "competere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1234250,
+      "senses": [
+        {
+          "id": "w1234250-s1",
+          "gloss": [
+            "prima persona plurale",
+            "prima persona singolare"
+          ],
+          "short_gloss": "prima persona plurale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1234250-s2",
+          "gloss": [
+            "seconda o terza persona plurale onorifica"
+          ],
+          "short_gloss": "persona plurale onorifica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1234340,
+      "senses": [
+        {
+          "id": "w1234340-s1",
+          "gloss": [
+            "coniugi con doppio reddito"
+          ],
+          "short_gloss": "doppio reddito",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1234720,
+      "senses": [
+        {
+          "id": "w1234720-s1",
+          "gloss": [
+            "lingua comune",
+            "lingua franca"
+          ],
+          "short_gloss": "lingua comune",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1234720-s2",
+          "gloss": [
+            "lingua standard"
+          ],
+          "short_gloss": "lingua standard",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1235330,
+      "senses": [
+        {
+          "id": "w1235330-s1",
+          "gloss": [
+            "repubblica",
+            "commonwealth"
+          ],
+          "short_gloss": "repubblica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1236080,
+      "senses": [
+        {
+          "id": "w1236080-s1",
+          "gloss": [
+            "con la forza"
+          ],
+          "short_gloss": "con la forza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1236130,
+      "senses": [
+        {
+          "id": "w1236130-s1",
+          "gloss": [
+            "rafforzarsi",
+            "diventare forte"
+          ],
+          "short_gloss": "rafforzarsi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1236410,
+      "senses": [
+        {
+          "id": "w1236410-s1",
+          "gloss": [
+            "supplicare",
+            "importunare",
+            "pregare"
+          ],
+          "short_gloss": "supplicare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1236470,
+      "senses": [
+        {
+          "id": "w1236470-s1",
+          "gloss": [
+            "enfasi",
+            "sottolineatura"
+          ],
+          "short_gloss": "enfasi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1236470-s2",
+          "gloss": [
+            "accentuazione",
+            "mettere in risalto"
+          ],
+          "short_gloss": "accentuazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1236470-s3",
+          "gloss": [
+            "tono sostenuto (del mercato)"
+          ],
+          "short_gloss": "tono sostenuto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1236740,
+      "senses": [
+        {
+          "id": "w1236740-s1",
+          "gloss": [
+            "essere grato",
+            "essere riconoscente"
+          ],
+          "short_gloss": "essere grato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1236740-s2",
+          "gloss": [
+            "dispiacersi",
+            "vergognarsi",
+            "imbarazzarsi"
+          ],
+          "short_gloss": "dispiacersi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1236740-s3",
+          "gloss": [
+            "tirarsi indietro per paura"
+          ],
+          "short_gloss": "tirarsi indietro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1236900,
+      "senses": [
+        {
+          "id": "w1236900-s1",
+          "gloss": [
+            "insegnare",
+            "istruire"
+          ],
+          "short_gloss": "insegnare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1236900-s2",
+          "gloss": [
+            "dire",
+            "informare",
+            "mostrare"
+          ],
+          "short_gloss": "dire",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1236900-s3",
+          "gloss": [
+            "predicare"
+          ],
+          "short_gloss": "predicare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1236940,
+      "senses": [
+        {
+          "id": "w1236940-s1",
+          "gloss": [
+            "imparare",
+            "prendere lezioni"
+          ],
+          "short_gloss": "imparare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1237470,
+      "senses": [
+        {
+          "id": "w1237470-s1",
+          "gloss": [
+            "figuriamoci",
+            "per non parlare di"
+          ],
+          "short_gloss": "figuriamoci",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1237470-s2",
+          "gloss": [
+            "a maggior ragione no"
+          ],
+          "short_gloss": "a maggior ragione no",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1237510,
+      "senses": [
+        {
+          "id": "w1237510-s1",
+          "gloss": [
+            "impazzire",
+            "perdere la testa"
+          ],
+          "short_gloss": "impazzire",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1237510-s2",
+          "gloss": [
+            "guastarsi",
+            "andare in tilt"
+          ],
+          "short_gloss": "guastarsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1237510-s3",
+          "gloss": [
+            "andare storto",
+            "fallire"
+          ],
+          "short_gloss": "andare storto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1237510-s4",
+          "gloss": [
+            "andare pazzo per",
+            "entusiasmarsi"
+          ],
+          "short_gloss": "andare pazzo per",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1237680,
+      "senses": [
+        {
+          "id": "w1237680-s1",
+          "gloss": [
+            "stretto",
+            "angusto"
+          ],
+          "short_gloss": "stretto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1237680-s2",
+          "gloss": [
+            "limitato",
+            "ristretto"
+          ],
+          "short_gloss": "limitato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1237690,
+      "senses": [
+        {
+          "id": "w1237690-s1",
+          "gloss": [
+            "restringersi"
+          ],
+          "short_gloss": "restringersi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1237700,
+      "senses": [
+        {
+          "id": "w1237700-s1",
+          "gloss": [
+            "restringere",
+            "ridurre"
+          ],
+          "short_gloss": "restringere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1238190,
+      "senses": [
+        {
+          "id": "w1238190-s1",
+          "gloss": [
+            "rivitalizzare",
+            "rilanciare",
+            "rinvigorire"
+          ],
+          "short_gloss": "rivitalizzare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1238190-s2",
+          "gloss": [
+            "costruire",
+            "fondare",
+            "avviare"
+          ],
+          "short_gloss": "fondare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1238460,
+      "senses": [
+        {
+          "id": "w1238460-s1",
+          "gloss": [
+            "grano saraceno"
+          ],
+          "short_gloss": "grano saraceno",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1238460-s2",
+          "gloss": [
+            "soba",
+            "spaghetti di grano saraceno"
+          ],
+          "short_gloss": "soba",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1238460-s3",
+          "gloss": [
+            "noodles di frumento stile cinese"
+          ],
+          "short_gloss": "noodles di frumento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1238610,
+      "senses": [
+        {
+          "id": "w1238610-s1",
+          "gloss": [
+            "risuonare",
+            "sentirsi da lontano"
+          ],
+          "short_gloss": "risuonare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1238610-s2",
+          "gloss": [
+            "riverberare",
+            "vibrare"
+          ],
+          "short_gloss": "riverberare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1238610-s3",
+          "gloss": [
+            "restare con",
+            "tornare da"
+          ],
+          "short_gloss": "restare con",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1238610-s4",
+          "gloss": [
+            "avere effetto",
+            "lasciare impressione"
+          ],
+          "short_gloss": "avere effetto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1238680,
+      "senses": [
+        {
+          "id": "w1238680-s1",
+          "gloss": [
+            "essere sorpreso",
+            "essere stupito"
+          ],
+          "short_gloss": "essere sorpreso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1238680-s2",
+          "gloss": [
+            "spaventarsi",
+            "allarmarsi"
+          ],
+          "short_gloss": "spaventarsi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1238780,
+      "senses": [
+        {
+          "id": "w1238780-s1",
+          "gloss": [
+            "guardare in su"
+          ],
+          "short_gloss": "guardare in su",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1238780-s2",
+          "gloss": [
+            "ammirare",
+            "rispettare"
+          ],
+          "short_gloss": "ammirare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1238780-s3",
+          "gloss": [
+            "chiedere",
+            "cercare"
+          ],
+          "short_gloss": "chiedere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1238780-s4",
+          "gloss": [
+            "contare su"
+          ],
+          "short_gloss": "contare su",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1238780-s5",
+          "gloss": [
+            "trangugiare",
+            "bere"
+          ],
+          "short_gloss": "trangugiare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1238840,
+      "senses": [
+        {
+          "id": "w1238840-s1",
+          "gloss": [
+            "dire",
+            "parlare"
+          ],
+          "short_gloss": "dire",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1238840-s2",
+          "gloss": [
+            "chiamarsi"
+          ],
+          "short_gloss": "chiamarsi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1238910,
+      "senses": [
+        {
+          "id": "w1238910-s1",
+          "gloss": [
+            "rivolto verso l'alto"
+          ],
+          "short_gloss": "rivolto verso l'alto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1239070,
+      "senses": [
+        {
+          "id": "w1239070-s1",
+          "gloss": [
+            "irrigidirsi"
+          ],
+          "short_gloss": "irrigidirsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1239070-s2",
+          "gloss": [
+            "assorbirsi",
+            "appassionarsi"
+          ],
+          "short_gloss": "assorbirsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1239070-s3",
+          "gloss": [
+            "elaborato",
+            "raffinato",
+            "meticoloso"
+          ],
+          "short_gloss": "elaborato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1239730,
+      "senses": [
+        {
+          "id": "w1239730-s1",
+          "gloss": [
+            "piegarsi",
+            "curvarsi"
+          ],
+          "short_gloss": "piegarsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1239730-s2",
+          "gloss": [
+            "girare"
+          ],
+          "short_gloss": "girare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1239730-s3",
+          "gloss": [
+            "essere storto"
+          ],
+          "short_gloss": "essere storto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1239740,
+      "senses": [
+        {
+          "id": "w1239740-s1",
+          "gloss": [
+            "piegare",
+            "curvare"
+          ],
+          "short_gloss": "piegare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1239740-s2",
+          "gloss": [
+            "inclinare",
+            "pendere"
+          ],
+          "short_gloss": "inclinare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1239740-s3",
+          "gloss": [
+            "distorcere",
+            "falsare"
+          ],
+          "short_gloss": "distorcere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1239740-s4",
+          "gloss": [
+            "cedere",
+            "deviare"
+          ],
+          "short_gloss": "cedere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1239740-s5",
+          "gloss": [
+            "dare in pegno"
+          ],
+          "short_gloss": "dare in pegno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1240200,
+      "senses": [
+        {
+          "id": "w1240200-s1",
+          "gloss": [
+            "estremamente",
+            "decisamente"
+          ],
+          "short_gloss": "estremamente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1240670,
+      "senses": [
+        {
+          "id": "w1240670-s1",
+          "gloss": [
+            "cipolla"
+          ],
+          "short_gloss": "cipolla",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1240700,
+      "senses": [
+        {
+          "id": "w1240700-s1",
+          "gloss": [
+            "mais"
+          ],
+          "short_gloss": "mais",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1240750,
+      "senses": [
+        {
+          "id": "w1240750-s1",
+          "gloss": [
+            "poco",
+            "un po'"
+          ],
+          "short_gloss": "poco",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1240750-s2",
+          "gloss": [
+            "solo",
+            "appena"
+          ],
+          "short_gloss": "solo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1241300,
+      "senses": [
+        {
+          "id": "w1241300-s1",
+          "gloss": [
+            "simmetria",
+            "equilibrio",
+            "proporzione"
+          ],
+          "short_gloss": "simmetria",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1241480,
+      "senses": [
+        {
+          "id": "w1241480-s1",
+          "gloss": [
+            "vietare",
+            "proibire"
+          ],
+          "short_gloss": "vietare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1241480-s2",
+          "gloss": [
+            "reprimere",
+            "trattenere"
+          ],
+          "short_gloss": "reprimere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1241530,
+      "senses": [
+        {
+          "id": "w1241530-s1",
+          "gloss": [
+            "parola tabù",
+            "argomento proibito"
+          ],
+          "short_gloss": "parola tabù",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1241530-s2",
+          "gloss": [
+            "parole vietate (waka/haikai)"
+          ],
+          "short_gloss": "parole vietate",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1241570,
+      "senses": [
+        {
+          "id": "w1241570-s1",
+          "gloss": [
+            "astinenza dall'alcol",
+            "temperanza"
+          ],
+          "short_gloss": "astinenza dall'alcol",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1241570-s2",
+          "gloss": [
+            "divieto di bere"
+          ],
+          "short_gloss": "divieto di bere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1241800,
+      "senses": [
+        {
+          "id": "w1241800-s1",
+          "gloss": [
+            "ragione",
+            "logica"
+          ],
+          "short_gloss": "logica",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1241800-s2",
+          "gloss": [
+            "metodo",
+            "sistema",
+            "filo del ragionamento"
+          ],
+          "short_gloss": "metodo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1241990,
+      "senses": [
+        {
+          "id": "w1241990-s1",
+          "gloss": [
+            "sciarpa"
+          ],
+          "short_gloss": "sciarpa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1242060,
+      "senses": [
+        {
+          "id": "w1242060-s1",
+          "gloss": [
+            "Buon anno"
+          ],
+          "short_gloss": "Buon anno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1242090,
+      "senses": [
+        {
+          "id": "w1242090-s1",
+          "gloss": [
+            "autocontrollo",
+            "disciplina"
+          ],
+          "short_gloss": "autocontrollo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1242090-s2",
+          "gloss": [
+            "confinamento",
+            "arresti domiciliari"
+          ],
+          "short_gloss": "confinamento",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1242090-s3",
+          "gloss": [
+            "sospensione"
+          ],
+          "short_gloss": "sospensione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1242160,
+      "senses": [
+        {
+          "id": "w1242160-s1",
+          "gloss": [
+            "vicinato",
+            "vicinanza"
+          ],
+          "short_gloss": "vicinato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1242160-s2",
+          "gloss": [
+            "quasi",
+            "vicino a"
+          ],
+          "short_gloss": "quasi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1242160-s3",
+          "gloss": [
+            "fra poco",
+            "presto"
+          ],
+          "short_gloss": "presto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1242170,
+      "senses": [
+        {
+          "id": "w1242170-s1",
+          "gloss": [
+            "avvicinarsi"
+          ],
+          "short_gloss": "avvicinarsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1242170-s2",
+          "gloss": [
+            "familiarizzare",
+            "conoscersi"
+          ],
+          "short_gloss": "familiarizzare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1242220,
+      "senses": [
+        {
+          "id": "w1242220-s1",
+          "gloss": [
+            "miopia"
+          ],
+          "short_gloss": "miopia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1242230,
+      "senses": [
+        {
+          "id": "w1242230-s1",
+          "gloss": [
+            "avvicinarsi"
+          ],
+          "short_gloss": "avvicinarsi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1242300,
+      "senses": [
+        {
+          "id": "w1242300-s1",
+          "gloss": [
+            "ultimamente",
+            "recentemente"
+          ],
+          "short_gloss": "ultimamente",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1242300-s2",
+          "gloss": [
+            "terribilmente",
+            "estremamente"
+          ],
+          "short_gloss": "terribilmente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1242320,
+      "senses": [
+        {
+          "id": "w1242320-s1",
+          "gloss": [
+            "miopia"
+          ],
+          "short_gloss": "miopia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1242490,
+      "senses": [
+        {
+          "id": "w1242490-s1",
+          "gloss": [
+            "presto",
+            "fra pochi giorni"
+          ],
+          "short_gloss": "presto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1242520,
+      "senses": [
+        {
+          "id": "w1242520-s1",
+          "gloss": [
+            "avvicinare"
+          ],
+          "short_gloss": "avvicinare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1242520-s2",
+          "gloss": [
+            "mettere in contatto",
+            "far avvicinare"
+          ],
+          "short_gloss": "mettere in contatto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1242590,
+      "senses": [
+        {
+          "id": "w1242590-s1",
+          "gloss": [
+            "denaro"
+          ],
+          "short_gloss": "denaro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1242590-s2",
+          "gloss": [
+            "metallo"
+          ],
+          "short_gloss": "metallo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1242600,
+      "senses": [
+        {
+          "id": "w1242600-s1",
+          "gloss": [
+            "oro"
+          ],
+          "short_gloss": "oro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1242600-s2",
+          "gloss": [
+            "dorato"
+          ],
+          "short_gloss": "dorato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1242600-s3",
+          "gloss": [
+            "medaglia d'oro",
+            "primo posto"
+          ],
+          "short_gloss": "medaglia d'oro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1242600-s4",
+          "gloss": [
+            "cosa di grande valore"
+          ],
+          "short_gloss": "cosa di grande valore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1242600-s5",
+          "gloss": [
+            "denaro",
+            "moneta d'oro"
+          ],
+          "short_gloss": "denaro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1242600-s6",
+          "gloss": [
+            "somma di denaro"
+          ],
+          "short_gloss": "somma di denaro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1242600-s7",
+          "gloss": [
+            "venerdì"
+          ],
+          "short_gloss": "venerdì",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1242600-s8",
+          "gloss": [
+            "carato"
+          ],
+          "short_gloss": "carato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1242600-s9",
+          "gloss": [
+            "metallo (Wu Xing)"
+          ],
+          "short_gloss": "metallo (Wu Xing)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1242600-s10",
+          "gloss": [
+            "dinastia Jin"
+          ],
+          "short_gloss": "dinastia Jin",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1242600-s11",
+          "gloss": [
+            "generale d'oro"
+          ],
+          "short_gloss": "generale d'oro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1242600-s12",
+          "gloss": [
+            "testicoli"
+          ],
+          "short_gloss": "testicoli",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1243240,
+      "senses": [
+        {
+          "id": "w1243240-s1",
+          "gloss": [
+            "guadagno",
+            "guadagnare denaro"
+          ],
+          "short_gloss": "guadagno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1243320,
+      "senses": [
+        {
+          "id": "w1243320-s1",
+          "gloss": [
+            "venerdì"
+          ],
+          "short_gloss": "venerdì",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1243390,
+      "senses": [
+        {
+          "id": "w1243390-s1",
+          "gloss": [
+            "esame accurato",
+            "scrutinio"
+          ],
+          "short_gloss": "esame accurato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1243390-s2",
+          "gloss": [
+            "indagine su un crimine"
+          ],
+          "short_gloss": "indagine su un crimine",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1243390-s3",
+          "gloss": [
+            "vincitore (di un incontro)"
+          ],
+          "short_gloss": "vincitore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1243390-s4",
+          "gloss": [
+            "recitazione e apprezzamento di poesia tradizionale"
+          ],
+          "short_gloss": "recitare poesia tradizionale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1243550,
+      "senses": [
+        {
+          "id": "w1243550-s1",
+          "gloss": [
+            "stagnola",
+            "foglio d'alluminio"
+          ],
+          "short_gloss": "stagnola",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1243550-s2",
+          "gloss": [
+            "carta argentata"
+          ],
+          "short_gloss": "carta argentata",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1243850,
+      "senses": [
+        {
+          "id": "w1243850-s1",
+          "gloss": [
+            "nono giorno del mese"
+          ],
+          "short_gloss": "nono giorno del mese",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1243850-s2",
+          "gloss": [
+            "nove giorni"
+          ],
+          "short_gloss": "nove giorni",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1244050,
+      "senses": [
+        {
+          "id": "w1244050-s1",
+          "gloss": [
+            "segno di punteggiatura"
+          ],
+          "short_gloss": "segno di punteggiatura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1244350,
+      "senses": [
+        {
+          "id": "w1244350-s1",
+          "gloss": [
+            "soffrire",
+            "gemere",
+            "preoccuparsi"
+          ],
+          "short_gloss": "soffrire",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1244510,
+      "senses": [
+        {
+          "id": "w1244510-s1",
+          "gloss": [
+            "sorriso amaro",
+            "sorriso forzato"
+          ],
+          "short_gloss": "sorriso amaro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1244630,
+      "senses": [
+        {
+          "id": "w1244630-s1",
+          "gloss": [
+            "amarezza",
+            "sapore amaro"
+          ],
+          "short_gloss": "amarezza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1244800,
+      "senses": [
+        {
+          "id": "w1244800-s1",
+          "gloss": [
+            "corsa veloce",
+            "doppia marcia"
+          ],
+          "short_gloss": "corsa veloce",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1244800-s2",
+          "gloss": [
+            "galoppo leggero"
+          ],
+          "short_gloss": "galoppo leggero",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1244800-s3",
+          "gloss": [
+            "fare in fretta"
+          ],
+          "short_gloss": "fare in fretta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1245100,
+      "senses": [
+        {
+          "id": "w1245100-s1",
+          "gloss": [
+            "sciocco",
+            "stupido"
+          ],
+          "short_gloss": "sciocco",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1245290,
+      "senses": [
+        {
+          "id": "w1245290-s1",
+          "gloss": [
+            "cielo",
+            "aria"
+          ],
+          "short_gloss": "cielo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1245290-s2",
+          "gloss": [
+            "tempo atmosferico"
+          ],
+          "short_gloss": "tempo atmosferico",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1245290-s3",
+          "gloss": [
+            "luogo lontano"
+          ],
+          "short_gloss": "luogo lontano",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1245290-s4",
+          "gloss": [
+            "stato d'animo"
+          ],
+          "short_gloss": "stato d'animo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1245290-s5",
+          "gloss": [
+            "a memoria"
+          ],
+          "short_gloss": "a memoria",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1245290-s6",
+          "gloss": [
+            "menzogna",
+            "bugia"
+          ],
+          "short_gloss": "menzogna",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1245290-s7",
+          "gloss": [
+            "in qualche modo",
+            "vagamente"
+          ],
+          "short_gloss": "in qualche modo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1245290-s8",
+          "gloss": [
+            "falso"
+          ],
+          "short_gloss": "falso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1245370,
+      "senses": [
+        {
+          "id": "w1245370-s1",
+          "gloss": [
+            "vuoto",
+            "libero"
+          ],
+          "short_gloss": "vuoto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1245370-s2",
+          "gloss": [
+            "vano",
+            "infruttuoso"
+          ],
+          "short_gloss": "vano",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1245370-s3",
+          "gloss": [
+            "senza vita"
+          ],
+          "short_gloss": "senza vita",
+          "source": "manual_translation"
+        }
+      ]
+    }
+  ]
+}
