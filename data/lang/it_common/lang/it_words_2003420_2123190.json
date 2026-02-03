@@ -1,0 +1,4475 @@
+{
+  "schema": {
+    "name": "jp-words-lang",
+    "version": "1.0"
+  },
+  "lang": "it",
+  "range": {
+    "start_id": 2003420,
+    "end_id": 2123190
+  },
+  "coverage": {
+    "translated_word_ids_in_file": 200,
+    "translated_common_rank_range": {
+      "start_rank": 16815,
+      "end_rank": 17014
+    },
+    "common_word_ids_total": 30103
+  },
+  "entries": [
+    {
+      "id": 2003420,
+      "senses": [
+        {
+          "id": "w2003420-s1",
+          "gloss": [
+            "da asporto",
+            "take-away"
+          ],
+          "short_gloss": "da asporto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2005620,
+      "senses": [
+        {
+          "id": "w2005620-s1",
+          "gloss": [
+            "bel ragazzo",
+            "uomo attraente",
+            "figo"
+          ],
+          "short_gloss": "bel ragazzo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2005860,
+      "senses": [
+        {
+          "id": "w2005860-s1",
+          "gloss": [
+            "ancora una volta",
+            "di nuovo"
+          ],
+          "short_gloss": "ancora una volta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2005890,
+      "senses": [
+        {
+          "id": "w2005890-s1",
+          "gloss": [
+            "voglia di fare",
+            "motivazione",
+            "entusiasmo"
+          ],
+          "short_gloss": "motivazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2006560,
+      "senses": [
+        {
+          "id": "w2006560-s1",
+          "gloss": [
+            "a testa",
+            "ciascuno"
+          ],
+          "short_gloss": "a testa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2006560-s2",
+          "gloss": [
+            "alla volta",
+            "a poco a poco"
+          ],
+          "short_gloss": "alla volta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2007510,
+      "senses": [
+        {
+          "id": "w2007510-s1",
+          "gloss": [
+            "familiare",
+            "ben noto",
+            "abituale",
+            "preferito"
+          ],
+          "short_gloss": "familiare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2007510-s2",
+          "gloss": [
+            "vecchia conoscenza",
+            "cliente abituale"
+          ],
+          "short_gloss": "vecchia conoscenza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2007960,
+      "senses": [
+        {
+          "id": "w2007960-s1",
+          "gloss": [
+            "girando intorno",
+            "ruotando"
+          ],
+          "short_gloss": "girando intorno",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2007960-s2",
+          "gloss": [
+            "tutto intorno",
+            "in cerchio"
+          ],
+          "short_gloss": "tutto intorno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2008600,
+      "senses": [
+        {
+          "id": "w2008600-s1",
+          "gloss": [
+            "in fila",
+            "allineati"
+          ],
+          "short_gloss": "in fila",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2008620,
+      "senses": [
+        {
+          "id": "w2008620-s1",
+          "gloss": [
+            "con impegno",
+            "diligentemente",
+            "senza sosta"
+          ],
+          "short_gloss": "con impegno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2008640,
+      "senses": [
+        {
+          "id": "w2008640-s1",
+          "gloss": [
+            "di quel tipo",
+            "così"
+          ],
+          "short_gloss": "di quel tipo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2008650,
+      "senses": [
+        {
+          "id": "w2008650-s1",
+          "gloss": [
+            "tale",
+            "così"
+          ],
+          "short_gloss": "tale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2008660,
+      "senses": [
+        {
+          "id": "w2008660-s1",
+          "gloss": [
+            "è vero, però...",
+            "così, però..."
+          ],
+          "short_gloss": "è vero, però...",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2008670,
+      "senses": [
+        {
+          "id": "w2008670-s1",
+          "gloss": [
+            "giusto, vero?",
+            "sì, è così"
+          ],
+          "short_gloss": "giusto, vero?",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2008730,
+      "senses": [
+        {
+          "id": "w2008730-s1",
+          "gloss": [
+            "ciò nonostante",
+            "comunque",
+            "ad ogni modo"
+          ],
+          "short_gloss": "ciò nonostante",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2008740,
+      "senses": [
+        {
+          "id": "w2008740-s1",
+          "gloss": [
+            "così tanto",
+            "così"
+          ],
+          "short_gloss": "così tanto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2008880,
+      "senses": [
+        {
+          "id": "w2008880-s1",
+          "gloss": [
+            "ma",
+            "tuttavia",
+            "sebbene"
+          ],
+          "short_gloss": "ma",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2008960,
+      "senses": [
+        {
+          "id": "w2008960-s1",
+          "gloss": [
+            "di sfuggita",
+            "fugace"
+          ],
+          "short_gloss": "di sfuggita",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2009070,
+      "senses": [
+        {
+          "id": "w2009070-s1",
+          "gloss": [
+            "altrimenti",
+            "se no"
+          ],
+          "short_gloss": "altrimenti",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2009460,
+      "senses": [
+        {
+          "id": "w2009460-s1",
+          "gloss": [
+            "nonna"
+          ],
+          "short_gloss": "nonna",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2009460-s2",
+          "gloss": [
+            "vecchietta",
+            "anziana"
+          ],
+          "short_gloss": "vecchietta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2009465,
+      "senses": [
+        {
+          "id": "w2009465-s1",
+          "gloss": [
+            "nonna"
+          ],
+          "short_gloss": "nonna",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2009465-s2",
+          "gloss": [
+            "vecchietta",
+            "anziana"
+          ],
+          "short_gloss": "vecchietta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2009560,
+      "senses": [
+        {
+          "id": "w2009560-s1",
+          "gloss": [
+            "forse",
+            "può darsi"
+          ],
+          "short_gloss": "forse",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2010000,
+      "senses": [
+        {
+          "id": "w2010000-s1",
+          "gloss": [
+            "rilassato",
+            "comodo",
+            "tranquillo"
+          ],
+          "short_gloss": "rilassato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2010000-s2",
+          "gloss": [
+            "ampio",
+            "largo"
+          ],
+          "short_gloss": "ampio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2011730,
+      "senses": [
+        {
+          "id": "w2011730-s1",
+          "gloss": [
+            "poco numerosi"
+          ],
+          "short_gloss": "poco numerosi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2012290,
+      "senses": [
+        {
+          "id": "w2012290-s1",
+          "gloss": [
+            "inappuntabile",
+            "senza difetti"
+          ],
+          "short_gloss": "inappuntabile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2012420,
+      "senses": [
+        {
+          "id": "w2012420-s1",
+          "gloss": [
+            "inseguimento"
+          ],
+          "short_gloss": "inseguimento",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2012420-s2",
+          "gloss": [
+            "scena d'inseguimento"
+          ],
+          "short_gloss": "scena d'inseguimento",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2012420-s3",
+          "gloss": [
+            "fan ossessivo",
+            "groupie"
+          ],
+          "short_gloss": "fan ossessivo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2012420-s4",
+          "gloss": [
+            "di seguito",
+            "subito dopo"
+          ],
+          "short_gloss": "di seguito",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2012540,
+      "senses": [
+        {
+          "id": "w2012540-s1",
+          "gloss": [
+            "mettersi in movimento",
+            "cominciare a muoversi",
+            "prendere vita"
+          ],
+          "short_gloss": "mettersi in movimento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2013060,
+      "senses": [
+        {
+          "id": "w2013060-s1",
+          "gloss": [
+            "germogliare",
+            "spuntare"
+          ],
+          "short_gloss": "germogliare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2013060-s2",
+          "gloss": [
+            "prendere una cotta",
+            "essere infatuato"
+          ],
+          "short_gloss": "prendere una cotta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2013800,
+      "senses": [
+        {
+          "id": "w2013800-s1",
+          "gloss": [
+            "fare completamente"
+          ],
+          "short_gloss": "fare completamente",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2013800-s2",
+          "gloss": [
+            "fare per sbaglio",
+            "finire per fare"
+          ],
+          "short_gloss": "fare per sbaglio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2013805,
+      "senses": [
+        {
+          "id": "w2013805-s1",
+          "gloss": [
+            "no",
+            "non è così"
+          ],
+          "short_gloss": "no",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2013805-s2",
+          "gloss": [
+            "vero?",
+            "non è vero?"
+          ],
+          "short_gloss": "vero?",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2013900,
+      "senses": [
+        {
+          "id": "w2013900-s1",
+          "gloss": [
+            "rosso",
+            "cremisi",
+            "scarlatto"
+          ],
+          "short_gloss": "rosso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2013900-s2",
+          "gloss": [
+            "colore rossastro"
+          ],
+          "short_gloss": "colore rossastro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2013900-s3",
+          "gloss": [
+            "rosso (comunista)"
+          ],
+          "short_gloss": "rosso (comunista)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2013900-s4",
+          "gloss": [
+            "semaforo rosso"
+          ],
+          "short_gloss": "semaforo rosso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2013900-s5",
+          "gloss": [
+            "in rosso (bilancio)",
+            "inchiostro rosso"
+          ],
+          "short_gloss": "in rosso (bilancio)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2013900-s6",
+          "gloss": [
+            "totale",
+            "completo",
+            "evidente"
+          ],
+          "short_gloss": "totale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2013900-s7",
+          "gloss": [
+            "rame"
+          ],
+          "short_gloss": "rame",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2013900-s8",
+          "gloss": [
+            "carta rossa a cinque punti"
+          ],
+          "short_gloss": "carta rossa a cinque punti",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2013910,
+      "senses": [
+        {
+          "id": "w2013910-s1",
+          "gloss": [
+            "per tutto",
+            "per un periodo di",
+            "nel corso di"
+          ],
+          "short_gloss": "per tutto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2016170,
+      "senses": [
+        {
+          "id": "w2016170-s1",
+          "gloss": [
+            "festa alcolica",
+            "ritrovo per bere"
+          ],
+          "short_gloss": "ritrovo per bere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2016410,
+      "senses": [
+        {
+          "id": "w2016410-s1",
+          "gloss": [
+            "-come",
+            "simile a"
+          ],
+          "short_gloss": "simile a",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2016840,
+      "senses": [
+        {
+          "id": "w2016840-s1",
+          "gloss": [
+            "evviva",
+            "ce l'ho fatta"
+          ],
+          "short_gloss": "evviva",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2017560,
+      "senses": [
+        {
+          "id": "w2017560-s1",
+          "gloss": [
+            "voler fare",
+            "desiderare"
+          ],
+          "short_gloss": "voler fare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2017560-s2",
+          "gloss": [
+            "enfasi"
+          ],
+          "short_gloss": "enfasi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2017560-s3",
+          "gloss": [
+            "molto"
+          ],
+          "short_gloss": "molto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2017770,
+      "senses": [
+        {
+          "id": "w2017770-s1",
+          "gloss": [
+            "eh?",
+            "vero?"
+          ],
+          "short_gloss": "eh?",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2020140,
+      "senses": [
+        {
+          "id": "w2020140-s1",
+          "gloss": [
+            "esco e torno",
+            "a dopo"
+          ],
+          "short_gloss": "esco e torno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2020680,
+      "senses": [
+        {
+          "id": "w2020680-s1",
+          "gloss": [
+            "ora (orario)",
+            "in punto"
+          ],
+          "short_gloss": "ora (orario)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2020680-s2",
+          "gloss": [
+            "quando",
+            "durante"
+          ],
+          "short_gloss": "quando",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2020700,
+      "senses": [
+        {
+          "id": "w2020700-s1",
+          "gloss": [
+            "lasciami in pace!",
+            "non disturbare!"
+          ],
+          "short_gloss": "lasciami in pace!",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2020705,
+      "senses": [
+        {
+          "id": "w2020705-s1",
+          "gloss": [
+            "lasciami in pace!",
+            "non disturbare!"
+          ],
+          "short_gloss": "lasciami in pace!",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2021030,
+      "senses": [
+        {
+          "id": "w2021030-s1",
+          "gloss": [
+            "fare (es. pranzo)",
+            "assumere (es. vitamine)"
+          ],
+          "short_gloss": "fare (es. pranzo)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2022640,
+      "senses": [
+        {
+          "id": "w2022640-s1",
+          "gloss": [
+            "numero (di serie)"
+          ],
+          "short_gloss": "numero (di serie)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2022640-s2",
+          "gloss": [
+            "turno"
+          ],
+          "short_gloss": "turno",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2022640-s3",
+          "gloss": [
+            "guardia",
+            "sorveglianza"
+          ],
+          "short_gloss": "guardia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2022640-s4",
+          "gloss": [
+            "grado",
+            "posizione"
+          ],
+          "short_gloss": "grado",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2022640-s5",
+          "gloss": [
+            "incontro",
+            "match"
+          ],
+          "short_gloss": "incontro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2022640-s6",
+          "gloss": [
+            "pezzi (di una collezione)"
+          ],
+          "short_gloss": "pezzi (di una collezione)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2025400,
+      "senses": [
+        {
+          "id": "w2025400-s1",
+          "gloss": [
+            "a presto",
+            "ci vediamo"
+          ],
+          "short_gloss": "a presto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2026520,
+      "senses": [
+        {
+          "id": "w2026520-s1",
+          "gloss": [
+            "a parte questo",
+            "più di tutto",
+            "comunque"
+          ],
+          "short_gloss": "a parte questo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2026580,
+      "senses": [
+        {
+          "id": "w2026580-s1",
+          "gloss": [
+            "bambini",
+            "ragazzi"
+          ],
+          "short_gloss": "bambini",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2026640,
+      "senses": [
+        {
+          "id": "w2026640-s1",
+          "gloss": [
+            "anche se"
+          ],
+          "short_gloss": "anche se",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2026640-s2",
+          "gloss": [
+            "anche",
+            "pure"
+          ],
+          "short_gloss": "anche",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2026640-s3",
+          "gloss": [
+            "sia ... che ..."
+          ],
+          "short_gloss": "sia ... che ...",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2026640-s4",
+          "gloss": [
+            "qualunque",
+            "ovunque"
+          ],
+          "short_gloss": "qualunque",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2026790,
+      "senses": [
+        {
+          "id": "w2026790-s1",
+          "gloss": [
+            "non c'è altra scelta che",
+            "non resta che"
+          ],
+          "short_gloss": "non resta che",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2026790-s2",
+          "gloss": [
+            "avere solo",
+            "non più di"
+          ],
+          "short_gloss": "avere solo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2026850,
+      "senses": [
+        {
+          "id": "w2026850-s1",
+          "gloss": [
+            "subito",
+            "adesso"
+          ],
+          "short_gloss": "subito",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2027020,
+      "senses": [
+        {
+          "id": "w2027020-s1",
+          "gloss": [
+            "non è vero?",
+            "giusto?"
+          ],
+          "short_gloss": "giusto?",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2027020-s2",
+          "gloss": [
+            "facciamo",
+            "perché non ..."
+          ],
+          "short_gloss": "facciamo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2027080,
+      "senses": [
+        {
+          "id": "w2027080-s1",
+          "gloss": [
+            "non si dovrebbe",
+            "non bisogna"
+          ],
+          "short_gloss": "non si dovrebbe",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2027100,
+      "senses": [
+        {
+          "id": "w2027100-s1",
+          "gloss": [
+            "quanto",
+            "quanti",
+            "fino a che punto"
+          ],
+          "short_gloss": "quanto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2027300,
+      "senses": [
+        {
+          "id": "w2027300-s1",
+          "gloss": [
+            "agenzia di viaggi"
+          ],
+          "short_gloss": "agenzia di viaggi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2028920,
+      "senses": [
+        {
+          "id": "w2028920-s1",
+          "gloss": [
+            "indica il tema della frase"
+          ],
+          "short_gloss": "tema della frase",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028920-s2",
+          "gloss": [
+            "indica contrasto"
+          ],
+          "short_gloss": "contrasto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028920-s3",
+          "gloss": [
+            "aggiunge enfasi"
+          ],
+          "short_gloss": "enfasi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2028930,
+      "senses": [
+        {
+          "id": "w2028930-s1",
+          "gloss": [
+            "indica il soggetto della frase"
+          ],
+          "short_gloss": "soggetto della frase",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028930-s2",
+          "gloss": [
+            "indica possesso"
+          ],
+          "short_gloss": "possesso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028930-s3",
+          "gloss": [
+            "ma",
+            "tuttavia"
+          ],
+          "short_gloss": "ma",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028930-s4",
+          "gloss": [
+            "e"
+          ],
+          "short_gloss": "e",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028930-s5",
+          "gloss": [
+            "dopo una premessa"
+          ],
+          "short_gloss": "dopo una premessa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028930-s6",
+          "gloss": [
+            "a prescindere da"
+          ],
+          "short_gloss": "a prescindere da",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028930-s7",
+          "gloss": [
+            "indica desiderio o speranza"
+          ],
+          "short_gloss": "desiderio o speranza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028930-s8",
+          "gloss": [
+            "attenua un'affermazione"
+          ],
+          "short_gloss": "attenua",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028930-s9",
+          "gloss": [
+            "indica dubbio"
+          ],
+          "short_gloss": "dubbio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028930-s10",
+          "gloss": [
+            "indica disprezzo"
+          ],
+          "short_gloss": "disprezzo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2028940,
+      "senses": [
+        {
+          "id": "w2028940-s1",
+          "gloss": [
+            "anche",
+            "pure",
+            "neppure (in frasi negative)"
+          ],
+          "short_gloss": "anche",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028940-s2",
+          "gloss": [
+            "sia A che B",
+            "né A né B (in frasi negative)"
+          ],
+          "short_gloss": "sia A che B",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028940-s3",
+          "gloss": [
+            "persino",
+            "fino a"
+          ],
+          "short_gloss": "persino",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028940-s4",
+          "gloss": [
+            "anche se",
+            "benché"
+          ],
+          "short_gloss": "anche se",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028940-s5",
+          "gloss": [
+            "ancora",
+            "altro"
+          ],
+          "short_gloss": "ancora",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2028950,
+      "senses": [
+        {
+          "id": "w2028950-s1",
+          "gloss": [
+            "indica ciò che si definisce"
+          ],
+          "short_gloss": "definizione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028950-s2",
+          "gloss": [
+            "usato per citare"
+          ],
+          "short_gloss": "citazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028950-s3",
+          "gloss": [
+            "con"
+          ],
+          "short_gloss": "con",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028950-s4",
+          "gloss": [
+            "non tanto quanto"
+          ],
+          "short_gloss": "non tanto quanto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028950-s5",
+          "gloss": [
+            "il fatto che",
+            "pensare che"
+          ],
+          "short_gloss": "il fatto che",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2028960,
+      "senses": [
+        {
+          "id": "w2028960-s1",
+          "gloss": [
+            "e ... e ...",
+            "tra le altre"
+          ],
+          "short_gloss": "e ... e ...",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028960-s2",
+          "gloss": [
+            "non appena"
+          ],
+          "short_gloss": "non appena",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028960-s3",
+          "gloss": [
+            "essere"
+          ],
+          "short_gloss": "essere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028960-s4",
+          "gloss": [
+            "o",
+            "oh"
+          ],
+          "short_gloss": "o",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028960-s5",
+          "gloss": [
+            "eh?",
+            "cosa?"
+          ],
+          "short_gloss": "eh?",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028960-s6",
+          "gloss": [
+            "ciao"
+          ],
+          "short_gloss": "ciao",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028960-s7",
+          "gloss": [
+            "sì?",
+            "che?"
+          ],
+          "short_gloss": "sì?",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028960-s8",
+          "gloss": [
+            "vero?",
+            "no?"
+          ],
+          "short_gloss": "vero?",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2028970,
+      "senses": [
+        {
+          "id": "w2028970-s1",
+          "gloss": [
+            "indica una domanda"
+          ],
+          "short_gloss": "domanda",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028970-s2",
+          "gloss": [
+            "o",
+            "se"
+          ],
+          "short_gloss": "o",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028970-s3",
+          "gloss": [
+            "qualche-"
+          ],
+          "short_gloss": "qualche-",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028970-s4",
+          "gloss": [
+            "eh?",
+            "uh?"
+          ],
+          "short_gloss": "eh?",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028970-s5",
+          "gloss": [
+            "molto"
+          ],
+          "short_gloss": "molto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028970-s6",
+          "gloss": [
+            "suffisso -ico",
+            "suffisso -ale"
+          ],
+          "short_gloss": "suffisso -ico",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028970-s7",
+          "gloss": [
+            "in quel modo"
+          ],
+          "short_gloss": "in quel modo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2028980,
+      "senses": [
+        {
+          "id": "w2028980-s1",
+          "gloss": [
+            "a",
+            "in"
+          ],
+          "short_gloss": "a",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028980-s2",
+          "gloss": [
+            "a",
+            "quando"
+          ],
+          "short_gloss": "a",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028980-s3",
+          "gloss": [
+            "con",
+            "per mezzo di"
+          ],
+          "short_gloss": "con",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028980-s4",
+          "gloss": [
+            "quindi",
+            "allora"
+          ],
+          "short_gloss": "quindi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028980-s5",
+          "gloss": [
+            "a proposito",
+            "per inciso"
+          ],
+          "short_gloss": "a proposito",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2028990,
+      "senses": [
+        {
+          "id": "w2028990-s1",
+          "gloss": [
+            "a/in (luogo, tempo)"
+          ],
+          "short_gloss": "a/in",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028990-s2",
+          "gloss": [
+            "verso",
+            "in"
+          ],
+          "short_gloss": "verso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028990-s3",
+          "gloss": [
+            "per (scopo)"
+          ],
+          "short_gloss": "per (scopo)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028990-s4",
+          "gloss": [
+            "a causa di",
+            "per"
+          ],
+          "short_gloss": "a causa di",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028990-s5",
+          "gloss": [
+            "da"
+          ],
+          "short_gloss": "da",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028990-s6",
+          "gloss": [
+            "come (ruolo)"
+          ],
+          "short_gloss": "come (ruolo)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028990-s7",
+          "gloss": [
+            "per (frequenza)",
+            "a"
+          ],
+          "short_gloss": "per (frequenza)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028990-s8",
+          "gloss": [
+            "e",
+            "in aggiunta"
+          ],
+          "short_gloss": "in aggiunta",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2028990-s9",
+          "gloss": [
+            "sebbene",
+            "anche se"
+          ],
+          "short_gloss": "sebbene",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2029000,
+      "senses": [
+        {
+          "id": "w2029000-s1",
+          "gloss": [
+            "verso",
+            "a"
+          ],
+          "short_gloss": "verso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2029010,
+      "senses": [
+        {
+          "id": "w2029010-s1",
+          "gloss": [
+            "indica l'oggetto diretto"
+          ],
+          "short_gloss": "oggetto diretto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029010-s2",
+          "gloss": [
+            "indica il soggetto del causativo"
+          ],
+          "short_gloss": "soggetto del causativo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029010-s3",
+          "gloss": [
+            "indica l'area attraversata"
+          ],
+          "short_gloss": "area attraversata",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029010-s4",
+          "gloss": [
+            "indica il periodo di tempo"
+          ],
+          "short_gloss": "periodo di tempo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029010-s5",
+          "gloss": [
+            "indica punto di partenza o separazione"
+          ],
+          "short_gloss": "punto di partenza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029010-s6",
+          "gloss": [
+            "indica oggetto di desiderio"
+          ],
+          "short_gloss": "oggetto di desiderio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2029030,
+      "senses": [
+        {
+          "id": "w2029030-s1",
+          "gloss": [
+            "sebbene",
+            "pur"
+          ],
+          "short_gloss": "sebbene",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2029040,
+      "senses": [
+        {
+          "id": "w2029040-s1",
+          "gloss": [
+            "se... allora",
+            "quando"
+          ],
+          "short_gloss": "se... allora",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029040-s2",
+          "gloss": [
+            "e"
+          ],
+          "short_gloss": "e",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029040-s3",
+          "gloss": [
+            "perché non ...?"
+          ],
+          "short_gloss": "perché non ...?",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029040-s4",
+          "gloss": [
+            "più... più..."
+          ],
+          "short_gloss": "più... più...",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029040-s5",
+          "gloss": [
+            "poiché",
+            "dato che"
+          ],
+          "short_gloss": "poiché",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2029050,
+      "senses": [
+        {
+          "id": "w2029050-s1",
+          "gloss": [
+            "se",
+            "quando",
+            "dopo"
+          ],
+          "short_gloss": "se",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029050-s2",
+          "gloss": [
+            "quanto a",
+            "per quanto riguarda"
+          ],
+          "short_gloss": "quanto a",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029050-s3",
+          "gloss": [
+            "perché non",
+            "che ne dici di"
+          ],
+          "short_gloss": "perché non",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029050-s4",
+          "gloss": [
+            "ti dico che!",
+            "davvero"
+          ],
+          "short_gloss": "ti dico che!",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029050-s5",
+          "gloss": [
+            "particella vocativa"
+          ],
+          "short_gloss": "particella vocativa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2029060,
+      "senses": [
+        {
+          "id": "w2029060-s1",
+          "gloss": [
+            "-ando e -ando"
+          ],
+          "short_gloss": "-ando e -ando",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029060-s2",
+          "gloss": [
+            "fare cose come"
+          ],
+          "short_gloss": "fare cose come",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029060-s3",
+          "gloss": [
+            "esprime un comando"
+          ],
+          "short_gloss": "comando",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029060-s4",
+          "gloss": [
+            "essere"
+          ],
+          "short_gloss": "essere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029060-s5",
+          "gloss": [
+            "completamento o continuazione"
+          ],
+          "short_gloss": "completamento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2029070,
+      "senses": [
+        {
+          "id": "w2029070-s1",
+          "gloss": [
+            "o qualcosa del genere"
+          ],
+          "short_gloss": "o qualcosa del genere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029070-s2",
+          "gloss": [
+            "... o ..."
+          ],
+          "short_gloss": "... o ...",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029070-s3",
+          "gloss": [
+            "appena",
+            "subito dopo"
+          ],
+          "short_gloss": "appena",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029070-s4",
+          "gloss": [
+            "mentre ancora"
+          ],
+          "short_gloss": "mentre ancora",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2029080,
+      "senses": [
+        {
+          "id": "w2029080-s1",
+          "gloss": [
+            "vero?",
+            "no?"
+          ],
+          "short_gloss": "vero?",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029080-s2",
+          "gloss": [
+            "ehi",
+            "senti"
+          ],
+          "short_gloss": "ehi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029080-s3",
+          "gloss": [
+            "sai",
+            "vedi"
+          ],
+          "short_gloss": "sai",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029080-s4",
+          "gloss": [
+            "per favore"
+          ],
+          "short_gloss": "per favore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029080-s5",
+          "gloss": [
+            "dunque",
+            "beh"
+          ],
+          "short_gloss": "dunque",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029080-s6",
+          "gloss": [
+            "non sono sicuro che"
+          ],
+          "short_gloss": "non sono sicuro che",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2029090,
+      "senses": [
+        {
+          "id": "w2029090-s1",
+          "gloss": [
+            "ehi"
+          ],
+          "short_gloss": "ehi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2029100,
+      "senses": [
+        {
+          "id": "w2029100-s1",
+          "gloss": [
+            "esprime emozione"
+          ],
+          "short_gloss": "emozione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029100-s2",
+          "gloss": [
+            "enfasi"
+          ],
+          "short_gloss": "enfasi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029100-s3",
+          "gloss": [
+            "io"
+          ],
+          "short_gloss": "io",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029100-s4",
+          "gloss": [
+            "wah!"
+          ],
+          "short_gloss": "wah!",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029100-s5",
+          "gloss": [
+            "buu!"
+          ],
+          "short_gloss": "buu!",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2029110,
+      "senses": [
+        {
+          "id": "w2029110-s1",
+          "gloss": [
+            "non... (proibizione)"
+          ],
+          "short_gloss": "proibizione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029110-s2",
+          "gloss": [
+            "fa'"
+          ],
+          "short_gloss": "fa'",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029110-s3",
+          "gloss": [
+            "ehi",
+            "senti"
+          ],
+          "short_gloss": "ehi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029110-s4",
+          "gloss": [
+            "beh",
+            "ti dico"
+          ],
+          "short_gloss": "beh",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029110-s5",
+          "gloss": [
+            "wow",
+            "ooh"
+          ],
+          "short_gloss": "wow",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029110-s6",
+          "gloss": [
+            "vero?",
+            "no?"
+          ],
+          "short_gloss": "vero?",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2029120,
+      "senses": [
+        {
+          "id": "w2029120-s1",
+          "gloss": [
+            "-ità"
+          ],
+          "short_gloss": "-ità",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029120-s2",
+          "gloss": [
+            "affermazione"
+          ],
+          "short_gloss": "affermazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2029120-s3",
+          "gloss": [
+            "su",
+            "dai"
+          ],
+          "short_gloss": "dai",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2029130,
+      "senses": [
+        {
+          "id": "w2029130-s1",
+          "gloss": [
+            "particella enfatica",
+            "particella imperativa"
+          ],
+          "short_gloss": "particella enfatica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2029860,
+      "senses": [
+        {
+          "id": "w2029860-s1",
+          "gloss": [
+            "comunicazione reciproca",
+            "intesa reciproca"
+          ],
+          "short_gloss": "intesa reciproca",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2033380,
+      "senses": [
+        {
+          "id": "w2033380-s1",
+          "gloss": [
+            "caccia al lavoro",
+            "ricerca di lavoro"
+          ],
+          "short_gloss": "ricerca di lavoro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2034300,
+      "senses": [
+        {
+          "id": "w2034300-s1",
+          "gloss": [
+            "da... a...",
+            "fino a",
+            "nel periodo"
+          ],
+          "short_gloss": "da... a...",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2034300-s2",
+          "gloss": [
+            "riguardo a",
+            "per quanto riguarda"
+          ],
+          "short_gloss": "riguardo a",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2034300-s3",
+          "gloss": [
+            "giurare su"
+          ],
+          "short_gloss": "giurare su",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2034520,
+      "senses": [
+        {
+          "id": "w2034520-s1",
+          "gloss": [
+            "perfino",
+            "anche"
+          ],
+          "short_gloss": "perfino",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2034520-s2",
+          "gloss": [
+            "se solo",
+            "basta che"
+          ],
+          "short_gloss": "se solo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2036080,
+      "senses": [
+        {
+          "id": "w2036080-s1",
+          "gloss": [
+            "depressione",
+            "umore basso"
+          ],
+          "short_gloss": "depressione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2036080-s2",
+          "gloss": [
+            "lussureggiante (vegetazione)"
+          ],
+          "short_gloss": "lussureggiante",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2036820,
+      "senses": [
+        {
+          "id": "w2036820-s1",
+          "gloss": [
+            "usato (es. auto)"
+          ],
+          "short_gloss": "usato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2036870,
+      "senses": [
+        {
+          "id": "w2036870-s1",
+          "gloss": [
+            "richiesta",
+            "favore",
+            "desiderio"
+          ],
+          "short_gloss": "richiesta",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2036870-s2",
+          "gloss": [
+            "per favore"
+          ],
+          "short_gloss": "per favore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2036920,
+      "senses": [
+        {
+          "id": "w2036920-s1",
+          "gloss": [
+            "bianco splendente (pelle)"
+          ],
+          "short_gloss": "bianco splendente",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2036920-s2",
+          "gloss": [
+            "sbiancamento (pelle, denti)"
+          ],
+          "short_gloss": "sbiancamento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2037230,
+      "senses": [
+        {
+          "id": "w2037230-s1",
+          "gloss": [
+            "non c'è modo che",
+            "impossibile che"
+          ],
+          "short_gloss": "non c'è modo che",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2037230-s2",
+          "gloss": [
+            "facile",
+            "semplice"
+          ],
+          "short_gloss": "facile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2037400,
+      "senses": [
+        {
+          "id": "w2037400-s1",
+          "gloss": [
+            "quota",
+            "obiettivo assegnato"
+          ],
+          "short_gloss": "quota",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2037700,
+      "senses": [
+        {
+          "id": "w2037700-s1",
+          "gloss": [
+            "occasione",
+            "opportunità"
+          ],
+          "short_gloss": "occasione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2037700-s2",
+          "gloss": [
+            "macchina"
+          ],
+          "short_gloss": "macchina",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2037700-s3",
+          "gloss": [
+            "aereo"
+          ],
+          "short_gloss": "aereo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2037700-s4",
+          "gloss": [
+            "contatore per aerei"
+          ],
+          "short_gloss": "contatore per aerei",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2037700-s5",
+          "gloss": [
+            "vite rimanenti"
+          ],
+          "short_gloss": "vite rimanenti",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2038160,
+      "senses": [
+        {
+          "id": "w2038160-s1",
+          "gloss": [
+            "a chiunque",
+            "a tutti"
+          ],
+          "short_gloss": "a chiunque",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2038160-s2",
+          "gloss": [
+            "da chiunque"
+          ],
+          "short_gloss": "da chiunque",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2038160-s3",
+          "gloss": [
+            "in chiunque"
+          ],
+          "short_gloss": "in chiunque",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2038220,
+      "senses": [
+        {
+          "id": "w2038220-s1",
+          "gloss": [
+            "corposo (sapore)",
+            "morbido"
+          ],
+          "short_gloss": "corposo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2038220-s2",
+          "gloss": [
+            "rilassato",
+            "tranquillo"
+          ],
+          "short_gloss": "rilassato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2038230,
+      "senses": [
+        {
+          "id": "w2038230-s1",
+          "gloss": [
+            "a modo suo",
+            "nel proprio stile"
+          ],
+          "short_gloss": "a modo suo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2043010,
+      "senses": [
+        {
+          "id": "w2043010-s1",
+          "gloss": [
+            "egoista",
+            "a proprio comodo",
+            "incurante degli altri"
+          ],
+          "short_gloss": "egoista",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2055530,
+      "senses": [
+        {
+          "id": "w2055530-s1",
+          "gloss": [
+            "ma",
+            "tuttavia"
+          ],
+          "short_gloss": "ma",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2055960,
+      "senses": [
+        {
+          "id": "w2055960-s1",
+          "gloss": [
+            "impianto (dentale)"
+          ],
+          "short_gloss": "impianto dentale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2056560,
+      "senses": [
+        {
+          "id": "w2056560-s1",
+          "gloss": [
+            "se solo hai",
+            "basta che ci sia"
+          ],
+          "short_gloss": "basta che ci sia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2057560,
+      "senses": [
+        {
+          "id": "w2057560-s1",
+          "gloss": [
+            "non significa che",
+            "non è che"
+          ],
+          "short_gloss": "non significa che",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2058700,
+      "senses": [
+        {
+          "id": "w2058700-s1",
+          "gloss": [
+            "snowboard",
+            "snowboarding"
+          ],
+          "short_gloss": "snowboard",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2059200,
+      "senses": [
+        {
+          "id": "w2059200-s1",
+          "gloss": [
+            "uno dei",
+            "qualsiasi",
+            "uno o l'altro"
+          ],
+          "short_gloss": "uno dei",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2059630,
+      "senses": [
+        {
+          "id": "w2059630-s1",
+          "gloss": [
+            "seguire",
+            "venire con"
+          ],
+          "short_gloss": "seguire",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2066670,
+      "senses": [
+        {
+          "id": "w2066670-s1",
+          "gloss": [
+            "alcune persone",
+            "un certo numero di persone"
+          ],
+          "short_gloss": "alcune persone",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2067770,
+      "senses": [
+        {
+          "id": "w2067770-s1",
+          "gloss": [
+            "suffisso plurale"
+          ],
+          "short_gloss": "suffisso plurale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2067770-s2",
+          "gloss": [
+            "circa",
+            "indicatore approssimativo"
+          ],
+          "short_gloss": "circa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2067770-s3",
+          "gloss": [
+            "suffisso nominalizzante"
+          ],
+          "short_gloss": "suffisso nominalizzante",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2067900,
+      "senses": [
+        {
+          "id": "w2067900-s1",
+          "gloss": [
+            "intervallo",
+            "periodo"
+          ],
+          "short_gloss": "intervallo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2067900-s2",
+          "gloss": [
+            "tra",
+            "inter-"
+          ],
+          "short_gloss": "tra",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2067900-s3",
+          "gloss": [
+            "buona occasione",
+            "opportunità"
+          ],
+          "short_gloss": "buona occasione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2067900-s4",
+          "gloss": [
+            "discordia",
+            "alienazione"
+          ],
+          "short_gloss": "discordia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2067900-s5",
+          "gloss": [
+            "spia",
+            "agente segreto"
+          ],
+          "short_gloss": "spia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2068010,
+      "senses": [
+        {
+          "id": "w2068010-s1",
+          "gloss": [
+            "posto in classifica"
+          ],
+          "short_gloss": "posto in classifica",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2068010-s2",
+          "gloss": [
+            "cifra decimale"
+          ],
+          "short_gloss": "cifra decimale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2068010-s3",
+          "gloss": [
+            "contatore per fantasmi"
+          ],
+          "short_gloss": "contatore per fantasmi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2068080,
+      "senses": [
+        {
+          "id": "w2068080-s1",
+          "gloss": [
+            "quanto",
+            "quanto a lungo"
+          ],
+          "short_gloss": "quanto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2068800,
+      "senses": [
+        {
+          "id": "w2068800-s1",
+          "gloss": [
+            "nonostante il ruolo",
+            "in modo non consono"
+          ],
+          "short_gloss": "nonostante il ruolo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2069030,
+      "senses": [
+        {
+          "id": "w2069030-s1",
+          "gloss": [
+            "come sempre",
+            "come al solito"
+          ],
+          "short_gloss": "come al solito",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2069090,
+      "senses": [
+        {
+          "id": "w2069090-s1",
+          "gloss": [
+            "con forza",
+            "vigolosamente"
+          ],
+          "short_gloss": "con forza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2069720,
+      "senses": [
+        {
+          "id": "w2069720-s1",
+          "gloss": [
+            "sofficemente",
+            "leggermente",
+            "morbido"
+          ],
+          "short_gloss": "sofficemente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2070730,
+      "senses": [
+        {
+          "id": "w2070730-s1",
+          "gloss": [
+            "non necessariamente",
+            "non è sempre vero"
+          ],
+          "short_gloss": "non necessariamente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2072990,
+      "senses": [
+        {
+          "id": "w2072990-s1",
+          "gloss": [
+            "qui intorno",
+            "da quelle parti"
+          ],
+          "short_gloss": "qui intorno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2073470,
+      "senses": [
+        {
+          "id": "w2073470-s1",
+          "gloss": [
+            "forma",
+            "shape"
+          ],
+          "short_gloss": "forma",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2073710,
+      "senses": [
+        {
+          "id": "w2073710-s1",
+          "gloss": [
+            "più del previsto"
+          ],
+          "short_gloss": "più del previsto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2074700,
+      "senses": [
+        {
+          "id": "w2074700-s1",
+          "gloss": [
+            "ritratto",
+            "portrait"
+          ],
+          "short_gloss": "ritratto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2078260,
+      "senses": [
+        {
+          "id": "w2078260-s1",
+          "gloss": [
+            "Patrimonio dell'Umanità"
+          ],
+          "short_gloss": "Patrimonio dell'Umanità",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2078800,
+      "senses": [
+        {
+          "id": "w2078800-s1",
+          "gloss": [
+            "Osaka"
+          ],
+          "short_gloss": "Osaka",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2078870,
+      "senses": [
+        {
+          "id": "w2078870-s1",
+          "gloss": [
+            "Roma"
+          ],
+          "short_gloss": "Roma",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2080510,
+      "senses": [
+        {
+          "id": "w2080510-s1",
+          "gloss": [
+            "forbici (carta-forbici-sasso)"
+          ],
+          "short_gloss": "forbici",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2080720,
+      "senses": [
+        {
+          "id": "w2080720-s1",
+          "gloss": [
+            "entrambi"
+          ],
+          "short_gloss": "entrambi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2080720-s2",
+          "gloss": [
+            "contatore per carrozze",
+            "contatore per veicoli"
+          ],
+          "short_gloss": "contatore per veicoli",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2080720-s3",
+          "gloss": [
+            "ryō (tael, unità di peso)"
+          ],
+          "short_gloss": "ryō (unità di peso)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2080720-s4",
+          "gloss": [
+            "ryō (unità monetaria)"
+          ],
+          "short_gloss": "ryō (unità monetaria)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2080720-s5",
+          "gloss": [
+            "ryō (misura di tessuto)"
+          ],
+          "short_gloss": "ryō (misura di tessuto)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2080720-s6",
+          "gloss": [
+            "ryō (unità di peso ritsuryō)"
+          ],
+          "short_gloss": "ryō (unità di peso ritsuryō)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2080720-s7",
+          "gloss": [
+            "contatore per armature o vestiti"
+          ],
+          "short_gloss": "contatore per armature",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2080900,
+      "senses": [
+        {
+          "id": "w2080900-s1",
+          "gloss": [
+            "storia"
+          ],
+          "short_gloss": "storia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2082140,
+      "senses": [
+        {
+          "id": "w2082140-s1",
+          "gloss": [
+            "grande",
+            "importante",
+            "pesante",
+            "forte"
+          ],
+          "short_gloss": "grande",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2082140-s2",
+          "gloss": [
+            "più anziano",
+            "senior"
+          ],
+          "short_gloss": "più anziano",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2082140-s3",
+          "gloss": [
+            "finale",
+            "ultimo"
+          ],
+          "short_gloss": "finale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2082140-s4",
+          "gloss": [
+            "generale",
+            "grossolano"
+          ],
+          "short_gloss": "generale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2082450,
+      "senses": [
+        {
+          "id": "w2082450-s1",
+          "gloss": [
+            "grande",
+            "enorme",
+            "importante",
+            "grave"
+          ],
+          "short_gloss": "grande",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2082450-s2",
+          "gloss": [
+            "eminente",
+            "illustre"
+          ],
+          "short_gloss": "eminente",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2082450-s3",
+          "gloss": [
+            "-dimensione",
+            "della grandezza di"
+          ],
+          "short_gloss": "della grandezza di",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2082450-s4",
+          "gloss": [
+            "università"
+          ],
+          "short_gloss": "università",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2082450-s5",
+          "gloss": [
+            "grande (porzione)"
+          ],
+          "short_gloss": "grande (porzione)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2082450-s6",
+          "gloss": [
+            "mese lungo (31 giorni)"
+          ],
+          "short_gloss": "mese lungo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2083100,
+      "senses": [
+        {
+          "id": "w2083100-s1",
+          "gloss": [
+            "domenica"
+          ],
+          "short_gloss": "domenica",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2083100-s2",
+          "gloss": [
+            "giorno n-esimo"
+          ],
+          "short_gloss": "giorno n-esimo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2083100-s3",
+          "gloss": [
+            "contatore per giorni"
+          ],
+          "short_gloss": "contatore per giorni",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2083100-s4",
+          "gloss": [
+            "Giappone"
+          ],
+          "short_gloss": "Giappone",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2083140,
+      "senses": [
+        {
+          "id": "w2083140-s1",
+          "gloss": [
+            "indifferente",
+            "non importante",
+            "irrilevante"
+          ],
+          "short_gloss": "indifferente",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2083140-s2",
+          "gloss": [
+            "qualsiasi",
+            "non mi importa"
+          ],
+          "short_gloss": "qualsiasi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2083370,
+      "senses": [
+        {
+          "id": "w2083370-s1",
+          "gloss": [
+            "Regno Unito",
+            "Gran Bretagna"
+          ],
+          "short_gloss": "Regno Unito",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2083370-s2",
+          "gloss": [
+            "inglese (lingua)"
+          ],
+          "short_gloss": "inglese (lingua)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2083540,
+      "senses": [
+        {
+          "id": "w2083540-s1",
+          "gloss": [
+            "piccolezza",
+            "piccolo oggetto"
+          ],
+          "short_gloss": "piccolezza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2083540-s2",
+          "gloss": [
+            "mese corto"
+          ],
+          "short_gloss": "mese corto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2083540-s3",
+          "gloss": [
+            "scuola elementare"
+          ],
+          "short_gloss": "scuola elementare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2083540-s4",
+          "gloss": [
+            "inferiore"
+          ],
+          "short_gloss": "inferiore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2083540-s5",
+          "gloss": [
+            "più giovane",
+            "junior"
+          ],
+          "short_gloss": "più giovane",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2083540-s6",
+          "gloss": [
+            "unità di area (circa 400 m²)"
+          ],
+          "short_gloss": "unità di area",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2083570,
+      "senses": [
+        {
+          "id": "w2083570-s1",
+          "gloss": [
+            "per tutto",
+            "durante tutto"
+          ],
+          "short_gloss": "per tutto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2083570-s2",
+          "gloss": [
+            "entro",
+            "nel corso di"
+          ],
+          "short_gloss": "entro",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2083570-s3",
+          "gloss": [
+            "dappertutto"
+          ],
+          "short_gloss": "dappertutto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2083570-s4",
+          "gloss": [
+            "tutto il",
+            "l'intero"
+          ],
+          "short_gloss": "tutto il",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2083720,
+      "senses": [
+        {
+          "id": "w2083720-s1",
+          "gloss": [
+            "-astro",
+            "-oso",
+            "tipo"
+          ],
+          "short_gloss": "-astro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2083990,
+      "senses": [
+        {
+          "id": "w2083990-s1",
+          "gloss": [
+            "non poter fare a meno",
+            "irresistibilmente"
+          ],
+          "short_gloss": "non poter fare a meno",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2083990-s2",
+          "gloss": [
+            "non si deve",
+            "non bisogna"
+          ],
+          "short_gloss": "non si deve",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2083990-s3",
+          "gloss": [
+            "bisogna",
+            "dovere"
+          ],
+          "short_gloss": "bisogna",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2083990-s4",
+          "gloss": [
+            "non poter",
+            "essere incapace"
+          ],
+          "short_gloss": "non poter",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2083990-s5",
+          "gloss": [
+            "non"
+          ],
+          "short_gloss": "non",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2084000,
+      "senses": [
+        {
+          "id": "w2084000-s1",
+          "gloss": [
+            "quando diventa",
+            "quando si tratta di"
+          ],
+          "short_gloss": "quando diventa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2084030,
+      "senses": [
+        {
+          "id": "w2084030-s1",
+          "gloss": [
+            "se così",
+            "in tal caso"
+          ],
+          "short_gloss": "in tal caso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2084040,
+      "senses": [
+        {
+          "id": "w2084040-s1",
+          "gloss": [
+            "se così",
+            "in tal caso"
+          ],
+          "short_gloss": "in tal caso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2084570,
+      "senses": [
+        {
+          "id": "w2084570-s1",
+          "gloss": [
+            "oops",
+            "ops",
+            "scusa"
+          ],
+          "short_gloss": "ops",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2084590,
+      "senses": [
+        {
+          "id": "w2084590-s1",
+          "gloss": [
+            "estensione del file"
+          ],
+          "short_gloss": "estensione del file",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2084840,
+      "senses": [
+        {
+          "id": "w2084840-s1",
+          "gloss": [
+            "anno"
+          ],
+          "short_gloss": "anno",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2084840-s2",
+          "gloss": [
+            "contatore per anni"
+          ],
+          "short_gloss": "contatore per anni",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2084840-s3",
+          "gloss": [
+            "periodo di apprendistato"
+          ],
+          "short_gloss": "periodo di apprendistato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2085080,
+      "senses": [
+        {
+          "id": "w2085080-s1",
+          "gloss": [
+            "così",
+            "in quel modo"
+          ],
+          "short_gloss": "così",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2085090,
+      "senses": [
+        {
+          "id": "w2085090-s1",
+          "gloss": [
+            "di quel tipo",
+            "così"
+          ],
+          "short_gloss": "di quel tipo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2085370,
+      "senses": [
+        {
+          "id": "w2085370-s1",
+          "gloss": [
+            "eruzione cutanea",
+            "irritazione"
+          ],
+          "short_gloss": "eruzione cutanea",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2085370-s2",
+          "gloss": [
+            "influenza"
+          ],
+          "short_gloss": "influenza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2085370-s3",
+          "gloss": [
+            "fanatico di",
+            "ossessionato da"
+          ],
+          "short_gloss": "fanatico di",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2085400,
+      "senses": [
+        {
+          "id": "w2085400-s1",
+          "gloss": [
+            "festival di metà gennaio con capanne di neve"
+          ],
+          "short_gloss": "festival con capanne di neve",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2085400-s2",
+          "gloss": [
+            "capanna di neve"
+          ],
+          "short_gloss": "capanna di neve",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2085890,
+      "senses": [
+        {
+          "id": "w2085890-s1",
+          "gloss": [
+            "particella interrogativa finale (dubbio)"
+          ],
+          "short_gloss": "particella interrogativa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2086640,
+      "senses": [
+        {
+          "id": "w2086640-s1",
+          "gloss": [
+            "e",
+            "inoltre"
+          ],
+          "short_gloss": "inoltre",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2086640-s2",
+          "gloss": [
+            "perché",
+            "dato che"
+          ],
+          "short_gloss": "perché",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2086640-s3",
+          "gloss": [
+            "il fatto è che"
+          ],
+          "short_gloss": "il fatto è che",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2086750,
+      "senses": [
+        {
+          "id": "w2086750-s1",
+          "gloss": [
+            "contatore per paesi"
+          ],
+          "short_gloss": "contatore per paesi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2086960,
+      "senses": [
+        {
+          "id": "w2086960-s1",
+          "gloss": [
+            "ha detto che"
+          ],
+          "short_gloss": "ha detto che",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2086960-s2",
+          "gloss": [
+            "anche se"
+          ],
+          "short_gloss": "anche se",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2086960-s3",
+          "gloss": [
+            "dici davvero che"
+          ],
+          "short_gloss": "dici davvero che",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2086960-s4",
+          "gloss": [
+            "te l'ho già detto"
+          ],
+          "short_gloss": "te l'ho già detto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2086960-s5",
+          "gloss": [
+            "il detto ...",
+            "il suddetto"
+          ],
+          "short_gloss": "il suddetto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2086960-s6",
+          "gloss": [
+            "dice che"
+          ],
+          "short_gloss": "dice che",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2086960-s7",
+          "gloss": [
+            "ho sentito che"
+          ],
+          "short_gloss": "ho sentito che",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2086960-s8",
+          "gloss": [
+            "quanto al termine",
+            "riguardo al termine"
+          ],
+          "short_gloss": "quanto al termine",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2086960-s9",
+          "gloss": [
+            "quanto a",
+            "riguardo a"
+          ],
+          "short_gloss": "quanto a",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2087300,
+      "senses": [
+        {
+          "id": "w2087300-s1",
+          "gloss": [
+            "se (o no)",
+            "che ... oppure no"
+          ],
+          "short_gloss": "se (o no)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2087420,
+      "senses": [
+        {
+          "id": "w2087420-s1",
+          "gloss": [
+            "scuse"
+          ],
+          "short_gloss": "scuse",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2087620,
+      "senses": [
+        {
+          "id": "w2087620-s1",
+          "gloss": [
+            "in perfetta forma",
+            "alla grande"
+          ],
+          "short_gloss": "in perfetta forma",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2087820,
+      "senses": [
+        {
+          "id": "w2087820-s1",
+          "gloss": [
+            "il fatto è che",
+            "la ragione è che"
+          ],
+          "short_gloss": "il fatto è che",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2088270,
+      "senses": [
+        {
+          "id": "w2088270-s1",
+          "gloss": [
+            "inequivocabile",
+            "certo",
+            "ovvio"
+          ],
+          "short_gloss": "inequivocabile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2088300,
+      "senses": [
+        {
+          "id": "w2088300-s1",
+          "gloss": [
+            "primo del suo genere in Giappone"
+          ],
+          "short_gloss": "primo in Giappone",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2088750,
+      "senses": [
+        {
+          "id": "w2088750-s1",
+          "gloss": [
+            "buona giornata",
+            "a dopo"
+          ],
+          "short_gloss": "buona giornata",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2088970,
+      "senses": [
+        {
+          "id": "w2088970-s1",
+          "gloss": [
+            "probabilmente non...",
+            "credo che non..."
+          ],
+          "short_gloss": "probabilmente non...",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2089020,
+      "senses": [
+        {
+          "id": "w2089020-s1",
+          "gloss": [
+            "essere",
+            "è"
+          ],
+          "short_gloss": "essere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2089060,
+      "senses": [
+        {
+          "id": "w2089060-s1",
+          "gloss": [
+            "cose come",
+            "qualcosa come",
+            "il fatto che"
+          ],
+          "short_gloss": "cose come",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2089620,
+      "senses": [
+        {
+          "id": "w2089620-s1",
+          "gloss": [
+            "a parte questo",
+            "tornando al discorso"
+          ],
+          "short_gloss": "a parte questo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2089700,
+      "senses": [
+        {
+          "id": "w2089700-s1",
+          "gloss": [
+            "linea di prodotti più venduti",
+            "best seller"
+          ],
+          "short_gloss": "più venduti",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2092660,
+      "senses": [
+        {
+          "id": "w2092660-s1",
+          "gloss": [
+            "in qualità di",
+            "che è"
+          ],
+          "short_gloss": "in qualità di",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2092720,
+      "senses": [
+        {
+          "id": "w2092720-s1",
+          "gloss": [
+            "Stadio Koshien"
+          ],
+          "short_gloss": "Stadio Koshien",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2092720-s2",
+          "gloss": [
+            "Torneo nazionale di baseball liceale (estate)"
+          ],
+          "short_gloss": "Torneo nazionale (estate)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2092720-s3",
+          "gloss": [
+            "Torneo nazionale di baseball liceale (primavera)"
+          ],
+          "short_gloss": "Torneo nazionale (primavera)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2092950,
+      "senses": [
+        {
+          "id": "w2092950-s1",
+          "gloss": [
+            "questi qui",
+            "questi tipi"
+          ],
+          "short_gloss": "questi qui",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2093030,
+      "senses": [
+        {
+          "id": "w2093030-s1",
+          "gloss": [
+            "ah, davvero?",
+            "è così?"
+          ],
+          "short_gloss": "ah, davvero?",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2093030-s2",
+          "gloss": [
+            "capisco",
+            "ok"
+          ],
+          "short_gloss": "capisco",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2096190,
+      "senses": [
+        {
+          "id": "w2096190-s1",
+          "gloss": [
+            "per caso",
+            "magari"
+          ],
+          "short_gloss": "per caso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2096470,
+      "senses": [
+        {
+          "id": "w2096470-s1",
+          "gloss": [
+            "carne o pesce tritato condito"
+          ],
+          "short_gloss": "carne tritata condita",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2096470-s2",
+          "gloss": [
+            "sfilacciato",
+            "rovinato"
+          ],
+          "short_gloss": "sfilacciato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2096470-s3",
+          "gloss": [
+            "fine",
+            "piccolo"
+          ],
+          "short_gloss": "fine",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2097680,
+      "senses": [
+        {
+          "id": "w2097680-s1",
+          "gloss": [
+            "vero?",
+            "non è vero?"
+          ],
+          "short_gloss": "vero?",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2097680-s2",
+          "gloss": [
+            "essere",
+            "è"
+          ],
+          "short_gloss": "essere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2097940,
+      "senses": [
+        {
+          "id": "w2097940-s1",
+          "gloss": [
+            "non è ... neppure",
+            "né ... né ..."
+          ],
+          "short_gloss": "non è ... neppure",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2097940-s2",
+          "gloss": [
+            "non ... neppure",
+            "né ... né ..."
+          ],
+          "short_gloss": "non ... neppure",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2098150,
+      "senses": [
+        {
+          "id": "w2098150-s1",
+          "gloss": [
+            "indispensabile",
+            "assolutamente necessario"
+          ],
+          "short_gloss": "indispensabile",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2098150-s2",
+          "gloss": [
+            "dover",
+            "dovere"
+          ],
+          "short_gloss": "dover",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2098230,
+      "senses": [
+        {
+          "id": "w2098230-s1",
+          "gloss": [
+            "essere anche"
+          ],
+          "short_gloss": "essere anche",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2098230-s2",
+          "gloss": [
+            "o qualcosa del genere"
+          ],
+          "short_gloss": "o qualcosa del genere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2098260,
+      "senses": [
+        {
+          "id": "w2098260-s1",
+          "gloss": [
+            "chiunque",
+            "tutti"
+          ],
+          "short_gloss": "chiunque",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2098290,
+      "senses": [
+        {
+          "id": "w2098290-s1",
+          "gloss": [
+            "entro",
+            "dentro"
+          ],
+          "short_gloss": "dentro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2098400,
+      "senses": [
+        {
+          "id": "w2098400-s1",
+          "gloss": [
+            "Santuario Yasukuni"
+          ],
+          "short_gloss": "Santuario Yasukuni",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2098430,
+      "senses": [
+        {
+          "id": "w2098430-s1",
+          "gloss": [
+            "interamente",
+            "completamente"
+          ],
+          "short_gloss": "interamente",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2098430-s2",
+          "gloss": [
+            "pulito",
+            "ben aderente"
+          ],
+          "short_gloss": "ben aderente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2100330,
+      "senses": [
+        {
+          "id": "w2100330-s1",
+          "gloss": [
+            "negozio da 100 yen",
+            "discount"
+          ],
+          "short_gloss": "negozio da 100 yen",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2100500,
+      "senses": [
+        {
+          "id": "w2100500-s1",
+          "gloss": [
+            "questo fine settimana"
+          ],
+          "short_gloss": "questo fine settimana",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2100710,
+      "senses": [
+        {
+          "id": "w2100710-s1",
+          "gloss": [
+            "potrebbe",
+            "forse"
+          ],
+          "short_gloss": "potrebbe",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2100740,
+      "senses": [
+        {
+          "id": "w2100740-s1",
+          "gloss": [
+            "se così",
+            "in tal caso"
+          ],
+          "short_gloss": "in tal caso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2100760,
+      "senses": [
+        {
+          "id": "w2100760-s1",
+          "gloss": [
+            "se diventa",
+            "quando si tratta di"
+          ],
+          "short_gloss": "se diventa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2100770,
+      "senses": [
+        {
+          "id": "w2100770-s1",
+          "gloss": [
+            "se diventa",
+            "quando si tratta di"
+          ],
+          "short_gloss": "se diventa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2100900,
+      "senses": [
+        {
+          "id": "w2100900-s1",
+          "gloss": [
+            "diventare",
+            "essere"
+          ],
+          "short_gloss": "diventare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2101010,
+      "senses": [
+        {
+          "id": "w2101010-s1",
+          "gloss": [
+            "in un certo senso",
+            "in qualche modo"
+          ],
+          "short_gloss": "in un certo senso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2101020,
+      "senses": [
+        {
+          "id": "w2101020-s1",
+          "gloss": [
+            "in un certo senso",
+            "in qualche modo"
+          ],
+          "short_gloss": "in un certo senso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2101420,
+      "senses": [
+        {
+          "id": "w2101420-s1",
+          "gloss": [
+            "farsi vedere",
+            "passare"
+          ],
+          "short_gloss": "farsi vedere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2101560,
+      "senses": [
+        {
+          "id": "w2101560-s1",
+          "gloss": [
+            "perdere le staffe",
+            "andare su tutte le furie"
+          ],
+          "short_gloss": "perdere le staffe",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2103660,
+      "senses": [
+        {
+          "id": "w2103660-s1",
+          "gloss": [
+            "il più alto",
+            "il più in cima"
+          ],
+          "short_gloss": "il più alto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2104360,
+      "senses": [
+        {
+          "id": "w2104360-s1",
+          "gloss": [
+            "assumersi la responsabilità di"
+          ],
+          "short_gloss": "assumersi la responsabilità",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2104620,
+      "senses": [
+        {
+          "id": "w2104620-s1",
+          "gloss": [
+            "insolitamente",
+            "in modo inusuale"
+          ],
+          "short_gloss": "insolitamente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2104790,
+      "senses": [
+        {
+          "id": "w2104790-s1",
+          "gloss": [
+            "zona erogena"
+          ],
+          "short_gloss": "zona erogena",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2104990,
+      "senses": [
+        {
+          "id": "w2104990-s1",
+          "gloss": [
+            "di quel genere",
+            "simile"
+          ],
+          "short_gloss": "di quel genere",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2104990-s2",
+          "gloss": [
+            "verosimile",
+            "sembra autentico"
+          ],
+          "short_gloss": "verosimile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2106010,
+      "senses": [
+        {
+          "id": "w2106010-s1",
+          "gloss": [
+            "una persona",
+            "un cliente singolo"
+          ],
+          "short_gloss": "cliente singolo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2106010-s2",
+          "gloss": [
+            "donna anziana non sposata e senza figli"
+          ],
+          "short_gloss": "donna anziana non sposata",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2106890,
+      "senses": [
+        {
+          "id": "w2106890-s1",
+          "gloss": [
+            "di quel tipo",
+            "tale"
+          ],
+          "short_gloss": "tale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2108190,
+      "senses": [
+        {
+          "id": "w2108190-s1",
+          "gloss": [
+            "fare una domanda"
+          ],
+          "short_gloss": "fare una domanda",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2108590,
+      "senses": [
+        {
+          "id": "w2108590-s1",
+          "gloss": [
+            "fare in anticipo",
+            "preparare"
+          ],
+          "short_gloss": "fare in anticipo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2109610,
+      "senses": [
+        {
+          "id": "w2109610-s1",
+          "gloss": [
+            "impossibile"
+          ],
+          "short_gloss": "impossibile",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2109610-s2",
+          "gloss": [
+            "incredibile",
+            "assurdo"
+          ],
+          "short_gloss": "incredibile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2110850,
+      "senses": [
+        {
+          "id": "w2110850-s1",
+          "gloss": [
+            "mai più"
+          ],
+          "short_gloss": "mai più",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2112070,
+      "senses": [
+        {
+          "id": "w2112070-s1",
+          "gloss": [
+            "tremolio",
+            "vibrazione"
+          ],
+          "short_gloss": "tremolio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2112070-s2",
+          "gloss": [
+            "fluttuazione statistica"
+          ],
+          "short_gloss": "fluttuazione statistica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2112350,
+      "senses": [
+        {
+          "id": "w2112350-s1",
+          "gloss": [
+            "piano interrato di un grande magazzino (cibo)"
+          ],
+          "short_gloss": "piano interrato (cibo)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2112420,
+      "senses": [
+        {
+          "id": "w2112420-s1",
+          "gloss": [
+            "natura"
+          ],
+          "short_gloss": "natura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2112430,
+      "senses": [
+        {
+          "id": "w2112430-s1",
+          "gloss": [
+            "unghia",
+            "nail"
+          ],
+          "short_gloss": "unghia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2114420,
+      "senses": [
+        {
+          "id": "w2114420-s1",
+          "gloss": [
+            "il prima possibile"
+          ],
+          "short_gloss": "il prima possibile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2116050,
+      "senses": [
+        {
+          "id": "w2116050-s1",
+          "gloss": [
+            "ospitalità",
+            "accoglienza",
+            "servizio"
+          ],
+          "short_gloss": "ospitalità",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2116050-s2",
+          "gloss": [
+            "rinfresco",
+            "offerta di cibo e bevande"
+          ],
+          "short_gloss": "rinfresco",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2116270,
+      "senses": [
+        {
+          "id": "w2116270-s1",
+          "gloss": [
+            "relativo alla Cina"
+          ],
+          "short_gloss": "relativo alla Cina",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2117800,
+      "senses": [
+        {
+          "id": "w2117800-s1",
+          "gloss": [
+            "buono viaggio",
+            "voucher di viaggio"
+          ],
+          "short_gloss": "voucher di viaggio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2118110,
+      "senses": [
+        {
+          "id": "w2118110-s1",
+          "gloss": [
+            "a dirla tutta",
+            "francamente"
+          ],
+          "short_gloss": "a dirla tutta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2121800,
+      "senses": [
+        {
+          "id": "w2121800-s1",
+          "gloss": [
+            "10.000",
+            "diecimila"
+          ],
+          "short_gloss": "diecimila",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2122310,
+      "senses": [
+        {
+          "id": "w2122310-s1",
+          "gloss": [
+            "eh?",
+            "cosa?"
+          ],
+          "short_gloss": "eh?",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2122310-s2",
+          "gloss": [
+            "sì",
+            "esatto"
+          ],
+          "short_gloss": "sì",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2122310-s3",
+          "gloss": [
+            "rafforza una domanda o un'affermazione"
+          ],
+          "short_gloss": "rafforza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2122310-s4",
+          "gloss": [
+            "ehi"
+          ],
+          "short_gloss": "ehi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2122790,
+      "senses": [
+        {
+          "id": "w2122790-s1",
+          "gloss": [
+            "osechi",
+            "cibo di Capodanno"
+          ],
+          "short_gloss": "osechi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2122940,
+      "senses": [
+        {
+          "id": "w2122940-s1",
+          "gloss": [
+            "sembrare desiderare",
+            "essere ansioso di"
+          ],
+          "short_gloss": "sembrare desiderare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2123190,
+      "senses": [
+        {
+          "id": "w2123190-s1",
+          "gloss": [
+            "negozio da 100 yen",
+            "100 yen shop"
+          ],
+          "short_gloss": "negozio da 100 yen",
+          "source": "manual_translation"
+        }
+      ]
+    }
+  ]
+}
