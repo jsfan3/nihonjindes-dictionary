@@ -1,0 +1,3339 @@
+{
+  "schema": {
+    "name": "jp-words-lang",
+    "version": "1.0"
+  },
+  "lang": "it",
+  "range": {
+    "start_id": 1023890,
+    "end_id": 1034020
+  },
+  "coverage": {
+    "translated_word_ids_in_file": 200,
+    "translated_common_rank_range": {
+      "start_rank": 774,
+      "end_rank": 1008
+    },
+    "common_word_ids_total": 30103
+  },
+  "entries": [
+    {
+      "id": 1023890,
+      "senses": [
+        {
+          "id": "w1023890-s1",
+          "gloss": [
+            "Indonesia"
+          ],
+          "short_gloss": "Indonesia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1023980,
+      "senses": [
+        {
+          "id": "w1023980-s1",
+          "gloss": [
+            "inverter"
+          ],
+          "short_gloss": "inverter",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1024010,
+      "senses": [
+        {
+          "id": "w1024010-s1",
+          "gloss": [
+            "impatto (su)",
+            "forte impressione",
+            "effetto",
+            "influenza"
+          ],
+          "short_gloss": "impatto (su)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1024010-s2",
+          "gloss": [
+            "impatto (di una palla contro una racchetta, mazza, bastone, ecc.)"
+          ],
+          "short_gloss": "impatto (di una palla contro una racchetta, mazza, bastone, ecc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1024190,
+      "senses": [
+        {
+          "id": "w1024190-s1",
+          "gloss": [
+            "informazione"
+          ],
+          "short_gloss": "informazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1024370,
+      "senses": [
+        {
+          "id": "w1024370-s1",
+          "gloss": [
+            "infrastruttura"
+          ],
+          "short_gloss": "infrastruttura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1024380,
+      "senses": [
+        {
+          "id": "w1024380-s1",
+          "gloss": [
+            "infrastruttura"
+          ],
+          "short_gloss": "infrastruttura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1024440,
+      "senses": [
+        {
+          "id": "w1024440-s1",
+          "gloss": [
+            "inflazione"
+          ],
+          "short_gloss": "inflazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1024470,
+      "senses": [
+        {
+          "id": "w1024470-s1",
+          "gloss": [
+            "input"
+          ],
+          "short_gloss": "input",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1024720,
+      "senses": [
+        {
+          "id": "w1024720-s1",
+          "gloss": [
+            "imperiale"
+          ],
+          "short_gloss": "imperiale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1024730,
+      "senses": [
+        {
+          "id": "w1024730-s1",
+          "gloss": [
+            "fattura"
+          ],
+          "short_gloss": "fattura",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1024730-s2",
+          "gloss": [
+            "fattura fiscale",
+            "fattura qualificata"
+          ],
+          "short_gloss": "fattura fiscale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1024770,
+      "senses": [
+        {
+          "id": "w1024770-s1",
+          "gloss": [
+            "importazione",
+            "merci importate"
+          ],
+          "short_gloss": "importazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1024770-s2",
+          "gloss": [
+            "importazione (dati)"
+          ],
+          "short_gloss": "importazione (dati)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1024950,
+      "senses": [
+        {
+          "id": "w1024950-s1",
+          "gloss": [
+            "donna"
+          ],
+          "short_gloss": "donna",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025030,
+      "senses": [
+        {
+          "id": "w1025030-s1",
+          "gloss": [
+            "settimana"
+          ],
+          "short_gloss": "settimana",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025050,
+      "senses": [
+        {
+          "id": "w1025050-s1",
+          "gloss": [
+            "giorno feriale"
+          ],
+          "short_gloss": "giorno feriale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025080,
+      "senses": [
+        {
+          "id": "w1025080-s1",
+          "gloss": [
+            "settimanale"
+          ],
+          "short_gloss": "settimanale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025120,
+      "senses": [
+        {
+          "id": "w1025120-s1",
+          "gloss": [
+            "widget"
+          ],
+          "short_gloss": "widget",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025180,
+      "senses": [
+        {
+          "id": "w1025180-s1",
+          "gloss": [
+            "indicatore di direzione",
+            "freccia (auto)"
+          ],
+          "short_gloss": "indicatore di direzione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025210,
+      "senses": [
+        {
+          "id": "w1025210-s1",
+          "gloss": [
+            "inverno"
+          ],
+          "short_gloss": "inverno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025225,
+      "senses": [
+        {
+          "id": "w1025225-s1",
+          "gloss": [
+            "vento"
+          ],
+          "short_gloss": "vento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025250,
+      "senses": [
+        {
+          "id": "w1025250-s1",
+          "gloss": [
+            "sì"
+          ],
+          "short_gloss": "sì",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025310,
+      "senses": [
+        {
+          "id": "w1025310-s1",
+          "gloss": [
+            "punto debole",
+            "debolezza"
+          ],
+          "short_gloss": "punto debole",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025390,
+      "senses": [
+        {
+          "id": "w1025390-s1",
+          "gloss": [
+            "arguzia"
+          ],
+          "short_gloss": "arguzia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025420,
+      "senses": [
+        {
+          "id": "w1025420-s1",
+          "gloss": [
+            "colpo vincente"
+          ],
+          "short_gloss": "colpo vincente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025430,
+      "senses": [
+        {
+          "id": "w1025430-s1",
+          "gloss": [
+            "palla vincente"
+          ],
+          "short_gloss": "palla vincente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025440,
+      "senses": [
+        {
+          "id": "w1025440-s1",
+          "gloss": [
+            "impennata"
+          ],
+          "short_gloss": "impennata",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025470,
+      "senses": [
+        {
+          "id": "w1025470-s1",
+          "gloss": [
+            "occhiolino"
+          ],
+          "short_gloss": "occhiolino",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025480,
+      "senses": [
+        {
+          "id": "w1025480-s1",
+          "gloss": [
+            "ala (di uccello, aereo, ecc.)"
+          ],
+          "short_gloss": "ala (di uccello, aereo, ecc.)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1025480-s2",
+          "gloss": [
+            "ala (nel calcio, rugby, ecc.)",
+            "ala"
+          ],
+          "short_gloss": "ala (nel calcio, rugby, ecc.)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1025480-s3",
+          "gloss": [
+            "ala (di un edificio)"
+          ],
+          "short_gloss": "ala (di un edificio)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1025480-s4",
+          "gloss": [
+            "bordo sbilanciato (in othello)"
+          ],
+          "short_gloss": "bordo sbilanciato (in othello)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025510,
+      "senses": [
+        {
+          "id": "w1025510-s1",
+          "gloss": [
+            "sport invernali"
+          ],
+          "short_gloss": "sport invernali",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025600,
+      "senses": [
+        {
+          "id": "w1025600-s1",
+          "gloss": [
+            "windsurf"
+          ],
+          "short_gloss": "windsurf",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025620,
+      "senses": [
+        {
+          "id": "w1025620-s1",
+          "gloss": [
+            "giacca a vento",
+            "frangivento"
+          ],
+          "short_gloss": "giacca a vento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025700,
+      "senses": [
+        {
+          "id": "w1025700-s1",
+          "gloss": [
+            "rinuncia",
+            "esonero"
+          ],
+          "short_gloss": "rinuncia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025720,
+      "senses": [
+        {
+          "id": "w1025720-s1",
+          "gloss": [
+            "Galles"
+          ],
+          "short_gloss": "Galles",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025740,
+      "senses": [
+        {
+          "id": "w1025740-s1",
+          "gloss": [
+            "modo",
+            "strada"
+          ],
+          "short_gloss": "modo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025850,
+      "senses": [
+        {
+          "id": "w1025850-s1",
+          "gloss": [
+            "web",
+            "World Wide Web"
+          ],
+          "short_gloss": "web",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025860,
+      "senses": [
+        {
+          "id": "w1025860-s1",
+          "gloss": [
+            "ben cotto (carne)"
+          ],
+          "short_gloss": "ben cotto (carne)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1025950,
+      "senses": [
+        {
+          "id": "w1025950-s1",
+          "gloss": [
+            "onda (d'acqua)"
+          ],
+          "short_gloss": "onda (d'acqua)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1025950-s2",
+          "gloss": [
+            "onda (elettromagnetica, sonora, ecc.)"
+          ],
+          "short_gloss": "onda (elettromagnetica, sonora, ecc.)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1025950-s3",
+          "gloss": [
+            "onda (nei capelli)"
+          ],
+          "short_gloss": "onda (nei capelli)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1025950-s4",
+          "gloss": [
+            "onda (del pubblico)",
+            "ola"
+          ],
+          "short_gloss": "onda (del pubblico)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026020,
+      "senses": [
+        {
+          "id": "w1026020-s1",
+          "gloss": [
+            "western (genere cinematografico)"
+          ],
+          "short_gloss": "western (genere cinematografico)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1026020-s2",
+          "gloss": [
+            "musica country and western"
+          ],
+          "short_gloss": "musica country and western",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026180,
+      "senses": [
+        {
+          "id": "w1026180-s1",
+          "gloss": [
+            "bagnato",
+            "umido"
+          ],
+          "short_gloss": "bagnato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1026180-s2",
+          "gloss": [
+            "tenero di cuore",
+            "sentimentale"
+          ],
+          "short_gloss": "tenero di cuore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026220,
+      "senses": [
+        {
+          "id": "w1026220-s1",
+          "gloss": [
+            "torta nuziale"
+          ],
+          "short_gloss": "torta nuziale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026310,
+      "senses": [
+        {
+          "id": "w1026310-s1",
+          "gloss": [
+            "maratona di camminata"
+          ],
+          "short_gloss": "maratona di camminata",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026360,
+      "senses": [
+        {
+          "id": "w1026360-s1",
+          "gloss": [
+            "walkthrough (strutturato)",
+            "guida passo-passo"
+          ],
+          "short_gloss": "walkthrough (strutturato)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026410,
+      "senses": [
+        {
+          "id": "w1026410-s1",
+          "gloss": [
+            "acquerello"
+          ],
+          "short_gloss": "acquerello",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026590,
+      "senses": [
+        {
+          "id": "w1026590-s1",
+          "gloss": [
+            "noce"
+          ],
+          "short_gloss": "noce",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026610,
+      "senses": [
+        {
+          "id": "w1026610-s1",
+          "gloss": [
+            "vodka"
+          ],
+          "short_gloss": "vodka",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026620,
+      "senses": [
+        {
+          "id": "w1026620-s1",
+          "gloss": [
+            "rondella",
+            "lavatrice"
+          ],
+          "short_gloss": "rondella",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026700,
+      "senses": [
+        {
+          "id": "w1026700-s1",
+          "gloss": [
+            "won (valuta coreana)"
+          ],
+          "short_gloss": "won (valuta coreana)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026740,
+      "senses": [
+        {
+          "id": "w1026740-s1",
+          "gloss": [
+            "Ucraina"
+          ],
+          "short_gloss": "Ucraina",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026750,
+      "senses": [
+        {
+          "id": "w1026750-s1",
+          "gloss": [
+            "ukulele"
+          ],
+          "short_gloss": "ukulele",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026760,
+      "senses": [
+        {
+          "id": "w1026760-s1",
+          "gloss": [
+            "legno"
+          ],
+          "short_gloss": "legno",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1026760-s2",
+          "gloss": [
+            "mazza di legno (golf)"
+          ],
+          "short_gloss": "mazza di legno (golf)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026790,
+      "senses": [
+        {
+          "id": "w1026790-s1",
+          "gloss": [
+            "umlaut"
+          ],
+          "short_gloss": "umlaut",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026800,
+      "senses": [
+        {
+          "id": "w1026800-s1",
+          "gloss": [
+            "uranio (U)"
+          ],
+          "short_gloss": "uranio (U)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026830,
+      "senses": [
+        {
+          "id": "w1026830-s1",
+          "gloss": [
+            "Uruguay"
+          ],
+          "short_gloss": "Uruguay",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026850,
+      "senses": [
+        {
+          "id": "w1026850-s1",
+          "gloss": [
+            "ultra"
+          ],
+          "short_gloss": "ultra",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026900,
+      "senses": [
+        {
+          "id": "w1026900-s1",
+          "gloss": [
+            "schiuma di uretano"
+          ],
+          "short_gloss": "schiuma di uretano",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026910,
+      "senses": [
+        {
+          "id": "w1026910-s1",
+          "gloss": [
+            "acro"
+          ],
+          "short_gloss": "acro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026930,
+      "senses": [
+        {
+          "id": "w1026930-s1",
+          "gloss": [
+            "agenzia"
+          ],
+          "short_gloss": "agenzia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026940,
+      "senses": [
+        {
+          "id": "w1026940-s1",
+          "gloss": [
+            "agente"
+          ],
+          "short_gloss": "agente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1026990,
+      "senses": [
+        {
+          "id": "w1026990-s1",
+          "gloss": [
+            "asso"
+          ],
+          "short_gloss": "asso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1026990-s2",
+          "gloss": [
+            "asso (di una squadra)",
+            "giocatore di punta",
+            "lanciatore asso (baseball)"
+          ],
+          "short_gloss": "asso (di una squadra)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1026990-s3",
+          "gloss": [
+            "asso",
+            "fuoriclasse",
+            "numero uno",
+            "prodigio"
+          ],
+          "short_gloss": "asso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1026990-s4",
+          "gloss": [
+            "ace (servizio)"
+          ],
+          "short_gloss": "ace (servizio)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1027050,
+      "senses": [
+        {
+          "id": "w1027050-s1",
+          "gloss": [
+            "urlo di incoraggiamento",
+            "tifo"
+          ],
+          "short_gloss": "urlo di incoraggiamento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1027090,
+      "senses": [
+        {
+          "id": "w1027090-s1",
+          "gloss": [
+            "aria"
+          ],
+          "short_gloss": "aria",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1027280,
+      "senses": [
+        {
+          "id": "w1027280-s1",
+          "gloss": [
+            "aerosol"
+          ],
+          "short_gloss": "aerosol",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1027280-s2",
+          "gloss": [
+            "spray aerosol"
+          ],
+          "short_gloss": "spray aerosol",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1027350,
+      "senses": [
+        {
+          "id": "w1027350-s1",
+          "gloss": [
+            "Airbus (aereo passeggeri)"
+          ],
+          "short_gloss": "Airbus (aereo passeggeri)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1027360,
+      "senses": [
+        {
+          "id": "w1027360-s1",
+          "gloss": [
+            "airbag"
+          ],
+          "short_gloss": "airbag",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1027530,
+      "senses": [
+        {
+          "id": "w1027530-s1",
+          "gloss": [
+            "fucile ad aria compressa"
+          ],
+          "short_gloss": "fucile ad aria compressa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1027580,
+      "senses": [
+        {
+          "id": "w1027580-s1",
+          "gloss": [
+            "aerobica"
+          ],
+          "short_gloss": "aerobica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1027630,
+      "senses": [
+        {
+          "id": "w1027630-s1",
+          "gloss": [
+            "otto"
+          ],
+          "short_gloss": "otto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1027630-s2",
+          "gloss": [
+            "otto (barca da canottaggio)"
+          ],
+          "short_gloss": "otto (barca da canottaggio)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1027660,
+      "senses": [
+        {
+          "id": "w1027660-s1",
+          "gloss": [
+            "alieno"
+          ],
+          "short_gloss": "alieno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1027670,
+      "senses": [
+        {
+          "id": "w1027670-s1",
+          "gloss": [
+            "eonismo",
+            "travestitismo"
+          ],
+          "short_gloss": "eonismo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1027680,
+      "senses": [
+        {
+          "id": "w1027680-s1",
+          "gloss": [
+            "eccitante",
+            "entusiasmante"
+          ],
+          "short_gloss": "eccitante",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1027700,
+      "senses": [
+        {
+          "id": "w1027700-s1",
+          "gloss": [
+            "eccitare",
+            "entusiasmare"
+          ],
+          "short_gloss": "eccitare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1027790,
+      "senses": [
+        {
+          "id": "w1027790-s1",
+          "gloss": [
+            "esperto"
+          ],
+          "short_gloss": "esperto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1027840,
+      "senses": [
+        {
+          "id": "w1027840-s1",
+          "gloss": [
+            "expo",
+            "esposizione"
+          ],
+          "short_gloss": "expo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1027850,
+      "senses": [
+        {
+          "id": "w1027850-s1",
+          "gloss": [
+            "eccentrico"
+          ],
+          "short_gloss": "eccentrico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1027880,
+      "senses": [
+        {
+          "id": "w1027880-s1",
+          "gloss": [
+            "esotico"
+          ],
+          "short_gloss": "esotico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1027890,
+      "senses": [
+        {
+          "id": "w1027890-s1",
+          "gloss": [
+            "ecumenismo"
+          ],
+          "short_gloss": "ecumenismo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1027900,
+      "senses": [
+        {
+          "id": "w1027900-s1",
+          "gloss": [
+            "Ecuador"
+          ],
+          "short_gloss": "Ecuador",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1027910,
+      "senses": [
+        {
+          "id": "w1027910-s1",
+          "gloss": [
+            "equo"
+          ],
+          "short_gloss": "equo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028020,
+      "senses": [
+        {
+          "id": "w1028020-s1",
+          "gloss": [
+            "estensione"
+          ],
+          "short_gloss": "estensione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028050,
+      "senses": [
+        {
+          "id": "w1028050-s1",
+          "gloss": [
+            "espresso",
+            "rapido"
+          ],
+          "short_gloss": "espresso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028180,
+      "senses": [
+        {
+          "id": "w1028180-s1",
+          "gloss": [
+            "esorcista"
+          ],
+          "short_gloss": "esorcista",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028260,
+      "senses": [
+        {
+          "id": "w1028260-s1",
+          "gloss": [
+            "dirigente",
+            "esecutivo"
+          ],
+          "short_gloss": "dirigente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028270,
+      "senses": [
+        {
+          "id": "w1028270-s1",
+          "gloss": [
+            "eco"
+          ],
+          "short_gloss": "eco",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1028270-s2",
+          "gloss": [
+            "eco"
+          ],
+          "short_gloss": "eco",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1028270-s3",
+          "gloss": [
+            "ecografia (ultrasuoni)"
+          ],
+          "short_gloss": "ecografia (ultrasuoni)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028290,
+      "senses": [
+        {
+          "id": "w1028290-s1",
+          "gloss": [
+            "École de Paris",
+            "Scuola di Parigi"
+          ],
+          "short_gloss": "École de Paris",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028320,
+      "senses": [
+        {
+          "id": "w1028320-s1",
+          "gloss": [
+            "economia",
+            "economia politica",
+            "finanza"
+          ],
+          "short_gloss": "economia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1028320-s2",
+          "gloss": [
+            "risparmio",
+            "parsimonia"
+          ],
+          "short_gloss": "risparmio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1028320-s3",
+          "gloss": [
+            "classe economica"
+          ],
+          "short_gloss": "classe economica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028350,
+      "senses": [
+        {
+          "id": "w1028350-s1",
+          "gloss": [
+            "economista"
+          ],
+          "short_gloss": "economista",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028360,
+      "senses": [
+        {
+          "id": "w1028360-s1",
+          "gloss": [
+            "animale economico",
+            "persona che mira solo al profitto"
+          ],
+          "short_gloss": "animale economico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028390,
+      "senses": [
+        {
+          "id": "w1028390-s1",
+          "gloss": [
+            "ecologia"
+          ],
+          "short_gloss": "ecologia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1028390-s2",
+          "gloss": [
+            "movimento ambientalista",
+            "ambientalismo"
+          ],
+          "short_gloss": "movimento ambientalista",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028420,
+      "senses": [
+        {
+          "id": "w1028420-s1",
+          "gloss": [
+            "ego"
+          ],
+          "short_gloss": "ego",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1028420-s2",
+          "gloss": [
+            "egoismo"
+          ],
+          "short_gloss": "egoismo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1028420-s3",
+          "gloss": [
+            "egoista"
+          ],
+          "short_gloss": "egoista",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028450,
+      "senses": [
+        {
+          "id": "w1028450-s1",
+          "gloss": [
+            "egoismo"
+          ],
+          "short_gloss": "egoismo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028500,
+      "senses": [
+        {
+          "id": "w1028500-s1",
+          "gloss": [
+            "Egitto"
+          ],
+          "short_gloss": "Egitto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028510,
+      "senses": [
+        {
+          "id": "w1028510-s1",
+          "gloss": [
+            "S",
+            "s"
+          ],
+          "short_gloss": "S",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1028510-s2",
+          "gloss": [
+            "sud"
+          ],
+          "short_gloss": "sud",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1028510-s3",
+          "gloss": [
+            "zolfo"
+          ],
+          "short_gloss": "zolfo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1028510-s4",
+          "gloss": [
+            "ennesimo anno dell'era Shōwa (1926.12.25-1989.1.7)"
+          ],
+          "short_gloss": "ennesimo anno dell'era Shōwa (1926.12.25-1989.1.7)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1028510-s5",
+          "gloss": [
+            "piccolo"
+          ],
+          "short_gloss": "piccolo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1028510-s6",
+          "gloss": [
+            "secondo"
+          ],
+          "short_gloss": "secondo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1028510-s7",
+          "gloss": [
+            "soggetto"
+          ],
+          "short_gloss": "soggetto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1028510-s8",
+          "gloss": [
+            "sadico",
+            "sadistica"
+          ],
+          "short_gloss": "sadico",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1028510-s9",
+          "gloss": [
+            "sorella (partner femminile in relazione omosessuale)"
+          ],
+          "short_gloss": "sorella (partner femminile in relazione omosessuale)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1028510-s10",
+          "gloss": [
+            "grado S (massimo livello nella scala SABCDEF)",
+            "classe S",
+            "classe migliore"
+          ],
+          "short_gloss": "grado S (massimo livello nella scala SABCDEF)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028590,
+      "senses": [
+        {
+          "id": "w1028590-s1",
+          "gloss": [
+            "escalation"
+          ],
+          "short_gloss": "escalation",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028620,
+      "senses": [
+        {
+          "id": "w1028620-s1",
+          "gloss": [
+            "Eschimese"
+          ],
+          "short_gloss": "Eschimese",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028630,
+      "senses": [
+        {
+          "id": "w1028630-s1",
+          "gloss": [
+            "scudiero"
+          ],
+          "short_gloss": "scudiero",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028650,
+      "senses": [
+        {
+          "id": "w1028650-s1",
+          "gloss": [
+            "scorta",
+            "accompagnatore"
+          ],
+          "short_gloss": "scorta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028700,
+      "senses": [
+        {
+          "id": "w1028700-s1",
+          "gloss": [
+            "tenuta",
+            "proprietà"
+          ],
+          "short_gloss": "tenuta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028720,
+      "senses": [
+        {
+          "id": "w1028720-s1",
+          "gloss": [
+            "trattamento di bellezza",
+            "cosmetologia"
+          ],
+          "short_gloss": "trattamento di bellezza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1028720-s2",
+          "gloss": [
+            "salone di bellezza"
+          ],
+          "short_gloss": "salone di bellezza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028730,
+      "senses": [
+        {
+          "id": "w1028730-s1",
+          "gloss": [
+            "salone di bellezza",
+            "clinica di trattamenti estetici"
+          ],
+          "short_gloss": "salone di bellezza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028750,
+      "senses": [
+        {
+          "id": "w1028750-s1",
+          "gloss": [
+            "estere"
+          ],
+          "short_gloss": "estere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028770,
+      "senses": [
+        {
+          "id": "w1028770-s1",
+          "gloss": [
+            "Estonia"
+          ],
+          "short_gloss": "Estonia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028780,
+      "senses": [
+        {
+          "id": "w1028780-s1",
+          "gloss": [
+            "estrogeno"
+          ],
+          "short_gloss": "estrogeno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028820,
+      "senses": [
+        {
+          "id": "w1028820-s1",
+          "gloss": [
+            "etnico"
+          ],
+          "short_gloss": "etnico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028900,
+      "senses": [
+        {
+          "id": "w1028900-s1",
+          "gloss": [
+            "spirito"
+          ],
+          "short_gloss": "spirito",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1028900-s2",
+          "gloss": [
+            "spirito",
+            "arguzia"
+          ],
+          "short_gloss": "spirito",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1028930,
+      "senses": [
+        {
+          "id": "w1028930-s1",
+          "gloss": [
+            "Esperanto"
+          ],
+          "short_gloss": "Esperanto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029020,
+      "senses": [
+        {
+          "id": "w1029020-s1",
+          "gloss": [
+            "etilene"
+          ],
+          "short_gloss": "etilene",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029050,
+      "senses": [
+        {
+          "id": "w1029050-s1",
+          "gloss": [
+            "bordo",
+            "spigolo"
+          ],
+          "short_gloss": "bordo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029110,
+      "senses": [
+        {
+          "id": "w1029110-s1",
+          "gloss": [
+            "saggista"
+          ],
+          "short_gloss": "saggista",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029140,
+      "senses": [
+        {
+          "id": "w1029140-s1",
+          "gloss": [
+            "essenza",
+            "estratto"
+          ],
+          "short_gloss": "essenza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029150,
+      "senses": [
+        {
+          "id": "w1029150-s1",
+          "gloss": [
+            "H",
+            "h"
+          ],
+          "short_gloss": "H",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1029150-s2",
+          "gloss": [
+            "indecente",
+            "osceno",
+            "sexy",
+            "sporco",
+            "volgare"
+          ],
+          "short_gloss": "indecente",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1029150-s3",
+          "gloss": [
+            "fare sesso"
+          ],
+          "short_gloss": "fare sesso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1029150-s4",
+          "gloss": [
+            "perverso"
+          ],
+          "short_gloss": "perverso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1029150-s5",
+          "gloss": [
+            "ennesimo anno dell'era Heisei (1989.1.8-2019.4.30)"
+          ],
+          "short_gloss": "ennesimo anno dell'era Heisei (1989.1.8-2019.4.30)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1029150-s6",
+          "gloss": [
+            "ora"
+          ],
+          "short_gloss": "ora",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1029150-s7",
+          "gloss": [
+            "idrogeno (H)"
+          ],
+          "short_gloss": "idrogeno (H)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1029150-s8",
+          "gloss": [
+            "buco"
+          ],
+          "short_gloss": "buco",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029160,
+      "senses": [
+        {
+          "id": "w1029160-s1",
+          "gloss": [
+            "incisione all'acquaforte"
+          ],
+          "short_gloss": "incisione all'acquaforte",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029170,
+      "senses": [
+        {
+          "id": "w1029170-s1",
+          "gloss": [
+            "edizione"
+          ],
+          "short_gloss": "edizione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029190,
+      "senses": [
+        {
+          "id": "w1029190-s1",
+          "gloss": [
+            "editor di testo"
+          ],
+          "short_gloss": "editor di testo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1029190-s2",
+          "gloss": [
+            "editor"
+          ],
+          "short_gloss": "editor",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029260,
+      "senses": [
+        {
+          "id": "w1029260-s1",
+          "gloss": [
+            "Edimburgo"
+          ],
+          "short_gloss": "Edimburgo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029280,
+      "senses": [
+        {
+          "id": "w1029280-s1",
+          "gloss": [
+            "Eden"
+          ],
+          "short_gloss": "Eden",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029350,
+      "senses": [
+        {
+          "id": "w1029350-s1",
+          "gloss": [
+            "energia"
+          ],
+          "short_gloss": "energia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029360,
+      "senses": [
+        {
+          "id": "w1029360-s1",
+          "gloss": [
+            "smalto"
+          ],
+          "short_gloss": "smalto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1029360-s2",
+          "gloss": [
+            "vernice a smalto"
+          ],
+          "short_gloss": "vernice a smalto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1029360-s3",
+          "gloss": [
+            "pelle verniciata"
+          ],
+          "short_gloss": "pelle verniciata",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029400,
+      "senses": [
+        {
+          "id": "w1029400-s1",
+          "gloss": [
+            "energia"
+          ],
+          "short_gloss": "energia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029440,
+      "senses": [
+        {
+          "id": "w1029440-s1",
+          "gloss": [
+            "energetico"
+          ],
+          "short_gloss": "energetico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029450,
+      "senses": [
+        {
+          "id": "w1029450-s1",
+          "gloss": [
+            "sempre"
+          ],
+          "short_gloss": "sempre",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029560,
+      "senses": [
+        {
+          "id": "w1029560-s1",
+          "gloss": [
+            "evangelista"
+          ],
+          "short_gloss": "evangelista",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029620,
+      "senses": [
+        {
+          "id": "w1029620-s1",
+          "gloss": [
+            "episodio",
+            "aneddoto",
+            "vignetta"
+          ],
+          "short_gloss": "episodio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1029620-s2",
+          "gloss": [
+            "episodio"
+          ],
+          "short_gloss": "episodio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029650,
+      "senses": [
+        {
+          "id": "w1029650-s1",
+          "gloss": [
+            "epico"
+          ],
+          "short_gloss": "epico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029760,
+      "senses": [
+        {
+          "id": "w1029760-s1",
+          "gloss": [
+            "grembiule"
+          ],
+          "short_gloss": "grembiule",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1029760-s2",
+          "gloss": [
+            "piazzale (aeroporto)"
+          ],
+          "short_gloss": "piazzale (aeroporto)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1029760-s3",
+          "gloss": [
+            "proscenio"
+          ],
+          "short_gloss": "proscenio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029790,
+      "senses": [
+        {
+          "id": "w1029790-s1",
+          "gloss": [
+            "spada (scherma)"
+          ],
+          "short_gloss": "spada (scherma)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029800,
+      "senses": [
+        {
+          "id": "w1029800-s1",
+          "gloss": [
+            "Geova"
+          ],
+          "short_gloss": "Geova",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1029800-s2",
+          "gloss": [
+            "Testimoni di Geova"
+          ],
+          "short_gloss": "Testimoni di Geova",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029830,
+      "senses": [
+        {
+          "id": "w1029830-s1",
+          "gloss": [
+            "epoca"
+          ],
+          "short_gloss": "epoca",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029870,
+      "senses": [
+        {
+          "id": "w1029870-s1",
+          "gloss": [
+            "emergenza"
+          ],
+          "short_gloss": "emergenza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029890,
+      "senses": [
+        {
+          "id": "w1029890-s1",
+          "gloss": [
+            "emigrante"
+          ],
+          "short_gloss": "emigrante",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1029970,
+      "senses": [
+        {
+          "id": "w1029970-s1",
+          "gloss": [
+            "smeraldo"
+          ],
+          "short_gloss": "smeraldo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030040,
+      "senses": [
+        {
+          "id": "w1030040-s1",
+          "gloss": [
+            "errore"
+          ],
+          "short_gloss": "errore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1030040-s2",
+          "gloss": [
+            "errore (baseball che impedisce l'eliminazione)"
+          ],
+          "short_gloss": "errore (baseball che impedisce l'eliminazione)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030090,
+      "senses": [
+        {
+          "id": "w1030090-s1",
+          "gloss": [
+            "élite"
+          ],
+          "short_gloss": "élite",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030100,
+      "senses": [
+        {
+          "id": "w1030100-s1",
+          "gloss": [
+            "area"
+          ],
+          "short_gloss": "area",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030150,
+      "senses": [
+        {
+          "id": "w1030150-s1",
+          "gloss": [
+            "eritropoietina",
+            "EPO"
+          ],
+          "short_gloss": "eritropoietina",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030220,
+      "senses": [
+        {
+          "id": "w1030220-s1",
+          "gloss": [
+            "El Salvador"
+          ],
+          "short_gloss": "El Salvador",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030250,
+      "senses": [
+        {
+          "id": "w1030250-s1",
+          "gloss": [
+            "El Niño"
+          ],
+          "short_gloss": "El Niño",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030260,
+      "senses": [
+        {
+          "id": "w1030260-s1",
+          "gloss": [
+            "erbio (Er)"
+          ],
+          "short_gloss": "erbio (Er)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030340,
+      "senses": [
+        {
+          "id": "w1030340-s1",
+          "gloss": [
+            "eleganza"
+          ],
+          "short_gloss": "eleganza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030350,
+      "senses": [
+        {
+          "id": "w1030350-s1",
+          "gloss": [
+            "elegante"
+          ],
+          "short_gloss": "elegante",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030360,
+      "senses": [
+        {
+          "id": "w1030360-s1",
+          "gloss": [
+            "elettricità"
+          ],
+          "short_gloss": "elettricità",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1030360-s2",
+          "gloss": [
+            "chitarra elettrica"
+          ],
+          "short_gloss": "chitarra elettrica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030370,
+      "senses": [
+        {
+          "id": "w1030370-s1",
+          "gloss": [
+            "chitarra elettrica"
+          ],
+          "short_gloss": "chitarra elettrica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030430,
+      "senses": [
+        {
+          "id": "w1030430-s1",
+          "gloss": [
+            "elettrico"
+          ],
+          "short_gloss": "elettrico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030460,
+      "senses": [
+        {
+          "id": "w1030460-s1",
+          "gloss": [
+            "elettronica"
+          ],
+          "short_gloss": "elettronica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030590,
+      "senses": [
+        {
+          "id": "w1030590-s1",
+          "gloss": [
+            "elegia"
+          ],
+          "short_gloss": "elegia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030660,
+      "senses": [
+        {
+          "id": "w1030660-s1",
+          "gloss": [
+            "erotico",
+            "pornografico",
+            "osceno"
+          ],
+          "short_gloss": "erotico",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1030660-s2",
+          "gloss": [
+            "perverso",
+            "arrapato",
+            "sporco"
+          ],
+          "short_gloss": "perverso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030730,
+      "senses": [
+        {
+          "id": "w1030730-s1",
+          "gloss": [
+            "eros",
+            "desiderio sessuale",
+            "amore fisico"
+          ],
+          "short_gloss": "eros",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1030730-s2",
+          "gloss": [
+            "Eros (dio)"
+          ],
+          "short_gloss": "Eros (dio)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1030730-s3",
+          "gloss": [
+            "Eros (platonico)"
+          ],
+          "short_gloss": "Eros (platonico)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1030730-s4",
+          "gloss": [
+            "Eros (asteroide)"
+          ],
+          "short_gloss": "Eros (asteroide)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030780,
+      "senses": [
+        {
+          "id": "w1030780-s1",
+          "gloss": [
+            "erotico"
+          ],
+          "short_gloss": "erotico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030800,
+      "senses": [
+        {
+          "id": "w1030800-s1",
+          "gloss": [
+            "incontro"
+          ],
+          "short_gloss": "incontro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030910,
+      "senses": [
+        {
+          "id": "w1030910-s1",
+          "gloss": [
+            "ingegnere"
+          ],
+          "short_gloss": "ingegnere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030920,
+      "senses": [
+        {
+          "id": "w1030920-s1",
+          "gloss": [
+            "ingegneria"
+          ],
+          "short_gloss": "ingegneria",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1030940,
+      "senses": [
+        {
+          "id": "w1030940-s1",
+          "gloss": [
+            "divertimento",
+            "godimento"
+          ],
+          "short_gloss": "divertimento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031050,
+      "senses": [
+        {
+          "id": "w1031050-s1",
+          "gloss": [
+            "intrattenitore"
+          ],
+          "short_gloss": "intrattenitore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031080,
+      "senses": [
+        {
+          "id": "w1031080-s1",
+          "gloss": [
+            "impresa",
+            "azienda"
+          ],
+          "short_gloss": "impresa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031120,
+      "senses": [
+        {
+          "id": "w1031120-s1",
+          "gloss": [
+            "indivia"
+          ],
+          "short_gloss": "indivia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031140,
+      "senses": [
+        {
+          "id": "w1031140-s1",
+          "gloss": [
+            "-endian (es. big-endian o little-endian)"
+          ],
+          "short_gloss": "-endian (es. big-endian o little-endian)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031150,
+      "senses": [
+        {
+          "id": "w1031150-s1",
+          "gloss": [
+            "finale"
+          ],
+          "short_gloss": "finale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031180,
+      "senses": [
+        {
+          "id": "w1031180-s1",
+          "gloss": [
+            "iscrizione",
+            "registrazione (a un evento o competizione)"
+          ],
+          "short_gloss": "iscrizione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1031180-s2",
+          "gloss": [
+            "voce (blog, database)",
+            "post"
+          ],
+          "short_gloss": "voce (blog, database)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031210,
+      "senses": [
+        {
+          "id": "w1031210-s1",
+          "gloss": [
+            "fine",
+            "finale"
+          ],
+          "short_gloss": "fine",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031240,
+      "senses": [
+        {
+          "id": "w1031240-s1",
+          "gloss": [
+            "fine riga"
+          ],
+          "short_gloss": "fine riga",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031260,
+      "senses": [
+        {
+          "id": "w1031260-s1",
+          "gloss": [
+            "senza fine"
+          ],
+          "short_gloss": "senza fine",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031290,
+      "senses": [
+        {
+          "id": "w1031290-s1",
+          "gloss": [
+            "ambasciata"
+          ],
+          "short_gloss": "ambasciata",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031360,
+      "senses": [
+        {
+          "id": "w1031360-s1",
+          "gloss": [
+            "emblema"
+          ],
+          "short_gloss": "emblema",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031450,
+      "senses": [
+        {
+          "id": "w1031450-s1",
+          "gloss": [
+            "imperatore"
+          ],
+          "short_gloss": "imperatore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031570,
+      "senses": [
+        {
+          "id": "w1031570-s1",
+          "gloss": [
+            "quercia"
+          ],
+          "short_gloss": "quercia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031580,
+      "senses": [
+        {
+          "id": "w1031580-s1",
+          "gloss": [
+            "asta"
+          ],
+          "short_gloss": "asta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031590,
+      "senses": [
+        {
+          "id": "w1031590-s1",
+          "gloss": [
+            "querce"
+          ],
+          "short_gloss": "querce",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031640,
+      "senses": [
+        {
+          "id": "w1031640-s1",
+          "gloss": [
+            "oceano"
+          ],
+          "short_gloss": "oceano",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031730,
+      "senses": [
+        {
+          "id": "w1031730-s1",
+          "gloss": [
+            "ortodosso"
+          ],
+          "short_gloss": "ortodosso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031780,
+      "senses": [
+        {
+          "id": "w1031780-s1",
+          "gloss": [
+            "ordine",
+            "prenotazione"
+          ],
+          "short_gloss": "ordine",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1031780-s2",
+          "gloss": [
+            "ordine",
+            "sequenza"
+          ],
+          "short_gloss": "ordine",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1031780-s3",
+          "gloss": [
+            "ordine di grandezza"
+          ],
+          "short_gloss": "ordine di grandezza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1031780-s4",
+          "gloss": [
+            "ordine architettonico"
+          ],
+          "short_gloss": "ordine architettonico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031800,
+      "senses": [
+        {
+          "id": "w1031800-s1",
+          "gloss": [
+            "su misura",
+            "fatto su ordinazione",
+            "bespoke"
+          ],
+          "short_gloss": "su misura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031810,
+      "senses": [
+        {
+          "id": "w1031810-s1",
+          "gloss": [
+            "frutteto"
+          ],
+          "short_gloss": "frutteto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031840,
+      "senses": [
+        {
+          "id": "w1031840-s1",
+          "gloss": [
+            "audio"
+          ],
+          "short_gloss": "audio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1031840-s2",
+          "gloss": [
+            "attrezzatura audio (alta gamma)"
+          ],
+          "short_gloss": "attrezzatura audio (alta gamma)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031870,
+      "senses": [
+        {
+          "id": "w1031870-s1",
+          "gloss": [
+            "audizione"
+          ],
+          "short_gloss": "audizione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031910,
+      "senses": [
+        {
+          "id": "w1031910-s1",
+          "gloss": [
+            "auto",
+            "automatico"
+          ],
+          "short_gloss": "auto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1031910-s2",
+          "gloss": [
+            "auto",
+            "automobile",
+            "macchina"
+          ],
+          "short_gloss": "auto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1031910-s3",
+          "gloss": [
+            "camion a tre ruote"
+          ],
+          "short_gloss": "camion a tre ruote",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031920,
+      "senses": [
+        {
+          "id": "w1031920-s1",
+          "gloss": [
+            "campeggio in camper",
+            "caravaning"
+          ],
+          "short_gloss": "campeggio in camper",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1031930,
+      "senses": [
+        {
+          "id": "w1031930-s1",
+          "gloss": [
+            "alta moda"
+          ],
+          "short_gloss": "alta moda",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1032100,
+      "senses": [
+        {
+          "id": "w1032100-s1",
+          "gloss": [
+            "automatico"
+          ],
+          "short_gloss": "automatico",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1032100-s2",
+          "gloss": [
+            "arma automatica"
+          ],
+          "short_gloss": "arma automatica",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1032100-s3",
+          "gloss": [
+            "cambio automatico"
+          ],
+          "short_gloss": "cambio automatico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1032260,
+      "senses": [
+        {
+          "id": "w1032260-s1",
+          "gloss": [
+            "serratura automatica"
+          ],
+          "short_gloss": "serratura automatica",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1032260-s2",
+          "gloss": [
+            "sistema automatico di chiusura porte"
+          ],
+          "short_gloss": "sistema automatico di chiusura porte",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1032270,
+      "senses": [
+        {
+          "id": "w1032270-s1",
+          "gloss": [
+            "ode"
+          ],
+          "short_gloss": "ode",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1032300,
+      "senses": [
+        {
+          "id": "w1032300-s1",
+          "gloss": [
+            "antipasto"
+          ],
+          "short_gloss": "antipasto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1032320,
+      "senses": [
+        {
+          "id": "w1032320-s1",
+          "gloss": [
+            "proprietario"
+          ],
+          "short_gloss": "proprietario",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1032390,
+      "senses": [
+        {
+          "id": "w1032390-s1",
+          "gloss": [
+            "cappotto"
+          ],
+          "short_gloss": "cappotto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1032390-s2",
+          "gloss": [
+            "superamento",
+            "andare oltre"
+          ],
+          "short_gloss": "superamento",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1032390-s3",
+          "gloss": [
+            "esagerato",
+            "eccessivo",
+            "sopra le righe"
+          ],
+          "short_gloss": "esagerato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1032390-s4",
+          "gloss": [
+            "sopra il par"
+          ],
+          "short_gloss": "sopra il par",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1032390-s5",
+          "gloss": [
+            "sovraesposizione"
+          ],
+          "short_gloss": "sovraesposizione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1032650,
+      "senses": [
+        {
+          "id": "w1032650-s1",
+          "gloss": [
+            "surriscaldamento"
+          ],
+          "short_gloss": "surriscaldamento",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1032650-s2",
+          "gloss": [
+            "sovraeccitazione"
+          ],
+          "short_gloss": "sovraeccitazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1032800,
+      "senses": [
+        {
+          "id": "w1032800-s1",
+          "gloss": [
+            "sovrapposizione"
+          ],
+          "short_gloss": "sovrapposizione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1032810,
+      "senses": [
+        {
+          "id": "w1032810-s1",
+          "gloss": [
+            "superamento della base"
+          ],
+          "short_gloss": "superamento della base",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1032810-s2",
+          "gloss": [
+            "sforamento (pista)",
+            "overrun"
+          ],
+          "short_gloss": "sforamento (pista)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1032930,
+      "senses": [
+        {
+          "id": "w1032930-s1",
+          "gloss": [
+            "forno"
+          ],
+          "short_gloss": "forno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1032960,
+      "senses": [
+        {
+          "id": "w1032960-s1",
+          "gloss": [
+            "apertura",
+            "inizio",
+            "lancio"
+          ],
+          "short_gloss": "apertura",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1032960-s2",
+          "gloss": [
+            "titoli di testa"
+          ],
+          "short_gloss": "titoli di testa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1032960-s3",
+          "gloss": [
+            "sigla (tema)"
+          ],
+          "short_gloss": "sigla (tema)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1033030,
+      "senses": [
+        {
+          "id": "w1033030-s1",
+          "gloss": [
+            "cabriolet",
+            "auto decappottabile"
+          ],
+          "short_gloss": "cabriolet",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1033170,
+      "senses": [
+        {
+          "id": "w1033170-s1",
+          "gloss": [
+            "open set"
+          ],
+          "short_gloss": "open set",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1033350,
+      "senses": [
+        {
+          "id": "w1033350-s1",
+          "gloss": [
+            "oboe"
+          ],
+          "short_gloss": "oboe",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1033380,
+      "senses": [
+        {
+          "id": "w1033380-s1",
+          "gloss": [
+            "aura"
+          ],
+          "short_gloss": "aura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1033570,
+      "senses": [
+        {
+          "id": "w1033570-s1",
+          "gloss": [
+            "cast stellare"
+          ],
+          "short_gloss": "cast stellare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1033650,
+      "senses": [
+        {
+          "id": "w1033650-s1",
+          "gloss": [
+            "vecchia guardia"
+          ],
+          "short_gloss": "vecchia guardia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1033730,
+      "senses": [
+        {
+          "id": "w1033730-s1",
+          "gloss": [
+            "tutta la notte"
+          ],
+          "short_gloss": "tutta la notte",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1033780,
+      "senses": [
+        {
+          "id": "w1033780-s1",
+          "gloss": [
+            "onnipotente"
+          ],
+          "short_gloss": "onnipotente",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1033780-s2",
+          "gloss": [
+            "carta di massimo valore (es. asso di picche)",
+            "jolly"
+          ],
+          "short_gloss": "carta di massimo valore (es. asso di picche)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1033790,
+      "senses": [
+        {
+          "id": "w1033790-s1",
+          "gloss": [
+            "a tutto tondo",
+            "completo"
+          ],
+          "short_gloss": "a tutto tondo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1033830,
+      "senses": [
+        {
+          "id": "w1033830-s1",
+          "gloss": [
+            "aurora"
+          ],
+          "short_gloss": "aurora",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1033850,
+      "senses": [
+        {
+          "id": "w1033850-s1",
+          "gloss": [
+            "oasi"
+          ],
+          "short_gloss": "oasi",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1033890,
+      "senses": [
+        {
+          "id": "w1033890-s1",
+          "gloss": [
+            "Edipo"
+          ],
+          "short_gloss": "Edipo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1033900,
+      "senses": [
+        {
+          "id": "w1033900-s1",
+          "gloss": [
+            "olio",
+            "petrolio"
+          ],
+          "short_gloss": "olio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1033900-s2",
+          "gloss": [
+            "olio",
+            "lubrificante",
+            "grasso"
+          ],
+          "short_gloss": "olio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1033900-s3",
+          "gloss": [
+            "olio (da cucina)"
+          ],
+          "short_gloss": "olio (da cucina)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1033900-s4",
+          "gloss": [
+            "olio da massaggio",
+            "unguento"
+          ],
+          "short_gloss": "olio da massaggio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1033900-s5",
+          "gloss": [
+            "cherosene"
+          ],
+          "short_gloss": "cherosene",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1033900-s6",
+          "gloss": [
+            "olio motore"
+          ],
+          "short_gloss": "olio motore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1034020,
+      "senses": [
+        {
+          "id": "w1034020-s1",
+          "gloss": [
+            "barriera di contenimento del petrolio"
+          ],
+          "short_gloss": "barriera di contenimento del petrolio",
+          "source": "manual_translation"
+        }
+      ]
+    }
+  ]
+}
