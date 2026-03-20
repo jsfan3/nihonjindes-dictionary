@@ -1,0 +1,3352 @@
+{
+  "schema": {
+    "name": "jp-words-lang",
+    "version": "1.0"
+  },
+  "lang": "it",
+  "scope": "common_words_partial",
+  "entries": [
+    {
+      "id": 1125440,
+      "senses": [
+        {
+          "id": "w1125440-s1",
+          "gloss": [
+            "potenziale"
+          ],
+          "short_gloss": "potenziale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1125460,
+      "senses": [
+        {
+          "id": "w1125460-s1",
+          "gloss": [
+            "pot-au-feu"
+          ],
+          "short_gloss": "pot-au-feu",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1125470,
+      "senses": [
+        {
+          "id": "w1125470-s1",
+          "gloss": [
+            "coda di cavallo"
+          ],
+          "short_gloss": "coda di cavallo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1125490,
+      "senses": [
+        {
+          "id": "w1125490-s1",
+          "gloss": [
+            "popolare",
+            "apprezzato"
+          ],
+          "short_gloss": "popolare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1125490-s2",
+          "gloss": [
+            "comune",
+            "frequente",
+            "popolare"
+          ],
+          "short_gloss": "comune",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1125490-s3",
+          "gloss": [
+            "musica popolare",
+            "musica pop"
+          ],
+          "short_gloss": "musica popolare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1125540,
+      "senses": [
+        {
+          "id": "w1125540-s1",
+          "gloss": [
+            "pot-pourri"
+          ],
+          "short_gloss": "pot-pourri",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1125610,
+      "senses": [
+        {
+          "id": "w1125610-s1",
+          "gloss": [
+            "poli-"
+          ],
+          "short_gloss": "poli-",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1125610-s2",
+          "gloss": [
+            "polietilene"
+          ],
+          "short_gloss": "polietilene",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1125610-s3",
+          "gloss": [
+            "polifonia (di tastiera elettronica, ecc.)"
+          ],
+          "short_gloss": "polifonia (di tastiera elettronica, ecc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1125620,
+      "senses": [
+        {
+          "id": "w1125620-s1",
+          "gloss": [
+            "polipo"
+          ],
+          "short_gloss": "polipo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1125620-s2",
+          "gloss": [
+            "polipo"
+          ],
+          "short_gloss": "polipo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1125650,
+      "senses": [
+        {
+          "id": "w1125650-s1",
+          "gloss": [
+            "polietilene"
+          ],
+          "short_gloss": "polietilene",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1125660,
+      "senses": [
+        {
+          "id": "w1125660-s1",
+          "gloss": [
+            "polio",
+            "poliomielite"
+          ],
+          "short_gloss": "polio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1125710,
+      "senses": [
+        {
+          "id": "w1125710-s1",
+          "gloss": [
+            "politica"
+          ],
+          "short_gloss": "politica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1125730,
+      "senses": [
+        {
+          "id": "w1125730-s1",
+          "gloss": [
+            "polizia",
+            "agente di polizia"
+          ],
+          "short_gloss": "polizia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1125840,
+      "senses": [
+        {
+          "id": "w1125840-s1",
+          "gloss": [
+            "Polinesia"
+          ],
+          "short_gloss": "Polinesia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1125870,
+      "senses": [
+        {
+          "id": "w1125870-s1",
+          "gloss": [
+            "polipropilene"
+          ],
+          "short_gloss": "polipropilene",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1125880,
+      "senses": [
+        {
+          "id": "w1125880-s1",
+          "gloss": [
+            "polimero"
+          ],
+          "short_gloss": "polimero",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1125910,
+      "senses": [
+        {
+          "id": "w1125910-s1",
+          "gloss": [
+            "polka"
+          ],
+          "short_gloss": "polka",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1125960,
+      "senses": [
+        {
+          "id": "w1125960-s1",
+          "gloss": [
+            "pornografia",
+            "porno",
+            "porno"
+          ],
+          "short_gloss": "pornografia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1125990,
+      "senses": [
+        {
+          "id": "w1125990-s1",
+          "gloss": [
+            "polo"
+          ],
+          "short_gloss": "polo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1126030,
+      "senses": [
+        {
+          "id": "w1126030-s1",
+          "gloss": [
+            "libbra (unità di peso)"
+          ],
+          "short_gloss": "libbra (unità di peso)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1126030-s2",
+          "gloss": [
+            "sterlina (valuta)",
+            "sterlina britannica"
+          ],
+          "short_gloss": "sterlina (valuta)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1126040,
+      "senses": [
+        {
+          "id": "w1126040-s1",
+          "gloss": [
+            "pompa"
+          ],
+          "short_gloss": "pompa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1126050,
+      "senses": [
+        {
+          "id": "w1126050-s1",
+          "gloss": [
+            "pon pon",
+            "pon pon",
+            "pon-pon",
+            "pon-pon"
+          ],
+          "short_gloss": "pon pon",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1126070,
+      "senses": [
+        {
+          "id": "w1126070-s1",
+          "gloss": [
+            "pennarello"
+          ],
+          "short_gloss": "pennarello",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1126070-s2",
+          "gloss": [
+            "marcatore"
+          ],
+          "short_gloss": "marcatore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1126070-s3",
+          "gloss": [
+            "segnapunti (spec. nel golf)",
+            "marcatore"
+          ],
+          "short_gloss": "segnapunti (spec. nel golf)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1126090,
+      "senses": [
+        {
+          "id": "w1126090-s1",
+          "gloss": [
+            "margarina"
+          ],
+          "short_gloss": "margarina",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1126170,
+      "senses": [
+        {
+          "id": "w1126170-s1",
+          "gloss": [
+            "foglio risposte corretto dal computer",
+            "foglio risposte ottico",
+            "Scantron",
+            "bubble sheet"
+          ],
+          "short_gloss": "foglio risposte corretto dal computer",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1126280,
+      "senses": [
+        {
+          "id": "w1126280-s1",
+          "gloss": [
+            "marketing"
+          ],
+          "short_gloss": "marketing",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1126430,
+      "senses": [
+        {
+          "id": "w1126430-s1",
+          "gloss": [
+            "margine"
+          ],
+          "short_gloss": "margine",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1126450,
+      "senses": [
+        {
+          "id": "w1126450-s1",
+          "gloss": [
+            "marcia"
+          ],
+          "short_gloss": "marcia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1126450-s2",
+          "gloss": [
+            "marcia"
+          ],
+          "short_gloss": "marcia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1126510,
+      "senses": [
+        {
+          "id": "w1126510-s1",
+          "gloss": [
+            "mercato"
+          ],
+          "short_gloss": "mercato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1126520,
+      "senses": [
+        {
+          "id": "w1126520-s1",
+          "gloss": [
+            "marmo"
+          ],
+          "short_gloss": "marmo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1126550,
+      "senses": [
+        {
+          "id": "w1126550-s1",
+          "gloss": [
+            "sirena"
+          ],
+          "short_gloss": "sirena",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1126560,
+      "senses": [
+        {
+          "id": "w1126560-s1",
+          "gloss": [
+            "mio",
+            "proprio",
+            "personale",
+            "privato"
+          ],
+          "short_gloss": "mio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1126570,
+      "senses": [
+        {
+          "id": "w1126570-s1",
+          "gloss": [
+            "Miami"
+          ],
+          "short_gloss": "Miami",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1126580,
+      "senses": [
+        {
+          "id": "w1126580-s1",
+          "gloss": [
+            "auto propria",
+            "auto privata"
+          ],
+          "short_gloss": "auto propria",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1126600,
+      "senses": [
+        {
+          "id": "w1126600-s1",
+          "gloss": [
+            "micro-",
+            "micro",
+            "10^-6"
+          ],
+          "short_gloss": "micro-",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1126600-s2",
+          "gloss": [
+            "minibus"
+          ],
+          "short_gloss": "minibus",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1126600-s3",
+          "gloss": [
+            "microfilm"
+          ],
+          "short_gloss": "microfilm",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1126740,
+      "senses": [
+        {
+          "id": "w1126740-s1",
+          "gloss": [
+            "minibus"
+          ],
+          "short_gloss": "minibus",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1126760,
+      "senses": [
+        {
+          "id": "w1126760-s1",
+          "gloss": [
+            "microfilm"
+          ],
+          "short_gloss": "microfilm",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1126920,
+      "senses": [
+        {
+          "id": "w1126920-s1",
+          "gloss": [
+            "microcomputer",
+            "computer personale",
+            "computer domestico"
+          ],
+          "short_gloss": "microcomputer",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1126920-s2",
+          "gloss": [
+            "microcontrollore",
+            "microprocessore",
+            "MCU"
+          ],
+          "short_gloss": "microcontrollore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1126920-s3",
+          "gloss": [
+            "icona animata in movimento"
+          ],
+          "short_gloss": "icona animata in movimento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1126940,
+      "senses": [
+        {
+          "id": "w1126940-s1",
+          "gloss": [
+            "minore",
+            "piccolo",
+            "banale",
+            "oscuro"
+          ],
+          "short_gloss": "minore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1126940-s2",
+          "gloss": [
+            "minore (tono, scala, ecc.)"
+          ],
+          "short_gloss": "minore (tono, scala, ecc.)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1126940-s3",
+          "gloss": [
+            "leghe minori (baseball USA)"
+          ],
+          "short_gloss": "leghe minori (baseball USA)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127020,
+      "senses": [
+        {
+          "id": "w1127020-s1",
+          "gloss": [
+            "minoranza"
+          ],
+          "short_gloss": "minoranza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127020-s2",
+          "gloss": [
+            "minoranza (sessuale, etnica)",
+            "gruppo minoritario"
+          ],
+          "short_gloss": "minoranza (sessuale, etnica)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127030,
+      "senses": [
+        {
+          "id": "w1127030-s1",
+          "gloss": [
+            "al proprio ritmo"
+          ],
+          "short_gloss": "al proprio ritmo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127030-s2",
+          "gloss": [
+            "a modo proprio (spec. in modo poco riguardoso)"
+          ],
+          "short_gloss": "a modo proprio (spec. in modo poco riguardoso)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127040,
+      "senses": [
+        {
+          "id": "w1127040-s1",
+          "gloss": [
+            "la propria casa",
+            "casa propria"
+          ],
+          "short_gloss": "la propria casa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127050,
+      "senses": [
+        {
+          "id": "w1127050-s1",
+          "gloss": [
+            "mimo"
+          ],
+          "short_gloss": "mimo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127070,
+      "senses": [
+        {
+          "id": "w1127070-s1",
+          "gloss": [
+            "miglio"
+          ],
+          "short_gloss": "miglio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127100,
+      "senses": [
+        {
+          "id": "w1127100-s1",
+          "gloss": [
+            "mite"
+          ],
+          "short_gloss": "mite",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127120,
+      "senses": [
+        {
+          "id": "w1127120-s1",
+          "gloss": [
+            "mente",
+            "mentalità",
+            "mentalità",
+            "sentiment"
+          ],
+          "short_gloss": "mente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127140,
+      "senses": [
+        {
+          "id": "w1127140-s1",
+          "gloss": [
+            "topo (spec. da laboratorio)"
+          ],
+          "short_gloss": "topo (spec. da laboratorio)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127140-s2",
+          "gloss": [
+            "mouse (computer)"
+          ],
+          "short_gloss": "mouse (computer)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127180,
+      "senses": [
+        {
+          "id": "w1127180-s1",
+          "gloss": [
+            "montagna"
+          ],
+          "short_gloss": "montagna",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127200,
+      "senses": [
+        {
+          "id": "w1127200-s1",
+          "gloss": [
+            "monte",
+            "chiosco",
+            "dispositivo fisso"
+          ],
+          "short_gloss": "monte",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127200-s2",
+          "gloss": [
+            "attacco obiettivo"
+          ],
+          "short_gloss": "attacco obiettivo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127200-s3",
+          "gloss": [
+            "montaggio (es. di un drive)"
+          ],
+          "short_gloss": "montaggio (es. di un drive)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127200-s4",
+          "gloss": [
+            "monta (comportamento animale)"
+          ],
+          "short_gloss": "monta (comportamento animale)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127200-s5",
+          "gloss": [
+            "affermazione di dominanza"
+          ],
+          "short_gloss": "affermazione di dominanza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127210,
+      "senses": [
+        {
+          "id": "w1127210-s1",
+          "gloss": [
+            "monticello del lanciatore"
+          ],
+          "short_gloss": "monticello del lanciatore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127210-s2",
+          "gloss": [
+            "cumulo"
+          ],
+          "short_gloss": "cumulo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127220,
+      "senses": [
+        {
+          "id": "w1127220-s1",
+          "gloss": [
+            "maestro"
+          ],
+          "short_gloss": "maestro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127230,
+      "senses": [
+        {
+          "id": "w1127230-s1",
+          "gloss": [
+            "macadam"
+          ],
+          "short_gloss": "macadam",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127240,
+      "senses": [
+        {
+          "id": "w1127240-s1",
+          "gloss": [
+            "maccheroni"
+          ],
+          "short_gloss": "maccheroni",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127270,
+      "senses": [
+        {
+          "id": "w1127270-s1",
+          "gloss": [
+            "rivista"
+          ],
+          "short_gloss": "rivista",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127290,
+      "senses": [
+        {
+          "id": "w1127290-s1",
+          "gloss": [
+            "maxi (gonna, cappotto, ecc.)"
+          ],
+          "short_gloss": "maxi (gonna, cappotto, ecc.)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127290-s2",
+          "gloss": [
+            "massima"
+          ],
+          "short_gloss": "massima",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127360,
+      "senses": [
+        {
+          "id": "w1127360-s1",
+          "gloss": [
+            "macramè"
+          ],
+          "short_gloss": "macramè",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127410,
+      "senses": [
+        {
+          "id": "w1127410-s1",
+          "gloss": [
+            "magnum (cartuccia, arma)"
+          ],
+          "short_gloss": "magnum (cartuccia, arma)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127410-s2",
+          "gloss": [
+            "magnum (1.5-litre wine bottle)"
+          ],
+          "short_gloss": "magnum (1.5-litre wine bottle)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127420,
+      "senses": [
+        {
+          "id": "w1127420-s1",
+          "gloss": [
+            "magnitude"
+          ],
+          "short_gloss": "magnitude",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127430,
+      "senses": [
+        {
+          "id": "w1127430-s1",
+          "gloss": [
+            "magnesium (Mg)"
+          ],
+          "short_gloss": "magnesium (Mg)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127470,
+      "senses": [
+        {
+          "id": "w1127470-s1",
+          "gloss": [
+            "magnete"
+          ],
+          "short_gloss": "magnete",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127480,
+      "senses": [
+        {
+          "id": "w1127480-s1",
+          "gloss": [
+            "magma"
+          ],
+          "short_gloss": "magma",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127500,
+      "senses": [
+        {
+          "id": "w1127500-s1",
+          "gloss": [
+            "Macedonia"
+          ],
+          "short_gloss": "Macedonia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127510,
+      "senses": [
+        {
+          "id": "w1127510-s1",
+          "gloss": [
+            "Massachusetts"
+          ],
+          "short_gloss": "Massachusetts",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127530,
+      "senses": [
+        {
+          "id": "w1127530-s1",
+          "gloss": [
+            "Mother Goose"
+          ],
+          "short_gloss": "Mother Goose",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127580,
+      "senses": [
+        {
+          "id": "w1127580-s1",
+          "gloss": [
+            "being a mama's boy",
+            "having an (overly) strong attachment to one's mother"
+          ],
+          "short_gloss": "being a mama's boy",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127580-s2",
+          "gloss": [
+            "Oedipus complex",
+            "sexual attraction to one's mother"
+          ],
+          "short_gloss": "Oedipus complex",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127590,
+      "senses": [
+        {
+          "id": "w1127590-s1",
+          "gloss": [
+            "mothering"
+          ],
+          "short_gloss": "mothering",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127600,
+      "senses": [
+        {
+          "id": "w1127600-s1",
+          "gloss": [
+            "macchina"
+          ],
+          "short_gloss": "macchina",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127600-s2",
+          "gloss": [
+            "race car",
+            "racing motorcycle"
+          ],
+          "short_gloss": "race car",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127610,
+      "senses": [
+        {
+          "id": "w1127610-s1",
+          "gloss": [
+            "mitragliatrice"
+          ],
+          "short_gloss": "mitragliatrice",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127690,
+      "senses": [
+        {
+          "id": "w1127690-s1",
+          "gloss": [
+            "magician",
+            "illusionist"
+          ],
+          "short_gloss": "magician",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127700,
+      "senses": [
+        {
+          "id": "w1127700-s1",
+          "gloss": [
+            "magia"
+          ],
+          "short_gloss": "magia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127700-s2",
+          "gloss": [
+            "Magic Marker",
+            "felt-tip pen",
+            "permanent marker"
+          ],
+          "short_gloss": "Magic Marker",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127700-s3",
+          "gloss": [
+            "magic number"
+          ],
+          "short_gloss": "magic number",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127800,
+      "senses": [
+        {
+          "id": "w1127800-s1",
+          "gloss": [
+            "massa"
+          ],
+          "short_gloss": "massa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127800-s2",
+          "gloss": [
+            "mass (media, production, etc.)"
+          ],
+          "short_gloss": "mass (media, production, etc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127880,
+      "senses": [
+        {
+          "id": "w1127880-s1",
+          "gloss": [
+            "massed calisthenics",
+            "massed gymnastics"
+          ],
+          "short_gloss": "massed calisthenics",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127890,
+      "senses": [
+        {
+          "id": "w1127890-s1",
+          "gloss": [
+            "mascot"
+          ],
+          "short_gloss": "mascot",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1127970,
+      "senses": [
+        {
+          "id": "w1127970-s1",
+          "gloss": [
+            "padroneggiare"
+          ],
+          "short_gloss": "padroneggiare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127970-s2",
+          "gloss": [
+            "proprietario",
+            "manager",
+            "proprietario",
+            "barkeeper"
+          ],
+          "short_gloss": "proprietario",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127970-s3",
+          "gloss": [
+            "leader",
+            "leader",
+            "capo"
+          ],
+          "short_gloss": "leader",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127970-s4",
+          "gloss": [
+            "master (of arts, science, etc.)"
+          ],
+          "short_gloss": "master (of arts, science, etc.)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127970-s5",
+          "gloss": [
+            "master (recording)"
+          ],
+          "short_gloss": "master (recording)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127970-s6",
+          "gloss": [
+            "master (device)"
+          ],
+          "short_gloss": "master (device)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1127970-s7",
+          "gloss": [
+            "master (data)"
+          ],
+          "short_gloss": "master (data)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128020,
+      "senses": [
+        {
+          "id": "w1128020-s1",
+          "gloss": [
+            "senape"
+          ],
+          "short_gloss": "senape",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128080,
+      "senses": [
+        {
+          "id": "w1128080-s1",
+          "gloss": [
+            "mast (of ship)"
+          ],
+          "short_gloss": "mast (of ship)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128120,
+      "senses": [
+        {
+          "id": "w1128120-s1",
+          "gloss": [
+            "comunicazione di massa"
+          ],
+          "short_gloss": "comunicazione di massa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128150,
+      "senses": [
+        {
+          "id": "w1128150-s1",
+          "gloss": [
+            "masochist"
+          ],
+          "short_gloss": "masochist",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1128150-s2",
+          "gloss": [
+            "masochism"
+          ],
+          "short_gloss": "masochism",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128210,
+      "senses": [
+        {
+          "id": "w1128210-s1",
+          "gloss": [
+            "signora",
+            "(married) woman",
+            "signora",
+            "casalinga"
+          ],
+          "short_gloss": "signora",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1128210-s2",
+          "gloss": [
+            "proprietress (of a bar, coffee shop, etc.)",
+            "manageress"
+          ],
+          "short_gloss": "proprietress (of a bar, coffee shop, etc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128310,
+      "senses": [
+        {
+          "id": "w1128310-s1",
+          "gloss": [
+            "Macintosh (brand of personal computer manufactured by Apple)",
+            "Mac"
+          ],
+          "short_gloss": "Macintosh (brand of personal computer manufactured by Apple)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1128310-s2",
+          "gloss": [
+            "mackintosh (raincoat)"
+          ],
+          "short_gloss": "mackintosh (raincoat)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1128310-s3",
+          "gloss": [
+            "McIntosh (apple)"
+          ],
+          "short_gloss": "McIntosh (apple)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128320,
+      "senses": [
+        {
+          "id": "w1128320-s1",
+          "gloss": [
+            "McDonald's (fast food restaurant)"
+          ],
+          "short_gloss": "McDonald's (fast food restaurant)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1128320-s2",
+          "gloss": [
+            "Mac (personal computer)",
+            "Macintosh"
+          ],
+          "short_gloss": "Mac (personal computer)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128330,
+      "senses": [
+        {
+          "id": "w1128330-s1",
+          "gloss": [
+            "max",
+            "massimo"
+          ],
+          "short_gloss": "max",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1128330-s2",
+          "gloss": [
+            "to the max"
+          ],
+          "short_gloss": "to the max",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128360,
+      "senses": [
+        {
+          "id": "w1128360-s1",
+          "gloss": [
+            "massage"
+          ],
+          "short_gloss": "massage",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128400,
+      "senses": [
+        {
+          "id": "w1128400-s1",
+          "gloss": [
+            "common mushroom (Agaricus bisporus)",
+            "white mushroom"
+          ],
+          "short_gloss": "common mushroom (Agaricus bisporus)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128440,
+      "senses": [
+        {
+          "id": "w1128440-s1",
+          "gloss": [
+            "match play"
+          ],
+          "short_gloss": "match play",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128480,
+      "senses": [
+        {
+          "id": "w1128480-s1",
+          "gloss": [
+            "mat"
+          ],
+          "short_gloss": "mat",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1128480-s2",
+          "gloss": [
+            "canvas (in boxing or wrestling)"
+          ],
+          "short_gloss": "canvas (in boxing or wrestling)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128490,
+      "senses": [
+        {
+          "id": "w1128490-s1",
+          "gloss": [
+            "mattress",
+            "mattress pad (under a futon)"
+          ],
+          "short_gloss": "mattress",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128500,
+      "senses": [
+        {
+          "id": "w1128500-s1",
+          "gloss": [
+            "Mach (number)"
+          ],
+          "short_gloss": "Mach (number)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1128500-s2",
+          "gloss": [
+            "(at a) fast speed"
+          ],
+          "short_gloss": "(at a) fast speed",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128530,
+      "senses": [
+        {
+          "id": "w1128530-s1",
+          "gloss": [
+            "mappa"
+          ],
+          "short_gloss": "mappa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128580,
+      "senses": [
+        {
+          "id": "w1128580-s1",
+          "gloss": [
+            "materiale"
+          ],
+          "short_gloss": "materiale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128670,
+      "senses": [
+        {
+          "id": "w1128670-s1",
+          "gloss": [
+            "Madras"
+          ],
+          "short_gloss": "Madras",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128710,
+      "senses": [
+        {
+          "id": "w1128710-s1",
+          "gloss": [
+            "madeleine (cake)"
+          ],
+          "short_gloss": "madeleine (cake)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128730,
+      "senses": [
+        {
+          "id": "w1128730-s1",
+          "gloss": [
+            "madonna"
+          ],
+          "short_gloss": "madonna",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128750,
+      "senses": [
+        {
+          "id": "w1128750-s1",
+          "gloss": [
+            "appassionato"
+          ],
+          "short_gloss": "appassionato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1128750-s2",
+          "gloss": [
+            "mania",
+            "entusiasmo"
+          ],
+          "short_gloss": "mania",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128760,
+      "senses": [
+        {
+          "id": "w1128760-s1",
+          "gloss": [
+            "maniac (as in rabid sport fan)",
+            "appassionato"
+          ],
+          "short_gloss": "maniac (as in rabid sport fan)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128780,
+      "senses": [
+        {
+          "id": "w1128780-s1",
+          "gloss": [
+            "manicure"
+          ],
+          "short_gloss": "manicure",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1128780-s2",
+          "gloss": [
+            "nail polish",
+            "nail varnish"
+          ],
+          "short_gloss": "nail polish",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128860,
+      "senses": [
+        {
+          "id": "w1128860-s1",
+          "gloss": [
+            "manifesto"
+          ],
+          "short_gloss": "manifesto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128870,
+      "senses": [
+        {
+          "id": "w1128870-s1",
+          "gloss": [
+            "(instruction) manual"
+          ],
+          "short_gloss": "(instruction) manual",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1128870-s2",
+          "gloss": [
+            "operations manual",
+            "basic rules (pertaining to how a job should be carried out)",
+            "standards"
+          ],
+          "short_gloss": "operations manual",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1128870-s3",
+          "gloss": [
+            "(car with) manual transmission"
+          ],
+          "short_gloss": "(car with) manual transmission",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128910,
+      "senses": [
+        {
+          "id": "w1128910-s1",
+          "gloss": [
+            "Manila (Philippines)"
+          ],
+          "short_gloss": "Manila (Philippines)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128950,
+      "senses": [
+        {
+          "id": "w1128950-s1",
+          "gloss": [
+            "money game"
+          ],
+          "short_gloss": "money game",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128960,
+      "senses": [
+        {
+          "id": "w1128960-s1",
+          "gloss": [
+            "money supply"
+          ],
+          "short_gloss": "money supply",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1128980,
+      "senses": [
+        {
+          "id": "w1128980-s1",
+          "gloss": [
+            "gestione"
+          ],
+          "short_gloss": "gestione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1129100,
+      "senses": [
+        {
+          "id": "w1129100-s1",
+          "gloss": [
+            "mannequin"
+          ],
+          "short_gloss": "mannequin",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1129190,
+      "senses": [
+        {
+          "id": "w1129190-s1",
+          "gloss": [
+            "Mafia"
+          ],
+          "short_gloss": "Mafia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1129250,
+      "senses": [
+        {
+          "id": "w1129250-s1",
+          "gloss": [
+            "Maya (ancient Indian tribe in Central America)"
+          ],
+          "short_gloss": "Maya (ancient Indian tribe in Central America)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1129270,
+      "senses": [
+        {
+          "id": "w1129270-s1",
+          "gloss": [
+            "maracas"
+          ],
+          "short_gloss": "maracas",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1129310,
+      "senses": [
+        {
+          "id": "w1129310-s1",
+          "gloss": [
+            "malaria"
+          ],
+          "short_gloss": "malaria",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1129330,
+      "senses": [
+        {
+          "id": "w1129330-s1",
+          "gloss": [
+            "marina"
+          ],
+          "short_gloss": "marina",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1129340,
+      "senses": [
+        {
+          "id": "w1129340-s1",
+          "gloss": [
+            "marine"
+          ],
+          "short_gloss": "marine",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1129340-s2",
+          "gloss": [
+            "(US) Marine Corps",
+            "the Marines",
+            "Marine"
+          ],
+          "short_gloss": "(US) Marine Corps",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1129400,
+      "senses": [
+        {
+          "id": "w1129400-s1",
+          "gloss": [
+            "marijuana",
+            "marihuana",
+            "cannabis",
+            "canapa",
+            "erba"
+          ],
+          "short_gloss": "marijuana",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1129450,
+      "senses": [
+        {
+          "id": "w1129450-s1",
+          "gloss": [
+            "marimba (musical instrument)"
+          ],
+          "short_gloss": "marimba (musical instrument)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1129530,
+      "senses": [
+        {
+          "id": "w1129530-s1",
+          "gloss": [
+            "mark (former currency of Germany)"
+          ],
+          "short_gloss": "mark (former currency of Germany)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1129610,
+      "senses": [
+        {
+          "id": "w1129610-s1",
+          "gloss": [
+            "maltase"
+          ],
+          "short_gloss": "maltase",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1129620,
+      "senses": [
+        {
+          "id": "w1129620-s1",
+          "gloss": [
+            "multi-"
+          ],
+          "short_gloss": "multi-",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1129620-s2",
+          "gloss": [
+            "multi-post"
+          ],
+          "short_gloss": "multi-post",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1129620-s3",
+          "gloss": [
+            "multi-level marketing",
+            "pyramid selling",
+            "chain referral"
+          ],
+          "short_gloss": "multi-level marketing",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1129770,
+      "senses": [
+        {
+          "id": "w1129770-s1",
+          "gloss": [
+            "multinational"
+          ],
+          "short_gloss": "multinational",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1129870,
+      "senses": [
+        {
+          "id": "w1129870-s1",
+          "gloss": [
+            "multimedia"
+          ],
+          "short_gloss": "multimedia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1129900,
+      "senses": [
+        {
+          "id": "w1129900-s1",
+          "gloss": [
+            "Malaysia"
+          ],
+          "short_gloss": "Malaysia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1129940,
+      "senses": [
+        {
+          "id": "w1129940-s1",
+          "gloss": [
+            "chestnut"
+          ],
+          "short_gloss": "chestnut",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1129940-s2",
+          "gloss": [
+            "marron (Cherax tenuimanus and Cherax cainii species of freshwater crayfish)"
+          ],
+          "short_gloss": "marron (Cherax tenuimanus and Cherax cainii species of freshwater crayfish)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1129970,
+      "senses": [
+        {
+          "id": "w1129970-s1",
+          "gloss": [
+            "uomo"
+          ],
+          "short_gloss": "uomo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1129990,
+      "senses": [
+        {
+          "id": "w1129990-s1",
+          "gloss": [
+            "manganese (Mn)"
+          ],
+          "short_gloss": "manganese (Mn)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130010,
+      "senses": [
+        {
+          "id": "w1130010-s1",
+          "gloss": [
+            "mangrove"
+          ],
+          "short_gloss": "mangrove",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130020,
+      "senses": [
+        {
+          "id": "w1130020-s1",
+          "gloss": [
+            "mango (Mangifera indica)"
+          ],
+          "short_gloss": "mango (Mangifera indica)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130060,
+      "senses": [
+        {
+          "id": "w1130060-s1",
+          "gloss": [
+            "monthly (publication)"
+          ],
+          "short_gloss": "monthly (publication)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130100,
+      "senses": [
+        {
+          "id": "w1130100-s1",
+          "gloss": [
+            "Manchester"
+          ],
+          "short_gloss": "Manchester",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130110,
+      "senses": [
+        {
+          "id": "w1130110-s1",
+          "gloss": [
+            "man-to-man",
+            "uno a uno"
+          ],
+          "short_gloss": "man-to-man",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130140,
+      "senses": [
+        {
+          "id": "w1130140-s1",
+          "gloss": [
+            "mantello",
+            "cloak",
+            "manteau"
+          ],
+          "short_gloss": "mantello",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130160,
+      "senses": [
+        {
+          "id": "w1130160-s1",
+          "gloss": [
+            "mantello"
+          ],
+          "short_gloss": "mantello",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1130160-s2",
+          "gloss": [
+            "(gas) mantle"
+          ],
+          "short_gloss": "(gas) mantle",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130180,
+      "senses": [
+        {
+          "id": "w1130180-s1",
+          "gloss": [
+            "mandolin"
+          ],
+          "short_gloss": "mandolin",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130220,
+      "senses": [
+        {
+          "id": "w1130220-s1",
+          "gloss": [
+            "becoming stereotyped",
+            "becoming tedious",
+            "becoming repetitive",
+            "becoming routine",
+            "getting stuck in a rut",
+            "humdrum",
+            "mannerism (art, etc.)"
+          ],
+          "short_gloss": "becoming stereotyped",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130260,
+      "senses": [
+        {
+          "id": "w1130260-s1",
+          "gloss": [
+            "forza lavoro",
+            "labor force",
+            "workers"
+          ],
+          "short_gloss": "forza lavoro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130280,
+      "senses": [
+        {
+          "id": "w1130280-s1",
+          "gloss": [
+            "mambo"
+          ],
+          "short_gloss": "mambo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130320,
+      "senses": [
+        {
+          "id": "w1130320-s1",
+          "gloss": [
+            "mammoth (esp. the woolly mammoth, Mammuthus primigenius)"
+          ],
+          "short_gloss": "mammoth (esp. the woolly mammoth, Mammuthus primigenius)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1130320-s2",
+          "gloss": [
+            "gigantesco",
+            "enorme",
+            "colossale",
+            "massive"
+          ],
+          "short_gloss": "gigantesco",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130370,
+      "senses": [
+        {
+          "id": "w1130370-s1",
+          "gloss": [
+            "me-ism"
+          ],
+          "short_gloss": "me-ism",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130400,
+      "senses": [
+        {
+          "id": "w1130400-s1",
+          "gloss": [
+            "carne (cibo)"
+          ],
+          "short_gloss": "carne (cibo)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130430,
+      "senses": [
+        {
+          "id": "w1130430-s1",
+          "gloss": [
+            "meal (ground grain)"
+          ],
+          "short_gloss": "meal (ground grain)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130450,
+      "senses": [
+        {
+          "id": "w1130450-s1",
+          "gloss": [
+            "mummy"
+          ],
+          "short_gloss": "mummy",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130460,
+      "senses": [
+        {
+          "id": "w1130460-s1",
+          "gloss": [
+            "mixer (audio, concrete, etc.)"
+          ],
+          "short_gloss": "mixer (audio, concrete, etc.)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1130460-s2",
+          "gloss": [
+            "blender (usu. countertop)"
+          ],
+          "short_gloss": "blender (usu. countertop)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130510,
+      "senses": [
+        {
+          "id": "w1130510-s1",
+          "gloss": [
+            "Micronesia"
+          ],
+          "short_gloss": "Micronesia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130530,
+      "senses": [
+        {
+          "id": "w1130530-s1",
+          "gloss": [
+            "micron"
+          ],
+          "short_gloss": "micron",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130540,
+      "senses": [
+        {
+          "id": "w1130540-s1",
+          "gloss": [
+            "Mig (Russian aeroplane, airplane)",
+            "MIG"
+          ],
+          "short_gloss": "Mig (Russian aeroplane, airplane)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130560,
+      "senses": [
+        {
+          "id": "w1130560-s1",
+          "gloss": [
+            "(Catholic) Mass"
+          ],
+          "short_gloss": "(Catholic) Mass",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130610,
+      "senses": [
+        {
+          "id": "w1130610-s1",
+          "gloss": [
+            "Michigan"
+          ],
+          "short_gloss": "Michigan",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130690,
+      "senses": [
+        {
+          "id": "w1130690-s1",
+          "gloss": [
+            "mister",
+            "signor"
+          ],
+          "short_gloss": "mister",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130740,
+      "senses": [
+        {
+          "id": "w1130740-s1",
+          "gloss": [
+            "mystery"
+          ],
+          "short_gloss": "mystery",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130770,
+      "senses": [
+        {
+          "id": "w1130770-s1",
+          "gloss": [
+            "misterioso"
+          ],
+          "short_gloss": "misterioso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130840,
+      "senses": [
+        {
+          "id": "w1130840-s1",
+          "gloss": [
+            "mis-match"
+          ],
+          "short_gloss": "mis-match",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130860,
+      "senses": [
+        {
+          "id": "w1130860-s1",
+          "gloss": [
+            "signorina"
+          ],
+          "short_gloss": "signorina",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130870,
+      "senses": [
+        {
+          "id": "w1130870-s1",
+          "gloss": [
+            "Missouri"
+          ],
+          "short_gloss": "Missouri",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1130990,
+      "senses": [
+        {
+          "id": "w1130990-s1",
+          "gloss": [
+            "incarico",
+            "delegazione"
+          ],
+          "short_gloss": "incarico",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1130990-s2",
+          "gloss": [
+            "mission (assignment)"
+          ],
+          "short_gloss": "mission (assignment)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1130990-s3",
+          "gloss": [
+            "(religious) mission"
+          ],
+          "short_gloss": "(religious) mission",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1130990-s4",
+          "gloss": [
+            "mission school"
+          ],
+          "short_gloss": "mission school",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1130990-s5",
+          "gloss": [
+            "transmission (in a motor vehicle)"
+          ],
+          "short_gloss": "transmission (in a motor vehicle)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131020,
+      "senses": [
+        {
+          "id": "w1131020-s1",
+          "gloss": [
+            "mitte"
+          ],
+          "short_gloss": "mitte",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131030,
+      "senses": [
+        {
+          "id": "w1131030-s1",
+          "gloss": [
+            "midnight"
+          ],
+          "short_gloss": "midnight",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131070,
+      "senses": [
+        {
+          "id": "w1131070-s1",
+          "gloss": [
+            "midi (skirt, coat, etc.)"
+          ],
+          "short_gloss": "midi (skirt, coat, etc.)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131140,
+      "senses": [
+        {
+          "id": "w1131140-s1",
+          "gloss": [
+            "mitochondria"
+          ],
+          "short_gloss": "mitochondria",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131160,
+      "senses": [
+        {
+          "id": "w1131160-s1",
+          "gloss": [
+            "mezzo"
+          ],
+          "short_gloss": "mezzo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1131160-s2",
+          "gloss": [
+            "mezza vita"
+          ],
+          "short_gloss": "mezza vita",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131210,
+      "senses": [
+        {
+          "id": "w1131210-s1",
+          "gloss": [
+            "par-four hole"
+          ],
+          "short_gloss": "par-four hole",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131280,
+      "senses": [
+        {
+          "id": "w1131280-s1",
+          "gloss": [
+            "communications within a small range"
+          ],
+          "short_gloss": "communications within a small range",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131360,
+      "senses": [
+        {
+          "id": "w1131360-s1",
+          "gloss": [
+            "minigonna",
+            "mini-skirt"
+          ],
+          "short_gloss": "minigonna",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131390,
+      "senses": [
+        {
+          "id": "w1131390-s1",
+          "gloss": [
+            "miniatura"
+          ],
+          "short_gloss": "miniatura",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1131390-s2",
+          "gloss": [
+            "miniature figure",
+            "miniature model"
+          ],
+          "short_gloss": "miniature figure",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131420,
+      "senses": [
+        {
+          "id": "w1131420-s1",
+          "gloss": [
+            "minidisc",
+            "MD"
+          ],
+          "short_gloss": "minidisc",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131430,
+      "senses": [
+        {
+          "id": "w1131430-s1",
+          "gloss": [
+            "minibuffer"
+          ],
+          "short_gloss": "minibuffer",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131470,
+      "senses": [
+        {
+          "id": "w1131470-s1",
+          "gloss": [
+            "minimo"
+          ],
+          "short_gloss": "minimo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131520,
+      "senses": [
+        {
+          "id": "w1131520-s1",
+          "gloss": [
+            "Minnesota"
+          ],
+          "short_gloss": "Minnesota",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131540,
+      "senses": [
+        {
+          "id": "w1131540-s1",
+          "gloss": [
+            "minerale"
+          ],
+          "short_gloss": "minerale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131580,
+      "senses": [
+        {
+          "id": "w1131580-s1",
+          "gloss": [
+            "mimic"
+          ],
+          "short_gloss": "mimic",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131610,
+      "senses": [
+        {
+          "id": "w1131610-s1",
+          "gloss": [
+            "Myanmar"
+          ],
+          "short_gloss": "Myanmar",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131620,
+      "senses": [
+        {
+          "id": "w1131620-s1",
+          "gloss": [
+            "museo"
+          ],
+          "short_gloss": "museo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131630,
+      "senses": [
+        {
+          "id": "w1131630-s1",
+          "gloss": [
+            "musical"
+          ],
+          "short_gloss": "musical",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131670,
+      "senses": [
+        {
+          "id": "w1131670-s1",
+          "gloss": [
+            "musicista"
+          ],
+          "short_gloss": "musicista",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131740,
+      "senses": [
+        {
+          "id": "w1131740-s1",
+          "gloss": [
+            "Munich (Germany)"
+          ],
+          "short_gloss": "Munich (Germany)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131750,
+      "senses": [
+        {
+          "id": "w1131750-s1",
+          "gloss": [
+            "specchio"
+          ],
+          "short_gloss": "specchio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131770,
+      "senses": [
+        {
+          "id": "w1131770-s1",
+          "gloss": [
+            "mirage"
+          ],
+          "short_gloss": "mirage",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131790,
+      "senses": [
+        {
+          "id": "w1131790-s1",
+          "gloss": [
+            "miracolo"
+          ],
+          "short_gloss": "miracolo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131850,
+      "senses": [
+        {
+          "id": "w1131850-s1",
+          "gloss": [
+            "million"
+          ],
+          "short_gloss": "million",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1131850-s2",
+          "gloss": [
+            "million seller"
+          ],
+          "short_gloss": "million seller",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131860,
+      "senses": [
+        {
+          "id": "w1131860-s1",
+          "gloss": [
+            "million seller",
+            "book, record, etc. which sells a million copies"
+          ],
+          "short_gloss": "million seller",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131870,
+      "senses": [
+        {
+          "id": "w1131870-s1",
+          "gloss": [
+            "milligram",
+            "mg"
+          ],
+          "short_gloss": "milligram",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131890,
+      "senses": [
+        {
+          "id": "w1131890-s1",
+          "gloss": [
+            "military look"
+          ],
+          "short_gloss": "military look",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131920,
+      "senses": [
+        {
+          "id": "w1131920-s1",
+          "gloss": [
+            "millibar"
+          ],
+          "short_gloss": "millibar",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131940,
+      "senses": [
+        {
+          "id": "w1131940-s1",
+          "gloss": [
+            "millilitre",
+            "milliliter",
+            "mL"
+          ],
+          "short_gloss": "millilitre",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1131960,
+      "senses": [
+        {
+          "id": "w1131960-s1",
+          "gloss": [
+            "Milwaukee"
+          ],
+          "short_gloss": "Milwaukee",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1132050,
+      "senses": [
+        {
+          "id": "w1132050-s1",
+          "gloss": [
+            "mink"
+          ],
+          "short_gloss": "mink",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1132100,
+      "senses": [
+        {
+          "id": "w1132100-s1",
+          "gloss": [
+            "carne macinata",
+            "ground meat"
+          ],
+          "short_gloss": "carne macinata",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1132110,
+      "senses": [
+        {
+          "id": "w1132110-s1",
+          "gloss": [
+            "mint",
+            "peppermint"
+          ],
+          "short_gloss": "mint",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1132150,
+      "senses": [
+        {
+          "id": "w1132150-s1",
+          "gloss": [
+            "mousse"
+          ],
+          "short_gloss": "mousse",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1132170,
+      "senses": [
+        {
+          "id": "w1132170-s1",
+          "gloss": [
+            "having a good atmosphere",
+            "atmospheric",
+            "romantico"
+          ],
+          "short_gloss": "having a good atmosphere",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1132210,
+      "senses": [
+        {
+          "id": "w1132210-s1",
+          "gloss": [
+            "film",
+            "pellicola"
+          ],
+          "short_gloss": "film",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1132210-s2",
+          "gloss": [
+            "video",
+            "clip"
+          ],
+          "short_gloss": "video",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1132220,
+      "senses": [
+        {
+          "id": "w1132220-s1",
+          "gloss": [
+            "movement (political, social, artistic, etc.)"
+          ],
+          "short_gloss": "movement (political, social, artistic, etc.)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1132220-s2",
+          "gloss": [
+            "movement (of a clock or watch)"
+          ],
+          "short_gloss": "movement (of a clock or watch)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1132220-s3",
+          "gloss": [
+            "movement (impression of motion)"
+          ],
+          "short_gloss": "movement (impression of motion)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1132220-s4",
+          "gloss": [
+            "movimento"
+          ],
+          "short_gloss": "movimento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1132240,
+      "senses": [
+        {
+          "id": "w1132240-s1",
+          "gloss": [
+            "moulin"
+          ],
+          "short_gloss": "moulin",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1132250,
+      "senses": [
+        {
+          "id": "w1132250-s1",
+          "gloss": [
+            "mussels"
+          ],
+          "short_gloss": "mussels",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1132270,
+      "senses": [
+        {
+          "id": "w1132270-s1",
+          "gloss": [
+            "satellite naturale"
+          ],
+          "short_gloss": "satellite naturale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1132350,
+      "senses": [
+        {
+          "id": "w1132350-s1",
+          "gloss": [
+            "mustang"
+          ],
+          "short_gloss": "mustang",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1132410,
+      "senses": [
+        {
+          "id": "w1132410-s1",
+          "gloss": [
+            "mulatto"
+          ],
+          "short_gloss": "mulatto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1132460,
+      "senses": [
+        {
+          "id": "w1132460-s1",
+          "gloss": [
+            "trucco",
+            "struttura"
+          ],
+          "short_gloss": "trucco",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1132460-s2",
+          "gloss": [
+            "making food (in a delivery-only restaurant)",
+            "cucina"
+          ],
+          "short_gloss": "making food (in a delivery-only restaurant)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1132620,
+      "senses": [
+        {
+          "id": "w1132620-s1",
+          "gloss": [
+            "email"
+          ],
+          "short_gloss": "email",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1132620-s2",
+          "gloss": [
+            "posta",
+            "incarico"
+          ],
+          "short_gloss": "posta",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1132620-s3",
+          "gloss": [
+            "message (in an instant messaging application)",
+            "instant message",
+            "IM",
+            "(SMS) text"
+          ],
+          "short_gloss": "message (in an instant messaging application)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1132780,
+      "senses": [
+        {
+          "id": "w1132780-s1",
+          "gloss": [
+            "(company's) main financing bank",
+            "principal bank"
+          ],
+          "short_gloss": "(company's) main financing bank",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1132920,
+      "senses": [
+        {
+          "id": "w1132920-s1",
+          "gloss": [
+            "meccanismo",
+            "meccanica",
+            "machines",
+            "(mechanical) equipment"
+          ],
+          "short_gloss": "meccanismo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1132920-s2",
+          "gloss": [
+            "mechanic"
+          ],
+          "short_gloss": "mechanic",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1132970,
+      "senses": [
+        {
+          "id": "w1132970-s1",
+          "gloss": [
+            "mechanic"
+          ],
+          "short_gloss": "mechanic",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1132970-s2",
+          "gloss": [
+            "mechanical"
+          ],
+          "short_gloss": "mechanical",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1132970-s3",
+          "gloss": [
+            "meccanismo"
+          ],
+          "short_gloss": "meccanismo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1132970-s4",
+          "gloss": [
+            "technique (e.g. in piano-playing)"
+          ],
+          "short_gloss": "technique (e.g. in piano-playing)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1132990,
+      "senses": [
+        {
+          "id": "w1132990-s1",
+          "gloss": [
+            "mega- (i.e. 10^6)"
+          ],
+          "short_gloss": "mega- (i.e. 10^6)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1132990-s2",
+          "gloss": [
+            "mega",
+            "colossale",
+            "enorme"
+          ],
+          "short_gloss": "mega",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1133050,
+      "senses": [
+        {
+          "id": "w1133050-s1",
+          "gloss": [
+            "megahertz",
+            "MHz"
+          ],
+          "short_gloss": "megahertz",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1133060,
+      "senses": [
+        {
+          "id": "w1133060-s1",
+          "gloss": [
+            "megaphone"
+          ],
+          "short_gloss": "megaphone",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1133110,
+      "senses": [
+        {
+          "id": "w1133110-s1",
+          "gloss": [
+            "Mekong delta"
+          ],
+          "short_gloss": "Mekong delta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1133120,
+      "senses": [
+        {
+          "id": "w1133120-s1",
+          "gloss": [
+            "Messia"
+          ],
+          "short_gloss": "Messia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1133140,
+      "senses": [
+        {
+          "id": "w1133140-s1",
+          "gloss": [
+            "maggiore",
+            "grande",
+            "importante",
+            "famoso",
+            "corrente principale"
+          ],
+          "short_gloss": "maggiore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1133140-s2",
+          "gloss": [
+            "the Major Leagues",
+            "Major League Baseball"
+          ],
+          "short_gloss": "the Major Leagues",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1133140-s3",
+          "gloss": [
+            "major (key, scale, etc.)"
+          ],
+          "short_gloss": "major (key, scale, etc.)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1133140-s4",
+          "gloss": [
+            "(oil) major"
+          ],
+          "short_gloss": "(oil) major",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1133140-s5",
+          "gloss": [
+            "major record label"
+          ],
+          "short_gloss": "major record label",
+          "source": "manual_translation"
+        }
+      ]
+    }
+  ]
+}
