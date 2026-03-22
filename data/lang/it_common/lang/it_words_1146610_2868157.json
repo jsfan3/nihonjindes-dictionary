@@ -1,0 +1,3305 @@
+{
+  "schema": {
+    "name": "jp-words-lang",
+    "version": "1.0"
+  },
+  "lang": "it",
+  "entries": [
+    {
+      "id": 1146610,
+      "senses": [
+        {
+          "id": "w1146610-s1",
+          "gloss": [
+            "roadshow cinematografico"
+          ],
+          "short_gloss": "roadshow cinematografico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1146680,
+      "senses": [
+        {
+          "id": "w1146680-s1",
+          "gloss": [
+            "corsa su strada"
+          ],
+          "short_gloss": "corsa su strada",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1146820,
+      "senses": [
+        {
+          "id": "w1146820-s1",
+          "gloss": [
+            "terriccio argilloso"
+          ],
+          "short_gloss": "terriccio argilloso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1146860,
+      "senses": [
+        {
+          "id": "w1146860-s1",
+          "gloss": [
+            "rullo"
+          ],
+          "short_gloss": "rullo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1146880,
+      "senses": [
+        {
+          "id": "w1146880-s1",
+          "gloss": [
+            "pattinaggio a rotelle",
+            "pattini a rotelle"
+          ],
+          "short_gloss": "pattini a rotelle",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1146900,
+      "senses": [
+        {
+          "id": "w1146900-s1",
+          "gloss": [
+            "rollio"
+          ],
+          "short_gloss": "rollio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1146900-s2",
+          "gloss": [
+            "progressivo"
+          ],
+          "short_gloss": "progressivo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1146900-s3",
+          "gloss": [
+            "corsa clandestina in strada"
+          ],
+          "short_gloss": "corsa clandestina",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1146920,
+      "senses": [
+        {
+          "id": "w1146920-s1",
+          "gloss": [
+            "rotolo",
+            "arrotolamento"
+          ],
+          "short_gloss": "rotolo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1146920-s2",
+          "gloss": [
+            "panino"
+          ],
+          "short_gloss": "panino",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1146920-s3",
+          "gloss": [
+            "rullo"
+          ],
+          "short_gloss": "rullo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1146920-s4",
+          "gloss": [
+            "rollio"
+          ],
+          "short_gloss": "rollio",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1146920-s5",
+          "gloss": [
+            "pellicola in rullo"
+          ],
+          "short_gloss": "pellicola in rullo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1146990,
+      "senses": [
+        {
+          "id": "w1146990-s1",
+          "gloss": [
+            "alloro"
+          ],
+          "short_gloss": "alloro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147040,
+      "senses": [
+        {
+          "id": "w1147040-s1",
+          "gloss": [
+            "reale"
+          ],
+          "short_gloss": "reale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147080,
+      "senses": [
+        {
+          "id": "w1147080-s1",
+          "gloss": [
+            "rockabilly"
+          ],
+          "short_gloss": "rockabilly",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147090,
+      "senses": [
+        {
+          "id": "w1147090-s1",
+          "gloss": [
+            "log"
+          ],
+          "short_gloss": "log",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1147090-s2",
+          "gloss": [
+            "logaritmo"
+          ],
+          "short_gloss": "logaritmo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1147090-s3",
+          "gloss": [
+            "tronco"
+          ],
+          "short_gloss": "tronco",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1147090-s4",
+          "gloss": [
+            "giornale di bordo"
+          ],
+          "short_gloss": "giornale di bordo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1147090-s5",
+          "gloss": [
+            "solcometro"
+          ],
+          "short_gloss": "solcometro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147180,
+      "senses": [
+        {
+          "id": "w1147180-s1",
+          "gloss": [
+            "location",
+            "riprese in esterni"
+          ],
+          "short_gloss": "location",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147190,
+      "senses": [
+        {
+          "id": "w1147190-s1",
+          "gloss": [
+            "ubicazione"
+          ],
+          "short_gloss": "ubicazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147250,
+      "senses": [
+        {
+          "id": "w1147250-s1",
+          "gloss": [
+            "ricerca delle location"
+          ],
+          "short_gloss": "ricerca location",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147260,
+      "senses": [
+        {
+          "id": "w1147260-s1",
+          "gloss": [
+            "rococò"
+          ],
+          "short_gloss": "rococò",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147280,
+      "senses": [
+        {
+          "id": "w1147280-s1",
+          "gloss": [
+            "logo"
+          ],
+          "short_gloss": "logo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1147280-s2",
+          "gloss": [
+            "Logo"
+          ],
+          "short_gloss": "Logo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147310,
+      "senses": [
+        {
+          "id": "w1147310-s1",
+          "gloss": [
+            "Los Angeles"
+          ],
+          "short_gloss": "Los Angeles",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147370,
+      "senses": [
+        {
+          "id": "w1147370-s1",
+          "gloss": [
+            "analizzatore logico"
+          ],
+          "short_gloss": "analizzatore logico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147410,
+      "senses": [
+        {
+          "id": "w1147410-s1",
+          "gloss": [
+            "logica"
+          ],
+          "short_gloss": "logica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147430,
+      "senses": [
+        {
+          "id": "w1147430-s1",
+          "gloss": [
+            "perdita",
+            "spreco"
+          ],
+          "short_gloss": "perdita",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1147430-s2",
+          "gloss": [
+            "senso di perdita"
+          ],
+          "short_gloss": "senso di perdita",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147570,
+      "senses": [
+        {
+          "id": "w1147570-s1",
+          "gloss": [
+            "spogliatoio"
+          ],
+          "short_gloss": "spogliatoio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147630,
+      "senses": [
+        {
+          "id": "w1147630-s1",
+          "gloss": [
+            "lana di roccia",
+            "lana minerale"
+          ],
+          "short_gloss": "lana di roccia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147690,
+      "senses": [
+        {
+          "id": "w1147690-s1",
+          "gloss": [
+            "rock and roll"
+          ],
+          "short_gloss": "rock and roll",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147710,
+      "senses": [
+        {
+          "id": "w1147710-s1",
+          "gloss": [
+            "lodge",
+            "rifugio"
+          ],
+          "short_gloss": "rifugio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147760,
+      "senses": [
+        {
+          "id": "w1147760-s1",
+          "gloss": [
+            "asta",
+            "barra",
+            "bastone"
+          ],
+          "short_gloss": "asta",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1147760-s2",
+          "gloss": [
+            "canna da pesca"
+          ],
+          "short_gloss": "canna da pesca",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147780,
+      "senses": [
+        {
+          "id": "w1147780-s1",
+          "gloss": [
+            "rodeo"
+          ],
+          "short_gloss": "rodeo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147820,
+      "senses": [
+        {
+          "id": "w1147820-s1",
+          "gloss": [
+            "lobbista"
+          ],
+          "short_gloss": "lobbista",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147830,
+      "senses": [
+        {
+          "id": "w1147830-s1",
+          "gloss": [
+            "pallonetto"
+          ],
+          "short_gloss": "pallonetto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147840,
+      "senses": [
+        {
+          "id": "w1147840-s1",
+          "gloss": [
+            "soppalco"
+          ],
+          "short_gloss": "soppalco",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147850,
+      "senses": [
+        {
+          "id": "w1147850-s1",
+          "gloss": [
+            "lob",
+            "pallonetto"
+          ],
+          "short_gloss": "lob",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147940,
+      "senses": [
+        {
+          "id": "w1147940-s1",
+          "gloss": [
+            "romanzo cavalleresco",
+            "racconto eroico"
+          ],
+          "short_gloss": "romanzo cavalleresco",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1147940-s2",
+          "gloss": [
+            "sogno grandioso",
+            "spirito d’avventura"
+          ],
+          "short_gloss": "sogno grandioso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1147940-s3",
+          "gloss": [
+            "romanzo"
+          ],
+          "short_gloss": "romanzo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1147940-s4",
+          "gloss": [
+            "romanticismo",
+            "storia d’amore"
+          ],
+          "short_gloss": "storia d’amore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1147940-s5",
+          "gloss": [
+            "romanticismo"
+          ],
+          "short_gloss": "romanticismo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1147950,
+      "senses": [
+        {
+          "id": "w1147950-s1",
+          "gloss": [
+            "storia d’amore",
+            "romanzo rosa"
+          ],
+          "short_gloss": "storia d’amore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1147950-s2",
+          "gloss": [
+            "relazione romantica"
+          ],
+          "short_gloss": "relazione romantica",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1147950-s3",
+          "gloss": [
+            "romanza"
+          ],
+          "short_gloss": "romanza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148050,
+      "senses": [
+        {
+          "id": "w1148050-s1",
+          "gloss": [
+            "memoria di sola lettura",
+            "ROM"
+          ],
+          "short_gloss": "ROM",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1148050-s2",
+          "gloss": [
+            "lurker"
+          ],
+          "short_gloss": "lurker",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148120,
+      "senses": [
+        {
+          "id": "w1148120-s1",
+          "gloss": [
+            "lungo"
+          ],
+          "short_gloss": "lungo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148160,
+      "senses": [
+        {
+          "id": "w1148160-s1",
+          "gloss": [
+            "long seller",
+            "prodotto di lunga vendita"
+          ],
+          "short_gloss": "long seller",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148190,
+      "senses": [
+        {
+          "id": "w1148190-s1",
+          "gloss": [
+            "buca par cinque"
+          ],
+          "short_gloss": "buca par cinque",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148200,
+      "senses": [
+        {
+          "id": "w1148200-s1",
+          "gloss": [
+            "lunga tenitura"
+          ],
+          "short_gloss": "lunga tenitura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148230,
+      "senses": [
+        {
+          "id": "w1148230-s1",
+          "gloss": [
+            "Londra"
+          ],
+          "short_gloss": "Londra",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148290,
+      "senses": [
+        {
+          "id": "w1148290-s1",
+          "gloss": [
+            "lavoratore"
+          ],
+          "short_gloss": "lavoratore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148310,
+      "senses": [
+        {
+          "id": "w1148310-s1",
+          "gloss": [
+            "lavorativo"
+          ],
+          "short_gloss": "lavorativo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148360,
+      "senses": [
+        {
+          "id": "w1148360-s1",
+          "gloss": [
+            "lavoro"
+          ],
+          "short_gloss": "lavoro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148380,
+      "senses": [
+        {
+          "id": "w1148380-s1",
+          "gloss": [
+            "laboratorio",
+            "workshop"
+          ],
+          "short_gloss": "laboratorio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148390,
+      "senses": [
+        {
+          "id": "w1148390-s1",
+          "gloss": [
+            "workstation",
+            "stazione di lavoro"
+          ],
+          "short_gloss": "stazione di lavoro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148450,
+      "senses": [
+        {
+          "id": "w1148450-s1",
+          "gloss": [
+            "peggiore"
+          ],
+          "short_gloss": "peggiore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148460,
+      "senses": [
+        {
+          "id": "w1148460-s1",
+          "gloss": [
+            "parola"
+          ],
+          "short_gloss": "parola",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1148460-s2",
+          "gloss": [
+            "Word"
+          ],
+          "short_gloss": "Word",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148510,
+      "senses": [
+        {
+          "id": "w1148510-s1",
+          "gloss": [
+            "curvatura warp"
+          ],
+          "short_gloss": "warp",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148550,
+      "senses": [
+        {
+          "id": "w1148550-s1",
+          "gloss": [
+            "mondo"
+          ],
+          "short_gloss": "mondo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148570,
+      "senses": [
+        {
+          "id": "w1148570-s1",
+          "gloss": [
+            "Coppa del Mondo"
+          ],
+          "short_gloss": "Coppa del Mondo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148600,
+      "senses": [
+        {
+          "id": "w1148600-s1",
+          "gloss": [
+            "World Series"
+          ],
+          "short_gloss": "World Series",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148650,
+      "senses": [
+        {
+          "id": "w1148650-s1",
+          "gloss": [
+            "saggio"
+          ],
+          "short_gloss": "saggio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148660,
+      "senses": [
+        {
+          "id": "w1148660-s1",
+          "gloss": [
+            "ampio"
+          ],
+          "short_gloss": "ampio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148670,
+      "senses": [
+        {
+          "id": "w1148670-s1",
+          "gloss": [
+            "programma televisivo di infotainment",
+            "talk show di gossip"
+          ],
+          "short_gloss": "programma di infotainment",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148700,
+      "senses": [
+        {
+          "id": "w1148700-s1",
+          "gloss": [
+            "tergicristallo"
+          ],
+          "short_gloss": "tergicristallo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148760,
+      "senses": [
+        {
+          "id": "w1148760-s1",
+          "gloss": [
+            "filo",
+            "cavo"
+          ],
+          "short_gloss": "cavo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1148760-s2",
+          "gloss": [
+            "fune metallica"
+          ],
+          "short_gloss": "fune metallica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148810,
+      "senses": [
+        {
+          "id": "w1148810-s1",
+          "gloss": [
+            "senza fili",
+            "wireless"
+          ],
+          "short_gloss": "wireless",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1148810-s2",
+          "gloss": [
+            "microfono wireless"
+          ],
+          "short_gloss": "microfono wireless",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148830,
+      "senses": [
+        {
+          "id": "w1148830-s1",
+          "gloss": [
+            "selvaggio"
+          ],
+          "short_gloss": "selvaggio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148920,
+      "senses": [
+        {
+          "id": "w1148920-s1",
+          "gloss": [
+            "wah-wah"
+          ],
+          "short_gloss": "wah-wah",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148960,
+      "senses": [
+        {
+          "id": "w1148960-s1",
+          "gloss": [
+            "vaccino"
+          ],
+          "short_gloss": "vaccino",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1148960-s2",
+          "gloss": [
+            "software antivirus"
+          ],
+          "short_gloss": "antivirus",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1148990,
+      "senses": [
+        {
+          "id": "w1148990-s1",
+          "gloss": [
+            "carrello"
+          ],
+          "short_gloss": "carrello",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1148990-s2",
+          "gloss": [
+            "carrello da tè"
+          ],
+          "short_gloss": "carrello da tè",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1148990-s3",
+          "gloss": [
+            "station wagon"
+          ],
+          "short_gloss": "station wagon",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1149020,
+      "senses": [
+        {
+          "id": "w1149020-s1",
+          "gloss": [
+            "Washington D.C."
+          ],
+          "short_gloss": "Washington D.C.",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1149020-s2",
+          "gloss": [
+            "Washington"
+          ],
+          "short_gloss": "Washington",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1149060,
+      "senses": [
+        {
+          "id": "w1149060-s1",
+          "gloss": [
+            "cera"
+          ],
+          "short_gloss": "cera",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1149090,
+      "senses": [
+        {
+          "id": "w1149090-s1",
+          "gloss": [
+            "toppa ricamata",
+            "emblema"
+          ],
+          "short_gloss": "toppa ricamata",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1149090-s2",
+          "gloss": [
+            "adesivo illustrato"
+          ],
+          "short_gloss": "adesivo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1149110,
+      "senses": [
+        {
+          "id": "w1149110-s1",
+          "gloss": [
+            "wallaby"
+          ],
+          "short_gloss": "wallaby",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1149120,
+      "senses": [
+        {
+          "id": "w1149120-s1",
+          "gloss": [
+            "mandato",
+            "warrant"
+          ],
+          "short_gloss": "mandato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1149130,
+      "senses": [
+        {
+          "id": "w1149130-s1",
+          "gloss": [
+            "uno"
+          ],
+          "short_gloss": "uno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1149190,
+      "senses": [
+        {
+          "id": "w1149190-s1",
+          "gloss": [
+            "a un tocco",
+            "azionamento one-touch"
+          ],
+          "short_gloss": "one-touch",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1149190-s2",
+          "gloss": [
+            "tocco"
+          ],
+          "short_gloss": "tocco",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1149190-s3",
+          "gloss": [
+            "giocata di prima"
+          ],
+          "short_gloss": "giocata di prima",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1149250,
+      "senses": [
+        {
+          "id": "w1149250-s1",
+          "gloss": [
+            "lanciatore di rilievo per un solo battitore"
+          ],
+          "short_gloss": "rilievo per un battitore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1149260,
+      "senses": [
+        {
+          "id": "w1149260-s1",
+          "gloss": [
+            "one-man show",
+            "a uomo solo"
+          ],
+          "short_gloss": "one-man show",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1149260-s2",
+          "gloss": [
+            "tiranno",
+            "autoritario"
+          ],
+          "short_gloss": "tiranno",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1149260-s3",
+          "gloss": [
+            "autobus senza controllore",
+            "treno senza controllore"
+          ],
+          "short_gloss": "senza controllore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1149290,
+      "senses": [
+        {
+          "id": "w1149290-s1",
+          "gloss": [
+            "monolocale"
+          ],
+          "short_gloss": "monolocale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1284590,
+      "senses": [
+        {
+          "id": "w1284590-s1",
+          "gloss": [
+            "impermeabile"
+          ],
+          "short_gloss": "impermeabile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1568950,
+      "senses": [
+        {
+          "id": "w1568950-s1",
+          "gloss": [
+            "riso fritto alla cinese"
+          ],
+          "short_gloss": "riso fritto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1613050,
+      "senses": [
+        {
+          "id": "w1613050-s1",
+          "gloss": [
+            "Calgary"
+          ],
+          "short_gloss": "Calgary",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1613080,
+      "senses": [
+        {
+          "id": "w1613080-s1",
+          "gloss": [
+            "Cecoslovacchia"
+          ],
+          "short_gloss": "Cecoslovacchia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1629050,
+      "senses": [
+        {
+          "id": "w1629050-s1",
+          "gloss": [
+            "bibita analcolica"
+          ],
+          "short_gloss": "bibita analcolica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1629100,
+      "senses": [
+        {
+          "id": "w1629100-s1",
+          "gloss": [
+            "cerniera"
+          ],
+          "short_gloss": "cerniera",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1629220,
+      "senses": [
+        {
+          "id": "w1629220-s1",
+          "gloss": [
+            "gilet",
+            "panciotto"
+          ],
+          "short_gloss": "gilet",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1629420,
+      "senses": [
+        {
+          "id": "w1629420-s1",
+          "gloss": [
+            "latta stagnata"
+          ],
+          "short_gloss": "latta stagnata",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1629950,
+      "senses": [
+        {
+          "id": "w1629950-s1",
+          "gloss": [
+            "solare"
+          ],
+          "short_gloss": "solare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1637150,
+      "senses": [
+        {
+          "id": "w1637150-s1",
+          "gloss": [
+            "ristrutturazione aziendale"
+          ],
+          "short_gloss": "ristrutturazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1637150-s2",
+          "gloss": [
+            "ridimensionamento",
+            "licenziamento"
+          ],
+          "short_gloss": "ridimensionamento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1637200,
+      "senses": [
+        {
+          "id": "w1637200-s1",
+          "gloss": [
+            "millennio"
+          ],
+          "short_gloss": "millennio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1637820,
+      "senses": [
+        {
+          "id": "w1637820-s1",
+          "gloss": [
+            "rinnovo",
+            "ristrutturazione",
+            "aggiornamento"
+          ],
+          "short_gloss": "rinnovo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1638670,
+      "senses": [
+        {
+          "id": "w1638670-s1",
+          "gloss": [
+            "cerchietto per capelli"
+          ],
+          "short_gloss": "cerchietto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1639110,
+      "senses": [
+        {
+          "id": "w1639110-s1",
+          "gloss": [
+            "monovolume"
+          ],
+          "short_gloss": "monovolume",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1639280,
+      "senses": [
+        {
+          "id": "w1639280-s1",
+          "gloss": [
+            "curva a spazzaneve"
+          ],
+          "short_gloss": "curva a spazzaneve",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1647530,
+      "senses": [
+        {
+          "id": "w1647530-s1",
+          "gloss": [
+            "nostalgico"
+          ],
+          "short_gloss": "nostalgico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1648000,
+      "senses": [
+        {
+          "id": "w1648000-s1",
+          "gloss": [
+            "home page"
+          ],
+          "short_gloss": "home page",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1648000-s2",
+          "gloss": [
+            "pagina web"
+          ],
+          "short_gloss": "pagina web",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1648000-s3",
+          "gloss": [
+            "sito web"
+          ],
+          "short_gloss": "sito web",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1648370,
+      "senses": [
+        {
+          "id": "w1648370-s1",
+          "gloss": [
+            "lancia"
+          ],
+          "short_gloss": "lancia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1649030,
+      "senses": [
+        {
+          "id": "w1649030-s1",
+          "gloss": [
+            "freccia"
+          ],
+          "short_gloss": "freccia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1649040,
+      "senses": [
+        {
+          "id": "w1649040-s1",
+          "gloss": [
+            "orco"
+          ],
+          "short_gloss": "orco",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1649060,
+      "senses": [
+        {
+          "id": "w1649060-s1",
+          "gloss": [
+            "guardiano"
+          ],
+          "short_gloss": "guardiano",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1649080,
+      "senses": [
+        {
+          "id": "w1649080-s1",
+          "gloss": [
+            "ghoul"
+          ],
+          "short_gloss": "ghoul",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1649140,
+      "senses": [
+        {
+          "id": "w1649140-s1",
+          "gloss": [
+            "stordimento"
+          ],
+          "short_gloss": "stordimento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1649150,
+      "senses": [
+        {
+          "id": "w1649150-s1",
+          "gloss": [
+            "pungiglione"
+          ],
+          "short_gloss": "pungiglione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1649180,
+      "senses": [
+        {
+          "id": "w1649180-s1",
+          "gloss": [
+            "demi-",
+            "semi-"
+          ],
+          "short_gloss": "demi-",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1649190,
+      "senses": [
+        {
+          "id": "w1649190-s1",
+          "gloss": [
+            "vero"
+          ],
+          "short_gloss": "vero",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1649200,
+      "senses": [
+        {
+          "id": "w1649200-s1",
+          "gloss": [
+            "soldato a cavallo"
+          ],
+          "short_gloss": "soldato",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1649250,
+      "senses": [
+        {
+          "id": "w1649250-s1",
+          "gloss": [
+            "bestia"
+          ],
+          "short_gloss": "bestia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1649310,
+      "senses": [
+        {
+          "id": "w1649310-s1",
+          "gloss": [
+            "lancia"
+          ],
+          "short_gloss": "lancia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1649340,
+      "senses": [
+        {
+          "id": "w1649340-s1",
+          "gloss": [
+            "vampiro"
+          ],
+          "short_gloss": "vampiro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1659530,
+      "senses": [
+        {
+          "id": "w1659530-s1",
+          "gloss": [
+            "morbo di Alzheimer"
+          ],
+          "short_gloss": "Alzheimer",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1659560,
+      "senses": [
+        {
+          "id": "w1659560-s1",
+          "gloss": [
+            "dumping"
+          ],
+          "short_gloss": "dumping",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1659570,
+      "senses": [
+        {
+          "id": "w1659570-s1",
+          "gloss": [
+            "attività bancaria non bancaria"
+          ],
+          "short_gloss": "nonbank banking",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1659590,
+      "senses": [
+        {
+          "id": "w1659590-s1",
+          "gloss": [
+            "Libia"
+          ],
+          "short_gloss": "Libia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2017400,
+      "senses": [
+        {
+          "id": "w2017400-s1",
+          "gloss": [
+            "indirizzo email"
+          ],
+          "short_gloss": "indirizzo email",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2037270,
+      "senses": [
+        {
+          "id": "w2037270-s1",
+          "gloss": [
+            "blog"
+          ],
+          "short_gloss": "blog",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2079340,
+      "senses": [
+        {
+          "id": "w2079340-s1",
+          "gloss": [
+            "cheesecake"
+          ],
+          "short_gloss": "cheesecake",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2080530,
+      "senses": [
+        {
+          "id": "w2080530-s1",
+          "gloss": [
+            "no"
+          ],
+          "short_gloss": "no",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2080530-s2",
+          "gloss": [
+            "no",
+            "senza",
+            "non necessario",
+            "vietato"
+          ],
+          "short_gloss": "no",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2084630,
+      "senses": [
+        {
+          "id": "w2084630-s1",
+          "gloss": [
+            "Bufferin"
+          ],
+          "short_gloss": "Bufferin",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2187000,
+      "senses": [
+        {
+          "id": "w2187000-s1",
+          "gloss": [
+            "navigazione",
+            "navigatore per auto"
+          ],
+          "short_gloss": "navigazione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2187000-s2",
+          "gloss": [
+            "navigatore"
+          ],
+          "short_gloss": "navigatore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2471370,
+      "senses": [
+        {
+          "id": "w2471370-s1",
+          "gloss": [
+            "new wave"
+          ],
+          "short_gloss": "new wave",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2480290,
+      "senses": [
+        {
+          "id": "w2480290-s1",
+          "gloss": [
+            "caramella mou"
+          ],
+          "short_gloss": "caramella mou",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2679370,
+      "senses": [
+        {
+          "id": "w2679370-s1",
+          "gloss": [
+            "Vaticano"
+          ],
+          "short_gloss": "Vaticano",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2842054,
+      "senses": [
+        {
+          "id": "w2842054-s1",
+          "gloss": [
+            "necessario",
+            "indispensabile",
+            "obbligatorio"
+          ],
+          "short_gloss": "necessario",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2842178,
+      "senses": [
+        {
+          "id": "w2842178-s1",
+          "gloss": [
+            "rum"
+          ],
+          "short_gloss": "rum",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2843688,
+      "senses": [
+        {
+          "id": "w2843688-s1",
+          "gloss": [
+            "sandwich"
+          ],
+          "short_gloss": "sandwich",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2845215,
+      "senses": [
+        {
+          "id": "w2845215-s1",
+          "gloss": [
+            "tela",
+            "stoffa"
+          ],
+          "short_gloss": "stoffa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2845215-s2",
+          "gloss": [
+            "tovaglia"
+          ],
+          "short_gloss": "tovaglia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2845215-s3",
+          "gloss": [
+            "carta da parati"
+          ],
+          "short_gloss": "carta da parati",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2845652,
+      "senses": [
+        {
+          "id": "w2845652-s1",
+          "gloss": [
+            "caramello"
+          ],
+          "short_gloss": "caramello",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2847210,
+      "senses": [
+        {
+          "id": "w2847210-s1",
+          "gloss": [
+            "handicap"
+          ],
+          "short_gloss": "handicap",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2851234,
+      "senses": [
+        {
+          "id": "w2851234-s1",
+          "gloss": [
+            "moda"
+          ],
+          "short_gloss": "moda",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2851543,
+      "senses": [
+        {
+          "id": "w2851543-s1",
+          "gloss": [
+            "corriere",
+            "vettore"
+          ],
+          "short_gloss": "vettore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2851543-s2",
+          "gloss": [
+            "portatore sano"
+          ],
+          "short_gloss": "portatore sano",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2851543-s3",
+          "gloss": [
+            "onda portante"
+          ],
+          "short_gloss": "onda portante",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2851543-s4",
+          "gloss": [
+            "operatore di rete mobile"
+          ],
+          "short_gloss": "operatore di rete",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2851543-s5",
+          "gloss": [
+            "portapacchi"
+          ],
+          "short_gloss": "portapacchi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2851543-s6",
+          "gloss": [
+            "carrello a mano"
+          ],
+          "short_gloss": "carrello a mano",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2852741,
+      "senses": [
+        {
+          "id": "w2852741-s1",
+          "gloss": [
+            "birra"
+          ],
+          "short_gloss": "birra",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2854354,
+      "senses": [
+        {
+          "id": "w2854354-s1",
+          "gloss": [
+            "stallo"
+          ],
+          "short_gloss": "stallo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2854354-s2",
+          "gloss": [
+            "stallo del motore"
+          ],
+          "short_gloss": "stallo del motore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2854354-s3",
+          "gloss": [
+            "stalla"
+          ],
+          "short_gloss": "stalla",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2855138,
+      "senses": [
+        {
+          "id": "w2855138-s1",
+          "gloss": [
+            "leva"
+          ],
+          "short_gloss": "leva",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2855138-s2",
+          "gloss": [
+            "joystick"
+          ],
+          "short_gloss": "joystick",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2856153,
+      "senses": [
+        {
+          "id": "w2856153-s1",
+          "gloss": [
+            "tutto"
+          ],
+          "short_gloss": "tutto",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2856153-s2",
+          "gloss": [
+            "notte in bianco"
+          ],
+          "short_gloss": "notte in bianco",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2856634,
+      "senses": [
+        {
+          "id": "w2856634-s1",
+          "gloss": [
+            "gilet",
+            "panciotto"
+          ],
+          "short_gloss": "gilet",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2857548,
+      "senses": [
+        {
+          "id": "w2857548-s1",
+          "gloss": [
+            "capitano",
+            "capo"
+          ],
+          "short_gloss": "capitano",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2857557,
+      "senses": [
+        {
+          "id": "w2857557-s1",
+          "gloss": [
+            "rea"
+          ],
+          "short_gloss": "rea",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2857557-s2",
+          "gloss": [
+            "Rea"
+          ],
+          "short_gloss": "Rea",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2857557-s3",
+          "gloss": [
+            "Rea"
+          ],
+          "short_gloss": "Rea",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2857905,
+      "senses": [
+        {
+          "id": "w2857905-s1",
+          "gloss": [
+            "Primo Maggio"
+          ],
+          "short_gloss": "Primo Maggio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2857908,
+      "senses": [
+        {
+          "id": "w2857908-s1",
+          "gloss": [
+            "pochette",
+            "astuccio"
+          ],
+          "short_gloss": "pochette",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2858252,
+      "senses": [
+        {
+          "id": "w2858252-s1",
+          "gloss": [
+            "destra"
+          ],
+          "short_gloss": "destra",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2858252-s2",
+          "gloss": [
+            "campo destro",
+            "esterno destro"
+          ],
+          "short_gloss": "campo destro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2860800,
+      "senses": [
+        {
+          "id": "w2860800-s1",
+          "gloss": [
+            "viva"
+          ],
+          "short_gloss": "viva",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2860890,
+      "senses": [
+        {
+          "id": "w2860890-s1",
+          "gloss": [
+            "trainante",
+            "di punta"
+          ],
+          "short_gloss": "trainante",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2860924,
+      "senses": [
+        {
+          "id": "w2860924-s1",
+          "gloss": [
+            "carico"
+          ],
+          "short_gloss": "carico",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2860924-s2",
+          "gloss": [
+            "caricamento"
+          ],
+          "short_gloss": "caricamento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2861181,
+      "senses": [
+        {
+          "id": "w2861181-s1",
+          "gloss": [
+            "lievito"
+          ],
+          "short_gloss": "lievito",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2862667,
+      "senses": [
+        {
+          "id": "w2862667-s1",
+          "gloss": [
+            "suite"
+          ],
+          "short_gloss": "suite",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2862667-s2",
+          "gloss": [
+            "suite"
+          ],
+          "short_gloss": "suite",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2862888,
+      "senses": [
+        {
+          "id": "w2862888-s1",
+          "gloss": [
+            "gomma"
+          ],
+          "short_gloss": "gomma",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2868157,
+      "senses": [
+        {
+          "id": "w2868157-s1",
+          "gloss": [
+            "rilievo"
+          ],
+          "short_gloss": "rilievo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2427890,
+      "senses": [
+        {
+          "id": "w2427890-s1",
+          "gloss": [
+            "condizione",
+            "aspetto"
+          ],
+          "short_gloss": "condizione",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w2427890-s2",
+          "gloss": [
+            "voce"
+          ],
+          "short_gloss": "voce",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1608820,
+      "senses": [
+        {
+          "id": "w1608820-s1",
+          "gloss": [
+            "legge sui titoli e gli scambi"
+          ],
+          "short_gloss": "legge sui titoli",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1545430,
+      "senses": [
+        {
+          "id": "w1545430-s1",
+          "gloss": [
+            "condizione",
+            "stato di salute",
+            "aspetto"
+          ],
+          "short_gloss": "stato di salute",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 2232360,
+      "senses": [
+        {
+          "id": "w2232360-s1",
+          "gloss": [
+            "xun",
+            "trigramma del vento e sud-est"
+          ],
+          "short_gloss": "xun",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1149740,
+      "senses": [
+        {
+          "id": "w1149740-s1",
+          "gloss": [
+            "sottospecie"
+          ],
+          "short_gloss": "sottospecie",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1149930,
+      "senses": [
+        {
+          "id": "w1149930-s1",
+          "gloss": [
+            "imitatore mediocre",
+            "epigono"
+          ],
+          "short_gloss": "epigono",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1149930-s2",
+          "gloss": [
+            "seguace",
+            "aderente"
+          ],
+          "short_gloss": "seguace",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1150190,
+      "senses": [
+        {
+          "id": "w1150190-s1",
+          "gloss": [
+            "pathos",
+            "malinconia",
+            "tristezza"
+          ],
+          "short_gloss": "malinconia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1150200,
+      "senses": [
+        {
+          "id": "w1150200-s1",
+          "gloss": [
+            "gioie e dolori"
+          ],
+          "short_gloss": "gioie e dolori",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1150300,
+      "senses": [
+        {
+          "id": "w1150300-s1",
+          "gloss": [
+            "patetico",
+            "lamentoso"
+          ],
+          "short_gloss": "patetico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1150510,
+      "senses": [
+        {
+          "id": "w1150510-s1",
+          "gloss": [
+            "grazioso",
+            "adorabile"
+          ],
+          "short_gloss": "adorabile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1150520,
+      "senses": [
+        {
+          "id": "w1150520-s1",
+          "gloss": [
+            "crescita con amorevole cura"
+          ],
+          "short_gloss": "cura amorevole",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1150550,
+      "senses": [
+        {
+          "id": "w1150550-s1",
+          "gloss": [
+            "fumatore accanito"
+          ],
+          "short_gloss": "fumatore accanito",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1150750,
+      "senses": [
+        {
+          "id": "w1150750-s1",
+          "gloss": [
+            "amata moglie"
+          ],
+          "short_gloss": "amata moglie",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1150750-s2",
+          "gloss": [
+            "amare la propria moglie"
+          ],
+          "short_gloss": "amare la moglie",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1150780,
+      "senses": [
+        {
+          "id": "w1150780-s1",
+          "gloss": [
+            "amata auto",
+            "propria auto"
+          ],
+          "short_gloss": "amata auto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1150790,
+      "senses": [
+        {
+          "id": "w1150790-s1",
+          "gloss": [
+            "grande amore per i libri"
+          ],
+          "short_gloss": "amore per i libri",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1150790-s2",
+          "gloss": [
+            "libro preferito"
+          ],
+          "short_gloss": "libro preferito",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1150800,
+      "senses": [
+        {
+          "id": "w1150800-s1",
+          "gloss": [
+            "cantare con grande affetto"
+          ],
+          "short_gloss": "cantare con affetto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1150920,
+      "senses": [
+        {
+          "id": "w1150920-s1",
+          "gloss": [
+            "custodito gelosamente",
+            "prezioso"
+          ],
+          "short_gloss": "prezioso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1150970,
+      "senses": [
+        {
+          "id": "w1150970-s1",
+          "gloss": [
+            "uccello da compagnia"
+          ],
+          "short_gloss": "uccello da compagnia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1150980,
+      "senses": [
+        {
+          "id": "w1150980-s1",
+          "gloss": [
+            "allievo prediletto"
+          ],
+          "short_gloss": "allievo prediletto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1151040,
+      "senses": [
+        {
+          "id": "w1151040-s1",
+          "gloss": [
+            "cavallo preferito"
+          ],
+          "short_gloss": "cavallo preferito",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1151200,
+      "senses": [
+        {
+          "id": "w1151200-s1",
+          "gloss": [
+            "robbia giapponese"
+          ],
+          "short_gloss": "robbia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1151200-s2",
+          "gloss": [
+            "rosso robbia"
+          ],
+          "short_gloss": "rosso robbia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1151690,
+      "senses": [
+        {
+          "id": "w1151690-s1",
+          "gloss": [
+            "cattivo",
+            "malfattore",
+            "villain"
+          ],
+          "short_gloss": "malfattore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1151880,
+      "senses": [
+        {
+          "id": "w1151880-s1",
+          "gloss": [
+            "cattiva abitudine",
+            "vizio"
+          ],
+          "short_gloss": "vizio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1151980,
+      "senses": [
+        {
+          "id": "w1151980-s1",
+          "gloss": [
+            "condizioni sfavorevoli"
+          ],
+          "short_gloss": "condizioni sfavorevoli",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1152110,
+      "senses": [
+        {
+          "id": "w1152110-s1",
+          "gloss": [
+            "malgoverno"
+          ],
+          "short_gloss": "malgoverno",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1152160,
+      "senses": [
+        {
+          "id": "w1152160-s1",
+          "gloss": [
+            "lotta accanita",
+            "dura lotta"
+          ],
+          "short_gloss": "lotta accanita",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1152230,
+      "senses": [
+        {
+          "id": "w1152230-s1",
+          "gloss": [
+            "insulti",
+            "linguaggio offensivo"
+          ],
+          "short_gloss": "insulti",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1152310,
+      "senses": [
+        {
+          "id": "w1152310-s1",
+          "gloss": [
+            "canaglia",
+            "mascalzone"
+          ],
+          "short_gloss": "canaglia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1152330,
+      "senses": [
+        {
+          "id": "w1152330-s1",
+          "gloss": [
+            "monello",
+            "bambino cattivo"
+          ],
+          "short_gloss": "monello",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1152420,
+      "senses": [
+        {
+          "id": "w1152420-s1",
+          "gloss": [
+            "cattiva reputazione",
+            "cattiva fama"
+          ],
+          "short_gloss": "cattiva reputazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1152480,
+      "senses": [
+        {
+          "id": "w1152480-s1",
+          "gloss": [
+            "pratica corrotta",
+            "cattiva usanza"
+          ],
+          "short_gloss": "pratica corrotta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1152500,
+      "senses": [
+        {
+          "id": "w1152500-s1",
+          "gloss": [
+            "cattiva legge"
+          ],
+          "short_gloss": "cattiva legge",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1152500-s2",
+          "gloss": [
+            "pratiche malvagie"
+          ],
+          "short_gloss": "pratiche malvagie",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1152600,
+      "senses": [
+        {
+          "id": "w1152600-s1",
+          "gloss": [
+            "strada dissestata"
+          ],
+          "short_gloss": "strada dissestata",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1152620,
+      "senses": [
+        {
+          "id": "w1152620-s1",
+          "gloss": [
+            "scherzo di cattivo gusto"
+          ],
+          "short_gloss": "scherzo di cattivo gusto",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1152790,
+      "senses": [
+        {
+          "id": "w1152790-s1",
+          "gloss": [
+            "sole nascente"
+          ],
+          "short_gloss": "sole nascente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1152820,
+      "senses": [
+        {
+          "id": "w1152820-s1",
+          "gloss": [
+            "canna comune"
+          ],
+          "short_gloss": "canna comune",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1152850,
+      "senses": [
+        {
+          "id": "w1152850-s1",
+          "gloss": [
+            "betulla giapponese"
+          ],
+          "short_gloss": "betulla giapponese",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1152850-s2",
+          "gloss": [
+            "catalpa gialla"
+          ],
+          "short_gloss": "catalpa gialla",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1152850-s3",
+          "gloss": [
+            "malloto giapponese"
+          ],
+          "short_gloss": "malloto giapponese",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1152850-s4",
+          "gloss": [
+            "matrice di stampa"
+          ],
+          "short_gloss": "matrice di stampa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1152850-s5",
+          "gloss": [
+            "arco di catalpa"
+          ],
+          "short_gloss": "arco di catalpa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1152850-s6",
+          "gloss": [
+            "supporto di catalpa"
+          ],
+          "short_gloss": "supporto di catalpa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1152940,
+      "senses": [
+        {
+          "id": "w1152940-s1",
+          "gloss": [
+            "laminazione"
+          ],
+          "short_gloss": "laminazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1153060,
+      "senses": [
+        {
+          "id": "w1153060-s1",
+          "gloss": [
+            "schiacciare a morte"
+          ],
+          "short_gloss": "schiacciare a morte",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1153060-s2",
+          "gloss": [
+            "soffocamento",
+            "repressione"
+          ],
+          "short_gloss": "repressione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1153070,
+      "senses": [
+        {
+          "id": "w1153070-s1",
+          "gloss": [
+            "morte per schiacciamento"
+          ],
+          "short_gloss": "morte per schiacciamento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1153100,
+      "senses": [
+        {
+          "id": "w1153100-s1",
+          "gloss": [
+            "aria compressa"
+          ],
+          "short_gloss": "aria compressa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1153190,
+      "senses": [
+        {
+          "id": "w1153190-s1",
+          "gloss": [
+            "regime oppressivo",
+            "dispotismo"
+          ],
+          "short_gloss": "dispotismo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1153360,
+      "senses": [
+        {
+          "id": "w1153360-s1",
+          "gloss": [
+            "gruppo di pressione",
+            "lobby"
+          ],
+          "short_gloss": "gruppo di pressione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1153540,
+      "senses": [
+        {
+          "id": "w1153540-s1",
+          "gloss": [
+            "splendido",
+            "sgargiante",
+            "sfarzoso"
+          ],
+          "short_gloss": "sfarzoso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1153640,
+      "senses": [
+        {
+          "id": "w1153640-s1",
+          "gloss": [
+            "miglio italico"
+          ],
+          "short_gloss": "miglio italico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1153730,
+      "senses": [
+        {
+          "id": "w1153730-s1",
+          "gloss": [
+            "pace",
+            "tranquillità"
+          ],
+          "short_gloss": "tranquillità",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1153760,
+      "senses": [
+        {
+          "id": "w1153760-s1",
+          "gloss": [
+            "agio",
+            "comodità"
+          ],
+          "short_gloss": "comodità",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1153820,
+      "senses": [
+        {
+          "id": "w1153820-s1",
+          "gloss": [
+            "parto facile",
+            "parto sicuro"
+          ],
+          "short_gloss": "parto sicuro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1154020,
+      "senses": [
+        {
+          "id": "w1154020-s1",
+          "gloss": [
+            "zona di sicurezza"
+          ],
+          "short_gloss": "zona di sicurezza",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1154020-s2",
+          "gloss": [
+            "isola spartitraffico"
+          ],
+          "short_gloss": "spartitraffico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1154050,
+      "senses": [
+        {
+          "id": "w1154050-s1",
+          "gloss": [
+            "riposo",
+            "requie"
+          ],
+          "short_gloss": "riposo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1154090,
+      "senses": [
+        {
+          "id": "w1154090-s1",
+          "gloss": [
+            "collocazione rituale",
+            "installazione di un’immagine"
+          ],
+          "short_gloss": "collocazione rituale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1154110,
+      "senses": [
+        {
+          "id": "w1154110-s1",
+          "gloss": [
+            "semplice",
+            "facile",
+            "semplicistico"
+          ],
+          "short_gloss": "semplice",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1154110-s2",
+          "gloss": [
+            "economico",
+            "a buon mercato"
+          ],
+          "short_gloss": "economico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1154170,
+      "senses": [
+        {
+          "id": "w1154170-s1",
+          "gloss": [
+            "sollievo",
+            "rassicurazione"
+          ],
+          "short_gloss": "sollievo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1154170-s2",
+          "gloss": [
+            "riconoscimento del diritto di proprietà terriera"
+          ],
+          "short_gloss": "diritto terriero",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1154170-s3",
+          "gloss": [
+            "vivere al sicuro entro mura"
+          ],
+          "short_gloss": "vivere al sicuro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1154540,
+      "senses": [
+        {
+          "id": "w1154540-s1",
+          "gloss": [
+            "calcolo mentale"
+          ],
+          "short_gloss": "calcolo mentale",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1154610,
+      "senses": [
+        {
+          "id": "w1154610-s1",
+          "gloss": [
+            "PIN",
+            "numero di identificazione personale"
+          ],
+          "short_gloss": "PIN",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1154670,
+      "senses": [
+        {
+          "id": "w1154670-s1",
+          "gloss": [
+            "blackout teatrale"
+          ],
+          "short_gloss": "blackout teatrale",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1154670-s2",
+          "gloss": [
+            "peggioramento improvviso"
+          ],
+          "short_gloss": "peggioramento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1154680,
+      "senses": [
+        {
+          "id": "w1154680-s1",
+          "gloss": [
+            "faida segreta"
+          ],
+          "short_gloss": "faida segreta",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1154680-s2",
+          "gloss": [
+            "pantomima muta al buio"
+          ],
+          "short_gloss": "pantomima al buio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1154710,
+      "senses": [
+        {
+          "id": "w1154710-s1",
+          "gloss": [
+            "manovre segrete",
+            "agire dietro le quinte"
+          ],
+          "short_gloss": "manovre segrete",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1154780,
+      "senses": [
+        {
+          "id": "w1154780-s1",
+          "gloss": [
+            "preoccuparsi",
+            "essere in ansia"
+          ],
+          "short_gloss": "preoccuparsi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1154780-s2",
+          "gloss": [
+            "ideare",
+            "escogitare"
+          ],
+          "short_gloss": "ideare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1154780-s3",
+          "gloss": [
+            "indagare"
+          ],
+          "short_gloss": "indagare",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1154780-s4",
+          "gloss": [
+            "accarezzare",
+            "strofinare",
+            "palpare"
+          ],
+          "short_gloss": "accarezzare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1154890,
+      "senses": [
+        {
+          "id": "w1154890-s1",
+          "gloss": [
+            "guida",
+            "guida turistica"
+          ],
+          "short_gloss": "guida",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1155010,
+      "senses": [
+        {
+          "id": "w1155010-s1",
+          "gloss": [
+            "frutteto di albicocchi"
+          ],
+          "short_gloss": "frutteto di albicocchi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1155010-s2",
+          "gloss": [
+            "medico"
+          ],
+          "short_gloss": "medico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1155040,
+      "senses": [
+        {
+          "id": "w1155040-s1",
+          "gloss": [
+            "oltre",
+            "più lontano di"
+          ],
+          "short_gloss": "oltre",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1155130,
+      "senses": [
+        {
+          "id": "w1155130-s1",
+          "gloss": [
+            "telepatia",
+            "intesa tacita"
+          ],
+          "short_gloss": "telepatia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1155130-s2",
+          "gloss": [
+            "trasmissione zen non verbale degli insegnamenti buddhisti"
+          ],
+          "short_gloss": "trasmissione zen",
+          "source": "manual_translation"
+        }
+      ]
+    }
+  ]
+}
