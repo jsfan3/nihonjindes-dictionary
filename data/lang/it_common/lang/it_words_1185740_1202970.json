@@ -1,0 +1,3081 @@
+{
+  "schema": {
+    "name": "jp-words-lang",
+    "version": "1.0"
+  },
+  "lang": "it",
+  "range": {
+    "start_id": 1185740,
+    "end_id": 1202970
+  },
+  "coverage": {
+    "type": "common_words",
+    "count": 200
+  },
+  "entries": [
+    {
+      "id": 1185740,
+      "senses": [
+        {
+          "id": "w1185740-s1",
+          "gloss": [
+            "lato inferiore"
+          ],
+          "short_gloss": "lato inferiore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1186000,
+      "senses": [
+        {
+          "id": "w1186000-s1",
+          "gloss": [
+            "risaia esausta"
+          ],
+          "short_gloss": "risaia esausta",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1186060,
+      "senses": [
+        {
+          "id": "w1186060-s1",
+          "gloss": [
+            "lavoro subordinato"
+          ],
+          "short_gloss": "lavoro subordinato",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1186060-s2",
+          "gloss": [
+            "faccende domestiche"
+          ],
+          "short_gloss": "faccende domestiche",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1186110,
+      "senses": [
+        {
+          "id": "w1186110-s1",
+          "gloss": [
+            "smontare"
+          ],
+          "short_gloss": "smontare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1186130,
+      "senses": [
+        {
+          "id": "w1186130-s1",
+          "gloss": [
+            "voce"
+          ],
+          "short_gloss": "voce",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1186320,
+      "senses": [
+        {
+          "id": "w1186320-s1",
+          "gloss": [
+            "addome"
+          ],
+          "short_gloss": "addome",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1186740,
+      "senses": [
+        {
+          "id": "w1186740-s1",
+          "gloss": [
+            "cambiare (in)"
+          ],
+          "short_gloss": "cambiare (in)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1186740-s2",
+          "gloss": [
+            "influenzare"
+          ],
+          "short_gloss": "influenzare",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1186890,
+      "senses": [
+        {
+          "id": "w1186890-s1",
+          "gloss": [
+            "fibra sintetica"
+          ],
+          "short_gloss": "fibra sintetica",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1186970,
+      "senses": [
+        {
+          "id": "w1186970-s1",
+          "gloss": [
+            "chemioterapia"
+          ],
+          "short_gloss": "chemioterapia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1187150,
+      "senses": [
+        {
+          "id": "w1187150-s1",
+          "gloss": [
+            "incarnazione"
+          ],
+          "short_gloss": "incarnazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1187450,
+      "senses": [
+        {
+          "id": "w1187450-s1",
+          "gloss": [
+            "sequestro provvisorio"
+          ],
+          "short_gloss": "sequestro provvisorio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1187470,
+      "senses": [
+        {
+          "id": "w1187470-s1",
+          "gloss": [
+            "stato di morte apparente"
+          ],
+          "short_gloss": "stato di morte apparente",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1187790,
+      "senses": [
+        {
+          "id": "w1187790-s1",
+          "gloss": [
+            "costume"
+          ],
+          "short_gloss": "costume",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1187790-s2",
+          "gloss": [
+            "convertito (incrociatore)"
+          ],
+          "short_gloss": "convertito (incrociatore)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1189300,
+      "senses": [
+        {
+          "id": "w1189300-s1",
+          "gloss": [
+            "che tipo di cosa"
+          ],
+          "short_gloss": "che tipo di cosa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1189300-s2",
+          "gloss": [
+            "qualsiasi altra cosa"
+          ],
+          "short_gloss": "qualsiasi altra cosa",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1189470,
+      "senses": [
+        {
+          "id": "w1189470-s1",
+          "gloss": [
+            "tempio (spec. grande)"
+          ],
+          "short_gloss": "tempio (spec. grande)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1189470-s2",
+          "gloss": [
+            "edificio del tempio"
+          ],
+          "short_gloss": "edificio del tempio",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1189590,
+      "senses": [
+        {
+          "id": "w1189590-s1",
+          "gloss": [
+            "valutazione"
+          ],
+          "short_gloss": "valutazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1189700,
+      "senses": [
+        {
+          "id": "w1189700-s1",
+          "gloss": [
+            "parte più interessante (di una storia)"
+          ],
+          "short_gloss": "parte più interessante (di una storia)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1189700-s2",
+          "gloss": [
+            "luogo panoramico"
+          ],
+          "short_gloss": "luogo panoramico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1190110,
+      "senses": [
+        {
+          "id": "w1190110-s1",
+          "gloss": [
+            "protezione divina"
+          ],
+          "short_gloss": "protezione divina",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1190350,
+      "senses": [
+        {
+          "id": "w1190350-s1",
+          "gloss": [
+            "assistenza"
+          ],
+          "short_gloss": "assistenza",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1190390,
+      "senses": [
+        {
+          "id": "w1190390-s1",
+          "gloss": [
+            "accelerazione"
+          ],
+          "short_gloss": "accelerazione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1190540,
+      "senses": [
+        {
+          "id": "w1190540-s1",
+          "gloss": [
+            "miglioramento (di un testo o dipinto)"
+          ],
+          "short_gloss": "miglioramento (di un testo o dipinto)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1190680,
+      "senses": [
+        {
+          "id": "w1190680-s1",
+          "gloss": [
+            "trattamento medico"
+          ],
+          "short_gloss": "trattamento medico",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1190690,
+      "senses": [
+        {
+          "id": "w1190690-s1",
+          "gloss": [
+            "invecchiamento"
+          ],
+          "short_gloss": "invecchiamento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1190780,
+      "senses": [
+        {
+          "id": "w1190780-s1",
+          "gloss": [
+            "reversibile"
+          ],
+          "short_gloss": "reversibile",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1190780-s2",
+          "gloss": [
+            "invertibile"
+          ],
+          "short_gloss": "invertibile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1190800,
+      "senses": [
+        {
+          "id": "w1190800-s1",
+          "gloss": [
+            "il più ... possibile"
+          ],
+          "short_gloss": "il più ... possibile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1190820,
+      "senses": [
+        {
+          "id": "w1190820-s1",
+          "gloss": [
+            "visibilità"
+          ],
+          "short_gloss": "visibilità",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1190970,
+      "senses": [
+        {
+          "id": "w1190970-s1",
+          "gloss": [
+            "mobile"
+          ],
+          "short_gloss": "mobile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1191030,
+      "senses": [
+        {
+          "id": "w1191030-s1",
+          "gloss": [
+            "infiammabile"
+          ],
+          "short_gloss": "infiammabile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1191040,
+      "senses": [
+        {
+          "id": "w1191040-s1",
+          "gloss": [
+            "combustibilità"
+          ],
+          "short_gloss": "combustibilità",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1191040-s2",
+          "gloss": [
+            "combustibile"
+          ],
+          "short_gloss": "combustibile",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1191160,
+      "senses": [
+        {
+          "id": "w1191160-s1",
+          "gloss": [
+            "variable"
+          ],
+          "short_gloss": "variable",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1191440,
+      "senses": [
+        {
+          "id": "w1191440-s1",
+          "gloss": [
+            "summery montagna"
+          ],
+          "short_gloss": "summery montagna",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1191440-s2",
+          "gloss": [
+            "montagna that is often climbed in estate"
+          ],
+          "short_gloss": "montagna that is often climbed in estate",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1191600,
+      "senses": [
+        {
+          "id": "w1191600-s1",
+          "gloss": [
+            "estate clothes"
+          ],
+          "short_gloss": "estate clothes",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1191610,
+      "senses": [
+        {
+          "id": "w1191610-s1",
+          "gloss": [
+            "estate clothing"
+          ],
+          "short_gloss": "estate clothing",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1191610-s2",
+          "gloss": [
+            "estate merci"
+          ],
+          "short_gloss": "estate merci",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1191720,
+      "senses": [
+        {
+          "id": "w1191720-s1",
+          "gloss": [
+            "marriage"
+          ],
+          "short_gloss": "marriage",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1191860,
+      "senses": [
+        {
+          "id": "w1191860-s1",
+          "gloss": [
+            "lineage"
+          ],
+          "short_gloss": "lineage",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1192000,
+      "senses": [
+        {
+          "id": "w1192000-s1",
+          "gloss": [
+            "collected waka poems (di un single poet)"
+          ],
+          "short_gloss": "collected waka poems (di un single poet)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1192080,
+      "senses": [
+        {
+          "id": "w1192080-s1",
+          "gloss": [
+            "vassal"
+          ],
+          "short_gloss": "vassal",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1192100,
+      "senses": [
+        {
+          "id": "w1192100-s1",
+          "gloss": [
+            "domestico economy"
+          ],
+          "short_gloss": "domestico economy",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1192250,
+      "senses": [
+        {
+          "id": "w1192250-s1",
+          "gloss": [
+            "whole famiglia"
+          ],
+          "short_gloss": "whole famiglia",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1192250-s2",
+          "gloss": [
+            "all over il house"
+          ],
+          "short_gloss": "all over il house",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1192250-s3",
+          "gloss": [
+            "retainer di un daimyo"
+          ],
+          "short_gloss": "retainer di un daimyo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1192260,
+      "senses": [
+        {
+          "id": "w1192260-s1",
+          "gloss": [
+            "head di un famiglia"
+          ],
+          "short_gloss": "head di un famiglia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1192330,
+      "senses": [
+        {
+          "id": "w1192330-s1",
+          "gloss": [
+            "famiglia corte"
+          ],
+          "short_gloss": "famiglia corte",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1192340,
+      "senses": [
+        {
+          "id": "w1192340-s1",
+          "gloss": [
+            "domestico violence (spec.. adolescent children towards parents)"
+          ],
+          "short_gloss": "domestico violence (spec.. adolescent children towards parents)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1192400,
+      "senses": [
+        {
+          "id": "w1192400-s1",
+          "gloss": [
+            "heir"
+          ],
+          "short_gloss": "heir",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1192400-s2",
+          "gloss": [
+            "famiglia estate"
+          ],
+          "short_gloss": "famiglia estate",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1192400-s3",
+          "gloss": [
+            "headship di un famiglia"
+          ],
+          "short_gloss": "headship di un famiglia",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1192500,
+      "senses": [
+        {
+          "id": "w1192500-s1",
+          "gloss": [
+            "famiglia nome"
+          ],
+          "short_gloss": "famiglia nome",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1192500-s2",
+          "gloss": [
+            "famiglia honour"
+          ],
+          "short_gloss": "famiglia honour",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1192520,
+      "senses": [
+        {
+          "id": "w1192520-s1",
+          "gloss": [
+            "famiglia crest"
+          ],
+          "short_gloss": "famiglia crest",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1192530,
+      "senses": [
+        {
+          "id": "w1192530-s1",
+          "gloss": [
+            "retainer"
+          ],
+          "short_gloss": "retainer",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1192560,
+      "senses": [
+        {
+          "id": "w1192560-s1",
+          "gloss": [
+            "il road home"
+          ],
+          "short_gloss": "il road home",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1192570,
+      "senses": [
+        {
+          "id": "w1192570-s1",
+          "gloss": [
+            "chief retainer"
+          ],
+          "short_gloss": "chief retainer",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1192590,
+      "senses": [
+        {
+          "id": "w1192590-s1",
+          "gloss": [
+            "unprolific (writer, artist, ecc..)"
+          ],
+          "short_gloss": "unprolific (writer, artist, ecc..)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1192660,
+      "senses": [
+        {
+          "id": "w1192660-s1",
+          "gloss": [
+            "untalkative"
+          ],
+          "short_gloss": "untalkative",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1192910,
+      "senses": [
+        {
+          "id": "w1192910-s1",
+          "gloss": [
+            "a end"
+          ],
+          "short_gloss": "a end",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1192910-s2",
+          "gloss": [
+            "a die"
+          ],
+          "short_gloss": "a die",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1192910-s3",
+          "gloss": [
+            "a do utterly"
+          ],
+          "short_gloss": "a do utterly",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1192980,
+      "senses": [
+        {
+          "id": "w1192980-s1",
+          "gloss": [
+            "orchard"
+          ],
+          "short_gloss": "orchard",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1193020,
+      "senses": [
+        {
+          "id": "w1193020-s1",
+          "gloss": [
+            "decisive"
+          ],
+          "short_gloss": "decisive",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1193040,
+      "senses": [
+        {
+          "id": "w1193040-s1",
+          "gloss": [
+            "flesh (di un fruit)"
+          ],
+          "short_gloss": "flesh (di un fruit)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1193150,
+      "senses": [
+        {
+          "id": "w1193150-s1",
+          "gloss": [
+            "construction"
+          ],
+          "short_gloss": "construction",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1193160,
+      "senses": [
+        {
+          "id": "w1193160-s1",
+          "gloss": [
+            "sopra la testa power linea"
+          ],
+          "short_gloss": "sopra la testa power linea",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1193160-s2",
+          "gloss": [
+            "sopra la testa linea (per trains, trams, ecc..)"
+          ],
+          "short_gloss": "sopra la testa linea (per trains, trams, ecc..)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1193200,
+      "senses": [
+        {
+          "id": "w1193200-s1",
+          "gloss": [
+            "a sing at il top di proprio voice"
+          ],
+          "short_gloss": "a sing at il top di proprio voice",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1193200-s2",
+          "gloss": [
+            "a express proprio feelings fully in un poem"
+          ],
+          "short_gloss": "a express proprio feelings fully in un poem",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1193220,
+      "senses": [
+        {
+          "id": "w1193220-s1",
+          "gloss": [
+            "poesia party"
+          ],
+          "short_gloss": "poesia party",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1193330,
+      "senses": [
+        {
+          "id": "w1193330-s1",
+          "gloss": [
+            "(waka) poetic sentiment"
+          ],
+          "short_gloss": "(waka) poetic sentiment",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1193380,
+      "senses": [
+        {
+          "id": "w1193380-s1",
+          "gloss": [
+            "poesia circles"
+          ],
+          "short_gloss": "poesia circles",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1193410,
+      "senses": [
+        {
+          "id": "w1193410-s1",
+          "gloss": [
+            "songstress"
+          ],
+          "short_gloss": "songstress",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1193540,
+      "senses": [
+        {
+          "id": "w1193540-s1",
+          "gloss": [
+            "kappa"
+          ],
+          "short_gloss": "kappa",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1193540-s2",
+          "gloss": [
+            "excellent swimmer"
+          ],
+          "short_gloss": "excellent swimmer",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1193540-s3",
+          "gloss": [
+            "cetriolo"
+          ],
+          "short_gloss": "cetriolo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1193540-s4",
+          "gloss": [
+            "cetriolo sushi wrapped in nori"
+          ],
+          "short_gloss": "cetriolo sushi wrapped in nori",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1193600,
+      "senses": [
+        {
+          "id": "w1193600-s1",
+          "gloss": [
+            "riverside"
+          ],
+          "short_gloss": "riverside",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1193620,
+      "senses": [
+        {
+          "id": "w1193620-s1",
+          "gloss": [
+            "source di fuoco"
+          ],
+          "short_gloss": "source di fuoco",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1193620-s2",
+          "gloss": [
+            "warmth di fuoco"
+          ],
+          "short_gloss": "warmth di fuoco",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1193630,
+      "senses": [
+        {
+          "id": "w1193630-s1",
+          "gloss": [
+            "fireball"
+          ],
+          "short_gloss": "fireball",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1193630-s2",
+          "gloss": [
+            "will-o'-the-wisp"
+          ],
+          "short_gloss": "will-o'-the-wisp",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1193670,
+      "senses": [
+        {
+          "id": "w1193670-s1",
+          "gloss": [
+            "fiery chariot (that carries il souls di sinners into hell)"
+          ],
+          "short_gloss": "fiery chariot (that carries il souls di sinners into hell)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1193670-s2",
+          "gloss": [
+            "desperate financial situation"
+          ],
+          "short_gloss": "desperate financial situation",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1193680,
+      "senses": [
+        {
+          "id": "w1193680-s1",
+          "gloss": [
+            "flame"
+          ],
+          "short_gloss": "flame",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1193680-s2",
+          "gloss": [
+            "attack"
+          ],
+          "short_gloss": "attack",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1193700,
+      "senses": [
+        {
+          "id": "w1193700-s1",
+          "gloss": [
+            "sparks"
+          ],
+          "short_gloss": "sparks",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1193790,
+      "senses": [
+        {
+          "id": "w1193790-s1",
+          "gloss": [
+            "fuoco"
+          ],
+          "short_gloss": "fuoco",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1193790-s2",
+          "gloss": [
+            "forza di un fuoco"
+          ],
+          "short_gloss": "forza di un fuoco",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1193790-s3",
+          "gloss": [
+            "cause di un fuoco (lighter, match, spark, ecc..)"
+          ],
+          "short_gloss": "cause di un fuoco (lighter, match, spark, ecc..)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1193840,
+      "senses": [
+        {
+          "id": "w1193840-s1",
+          "gloss": [
+            "origin di un fuoco"
+          ],
+          "short_gloss": "origin di un fuoco",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1194040,
+      "senses": [
+        {
+          "id": "w1194040-s1",
+          "gloss": [
+            "forza di un fuoco"
+          ],
+          "short_gloss": "forza di un fuoco",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1194140,
+      "senses": [
+        {
+          "id": "w1194140-s1",
+          "gloss": [
+            "in il fuoco"
+          ],
+          "short_gloss": "in il fuoco",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1194140-s2",
+          "gloss": [
+            "burning (qualcosa)"
+          ],
+          "short_gloss": "burning (qualcosa)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1194150,
+      "senses": [
+        {
+          "id": "w1194150-s1",
+          "gloss": [
+            "pillar di fuoco"
+          ],
+          "short_gloss": "pillar di fuoco",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1194160,
+      "senses": [
+        {
+          "id": "w1194160-s1",
+          "gloss": [
+            "matchlock"
+          ],
+          "short_gloss": "matchlock",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1194210,
+      "senses": [
+        {
+          "id": "w1194210-s1",
+          "gloss": [
+            "brazier"
+          ],
+          "short_gloss": "brazier",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1194240,
+      "senses": [
+        {
+          "id": "w1194240-s1",
+          "gloss": [
+            "(large) gun"
+          ],
+          "short_gloss": "(large) gun",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1194270,
+      "senses": [
+        {
+          "id": "w1194270-s1",
+          "gloss": [
+            "giocare con fuoco"
+          ],
+          "short_gloss": "giocare con fuoco",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1194270-s2",
+          "gloss": [
+            "doing qualcosa dangerous"
+          ],
+          "short_gloss": "doing qualcosa dangerous",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1194270-s3",
+          "gloss": [
+            "giocare around (con someone)"
+          ],
+          "short_gloss": "giocare around (con someone)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1194410,
+      "senses": [
+        {
+          "id": "w1194410-s1",
+          "gloss": [
+            "root di un evil"
+          ],
+          "short_gloss": "root di un evil",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1194470,
+      "senses": [
+        {
+          "id": "w1194470-s1",
+          "gloss": [
+            "trade"
+          ],
+          "short_gloss": "trade",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1194540,
+      "senses": [
+        {
+          "id": "w1194540-s1",
+          "gloss": [
+            "written seal"
+          ],
+          "short_gloss": "written seal",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1194620,
+      "senses": [
+        {
+          "id": "w1194620-s1",
+          "gloss": [
+            "flower vase"
+          ],
+          "short_gloss": "flower vase",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1194800,
+      "senses": [
+        {
+          "id": "w1194800-s1",
+          "gloss": [
+            "fiori e birds"
+          ],
+          "short_gloss": "fiori e birds",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1194810,
+      "senses": [
+        {
+          "id": "w1194810-s1",
+          "gloss": [
+            "beauties di natura"
+          ],
+          "short_gloss": "beauties di natura",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1194810-s2",
+          "gloss": [
+            "artistic pursuits involving natura themes"
+          ],
+          "short_gloss": "artistic pursuits involving natura themes",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1194850,
+      "senses": [
+        {
+          "id": "w1194850-s1",
+          "gloss": [
+            "field di fiori"
+          ],
+          "short_gloss": "field di fiori",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1195040,
+      "senses": [
+        {
+          "id": "w1195040-s1",
+          "gloss": [
+            "red-light district"
+          ],
+          "short_gloss": "red-light district",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1195090,
+      "senses": [
+        {
+          "id": "w1195090-s1",
+          "gloss": [
+            "chilly spring weather"
+          ],
+          "short_gloss": "chilly spring weather",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1195300,
+      "senses": [
+        {
+          "id": "w1195300-s1",
+          "gloss": [
+            "shipper"
+          ],
+          "short_gloss": "shipper",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1195390,
+      "senses": [
+        {
+          "id": "w1195390-s1",
+          "gloss": [
+            "movement di merci"
+          ],
+          "short_gloss": "movement di merci",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1195470,
+      "senses": [
+        {
+          "id": "w1195470-s1",
+          "gloss": [
+            "unloading"
+          ],
+          "short_gloss": "unloading",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1195580,
+      "senses": [
+        {
+          "id": "w1195580-s1",
+          "gloss": [
+            "peerage (in Japan; 1869-1947)"
+          ],
+          "short_gloss": "peerage (in Japan; 1869-1947)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1195610,
+      "senses": [
+        {
+          "id": "w1195610-s1",
+          "gloss": [
+            "splendor"
+          ],
+          "short_gloss": "splendor",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1195610-s2",
+          "gloss": [
+            "showiness"
+          ],
+          "short_gloss": "showiness",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1195680,
+      "senses": [
+        {
+          "id": "w1195680-s1",
+          "gloss": [
+            "confectionery shop"
+          ],
+          "short_gloss": "confectionery shop",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1195690,
+      "senses": [
+        {
+          "id": "w1195690-s1",
+          "gloss": [
+            "Emishi"
+          ],
+          "short_gloss": "Emishi",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1195690-s2",
+          "gloss": [
+            "Yezo"
+          ],
+          "short_gloss": "Yezo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1195720,
+      "senses": [
+        {
+          "id": "w1195720-s1",
+          "gloss": [
+            "a impose (un tax, fine, ecc..)"
+          ],
+          "short_gloss": "a impose (un tax, fine, ecc..)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1195750,
+      "senses": [
+        {
+          "id": "w1195750-s1",
+          "gloss": [
+            "extracurricular"
+          ],
+          "short_gloss": "extracurricular",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1195940,
+      "senses": [
+        {
+          "id": "w1195940-s1",
+          "gloss": [
+            "currency value"
+          ],
+          "short_gloss": "currency value",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1195990,
+      "senses": [
+        {
+          "id": "w1195990-s1",
+          "gloss": [
+            "a pass"
+          ],
+          "short_gloss": "a pass",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1196090,
+      "senses": [
+        {
+          "id": "w1196090-s1",
+          "gloss": [
+            "mistake"
+          ],
+          "short_gloss": "mistake",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1196130,
+      "senses": [
+        {
+          "id": "w1196130-s1",
+          "gloss": [
+            "overweight"
+          ],
+          "short_gloss": "overweight",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1196160,
+      "senses": [
+        {
+          "id": "w1196160-s1",
+          "gloss": [
+            "troppo few"
+          ],
+          "short_gloss": "troppo few",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1196190,
+      "senses": [
+        {
+          "id": "w1196190-s1",
+          "gloss": [
+            "overeating"
+          ],
+          "short_gloss": "overeating",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1196210,
+      "senses": [
+        {
+          "id": "w1196210-s1",
+          "gloss": [
+            "trusting troppo much"
+          ],
+          "short_gloss": "trusting troppo much",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1196340,
+      "senses": [
+        {
+          "id": "w1196340-s1",
+          "gloss": [
+            "il other giorno"
+          ],
+          "short_gloss": "il other giorno",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1196340-s2",
+          "gloss": [
+            "un giorno in il past"
+          ],
+          "short_gloss": "un giorno in il past",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1196370,
+      "senses": [
+        {
+          "id": "w1196370-s1",
+          "gloss": [
+            "il greater parte"
+          ],
+          "short_gloss": "il greater parte",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1196420,
+      "senses": [
+        {
+          "id": "w1196420-s1",
+          "gloss": [
+            "excess o deficiency"
+          ],
+          "short_gloss": "excess o deficiency",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1196440,
+      "senses": [
+        {
+          "id": "w1196440-s1",
+          "gloss": [
+            "overprotective"
+          ],
+          "short_gloss": "overprotective",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1196690,
+      "senses": [
+        {
+          "id": "w1196690-s1",
+          "gloss": [
+            "me stesso"
+          ],
+          "short_gloss": "me stesso",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1196690-s2",
+          "gloss": [
+            "io"
+          ],
+          "short_gloss": "io",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1196690-s3",
+          "gloss": [
+            "you (referring un proprio inferior)"
+          ],
+          "short_gloss": "you (referring un proprio inferior)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1196710,
+      "senses": [
+        {
+          "id": "w1196710-s1",
+          "gloss": [
+            "even if io say so me stesso"
+          ],
+          "short_gloss": "even if io say so me stesso",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1197010,
+      "senses": [
+        {
+          "id": "w1197010-s1",
+          "gloss": [
+            "self-taught method"
+          ],
+          "short_gloss": "self-taught method",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1197030,
+      "senses": [
+        {
+          "id": "w1197030-s1",
+          "gloss": [
+            "tusk"
+          ],
+          "short_gloss": "tusk",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1197040,
+      "senses": [
+        {
+          "id": "w1197040-s1",
+          "gloss": [
+            "stronghold (spec.. di un enemy o opponent)"
+          ],
+          "short_gloss": "stronghold (spec.. di un enemy o opponent)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1197200,
+      "senses": [
+        {
+          "id": "w1197200-s1",
+          "gloss": [
+            "soggetto matter di un pittura"
+          ],
+          "short_gloss": "soggetto matter di un pittura",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1197200-s2",
+          "gloss": [
+            "arte supplies"
+          ],
+          "short_gloss": "arte supplies",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1197210,
+      "senses": [
+        {
+          "id": "w1197210-s1",
+          "gloss": [
+            "scheming"
+          ],
+          "short_gloss": "scheming",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1197420,
+      "senses": [
+        {
+          "id": "w1197420-s1",
+          "gloss": [
+            "soggetto (di un pittura)"
+          ],
+          "short_gloss": "soggetto (di un pittura)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1197420-s2",
+          "gloss": [
+            "titolo di un pittura"
+          ],
+          "short_gloss": "titolo di un pittura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1197430,
+      "senses": [
+        {
+          "id": "w1197430-s1",
+          "gloss": [
+            "artists' world"
+          ],
+          "short_gloss": "artists' world",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1197500,
+      "senses": [
+        {
+          "id": "w1197500-s1",
+          "gloss": [
+            "master pittore"
+          ],
+          "short_gloss": "master pittore",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1197500-s2",
+          "gloss": [
+            "pittore"
+          ],
+          "short_gloss": "pittore",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1197540,
+      "senses": [
+        {
+          "id": "w1197540-s1",
+          "gloss": [
+            "(oil pittura) canvas"
+          ],
+          "short_gloss": "(oil pittura) canvas",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1197560,
+      "senses": [
+        {
+          "id": "w1197560-s1",
+          "gloss": [
+            "style di pittura"
+          ],
+          "short_gloss": "style di pittura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1197590,
+      "senses": [
+        {
+          "id": "w1197590-s1",
+          "gloss": [
+            "arte di drawing e pittura"
+          ],
+          "short_gloss": "arte di drawing e pittura",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1197730,
+      "senses": [
+        {
+          "id": "w1197730-s1",
+          "gloss": [
+            "bocciolo"
+          ],
+          "short_gloss": "bocciolo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1197740,
+      "senses": [
+        {
+          "id": "w1197740-s1",
+          "gloss": [
+            "a bocciolo"
+          ],
+          "short_gloss": "a bocciolo",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1197740-s2",
+          "gloss": [
+            "a arise"
+          ],
+          "short_gloss": "a arise",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1197760,
+      "senses": [
+        {
+          "id": "w1197760-s1",
+          "gloss": [
+            "moth"
+          ],
+          "short_gloss": "moth",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1197810,
+      "senses": [
+        {
+          "id": "w1197810-s1",
+          "gloss": [
+            "nuovo Year's card"
+          ],
+          "short_gloss": "nuovo Year's card",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1197820,
+      "senses": [
+        {
+          "id": "w1197820-s1",
+          "gloss": [
+            "un Happy nuovo Year!"
+          ],
+          "short_gloss": "un Happy nuovo Year!",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1197870,
+      "senses": [
+        {
+          "id": "w1197870-s1",
+          "gloss": [
+            "gagaku"
+          ],
+          "short_gloss": "gagaku",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1197910,
+      "senses": [
+        {
+          "id": "w1197910-s1",
+          "gloss": [
+            "alias"
+          ],
+          "short_gloss": "alias",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1198030,
+      "senses": [
+        {
+          "id": "w1198030-s1",
+          "gloss": [
+            "through (il medium di)"
+          ],
+          "short_gloss": "through (il medium di)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1198100,
+      "senses": [
+        {
+          "id": "w1198100-s1",
+          "gloss": [
+            "helper (e.g. per un sick persona)"
+          ],
+          "short_gloss": "helper (e.g. per un sick persona)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1198100-s2",
+          "gloss": [
+            "bridesmaid"
+          ],
+          "short_gloss": "bridesmaid",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1198100-s3",
+          "gloss": [
+            "cornerman"
+          ],
+          "short_gloss": "cornerman",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1198690,
+      "senses": [
+        {
+          "id": "w1198690-s1",
+          "gloss": [
+            "meeting place"
+          ],
+          "short_gloss": "meeting place",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1198690-s2",
+          "gloss": [
+            "restaurant dinner tray"
+          ],
+          "short_gloss": "restaurant dinner tray",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1198730,
+      "senses": [
+        {
+          "id": "w1198730-s1",
+          "gloss": [
+            "attendance at un funeral"
+          ],
+          "short_gloss": "attendance at un funeral",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1198750,
+      "senses": [
+        {
+          "id": "w1198750-s1",
+          "gloss": [
+            "society regulations"
+          ],
+          "short_gloss": "society regulations",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1198830,
+      "senses": [
+        {
+          "id": "w1198830-s1",
+          "gloss": [
+            "comprensione"
+          ],
+          "short_gloss": "comprensione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1199050,
+      "senses": [
+        {
+          "id": "w1199050-s1",
+          "gloss": [
+            "discharge"
+          ],
+          "short_gloss": "discharge",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1199100,
+      "senses": [
+        {
+          "id": "w1199100-s1",
+          "gloss": [
+            "resolution (di un display, printer, scanner, ecc..)"
+          ],
+          "short_gloss": "resolution (di un display, printer, scanner, ecc..)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1199100-s2",
+          "gloss": [
+            "degree di comprensione"
+          ],
+          "short_gloss": "degree di comprensione",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1199130,
+      "senses": [
+        {
+          "id": "w1199130-s1",
+          "gloss": [
+            "synopsis"
+          ],
+          "short_gloss": "synopsis",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1199140,
+      "senses": [
+        {
+          "id": "w1199140-s1",
+          "gloss": [
+            "liberation from earthly desires e il woes di man"
+          ],
+          "short_gloss": "liberation from earthly desires e il woes di man",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1199150,
+      "senses": [
+        {
+          "id": "w1199150-s1",
+          "gloss": [
+            "thawing"
+          ],
+          "short_gloss": "thawing",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1199150-s2",
+          "gloss": [
+            "decompression (di data)"
+          ],
+          "short_gloss": "decompression (di data)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1199230,
+      "senses": [
+        {
+          "id": "w1199230-s1",
+          "gloss": [
+            "fever medicine"
+          ],
+          "short_gloss": "fever medicine",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1199280,
+      "senses": [
+        {
+          "id": "w1199280-s1",
+          "gloss": [
+            "anatomy"
+          ],
+          "short_gloss": "anatomy",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1199410,
+      "senses": [
+        {
+          "id": "w1199410-s1",
+          "gloss": [
+            "tropics (di Cancer e Capricorn)"
+          ],
+          "short_gloss": "tropics (di Cancer e Capricorn)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1199410-s2",
+          "gloss": [
+            "regression linea"
+          ],
+          "short_gloss": "regression linea",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1199450,
+      "senses": [
+        {
+          "id": "w1199450-s1",
+          "gloss": [
+            "memoirs"
+          ],
+          "short_gloss": "memoirs",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1199610,
+      "senses": [
+        {
+          "id": "w1199610-s1",
+          "gloss": [
+            "forwarding"
+          ],
+          "short_gloss": "forwarding",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1199610-s2",
+          "gloss": [
+            "deadheading (e.g. train)"
+          ],
+          "short_gloss": "deadheading (e.g. train)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1199710,
+      "senses": [
+        {
+          "id": "w1199710-s1",
+          "gloss": [
+            "transmitting"
+          ],
+          "short_gloss": "transmitting",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1199790,
+      "senses": [
+        {
+          "id": "w1199790-s1",
+          "gloss": [
+            "excursion"
+          ],
+          "short_gloss": "excursion",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1199790-s2",
+          "gloss": [
+            "seasonal migration (di fish, ecc..)"
+          ],
+          "short_gloss": "seasonal migration (di fish, ecc..)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1199800,
+      "senses": [
+        {
+          "id": "w1199800-s1",
+          "gloss": [
+            "circulation (spec.. di documents)"
+          ],
+          "short_gloss": "circulation (spec.. di documents)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200000,
+      "senses": [
+        {
+          "id": "w1200000-s1",
+          "gloss": [
+            "cheerful"
+          ],
+          "short_gloss": "cheerful",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200040,
+      "senses": [
+        {
+          "id": "w1200040-s1",
+          "gloss": [
+            "splendid lavoro"
+          ],
+          "short_gloss": "splendid lavoro",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200070,
+      "senses": [
+        {
+          "id": "w1200070-s1",
+          "gloss": [
+            "fast moving"
+          ],
+          "short_gloss": "fast moving",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200100,
+      "senses": [
+        {
+          "id": "w1200100-s1",
+          "gloss": [
+            "ready consent"
+          ],
+          "short_gloss": "ready consent",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200160,
+      "senses": [
+        {
+          "id": "w1200160-s1",
+          "gloss": [
+            "convalescence"
+          ],
+          "short_gloss": "convalescence",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200170,
+      "senses": [
+        {
+          "id": "w1200170-s1",
+          "gloss": [
+            "pleasant sleep"
+          ],
+          "short_gloss": "pleasant sleep",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200190,
+      "senses": [
+        {
+          "id": "w1200190-s1",
+          "gloss": [
+            "questionable"
+          ],
+          "short_gloss": "questionable",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200290,
+      "senses": [
+        {
+          "id": "w1200290-s1",
+          "gloss": [
+            "misterioso persona"
+          ],
+          "short_gloss": "misterioso persona",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200320,
+      "senses": [
+        {
+          "id": "w1200320-s1",
+          "gloss": [
+            "misterioso thief"
+          ],
+          "short_gloss": "misterioso thief",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200340,
+      "senses": [
+        {
+          "id": "w1200340-s1",
+          "gloss": [
+            "dubious document"
+          ],
+          "short_gloss": "dubious document",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200400,
+      "senses": [
+        {
+          "id": "w1200400-s1",
+          "gloss": [
+            "a regret"
+          ],
+          "short_gloss": "a regret",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200450,
+      "senses": [
+        {
+          "id": "w1200450-s1",
+          "gloss": [
+            "a mourn"
+          ],
+          "short_gloss": "a mourn",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1200450-s2",
+          "gloss": [
+            "a be sorry"
+          ],
+          "short_gloss": "a be sorry",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200550,
+      "senses": [
+        {
+          "id": "w1200550-s1",
+          "gloss": [
+            "reminiscence"
+          ],
+          "short_gloss": "reminiscence",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200560,
+      "senses": [
+        {
+          "id": "w1200560-s1",
+          "gloss": [
+            "winning over"
+          ],
+          "short_gloss": "winning over",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200570,
+      "senses": [
+        {
+          "id": "w1200570-s1",
+          "gloss": [
+            "traditional Japanese meal brought in courses"
+          ],
+          "short_gloss": "traditional Japanese meal brought in courses",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1200570-s2",
+          "gloss": [
+            "tea-ceremony dishes"
+          ],
+          "short_gloss": "tea-ceremony dishes",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200600,
+      "senses": [
+        {
+          "id": "w1200600-s1",
+          "gloss": [
+            "(electric) torch"
+          ],
+          "short_gloss": "(electric) torch",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200620,
+      "senses": [
+        {
+          "id": "w1200620-s1",
+          "gloss": [
+            "dagger"
+          ],
+          "short_gloss": "dagger",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1200620-s2",
+          "gloss": [
+            "confidant"
+          ],
+          "short_gloss": "confidant",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200630,
+      "senses": [
+        {
+          "id": "w1200630-s1",
+          "gloss": [
+            "pregnancy"
+          ],
+          "short_gloss": "pregnancy",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200690,
+      "senses": [
+        {
+          "id": "w1200690-s1",
+          "gloss": [
+            "posthumous Buddhist nome"
+          ],
+          "short_gloss": "posthumous Buddhist nome",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200700,
+      "senses": [
+        {
+          "id": "w1200700-s1",
+          "gloss": [
+            "(religioso) precept"
+          ],
+          "short_gloss": "(religioso) precept",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200760,
+      "senses": [
+        {
+          "id": "w1200760-s1",
+          "gloss": [
+            "changing (qualcosa) per il worse"
+          ],
+          "short_gloss": "changing (qualcosa) per il worse",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200830,
+      "senses": [
+        {
+          "id": "w1200830-s1",
+          "gloss": [
+            "adaptation (di storia)"
+          ],
+          "short_gloss": "adaptation (di storia)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200870,
+      "senses": [
+        {
+          "id": "w1200870-s1",
+          "gloss": [
+            "religioso conversion"
+          ],
+          "short_gloss": "religioso conversion",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200890,
+      "senses": [
+        {
+          "id": "w1200890-s1",
+          "gloss": [
+            "renaming"
+          ],
+          "short_gloss": "renaming",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1200900,
+      "senses": [
+        {
+          "id": "w1200900-s1",
+          "gloss": [
+            "reforming (oneself)"
+          ],
+          "short_gloss": "reforming (oneself)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1201010,
+      "senses": [
+        {
+          "id": "w1201010-s1",
+          "gloss": [
+            "cambiamento di titolo"
+          ],
+          "short_gloss": "cambiamento di titolo",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1201070,
+      "senses": [
+        {
+          "id": "w1201070-s1",
+          "gloss": [
+            "revised edition"
+          ],
+          "short_gloss": "revised edition",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1201080,
+      "senses": [
+        {
+          "id": "w1201080-s1",
+          "gloss": [
+            "reform e (o) abolition"
+          ],
+          "short_gloss": "reform e (o) abolition",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1201100,
+      "senses": [
+        {
+          "id": "w1201100-s1",
+          "gloss": [
+            "cambiamento"
+          ],
+          "short_gloss": "cambiamento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1201120,
+      "senses": [
+        {
+          "id": "w1201120-s1",
+          "gloss": [
+            "nome cambiamento"
+          ],
+          "short_gloss": "nome cambiamento",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1201310,
+      "senses": [
+        {
+          "id": "w1201310-s1",
+          "gloss": [
+            "mare turtle"
+          ],
+          "short_gloss": "mare turtle",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1201340,
+      "senses": [
+        {
+          "id": "w1201340-s1",
+          "gloss": [
+            "ocean"
+          ],
+          "short_gloss": "ocean",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1201350,
+      "senses": [
+        {
+          "id": "w1201350-s1",
+          "gloss": [
+            "port"
+          ],
+          "short_gloss": "port",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1201360,
+      "senses": [
+        {
+          "id": "w1201360-s1",
+          "gloss": [
+            "oceanic trench"
+          ],
+          "short_gloss": "oceanic trench",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1201410,
+      "senses": [
+        {
+          "id": "w1201410-s1",
+          "gloss": [
+            "maritime affairs"
+          ],
+          "short_gloss": "maritime affairs",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1201420,
+      "senses": [
+        {
+          "id": "w1201420-s1",
+          "gloss": [
+            "ama"
+          ],
+          "short_gloss": "ama",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1201580,
+      "senses": [
+        {
+          "id": "w1201580-s1",
+          "gloss": [
+            "marine plant"
+          ],
+          "short_gloss": "marine plant",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1201580-s2",
+          "gloss": [
+            "seaweed"
+          ],
+          "short_gloss": "seaweed",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1201730,
+      "senses": [
+        {
+          "id": "w1201730-s1",
+          "gloss": [
+            "sailor"
+          ],
+          "short_gloss": "sailor",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1201830,
+      "senses": [
+        {
+          "id": "w1201830-s1",
+          "gloss": [
+            "mare route"
+          ],
+          "short_gloss": "mare route",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1202230,
+      "senses": [
+        {
+          "id": "w1202230-s1",
+          "gloss": [
+            "massacre"
+          ],
+          "short_gloss": "massacre",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1202250,
+      "senses": [
+        {
+          "id": "w1202250-s1",
+          "gloss": [
+            "entirely"
+          ],
+          "short_gloss": "entirely",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1202320,
+      "senses": [
+        {
+          "id": "w1202320-s1",
+          "gloss": [
+            "immagine scroll"
+          ],
+          "short_gloss": "immagine scroll",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1202330,
+      "senses": [
+        {
+          "id": "w1202330-s1",
+          "gloss": [
+            "illustration"
+          ],
+          "short_gloss": "illustration",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1202370,
+      "senses": [
+        {
+          "id": "w1202370-s1",
+          "gloss": [
+            "pattern"
+          ],
+          "short_gloss": "pattern",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1202510,
+      "senses": [
+        {
+          "id": "w1202510-s1",
+          "gloss": [
+            "better fortune"
+          ],
+          "short_gloss": "better fortune",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1202520,
+      "senses": [
+        {
+          "id": "w1202520-s1",
+          "gloss": [
+            "apertura di un parco (theme parco, botanical garden ecc..)"
+          ],
+          "short_gloss": "apertura di un parco (theme parco, botanical garden ecc..)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1202590,
+      "senses": [
+        {
+          "id": "w1202590-s1",
+          "gloss": [
+            "enlightenment"
+          ],
+          "short_gloss": "enlightenment",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1202590-s2",
+          "gloss": [
+            "reaching proprio peak (come un performer, ecc..)"
+          ],
+          "short_gloss": "reaching proprio peak (come un performer, ecc..)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1202590-s3",
+          "gloss": [
+            "gaining eyesight"
+          ],
+          "short_gloss": "gaining eyesight",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1202590-s4",
+          "gloss": [
+            "filling out il eyes (di un Buddha) come il last step di consecrating un nuovo statue o immagine"
+          ],
+          "short_gloss": "filling out il eyes (di un Buddha) come il last step di consecrating un nuovo statue o immagine",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1202690,
+      "senses": [
+        {
+          "id": "w1202690-s1",
+          "gloss": [
+            "cultivating nuovo terra"
+          ],
+          "short_gloss": "cultivating nuovo terra",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1202750,
+      "senses": [
+        {
+          "id": "w1202750-s1",
+          "gloss": [
+            "founding un tempio (on un hill-top)"
+          ],
+          "short_gloss": "founding un tempio (on un hill-top)",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1202780,
+      "senses": [
+        {
+          "id": "w1202780-s1",
+          "gloss": [
+            "surrender di un castle"
+          ],
+          "short_gloss": "surrender di un castle",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1202820,
+      "senses": [
+        {
+          "id": "w1202820-s1",
+          "gloss": [
+            "(sect) founder"
+          ],
+          "short_gloss": "(sect) founder",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1202840,
+      "senses": [
+        {
+          "id": "w1202840-s1",
+          "gloss": [
+            "pioneer"
+          ],
+          "short_gloss": "pioneer",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1202860,
+      "senses": [
+        {
+          "id": "w1202860-s1",
+          "gloss": [
+            "corte session"
+          ],
+          "short_gloss": "corte session",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1202920,
+      "senses": [
+        {
+          "id": "w1202920-s1",
+          "gloss": [
+            "apertura (di una lettera, pacco, ecc.)"
+          ],
+          "short_gloss": "apertura (di una lettera, pacco, ecc.)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1202920-s2",
+          "gloss": [
+            "apertura (di un prodotto)"
+          ],
+          "short_gloss": "apertura (di un prodotto)",
+          "source": "manual_translation"
+        },
+        {
+          "id": "w1202920-s3",
+          "gloss": [
+            "posta non sigillata"
+          ],
+          "short_gloss": "posta non sigillata",
+          "source": "manual_translation"
+        }
+      ]
+    },
+    {
+      "id": 1202970,
+      "senses": [
+        {
+          "id": "w1202970-s1",
+          "gloss": [
+            "civiltà"
+          ],
+          "short_gloss": "civiltà",
+          "source": "manual_translation"
+        }
+      ]
+    }
+  ]
+}
